@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft скоро прекратит поддержку некоторых версий Windows 10 и 11](https://habr.com/ru/news/1059690/?utm_campaign=1059690&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры планирует законодательно запретить продажу СИМ-карт с деньгами на счёте](https://habr.com/ru/news/1059702/?utm_campaign=1059702&utm_source=habrahabr&utm_medium=rss)
-- [Пользователям посоветовали применять генераторы паролей вместо чат-ботов](https://habr.com/ru/news/1059676/?utm_campaign=1059676&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст сделал систему игровых картриджей для Steam на базе подержанных накопителей](https://habr.com/ru/news/1059668/?utm_campaign=1059668&utm_source=habrahabr&utm_medium=rss)
-- [«Солар»: сотрудники крупнейших компаний используют корпоративные учетки на внешних ресурсах](https://habr.com/ru/companies/solarsecurity/news/1059656/?utm_campaign=1059656&utm_source=habrahabr&utm_medium=rss)
+- [К2 НейроТех запустил калькулятор ИИ-зрелости для оценки инфраструктурной готовности бизнеса](https://habr.com/ru/companies/k2tech/news/1059824/?utm_campaign=1059824&utm_source=habrahabr&utm_medium=rss)
+- [Приложения VK &lpar;включая «ВКонтакте» и «Одноклассники», Mail.ru&rpar; и мессенджера MAX пропали из российского Google Play](https://habr.com/ru/news/1059804/?utm_campaign=1059804&utm_source=habrahabr&utm_medium=rss)
+- [Цена безлимитного авиационного тарифа Starlink вырастет до $20 тысяч в месяц, а цена оборудования — до $200 тысяч](https://habr.com/ru/news/1059802/?utm_campaign=1059802&utm_source=habrahabr&utm_medium=rss)
+- [В Москве разрабатывают роботов-доставщиков с возможностью самостоятельно пользоваться лифтами](https://habr.com/ru/news/1059780/?utm_campaign=1059780&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft выпустила стабильный API Agent Skills для Python](https://habr.com/ru/companies/otus/news/1059758/?utm_campaign=1059758&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
