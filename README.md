@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышло обновление утилиты HWMonitor 1.65](https://habr.com/ru/news/1059604/?utm_campaign=1059604&utm_source=habrahabr&utm_medium=rss)
+- [Релиз инструмента для работы с MKV-файлами MKVToolNix 100.0](https://habr.com/ru/news/1059440/?utm_campaign=1059440&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление FreeRDP 3.29 с 22 патчами безопасности](https://habr.com/ru/news/1059460/?utm_campaign=1059460&utm_source=habrahabr&utm_medium=rss)
 - [Samsung представила технологию Flex Titanium для складных дисплеев Galaxy](https://habr.com/ru/news/1059582/?utm_campaign=1059582&utm_source=habrahabr&utm_medium=rss)
 - [OpenTDU фанатский open-source ремейк в разработке](https://habr.com/ru/news/1059566/?utm_campaign=1059566&utm_source=habrahabr&utm_medium=rss)
-- [Комментарий от представителя Госдумы по ситуации с Apple: пока нет острой необходимости перехода на смартфоны на Android](https://habr.com/ru/news/1059558/?utm_campaign=1059558&utm_source=habrahabr&utm_medium=rss)
-- [Telegram запустил Serverless хостинг для ботов](https://habr.com/ru/news/1059556/?utm_campaign=1059556&utm_source=habrahabr&utm_medium=rss)
-- [X11 не сдается, выходят новые X‑серверы на Assembler, Rust и Zig](https://habr.com/ru/companies/selectel/news/1059476/?utm_campaign=1059476&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
