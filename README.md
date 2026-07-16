@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft исправила ошибку в видеоигре Age of Empires II](https://habr.com/ru/news/1059866/?utm_campaign=1059866&utm_source=habrahabr&utm_medium=rss)
-- [Книжные издательства подали в суд на Google за нарушение авторских прав при обучении ИИ Gemini](https://habr.com/ru/news/1059856/?utm_campaign=1059856&utm_source=habrahabr&utm_medium=rss)
-- [От копипасты к стандартам и Python vs Go в ИИ](https://habr.com/ru/companies/X5Tech/news/1059852/?utm_campaign=1059852&utm_source=habrahabr&utm_medium=rss)
-- [Сбой в работе Reg.ru](https://habr.com/ru/news/1059854/?utm_campaign=1059854&utm_source=habrahabr&utm_medium=rss)
-- [Пользователям ВК начали приходить уведомления, что соцсеть переходит на домен RU](https://habr.com/ru/news/1059828/?utm_campaign=1059828&utm_source=habrahabr&utm_medium=rss)
+- [Исходный код Suno раскрыл использование 2 млн треков с YouTube Music и сотен тысяч подкастов для обучения](https://habr.com/ru/news/1059938/?utm_campaign=1059938&utm_source=habrahabr&utm_medium=rss)
+- [OnePlus прекратит работу в США и Европе](https://habr.com/ru/news/1059924/?utm_campaign=1059924&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI выпустила GPT‑Red — модель для поиска уязвимостей](https://habr.com/ru/companies/bothub/news/1059914/?utm_campaign=1059914&utm_source=habrahabr&utm_medium=rss)
+- [Valve начала сворачивать поставки оригинальных запчастей для Steam Deck LCD](https://habr.com/ru/news/1059904/?utm_campaign=1059904&utm_source=habrahabr&utm_medium=rss)
+- [Google Registry подала в ICANN заявку на запуск доменов .eat, .here и .fly](https://habr.com/ru/news/1059902/?utm_campaign=1059902&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
