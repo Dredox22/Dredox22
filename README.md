@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [К2 НейроТех запустил калькулятор ИИ-зрелости для оценки инфраструктурной готовности бизнеса](https://habr.com/ru/companies/k2tech/news/1059824/?utm_campaign=1059824&utm_source=habrahabr&utm_medium=rss)
-- [Приложения VK &lpar;включая «ВКонтакте» и «Одноклассники», Mail.ru&rpar; и мессенджера MAX пропали из российского Google Play](https://habr.com/ru/news/1059804/?utm_campaign=1059804&utm_source=habrahabr&utm_medium=rss)
-- [Цена безлимитного авиационного тарифа Starlink вырастет до $20 тысяч в месяц, а цена оборудования — до $200 тысяч](https://habr.com/ru/news/1059802/?utm_campaign=1059802&utm_source=habrahabr&utm_medium=rss)
-- [В Москве разрабатывают роботов-доставщиков с возможностью самостоятельно пользоваться лифтами](https://habr.com/ru/news/1059780/?utm_campaign=1059780&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила стабильный API Agent Skills для Python](https://habr.com/ru/companies/otus/news/1059758/?utm_campaign=1059758&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft исправила ошибку в видеоигре Age of Empires II](https://habr.com/ru/news/1059866/?utm_campaign=1059866&utm_source=habrahabr&utm_medium=rss)
+- [Книжные издательства подали в суд на Google за нарушение авторских прав при обучении ИИ Gemini](https://habr.com/ru/news/1059856/?utm_campaign=1059856&utm_source=habrahabr&utm_medium=rss)
+- [От копипасты к стандартам и Python vs Go в ИИ](https://habr.com/ru/companies/X5Tech/news/1059852/?utm_campaign=1059852&utm_source=habrahabr&utm_medium=rss)
+- [Сбой в работе Reg.ru](https://habr.com/ru/news/1059854/?utm_campaign=1059854&utm_source=habrahabr&utm_medium=rss)
+- [Пользователям ВК начали приходить уведомления, что соцсеть переходит на домен RU](https://habr.com/ru/news/1059828/?utm_campaign=1059828&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
