@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Perfscale news #2: Fix Protocol, Magic metrics и MCP](https://habr.com/ru/news/1058616/?utm_campaign=1058616&utm_source=habrahabr&utm_medium=rss)
+- [Innostage AIDR включен в реестр российского ПО Минцифры](https://habr.com/ru/companies/innostage/news/1060208/?utm_campaign=1060208&utm_source=habrahabr&utm_medium=rss)
+- [GLM 5.2 и Kimi K2.6 — развернули на своих GPU и ждём ваши API-вызовы](https://habr.com/ru/companies/mws/news/1059360/?utm_campaign=1059360&utm_source=habrahabr&utm_medium=rss)
 - [Обзор изменений в законодательстве за июнь 2026 года](https://habr.com/ru/companies/ussc/news/1060174/?utm_campaign=1060174&utm_source=habrahabr&utm_medium=rss)
 - [Почти 300 репозиториев GitHub использовались для распространения программ-стилеров](https://habr.com/ru/news/1060168/?utm_campaign=1060168&utm_source=habrahabr&utm_medium=rss)
-- [Релиз ProGate 1.3.0: поддержка Shardman, отказоустойчивость и улучшения безопасности](https://habr.com/ru/companies/postgrespro/news/1056214/?utm_campaign=1056214&utm_source=habrahabr&utm_medium=rss)
-- [UserGate присвоил системному интегратору STEP LOGIC статус сервисного партнёра](https://habr.com/ru/companies/usergate/news/1060124/?utm_campaign=1060124&utm_source=habrahabr&utm_medium=rss)
-- [Сервисы «Яндекса» улучшили поиск АЗС без очередей и научились строить маршруты для экономии топлива](https://habr.com/ru/news/1060108/?utm_campaign=1060108&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
