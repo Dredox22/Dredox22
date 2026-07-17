@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Perfscale news #2: Fix Protocol, Magic metrics и MCP](https://habr.com/ru/news/1058616/?utm_campaign=1058616&utm_source=habrahabr&utm_medium=rss)
-- [Innostage AIDR включен в реестр российского ПО Минцифры](https://habr.com/ru/companies/innostage/news/1060208/?utm_campaign=1060208&utm_source=habrahabr&utm_medium=rss)
-- [GLM 5.2 и Kimi K2.6 — развернули на своих GPU и ждём ваши API-вызовы](https://habr.com/ru/companies/mws/news/1059360/?utm_campaign=1059360&utm_source=habrahabr&utm_medium=rss)
-- [Обзор изменений в законодательстве за июнь 2026 года](https://habr.com/ru/companies/ussc/news/1060174/?utm_campaign=1060174&utm_source=habrahabr&utm_medium=rss)
-- [Почти 300 репозиториев GitHub использовались для распространения программ-стилеров](https://habr.com/ru/news/1060168/?utm_campaign=1060168&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI признала, что GPT-5.6 могла случайно удалять файлы пользователей](https://habr.com/ru/news/1060290/?utm_campaign=1060290&utm_source=habrahabr&utm_medium=rss)
+- [«НТЦ ИТ РОСА» и «Солар» защищают работу привилегированных пользователей в виртуальной среде](https://habr.com/ru/companies/solarsecurity/news/1060278/?utm_campaign=1060278&utm_source=habrahabr&utm_medium=rss)
+- [Некоммерческий фонд Fulu объявил награду тому, кто обойдёт гипервизор PS5 и установит на консоль альтернативную ОС](https://habr.com/ru/news/1060276/?utm_campaign=1060276&utm_source=habrahabr&utm_medium=rss)
+- [Solar SIEM: от настройки под конкретную инфраструктуру – к готовой экспертизе для компаний разного масштаба](https://habr.com/ru/companies/solarsecurity/news/1060272/?utm_campaign=1060272&utm_source=habrahabr&utm_medium=rss)
+- [Рособрнадзор сообщил о первой попытке использования учениками ИИ на ЕГЭ-2026](https://habr.com/ru/news/1060266/?utm_campaign=1060266&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
