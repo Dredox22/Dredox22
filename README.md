@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Проект Telega завершил оформление всех обращений по возвратам за подписку «Телега Плюс»](https://habr.com/ru/news/1060314/?utm_campaign=1060314&utm_source=habrahabr&utm_medium=rss)
+- [Безопасность, оценка LLM и SQL-агенты: главное с митапа «ИИшная»](https://habr.com/ru/companies/yoomoney/news/1060304/?utm_campaign=1060304&utm_source=habrahabr&utm_medium=rss)
+- [Бесплатный курс по переходу на электронные перевозочные документы стартует 20 июля](https://habr.com/ru/companies/infostart/news/1060302/?utm_campaign=1060302&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft восстановила взломанный аккаунт стримера с данными за 25 лет после общественного резонанса](https://habr.com/ru/news/1060300/?utm_campaign=1060300&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI признала, что GPT-5.6 могла случайно удалять файлы пользователей](https://habr.com/ru/news/1060290/?utm_campaign=1060290&utm_source=habrahabr&utm_medium=rss)
-- [«НТЦ ИТ РОСА» и «Солар» защищают работу привилегированных пользователей в виртуальной среде](https://habr.com/ru/companies/solarsecurity/news/1060278/?utm_campaign=1060278&utm_source=habrahabr&utm_medium=rss)
-- [Некоммерческий фонд Fulu объявил награду тому, кто обойдёт гипервизор PS5 и установит на консоль альтернативную ОС](https://habr.com/ru/news/1060276/?utm_campaign=1060276&utm_source=habrahabr&utm_medium=rss)
-- [Solar SIEM: от настройки под конкретную инфраструктуру – к готовой экспертизе для компаний разного масштаба](https://habr.com/ru/companies/solarsecurity/news/1060272/?utm_campaign=1060272&utm_source=habrahabr&utm_medium=rss)
-- [Рособрнадзор сообщил о первой попытке использования учениками ИИ на ЕГЭ-2026](https://habr.com/ru/news/1060266/?utm_campaign=1060266&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
