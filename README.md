@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз платформы совместной разработки Forgejo v16.0](https://habr.com/ru/news/1059988/?utm_campaign=1059988&utm_source=habrahabr&utm_medium=rss)
-- [1Password представила режим для ИИ Claude](https://habr.com/ru/news/1060036/?utm_campaign=1060036&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Perl 5.44](https://habr.com/ru/news/1059820/?utm_campaign=1059820&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск nginx 1.31.3 и nginx 1.30.4 с устранением RCE-уязвимости](https://habr.com/ru/news/1059738/?utm_campaign=1059738&utm_source=habrahabr&utm_medium=rss)
-- [Unicode представила восемь новых эмодзи](https://habr.com/ru/news/1059490/?utm_campaign=1059490&utm_source=habrahabr&utm_medium=rss)
+- [ЕС обязал Google открыть доступ к данным Android и Google Search для конкурирующих ИИ-сервисов](https://habr.com/ru/news/1060102/?utm_campaign=1060102&utm_source=habrahabr&utm_medium=rss)
+- [Мнение экспертов: VK продаёт RuStore и ускоряет переход на домен RU, чтобы снизить санкционные риски](https://habr.com/ru/news/1060094/?utm_campaign=1060094&utm_source=habrahabr&utm_medium=rss)
+- [Робот МФТИ собрал мегаминкс по мировому рекорду](https://habr.com/ru/news/1060080/?utm_campaign=1060080&utm_source=habrahabr&utm_medium=rss)
+- [Kimi K3: опенсорс-модель на 2.8 трлн параметров обходит Opus 4.8](https://habr.com/ru/news/1060060/?utm_campaign=1060060&utm_source=habrahabr&utm_medium=rss)
+- [Южная Корея запустит универсальный базовый чат-бот с ИИ](https://habr.com/ru/news/1060044/?utm_campaign=1060044&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
