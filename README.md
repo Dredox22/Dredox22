@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз платформы совместной разработки Forgejo v16.0](https://habr.com/ru/news/1059988/?utm_campaign=1059988&utm_source=habrahabr&utm_medium=rss)
+- [1Password представила режим для ИИ Claude](https://habr.com/ru/news/1060036/?utm_campaign=1060036&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Perl 5.44](https://habr.com/ru/news/1059820/?utm_campaign=1059820&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск nginx 1.31.3 и nginx 1.30.4 с устранением RCE-уязвимости](https://habr.com/ru/news/1059738/?utm_campaign=1059738&utm_source=habrahabr&utm_medium=rss)
 - [Unicode представила восемь новых эмодзи](https://habr.com/ru/news/1059490/?utm_campaign=1059490&utm_source=habrahabr&utm_medium=rss)
-- [200-долларовую майнинговую карту CMP 170HX удалось превратить в подобие Tesla A100](https://habr.com/ru/news/1060032/?utm_campaign=1060032&utm_source=habrahabr&utm_medium=rss)
-- [Кампания HelloNet использует систему обновления ViPNet для закрепления и загрузки вредоносных модулей](https://habr.com/ru/news/1060000/?utm_campaign=1060000&utm_source=habrahabr&utm_medium=rss)
-- [Вышла стабильная версия Android Studio Quail 2: поиск утечек памяти и инструменты для анализа сбоев](https://habr.com/ru/news/1059972/?utm_campaign=1059972&utm_source=habrahabr&utm_medium=rss)
-- [VK: сервисы VK и МАХ работают в нормальном режиме, установка и апдейт приложений доступны в RuStore и других маркетах](https://habr.com/ru/news/1059950/?utm_campaign=1059950&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
