@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [ЕС обязал Google открыть доступ к данным Android и Google Search для конкурирующих ИИ-сервисов](https://habr.com/ru/news/1060102/?utm_campaign=1060102&utm_source=habrahabr&utm_medium=rss)
-- [Мнение экспертов: VK продаёт RuStore и ускоряет переход на домен RU, чтобы снизить санкционные риски](https://habr.com/ru/news/1060094/?utm_campaign=1060094&utm_source=habrahabr&utm_medium=rss)
-- [Робот МФТИ собрал мегаминкс по мировому рекорду](https://habr.com/ru/news/1060080/?utm_campaign=1060080&utm_source=habrahabr&utm_medium=rss)
-- [Kimi K3: опенсорс-модель на 2.8 трлн параметров обходит Opus 4.8](https://habr.com/ru/news/1060060/?utm_campaign=1060060&utm_source=habrahabr&utm_medium=rss)
-- [Южная Корея запустит универсальный базовый чат-бот с ИИ](https://habr.com/ru/news/1060044/?utm_campaign=1060044&utm_source=habrahabr&utm_medium=rss)
+- [Обзор изменений в законодательстве за июнь 2026 года](https://habr.com/ru/companies/ussc/news/1060174/?utm_campaign=1060174&utm_source=habrahabr&utm_medium=rss)
+- [Почти 300 репозиториев GitHub использовались для распространения программ-стилеров](https://habr.com/ru/news/1060168/?utm_campaign=1060168&utm_source=habrahabr&utm_medium=rss)
+- [Релиз ProGate 1.3.0: поддержка Shardman, отказоустойчивость и улучшения безопасности](https://habr.com/ru/companies/postgrespro/news/1056214/?utm_campaign=1056214&utm_source=habrahabr&utm_medium=rss)
+- [UserGate присвоил системному интегратору STEP LOGIC статус сервисного партнёра](https://habr.com/ru/companies/usergate/news/1060124/?utm_campaign=1060124&utm_source=habrahabr&utm_medium=rss)
+- [Сервисы «Яндекса» улучшили поиск АЗС без очередей и научились строить маршруты для экономии топлива](https://habr.com/ru/news/1060108/?utm_campaign=1060108&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
