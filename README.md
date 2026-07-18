@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен открытый проект Conversation Stenography для сокрытия секретных сообщений внутри обычного текста чата](https://habr.com/ru/news/1060480/?utm_campaign=1060480&utm_source=habrahabr&utm_medium=rss)
+- [Roblox запустит ИИ-инструмент Build для создания игр в мобильном приложении](https://habr.com/ru/news/1060474/?utm_campaign=1060474&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft тестирует Copilot для диагностики проблем с ПК в Windows 11](https://habr.com/ru/news/1060468/?utm_campaign=1060468&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндексе» ответили на заявления Грефа о зависимости компании от китайского ИИ](https://habr.com/ru/news/1060458/?utm_campaign=1060458&utm_source=habrahabr&utm_medium=rss)
 - [Apple и Google придётся удалить в Калифорнии приложения, создающие людей без одежды](https://habr.com/ru/news/1060446/?utm_campaign=1060446&utm_source=habrahabr&utm_medium=rss)
-- [Проект HAMi для виртуализации ускорителей перешел в инкубатор CNCF](https://habr.com/ru/companies/selectel/news/1060424/?utm_campaign=1060424&utm_source=habrahabr&utm_medium=rss)
-- [Уязвимость в Zoom для Windows 11 позволяет хакерам удалённо захватить учётную запись жертвы](https://habr.com/ru/news/1060384/?utm_campaign=1060384&utm_source=habrahabr&utm_medium=rss)
-- [Apple попросила бывших сотрудников из OpenAI сохранять потенциально важные документы и сообщения](https://habr.com/ru/news/1060382/?utm_campaign=1060382&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
