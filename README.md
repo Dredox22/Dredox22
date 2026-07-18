@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел открытый браузерный эмулятор телефонов Nokia 3310/3410/3350/3330/5110/5210/7110](https://habr.com/ru/news/1060380/?utm_campaign=1060380&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект FSearch — утилита для быстрого поиска файлов](https://habr.com/ru/news/1060156/?utm_campaign=1060156&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление FreeRDP 3.30](https://habr.com/ru/news/1059976/?utm_campaign=1059976&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: «В Госдуме создать сервис передачи геолокации для граждан через „Госуслуги“ и систему 112 при угрозах безопасности»](https://habr.com/ru/news/1060334/?utm_campaign=1060334&utm_source=habrahabr&utm_medium=rss)
 - [Проект Telega завершил оформление всех обращений по возвратам за подписку «Телега Плюс»](https://habr.com/ru/news/1060314/?utm_campaign=1060314&utm_source=habrahabr&utm_medium=rss)
-- [Безопасность, оценка LLM и SQL-агенты: главное с митапа «ИИшная»](https://habr.com/ru/companies/yoomoney/news/1060304/?utm_campaign=1060304&utm_source=habrahabr&utm_medium=rss)
-- [Бесплатный курс по переходу на электронные перевозочные документы стартует 20 июля](https://habr.com/ru/companies/infostart/news/1060302/?utm_campaign=1060302&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft восстановила взломанный аккаунт стримера с данными за 25 лет после общественного резонанса](https://habr.com/ru/news/1060300/?utm_campaign=1060300&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
