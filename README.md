@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Проект FoodNeverComes позволяет выбрать еду, сделать заказ и ждать курьера, но только виртуально](https://habr.com/ru/news/1060502/?utm_campaign=1060502&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект Conversation Stenography для сокрытия секретных сообщений внутри обычного текста чата](https://habr.com/ru/news/1060480/?utm_campaign=1060480&utm_source=habrahabr&utm_medium=rss)
 - [Roblox запустит ИИ-инструмент Build для создания игр в мобильном приложении](https://habr.com/ru/news/1060474/?utm_campaign=1060474&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft тестирует Copilot для диагностики проблем с ПК в Windows 11](https://habr.com/ru/news/1060468/?utm_campaign=1060468&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндексе» ответили на заявления Грефа о зависимости компании от китайского ИИ](https://habr.com/ru/news/1060458/?utm_campaign=1060458&utm_source=habrahabr&utm_medium=rss)
-- [Apple и Google придётся удалить в Калифорнии приложения, создающие людей без одежды](https://habr.com/ru/news/1060446/?utm_campaign=1060446&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
