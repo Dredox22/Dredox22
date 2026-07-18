@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В «Яндексе» ответили на заявления Грефа о зависимости компании от китайского ИИ](https://habr.com/ru/news/1060458/?utm_campaign=1060458&utm_source=habrahabr&utm_medium=rss)
+- [Apple и Google придётся удалить в Калифорнии приложения, создающие людей без одежды](https://habr.com/ru/news/1060446/?utm_campaign=1060446&utm_source=habrahabr&utm_medium=rss)
 - [Проект HAMi для виртуализации ускорителей перешел в инкубатор CNCF](https://habr.com/ru/companies/selectel/news/1060424/?utm_campaign=1060424&utm_source=habrahabr&utm_medium=rss)
 - [Уязвимость в Zoom для Windows 11 позволяет хакерам удалённо захватить учётную запись жертвы](https://habr.com/ru/news/1060384/?utm_campaign=1060384&utm_source=habrahabr&utm_medium=rss)
 - [Apple попросила бывших сотрудников из OpenAI сохранять потенциально важные документы и сообщения](https://habr.com/ru/news/1060382/?utm_campaign=1060382&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый браузерный эмулятор телефонов Nokia 3310/3410/3350/3330/5110/5210/7110](https://habr.com/ru/news/1060380/?utm_campaign=1060380&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект FSearch — утилита для быстрого поиска файлов](https://habr.com/ru/news/1060156/?utm_campaign=1060156&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
