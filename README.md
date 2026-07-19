@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [У сайта налоговой GlobalSign отозвал сертификат](https://habr.com/ru/news/1060668/?utm_campaign=1060668&utm_source=habrahabr&utm_medium=rss)
 - [Российские школьники получили 4 золотых и 2 серебряных медали на 67-й Международной математической олимпиаде IMO 2026](https://habr.com/ru/news/1060640/?utm_campaign=1060640&utm_source=habrahabr&utm_medium=rss)
 - [Автономная система ИИ-агентов атаковала Hugging Face: защититься помогла LLM](https://habr.com/ru/companies/bothub/news/1060616/?utm_campaign=1060616&utm_source=habrahabr&utm_medium=rss)
 - [Федеральным служащим США разрешили устанавливать TikTok на свои рабочие смартфоны](https://habr.com/ru/news/1060620/?utm_campaign=1060620&utm_source=habrahabr&utm_medium=rss)
 - [Уязвимости в камерах TP-Link Kasa позволяли красть учётные данные администратора и информацию о местоположении](https://habr.com/ru/news/1060602/?utm_campaign=1060602&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Wayland 1.26](https://habr.com/ru/news/1060198/?utm_campaign=1060198&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
