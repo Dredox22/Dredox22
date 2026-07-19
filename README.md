@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Linux-дистрибутив для анонимных коммуникаций Whonix 18.2](https://habr.com/ru/news/1060408/?utm_campaign=1060408&utm_source=habrahabr&utm_medium=rss)
+- [Представлена расширенная сборка PuTTY 0.84k-r2 с поддержкой файловых сессий](https://habr.com/ru/news/1060118/?utm_campaign=1060118&utm_source=habrahabr&utm_medium=rss)
 - [Правительство утвердило перевод всех служебных коммуникаций госслужащих на платформу «Макс» к 2030 году](https://habr.com/ru/news/1060530/?utm_campaign=1060530&utm_source=habrahabr&utm_medium=rss)
 - [Проект FoodNeverComes позволяет выбрать еду, сделать заказ и ждать курьера, но только виртуально](https://habr.com/ru/news/1060502/?utm_campaign=1060502&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект Conversation Stenography для сокрытия секретных сообщений внутри обычного текста чата](https://habr.com/ru/news/1060480/?utm_campaign=1060480&utm_source=habrahabr&utm_medium=rss)
-- [Roblox запустит ИИ-инструмент Build для создания игр в мобильном приложении](https://habr.com/ru/news/1060474/?utm_campaign=1060474&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft тестирует Copilot для диагностики проблем с ПК в Windows 11](https://habr.com/ru/news/1060468/?utm_campaign=1060468&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
