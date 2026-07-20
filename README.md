@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Я вычислю тебя по бз-бз-бз: создали ИИ-устройство против малярии](https://habr.com/ru/companies/selectel/news/1061044/?utm_campaign=1061044&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1061026/?utm_campaign=1061026&utm_source=habrahabr&utm_medium=rss)
+- [Forbes: виртуальный оператор «Сбербанк‑Телеком» протестировал работу в режиме мультисети](https://habr.com/ru/news/1061016/?utm_campaign=1061016&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: Claude Code отправляет в 4,7 раза больше служебных токенов, чем OpenCode](https://habr.com/ru/news/1060966/?utm_campaign=1060966&utm_source=habrahabr&utm_medium=rss)
 - [Ответ на Kimi K3: зачем Alibaba выкатила 2,4-триллионную Qwen3.8](https://habr.com/ru/companies/selectel/news/1060930/?utm_campaign=1060930&utm_source=habrahabr&utm_medium=rss)
-- [«Ростелеком»: оптическая сеть компании охватила более двух третей российских домохозяйств](https://habr.com/ru/news/1060938/?utm_campaign=1060938&utm_source=habrahabr&utm_medium=rss)
-- [Полиция Техаса потратила $4,5 млн на четыре Chevrolet Tahoe](https://habr.com/ru/news/1060904/?utm_campaign=1060904&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор: ведомство не ограничивает доступ к AppStore](https://habr.com/ru/news/1060878/?utm_campaign=1060878&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи в РФ сообщили о проблемах с доступом к AppStore, глобально проблем с сервисом не зафиксировано](https://habr.com/ru/news/1060836/?utm_campaign=1060836&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
