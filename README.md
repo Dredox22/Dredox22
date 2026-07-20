@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ответ на Kimi K3: зачем Alibaba выкатила 2,4-триллионную Qwen3.8](https://habr.com/ru/companies/selectel/news/1060930/?utm_campaign=1060930&utm_source=habrahabr&utm_medium=rss)
+- [«Ростелеком»: оптическая сеть компании охватила более двух третей российских домохозяйств](https://habr.com/ru/news/1060938/?utm_campaign=1060938&utm_source=habrahabr&utm_medium=rss)
+- [Полиция Техаса потратила $4,5 млн на четыре Chevrolet Tahoe](https://habr.com/ru/news/1060904/?utm_campaign=1060904&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор: ведомство не ограничивает доступ к AppStore](https://habr.com/ru/news/1060878/?utm_campaign=1060878&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи в РФ сообщили о проблемах с доступом к AppStore, глобально проблем с сервисом не зафиксировано](https://habr.com/ru/news/1060836/?utm_campaign=1060836&utm_source=habrahabr&utm_medium=rss)
-- [Tantor запустил сертификацию по СУБД Tantor Postgres и PostgreSQL](https://habr.com/ru/companies/tantor/news/1060754/?utm_campaign=1060754&utm_source=habrahabr&utm_medium=rss)
-- [FirstVDS запустил комплексный сервис мониторинга сайтов](https://habr.com/ru/companies/first/news/1060724/?utm_campaign=1060724&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI зашифровала внутренние инструкции Codex](https://habr.com/ru/news/1060776/?utm_campaign=1060776&utm_source=habrahabr&utm_medium=rss)
-- [«Бюро 1440»: состоялся второй пакетный запуск космических аппаратов низкоорбитальной группировки «Рассвет»](https://habr.com/ru/news/1060794/?utm_campaign=1060794&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
