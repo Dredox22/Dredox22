@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft создала имитацию салона самолета, чтобы протестировать функцию Shared Audio в Windows 11 вне лаборатории](https://habr.com/ru/news/1060694/?utm_campaign=1060694&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратит поддержку синхронизации OneDrive для Windows 10 версии 21H2](https://habr.com/ru/news/1060692/?utm_campaign=1060692&utm_source=habrahabr&utm_medium=rss)
 - [За полгода киберпреступления сократились на 30% и 120 тысяч случаев на фоне внедрения антифрод‑мер и сервисов «Госуслуг»](https://habr.com/ru/news/1061078/?utm_campaign=1061078&utm_source=habrahabr&utm_medium=rss)
 - [Национальное агентство кадастра Румынии признало кибератаку после нескольких дней сбоев сервиса](https://habr.com/ru/news/1061074/?utm_campaign=1061074&utm_source=habrahabr&utm_medium=rss)
 - [Я вычислю тебя по бз-бз-бз: создали ИИ-устройство против малярии](https://habr.com/ru/companies/selectel/news/1061044/?utm_campaign=1061044&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ-событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1061026/?utm_campaign=1061026&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
