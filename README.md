@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Выпуск обновления HopToDesk 1.46.6 — безопасного открытого решения для удалённого рабочего стола](https://habr.com/ru/news/1060636/?utm_campaign=1060636&utm_source=habrahabr&utm_medium=rss)
-- [Представлен проект DOOMQL &lpar;SELECT * FROM HELL&rpar; — Doom в SQLite](https://habr.com/ru/news/1060504/?utm_campaign=1060504&utm_source=habrahabr&utm_medium=rss)
-- [Вышел D7VK 2.0 — проект реализации Direct3D 7 поверх API Vulkan](https://habr.com/ru/news/1060562/?utm_campaign=1060562&utm_source=habrahabr&utm_medium=rss)
-- [У сайта налоговой GlobalSign отозвал сертификат](https://habr.com/ru/news/1060668/?utm_campaign=1060668&utm_source=habrahabr&utm_medium=rss)
-- [Российские школьники получили 4 золотых и 2 серебряных медали на 67-й Международной математической олимпиаде IMO 2026](https://habr.com/ru/news/1060640/?utm_campaign=1060640&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи в РФ сообщили о проблемах с доступом к AppStore, глобально проблем с сервисом не зафиксировано](https://habr.com/ru/news/1060836/?utm_campaign=1060836&utm_source=habrahabr&utm_medium=rss)
+- [Tantor запустил сертификацию по СУБД Tantor Postgres и PostgreSQL](https://habr.com/ru/companies/tantor/news/1060754/?utm_campaign=1060754&utm_source=habrahabr&utm_medium=rss)
+- [FirstVDS запустил комплексный сервис мониторинга сайтов](https://habr.com/ru/companies/first/news/1060724/?utm_campaign=1060724&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI зашифровала внутренние инструкции Codex](https://habr.com/ru/news/1060776/?utm_campaign=1060776&utm_source=habrahabr&utm_medium=rss)
+- [«Бюро 1440»: состоялся второй пакетный запуск космических аппаратов низкоорбитальной группировки «Рассвет»](https://habr.com/ru/news/1060794/?utm_campaign=1060794&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
