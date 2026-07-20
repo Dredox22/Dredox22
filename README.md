@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск обновления HopToDesk 1.46.6 — безопасного открытого решения для удалённого рабочего стола](https://habr.com/ru/news/1060636/?utm_campaign=1060636&utm_source=habrahabr&utm_medium=rss)
+- [Представлен проект DOOMQL &lpar;SELECT * FROM HELL&rpar; — Doom в SQLite](https://habr.com/ru/news/1060504/?utm_campaign=1060504&utm_source=habrahabr&utm_medium=rss)
+- [Вышел D7VK 2.0 — проект реализации Direct3D 7 поверх API Vulkan](https://habr.com/ru/news/1060562/?utm_campaign=1060562&utm_source=habrahabr&utm_medium=rss)
 - [У сайта налоговой GlobalSign отозвал сертификат](https://habr.com/ru/news/1060668/?utm_campaign=1060668&utm_source=habrahabr&utm_medium=rss)
 - [Российские школьники получили 4 золотых и 2 серебряных медали на 67-й Международной математической олимпиаде IMO 2026](https://habr.com/ru/news/1060640/?utm_campaign=1060640&utm_source=habrahabr&utm_medium=rss)
-- [Автономная система ИИ-агентов атаковала Hugging Face: защититься помогла LLM](https://habr.com/ru/companies/bothub/news/1060616/?utm_campaign=1060616&utm_source=habrahabr&utm_medium=rss)
-- [Федеральным служащим США разрешили устанавливать TikTok на свои рабочие смартфоны](https://habr.com/ru/news/1060620/?utm_campaign=1060620&utm_source=habrahabr&utm_medium=rss)
-- [Уязвимости в камерах TP-Link Kasa позволяли красть учётные данные администратора и информацию о местоположении](https://habr.com/ru/news/1060602/?utm_campaign=1060602&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
