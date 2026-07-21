@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft сама случайно доказала, что минимальные системные требования Windows 11 не имеют смысла](https://habr.com/ru/news/1061352/?utm_campaign=1061352&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты UserGate uFactor прогнозируют всплеск мошенничества на фоне нестабильности фондового рынка](https://habr.com/ru/companies/usergate/news/1061348/?utm_campaign=1061348&utm_source=habrahabr&utm_medium=rss)
-- [Tesla установила антенну Starlink на роботакси Cybercab](https://habr.com/ru/news/1061340/?utm_campaign=1061340&utm_source=habrahabr&utm_medium=rss)
-- [Представлена простая плёночная камера для любителей аналоговой фотографии Kodak EC35](https://habr.com/ru/news/1061334/?utm_campaign=1061334&utm_source=habrahabr&utm_medium=rss)
-- [Иностранные абитуриенты смогут поступать в российские вузы дистанционно](https://habr.com/ru/news/1061322/?utm_campaign=1061322&utm_source=habrahabr&utm_medium=rss)
+- [Идёт приём заявок на премию «За вклад в безопасность цифрового будущего»](https://habr.com/ru/companies/infowatch/news/1061448/?utm_campaign=1061448&utm_source=habrahabr&utm_medium=rss)
+- [Обновлён проект статически типизированного языка программирования V &lpar;vlang&rpar;](https://habr.com/ru/news/1061382/?utm_campaign=1061382&utm_source=habrahabr&utm_medium=rss)
+- [Где купить токены? Запускаем ИИ-роутер с 300+ LLM](https://habr.com/ru/companies/selectel/news/1061432/?utm_campaign=1061432&utm_source=habrahabr&utm_medium=rss)
+- [Samsung объявила о запуске своей первой кредитной карты на рынке США под названием Samsung Galaxy Card](https://habr.com/ru/news/1061440/?utm_campaign=1061440&utm_source=habrahabr&utm_medium=rss)
+- [Документация Delta Design обновилась: варианты исполнений, веб-панель Identity, новые аппертуры DeltaCAM](https://habr.com/ru/companies/eremexru/news/1061434/?utm_campaign=1061434&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
