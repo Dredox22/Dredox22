@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Qwen-Image-3.0, но радоваться рано. Где веса, Alibaba?](https://habr.com/ru/companies/selectel/news/1061474/?utm_campaign=1061474&utm_source=habrahabr&utm_medium=rss)
+- [Sony подала очередной иск против Udio, обвиняя генератор музыки на основе ИИ в нарушении авторских прав тысяч песен](https://habr.com/ru/news/1061476/?utm_campaign=1061476&utm_source=habrahabr&utm_medium=rss)
 - [Идёт приём заявок на премию «За вклад в безопасность цифрового будущего»](https://habr.com/ru/companies/infowatch/news/1061448/?utm_campaign=1061448&utm_source=habrahabr&utm_medium=rss)
 - [Обновлён проект статически типизированного языка программирования V &lpar;vlang&rpar;](https://habr.com/ru/news/1061382/?utm_campaign=1061382&utm_source=habrahabr&utm_medium=rss)
 - [Где купить токены? Запускаем ИИ-роутер с 300+ LLM](https://habr.com/ru/companies/selectel/news/1061432/?utm_campaign=1061432&utm_source=habrahabr&utm_medium=rss)
-- [Samsung объявила о запуске своей первой кредитной карты на рынке США под названием Samsung Galaxy Card](https://habr.com/ru/news/1061440/?utm_campaign=1061440&utm_source=habrahabr&utm_medium=rss)
-- [Документация Delta Design обновилась: варианты исполнений, веб-панель Identity, новые аппертуры DeltaCAM](https://habr.com/ru/companies/eremexru/news/1061434/?utm_campaign=1061434&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
