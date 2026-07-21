@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [DS Proxima помогает Федеральному казначейству обеспечивать безопасный доступ к корпоративным системам](https://habr.com/ru/companies/dsol/news/1061246/?utm_campaign=1061246&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft закрыла подразделения Xbox и Bethesda в Польше](https://habr.com/ru/news/1061226/?utm_campaign=1061226&utm_source=habrahabr&utm_medium=rss)
-- [В 7-Zip 26.02 исправлена RCE‑уязвимость в декодере XZ](https://habr.com/ru/news/1061080/?utm_campaign=1061080&utm_source=habrahabr&utm_medium=rss)
-- [Галлюцинации недели: Kimi K3, Inkling и Bonsai 27B, который можно запустить на своем iPhone](https://habr.com/ru/news/1061066/?utm_campaign=1061066&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia представила инструмент Synthetic Video Detector для обнаружения сгенерированных видео](https://habr.com/ru/news/1061190/?utm_campaign=1061190&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft сама случайно доказала, что минимальные системные требования Windows 11 не имеют смысла](https://habr.com/ru/news/1061352/?utm_campaign=1061352&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты UserGate uFactor прогнозируют всплеск мошенничества на фоне нестабильности фондового рынка](https://habr.com/ru/companies/usergate/news/1061348/?utm_campaign=1061348&utm_source=habrahabr&utm_medium=rss)
+- [Tesla установила антенну Starlink на роботакси Cybercab](https://habr.com/ru/news/1061340/?utm_campaign=1061340&utm_source=habrahabr&utm_medium=rss)
+- [Представлена простая плёночная камера для любителей аналоговой фотографии Kodak EC35](https://habr.com/ru/news/1061334/?utm_campaign=1061334&utm_source=habrahabr&utm_medium=rss)
+- [Иностранные абитуриенты смогут поступать в российские вузы дистанционно](https://habr.com/ru/news/1061322/?utm_campaign=1061322&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
