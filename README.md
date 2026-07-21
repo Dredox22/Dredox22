@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Модель OpenAI, опровергшая гипотезу Эрдёша, сбежала из песочницы. Ее поставили на паузу](https://habr.com/ru/news/1061598/?utm_campaign=1061598&utm_source=habrahabr&utm_medium=rss)
 - [Google переименовала NotebookLM в Gemini Notebook и расширила возможности сервиса](https://habr.com/ru/news/1061544/?utm_campaign=1061544&utm_source=habrahabr&utm_medium=rss)
 - [В MAX запустили истории — как в Telegram](https://habr.com/ru/news/1061542/?utm_campaign=1061542&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Qwen-Image-3.0, но радоваться рано. Где веса, Alibaba?](https://habr.com/ru/companies/selectel/news/1061474/?utm_campaign=1061474&utm_source=habrahabr&utm_medium=rss)
 - [Sony подала очередной иск против Udio, обвиняя генератор музыки на основе ИИ в нарушении авторских прав тысяч песен](https://habr.com/ru/news/1061476/?utm_campaign=1061476&utm_source=habrahabr&utm_medium=rss)
-- [Идёт приём заявок на премию «За вклад в безопасность цифрового будущего»](https://habr.com/ru/companies/infowatch/news/1061448/?utm_campaign=1061448&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
