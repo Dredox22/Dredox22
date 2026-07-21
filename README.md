@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [X перезапустила обновлённое приложение для Android](https://habr.com/ru/news/1061158/?utm_campaign=1061158&utm_source=habrahabr&utm_medium=rss)
-- [Функция приложения камеры от Adobe позволит анализировать фотографии с помощью ИИ](https://habr.com/ru/news/1061154/?utm_campaign=1061154&utm_source=habrahabr&utm_medium=rss)
-- [Android-приложения с Nearby Connections перестанут сами включать Wi-Fi и Bluetooth](https://habr.com/ru/news/1061156/?utm_campaign=1061156&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Firefox 153.0 ESR](https://habr.com/ru/news/1061038/?utm_campaign=1061038&utm_source=habrahabr&utm_medium=rss)
-- [Раскрыт исходный код проекта MeetVap — это приватный мессенджер, ориентированный на безопасный обмен сообщениями](https://habr.com/ru/news/1060766/?utm_campaign=1060766&utm_source=habrahabr&utm_medium=rss)
+- [DS Proxima помогает Федеральному казначейству обеспечивать безопасный доступ к корпоративным системам](https://habr.com/ru/companies/dsol/news/1061246/?utm_campaign=1061246&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft закрыла подразделения Xbox и Bethesda в Польше](https://habr.com/ru/news/1061226/?utm_campaign=1061226&utm_source=habrahabr&utm_medium=rss)
+- [В 7-Zip 26.02 исправлена RCE‑уязвимость в декодере XZ](https://habr.com/ru/news/1061080/?utm_campaign=1061080&utm_source=habrahabr&utm_medium=rss)
+- [Галлюцинации недели: Kimi K3, Inkling и Bonsai 27B, который можно запустить на своем iPhone](https://habr.com/ru/news/1061066/?utm_campaign=1061066&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia представила инструмент Synthetic Video Detector для обнаружения сгенерированных видео](https://habr.com/ru/news/1061190/?utm_campaign=1061190&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
