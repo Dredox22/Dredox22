@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [ИИ-компании начали скупать старые книги из-за нейрослопа в сети](https://habr.com/ru/news/1061652/?utm_campaign=1061652&utm_source=habrahabr&utm_medium=rss)
-- [Canonical запустила корпоративный магазин для Ubuntu Pro](https://habr.com/ru/news/1061648/?utm_campaign=1061648&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры представило доктрину по борьбе с ИТ-преступлениями](https://habr.com/ru/news/1061644/?utm_campaign=1061644&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый проект NeeView 46.0 — просмотрщик изображений и видео для Windows](https://habr.com/ru/news/1061204/?utm_campaign=1061204&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся выпуск платформы совместной разработки Gitea 1.27](https://habr.com/ru/news/1060860/?utm_campaign=1060860&utm_source=habrahabr&utm_medium=rss)
+- [AT&amp;amp;T проиграла суд в попытке прекратить предоставление базовых услуг телефонной связи в Калифорнии](https://habr.com/ru/news/1061708/?utm_campaign=1061708&utm_source=habrahabr&utm_medium=rss)
+- [ЦОДы должны строить на Урале, а не в Москве](https://habr.com/ru/news/1061704/?utm_campaign=1061704&utm_source=habrahabr&utm_medium=rss)
+- [Грег Кроа-Хартман: Rust поможет Linux добиться успеха и сделает программирование увлекательным](https://habr.com/ru/news/1061676/?utm_campaign=1061676&utm_source=habrahabr&utm_medium=rss)
+- [Claude Code научился запускать и тестировать iOS-приложения](https://habr.com/ru/news/1061690/?utm_campaign=1061690&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft представила функцию Trusted Launch для ВМ в Windows Server Insider Preview](https://habr.com/ru/news/1061670/?utm_campaign=1061670&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
