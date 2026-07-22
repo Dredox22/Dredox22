@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Качество топовых моделей на 60% дешевле: Cursor представили Router](https://habr.com/ru/news/1062048/?utm_campaign=1062048&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic выпустили плагин Claude Security для многоагентного поиска уязвимостей](https://habr.com/ru/news/1062032/?utm_campaign=1062032&utm_source=habrahabr&utm_medium=rss)
+- [Созданные с помощью вайбкодинга приложения заполонили App Store, но пользователи этому не рады](https://habr.com/ru/news/1062030/?utm_campaign=1062030&utm_source=habrahabr&utm_medium=rss)
 - [Google кажется решил не ждать Gemini 3.5 Pro и обновил Flash-линейку](https://habr.com/ru/companies/selectel/news/1061984/?utm_campaign=1061984&utm_source=habrahabr&utm_medium=rss)
 - [Летний ТехФест 2026: пять компаний — один вайб](https://habr.com/ru/companies/infotecs_tech/news/1061900/?utm_campaign=1061900&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» запустил игровой тренажёр для создания защищённых паролей](https://habr.com/ru/news/1061942/?utm_campaign=1061942&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-агент сбежал от Open-AI и взломал Hugging Face? Разбираемся, что произошло](https://habr.com/ru/companies/selectel/news/1061848/?utm_campaign=1061848&utm_source=habrahabr&utm_medium=rss)
-- [TSMC планирует с 2027 года повысить цены на 10%](https://habr.com/ru/news/1061914/?utm_campaign=1061914&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
