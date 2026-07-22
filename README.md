@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Трассировка 10-слойной печатной платы c BGA-компонентами за 30 минут в Delta Design TopoR](https://habr.com/ru/companies/eremexru/news/1061818/?utm_campaign=1061818&utm_source=habrahabr&utm_medium=rss)
-- [Российские операторы начали индексировать стоимость архивных тарифов на фоне роста издержек](https://habr.com/ru/news/1061816/?utm_campaign=1061816&utm_source=habrahabr&utm_medium=rss)
-- [Исследователь обнаружил, что переписки с DeepSeek всплывают в поисковой выдаче](https://habr.com/ru/news/1061804/?utm_campaign=1061804&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI вынужденно отключила ИИ‑модель для решения «длительных задач» после обнаружения рисков безопасности](https://habr.com/ru/news/1061796/?utm_campaign=1061796&utm_source=habrahabr&utm_medium=rss)
-- [GitHub запустил Code Quality: проверки кода, Copilot Autofix и цена $10](https://habr.com/ru/companies/otus/news/1061778/?utm_campaign=1061778&utm_source=habrahabr&utm_medium=rss)
+- [TSMC планирует с 2027 года повысить цены на 10%](https://habr.com/ru/news/1061914/?utm_campaign=1061914&utm_source=habrahabr&utm_medium=rss)
+- [В новом Linux 7.1 обработка NTFS переносится в пространство ядра. FUSE уходит на пенсию?](https://habr.com/ru/companies/selectel/news/1061840/?utm_campaign=1061840&utm_source=habrahabr&utm_medium=rss)
+- [Arduino представила модули Modulino для расширения I²C-сетей и управления моторами](https://habr.com/ru/news/1061850/?utm_campaign=1061850&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик Motorola Razr представил новый телефон-раскладушку Light Flip](https://habr.com/ru/news/1061828/?utm_campaign=1061828&utm_source=habrahabr&utm_medium=rss)
+- [Canonical решила проблему обновления Ubuntu и K8s в сетях без интернета](https://habr.com/ru/companies/selectel/news/1061826/?utm_campaign=1061826&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
