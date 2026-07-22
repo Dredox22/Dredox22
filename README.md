@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Летний ТехФест 2026: пять компаний — один вайб](https://habr.com/ru/companies/infotecs_tech/news/1061900/?utm_campaign=1061900&utm_source=habrahabr&utm_medium=rss)
+- [«Сбер» запустил игровой тренажёр для создания защищённых паролей](https://habr.com/ru/news/1061942/?utm_campaign=1061942&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-агент сбежал от Open-AI и взломал Hugging Face? Разбираемся, что произошло](https://habr.com/ru/companies/selectel/news/1061848/?utm_campaign=1061848&utm_source=habrahabr&utm_medium=rss)
 - [TSMC планирует с 2027 года повысить цены на 10%](https://habr.com/ru/news/1061914/?utm_campaign=1061914&utm_source=habrahabr&utm_medium=rss)
 - [В новом Linux 7.1 обработка NTFS переносится в пространство ядра. FUSE уходит на пенсию?](https://habr.com/ru/companies/selectel/news/1061840/?utm_campaign=1061840&utm_source=habrahabr&utm_medium=rss)
-- [Arduino представила модули Modulino для расширения I²C-сетей и управления моторами](https://habr.com/ru/news/1061850/?utm_campaign=1061850&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик Motorola Razr представил новый телефон-раскладушку Light Flip](https://habr.com/ru/news/1061828/?utm_campaign=1061828&utm_source=habrahabr&utm_medium=rss)
-- [Canonical решила проблему обновления Ubuntu и K8s в сетях без интернета](https://habr.com/ru/companies/selectel/news/1061826/?utm_campaign=1061826&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
