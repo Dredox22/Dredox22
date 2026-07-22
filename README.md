@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [AT&amp;amp;T проиграла суд в попытке прекратить предоставление базовых услуг телефонной связи в Калифорнии](https://habr.com/ru/news/1061708/?utm_campaign=1061708&utm_source=habrahabr&utm_medium=rss)
-- [ЦОДы должны строить на Урале, а не в Москве](https://habr.com/ru/news/1061704/?utm_campaign=1061704&utm_source=habrahabr&utm_medium=rss)
-- [Грег Кроа-Хартман: Rust поможет Linux добиться успеха и сделает программирование увлекательным](https://habr.com/ru/news/1061676/?utm_campaign=1061676&utm_source=habrahabr&utm_medium=rss)
-- [Claude Code научился запускать и тестировать iOS-приложения](https://habr.com/ru/news/1061690/?utm_campaign=1061690&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила функцию Trusted Launch для ВМ в Windows Server Insider Preview](https://habr.com/ru/news/1061670/?utm_campaign=1061670&utm_source=habrahabr&utm_medium=rss)
+- [Трассировка 10-слойной печатной платы c BGA-компонентами за 30 минут в Delta Design TopoR](https://habr.com/ru/companies/eremexru/news/1061818/?utm_campaign=1061818&utm_source=habrahabr&utm_medium=rss)
+- [Российские операторы начали индексировать стоимость архивных тарифов на фоне роста издержек](https://habr.com/ru/news/1061816/?utm_campaign=1061816&utm_source=habrahabr&utm_medium=rss)
+- [Исследователь обнаружил, что переписки с DeepSeek всплывают в поисковой выдаче](https://habr.com/ru/news/1061804/?utm_campaign=1061804&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI вынужденно отключила ИИ‑модель для решения «длительных задач» после обнаружения рисков безопасности](https://habr.com/ru/news/1061796/?utm_campaign=1061796&utm_source=habrahabr&utm_medium=rss)
+- [GitHub запустил Code Quality: проверки кода, Copilot Autofix и цена $10](https://habr.com/ru/companies/otus/news/1061778/?utm_campaign=1061778&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
