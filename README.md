@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск обновления системы потокового видеовещания OBS Studio 32.2](https://habr.com/ru/news/1061868/?utm_campaign=1061868&utm_source=habrahabr&utm_medium=rss)
 - [Last Call: до Kuber Community Day осталась всего неделя](https://habr.com/ru/companies/chislitellab/news/1062378/?utm_campaign=1062378&utm_source=habrahabr&utm_medium=rss)
 - [Kimi K3 взломала Redis, и на это ей потребовалось всего пол часа и 32 агента](https://habr.com/ru/news/1062410/?utm_campaign=1062410&utm_source=habrahabr&utm_medium=rss)
 - [У кошки – девять жизней. У Astra Linux – девять лет](https://habr.com/ru/news/1062404/?utm_campaign=1062404&utm_source=habrahabr&utm_medium=rss)
 - [Qwen-Audio-3.0-TTS: что в релизе Alibaba уже работает, а что пока обещание](https://habr.com/ru/news/1062380/?utm_campaign=1062380&utm_source=habrahabr&utm_medium=rss)
-- [Флагманская модель Сбера GigaChat 3.5 Ultra теперь доступна в Evolution Foundation Models](https://habr.com/ru/companies/cloud_ru/news/1062376/?utm_campaign=1062376&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
