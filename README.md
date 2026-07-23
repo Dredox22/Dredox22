@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В CAD-приложении Shapr3D появился экспорт моделей напрямую в PrusaSlicer и EasyPrint](https://habr.com/ru/news/1062480/?utm_campaign=1062480&utm_source=habrahabr&utm_medium=rss)
+- [Минэкономразвития введёт 27 новых кодов ОКВЭД для креативных индустрий по предложениям АСИ и НИУ ВШЭ](https://habr.com/ru/news/1062470/?utm_campaign=1062470&utm_source=habrahabr&utm_medium=rss)
 - [Google добавила новый способ входа в аккаунт — с помощью видеоселфи](https://habr.com/ru/news/1062464/?utm_campaign=1062464&utm_source=habrahabr&utm_medium=rss)
 - [Unity представила Unity 7 с CoreCLR, .NET 10 и совместимостью с шестой версией движка](https://habr.com/ru/news/1062456/?utm_campaign=1062456&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск обновления системы потокового видеовещания OBS Studio 32.2](https://habr.com/ru/news/1061868/?utm_campaign=1061868&utm_source=habrahabr&utm_medium=rss)
-- [Last Call: до Kuber Community Day осталась всего неделя](https://habr.com/ru/companies/chislitellab/news/1062378/?utm_campaign=1062378&utm_source=habrahabr&utm_medium=rss)
-- [Kimi K3 взломала Redis, и на это ей потребовалось всего пол часа и 32 агента](https://habr.com/ru/news/1062410/?utm_campaign=1062410&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
