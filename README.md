@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Raspberry Pi выпустила 10-дюймовый сенсорный дисплей Touch Display 2](https://habr.com/ru/news/1062070/?utm_campaign=1062070&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор 14 августа проведёт онлайн День открытых дверей, посвящённый правовой практике в сфере персональных данных](https://habr.com/ru/news/1061990/?utm_campaign=1061990&utm_source=habrahabr&utm_medium=rss)
+- [Релиз PicView 5.0 — открытого просмотрщика изображений для ПК на Windows 10/11 и macOS](https://habr.com/ru/news/1061752/?utm_campaign=1061752&utm_source=habrahabr&utm_medium=rss)
+- [Вышла система виртуализации VirtualBox 7.2.14](https://habr.com/ru/news/1061698/?utm_campaign=1061698&utm_source=habrahabr&utm_medium=rss)
 - [Качество топовых моделей на 60% дешевле: Cursor представили Router](https://habr.com/ru/news/1062048/?utm_campaign=1062048&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic выпустили плагин Claude Security для многоагентного поиска уязвимостей](https://habr.com/ru/news/1062032/?utm_campaign=1062032&utm_source=habrahabr&utm_medium=rss)
-- [Созданные с помощью вайбкодинга приложения заполонили App Store, но пользователи этому не рады](https://habr.com/ru/news/1062030/?utm_campaign=1062030&utm_source=habrahabr&utm_medium=rss)
-- [Google кажется решил не ждать Gemini 3.5 Pro и обновил Flash-линейку](https://habr.com/ru/companies/selectel/news/1061984/?utm_campaign=1061984&utm_source=habrahabr&utm_medium=rss)
-- [Летний ТехФест 2026: пять компаний — один вайб](https://habr.com/ru/companies/infotecs_tech/news/1061900/?utm_campaign=1061900&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
