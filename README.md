@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [«Диасофт» автоматизирует полный цикл работы с ML-моделями](https://habr.com/ru/companies/diasoft_company/news/1062342/?utm_campaign=1062342&utm_source=habrahabr&utm_medium=rss)
-- [В Python появятся стековые корутины в стиле Go за счет библиотеки Runloom](https://habr.com/ru/companies/selectel/news/1062130/?utm_campaign=1062130&utm_source=habrahabr&utm_medium=rss)
-- [В приложении Apple Store может появиться встроенный ИИ‑помощник для покупок](https://habr.com/ru/news/1062288/?utm_campaign=1062288&utm_source=habrahabr&utm_medium=rss)
-- [Дженсен Хуанг поблагодарил Sega за помощь в финансировании Nvidia](https://habr.com/ru/news/1062282/?utm_campaign=1062282&utm_source=habrahabr&utm_medium=rss)
-- [Джек Дорси представил Buzz — рабочий мессенджер с открытым исходным кодом, где вместе с сотрудниками работают ИИ‑агенты](https://habr.com/ru/news/1062272/?utm_campaign=1062272&utm_source=habrahabr&utm_medium=rss)
+- [Last Call: до Kuber Community Day осталась всего неделя](https://habr.com/ru/companies/chislitellab/news/1062378/?utm_campaign=1062378&utm_source=habrahabr&utm_medium=rss)
+- [Kimi K3 взломала Redis, и на это ей потребовалось всего пол часа и 32 агента](https://habr.com/ru/news/1062410/?utm_campaign=1062410&utm_source=habrahabr&utm_medium=rss)
+- [У кошки – девять жизней. У Astra Linux – девять лет](https://habr.com/ru/news/1062404/?utm_campaign=1062404&utm_source=habrahabr&utm_medium=rss)
+- [Qwen-Audio-3.0-TTS: что в релизе Alibaba уже работает, а что пока обещание](https://habr.com/ru/news/1062380/?utm_campaign=1062380&utm_source=habrahabr&utm_medium=rss)
+- [Флагманская модель Сбера GigaChat 3.5 Ultra теперь доступна в Evolution Foundation Models](https://habr.com/ru/companies/cloud_ru/news/1062376/?utm_campaign=1062376&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
