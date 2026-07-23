@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [«Ведомости»: после роста в 2025 году мобильный интернет-трафик в России начал сокращаться](https://habr.com/ru/news/1062230/?utm_campaign=1062230&utm_source=habrahabr&utm_medium=rss)
-- [Gemini 3.6 Flash стала доступна в GitHub Copilot](https://habr.com/ru/companies/otus/news/1062214/?utm_campaign=1062214&utm_source=habrahabr&utm_medium=rss)
-- [Власти обсуждают интеграцию в «Госуслуги» элементов соцсетей и агрегатора событий](https://habr.com/ru/news/1062192/?utm_campaign=1062192&utm_source=habrahabr&utm_medium=rss)
-- [Загрузки приложений VK через RuStore и другие магазины для Android за неделю выросли более чем в полтора раза](https://habr.com/ru/news/1062182/?utm_campaign=1062182&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia начала страховать по кредитам сдающих в аренду ИИ-мощности провайдеров](https://habr.com/ru/news/1062126/?utm_campaign=1062126&utm_source=habrahabr&utm_medium=rss)
+- [«Диасофт» автоматизирует полный цикл работы с ML-моделями](https://habr.com/ru/companies/diasoft_company/news/1062342/?utm_campaign=1062342&utm_source=habrahabr&utm_medium=rss)
+- [В Python появятся стековые корутины в стиле Go за счет библиотеки Runloom](https://habr.com/ru/companies/selectel/news/1062130/?utm_campaign=1062130&utm_source=habrahabr&utm_medium=rss)
+- [В приложении Apple Store может появиться встроенный ИИ‑помощник для покупок](https://habr.com/ru/news/1062288/?utm_campaign=1062288&utm_source=habrahabr&utm_medium=rss)
+- [Дженсен Хуанг поблагодарил Sega за помощь в финансировании Nvidia](https://habr.com/ru/news/1062282/?utm_campaign=1062282&utm_source=habrahabr&utm_medium=rss)
+- [Джек Дорси представил Buzz — рабочий мессенджер с открытым исходным кодом, где вместе с сотрудниками работают ИИ‑агенты](https://habr.com/ru/news/1062272/?utm_campaign=1062272&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
