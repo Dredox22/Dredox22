@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Фотограф собак проиграл дело о нарушении авторских прав из-за ИИ-версии снимка](https://habr.com/ru/news/1062118/?utm_campaign=1062118&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft решила разместить Copilot в Windows 11 на главном экране «Проводника»](https://habr.com/ru/news/1062106/?utm_campaign=1062106&utm_source=habrahabr&utm_medium=rss)
-- [1С-Битрикс выпустил bx-nginx 1.30.4 в ответ на новое раскрытие уязвимостей веб-сервера nginx](https://habr.com/ru/news/1062096/?utm_campaign=1062096&utm_source=habrahabr&utm_medium=rss)
-- [В коде бета-версии iOS 27 обнаружили механизм блокировки устройств в рассрочке](https://habr.com/ru/news/1062092/?utm_campaign=1062092&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск локального ИИ-сервера Lemonade 11.5 с рабочим Lemonade Router](https://habr.com/ru/news/1062094/?utm_campaign=1062094&utm_source=habrahabr&utm_medium=rss)
+- [«Ведомости»: после роста в 2025 году мобильный интернет-трафик в России начал сокращаться](https://habr.com/ru/news/1062230/?utm_campaign=1062230&utm_source=habrahabr&utm_medium=rss)
+- [Gemini 3.6 Flash стала доступна в GitHub Copilot](https://habr.com/ru/companies/otus/news/1062214/?utm_campaign=1062214&utm_source=habrahabr&utm_medium=rss)
+- [Власти обсуждают интеграцию в «Госуслуги» элементов соцсетей и агрегатора событий](https://habr.com/ru/news/1062192/?utm_campaign=1062192&utm_source=habrahabr&utm_medium=rss)
+- [Загрузки приложений VK через RuStore и другие магазины для Android за неделю выросли более чем в полтора раза](https://habr.com/ru/news/1062182/?utm_campaign=1062182&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia начала страховать по кредитам сдающих в аренду ИИ-мощности провайдеров](https://habr.com/ru/news/1062126/?utm_campaign=1062126&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
