@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Работа над портами FreeBSD приостановлена ​​из-за очень большого файла](https://habr.com/ru/news/1062560/?utm_campaign=1062560&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление «Альт Рабочая станция» 11.2, где «Яндекс Браузер» исключён из состава ISO-образа проекта](https://habr.com/ru/news/1062554/?utm_campaign=1062554&utm_source=habrahabr&utm_medium=rss)
-- [Доверие к поставщику становится важнее продукта: российские NGFW и UserGate усиливают присутствие в поисковом поле](https://habr.com/ru/companies/usergate/news/1062544/?utm_campaign=1062544&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft работает над устранением проблемы c карантином почтовых ящиков в Exchange Online](https://habr.com/ru/news/1062534/?utm_campaign=1062534&utm_source=habrahabr&utm_medium=rss)
-- [Oracle подписала с Пентагоном 10-летний контракт на ПО стоимостью до $7 млрд](https://habr.com/ru/news/1062532/?utm_campaign=1062532&utm_source=habrahabr&utm_medium=rss)
+- [Датамайнеры обнаружили эмулятор Xbox 360, скрытый в рамках обратной совместимости оригинальной Xbox с ПК](https://habr.com/ru/news/1062684/?utm_campaign=1062684&utm_source=habrahabr&utm_medium=rss)
+- [Роберт Мартин заявил, что вообще не читает код, который ему генерят ИИ-агенты после должных автоматических проверок](https://habr.com/ru/news/1062634/?utm_campaign=1062634&utm_source=habrahabr&utm_medium=rss)
+- [LG запретит использование резидентных прокси в приложениях для смарт‑телевизоров в США](https://habr.com/ru/news/1062630/?utm_campaign=1062630&utm_source=habrahabr&utm_medium=rss)
+- [Урбан ML: рекомендации, LLM, антифрод и агенты](https://habr.com/ru/companies/ru_mts/news/1062622/?utm_campaign=1062622&utm_source=habrahabr&utm_medium=rss)
+- [В Конгресс США внесли законопроект, позволяющий властям замедлять и отключать системы ИИ](https://habr.com/ru/news/1062590/?utm_campaign=1062590&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
