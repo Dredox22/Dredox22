@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск обновления открытого инструмента для сетевого мониторинга Sniffnet 1.5.1](https://habr.com/ru/news/1062440/?utm_campaign=1062440&utm_source=habrahabr&utm_medium=rss)
 - [Google начала информировать пользователей Android об изменении правил хранения резервных копий](https://habr.com/ru/news/1061636/?utm_campaign=1061636&utm_source=habrahabr&utm_medium=rss)
 - [В CAD-приложении Shapr3D появился экспорт моделей напрямую в PrusaSlicer и EasyPrint](https://habr.com/ru/news/1062480/?utm_campaign=1062480&utm_source=habrahabr&utm_medium=rss)
 - [Минэкономразвития введёт 27 новых кодов ОКВЭД для креативных индустрий по предложениям АСИ и НИУ ВШЭ](https://habr.com/ru/news/1062470/?utm_campaign=1062470&utm_source=habrahabr&utm_medium=rss)
 - [Google добавила новый способ входа в аккаунт — с помощью видеоселфи](https://habr.com/ru/news/1062464/?utm_campaign=1062464&utm_source=habrahabr&utm_medium=rss)
-- [Unity представила Unity 7 с CoreCLR, .NET 10 и совместимостью с шестой версией движка](https://habr.com/ru/news/1062456/?utm_campaign=1062456&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
