@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Perfscale news #3. Websocket, Inference, NPM](https://habr.com/ru/news/1061118/?utm_campaign=1061118&utm_source=habrahabr&utm_medium=rss)
+- [Подтверждена совместимость платформы виртуализации SpaceVM и СЗИ ВИ Dallas Lock](https://habr.com/ru/companies/spacevm/news/1062698/?utm_campaign=1062698&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Visual Studio Code 1.130: отдельный процесс для ИИ-агентов и упрощённая проверка правок](https://habr.com/ru/companies/otus/news/1062692/?utm_campaign=1062692&utm_source=habrahabr&utm_medium=rss)
 - [Датамайнеры обнаружили эмулятор Xbox 360, скрытый в рамках обратной совместимости оригинальной Xbox с ПК](https://habr.com/ru/news/1062684/?utm_campaign=1062684&utm_source=habrahabr&utm_medium=rss)
 - [Роберт Мартин заявил, что вообще не читает код, который ему генерят ИИ-агенты после должных автоматических проверок](https://habr.com/ru/news/1062634/?utm_campaign=1062634&utm_source=habrahabr&utm_medium=rss)
-- [LG запретит использование резидентных прокси в приложениях для смарт‑телевизоров в США](https://habr.com/ru/news/1062630/?utm_campaign=1062630&utm_source=habrahabr&utm_medium=rss)
-- [Урбан ML: рекомендации, LLM, антифрод и агенты](https://habr.com/ru/companies/ru_mts/news/1062622/?utm_campaign=1062622&utm_source=habrahabr&utm_medium=rss)
-- [В Конгресс США внесли законопроект, позволяющий властям замедлять и отключать системы ИИ](https://habr.com/ru/news/1062590/?utm_campaign=1062590&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
