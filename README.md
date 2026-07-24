@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [LG по указанию Microsoft удалит всплывающую рекламу McAfee из своего установщика приложений](https://habr.com/ru/news/1062522/?utm_campaign=1062522&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Tails 7.10](https://habr.com/ru/news/1062222/?utm_campaign=1062222&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления открытого инструмента для сетевого мониторинга Sniffnet 1.5.1](https://habr.com/ru/news/1062440/?utm_campaign=1062440&utm_source=habrahabr&utm_medium=rss)
-- [Google начала информировать пользователей Android об изменении правил хранения резервных копий](https://habr.com/ru/news/1061636/?utm_campaign=1061636&utm_source=habrahabr&utm_medium=rss)
-- [В CAD-приложении Shapr3D появился экспорт моделей напрямую в PrusaSlicer и EasyPrint](https://habr.com/ru/news/1062480/?utm_campaign=1062480&utm_source=habrahabr&utm_medium=rss)
+- [Работа над портами FreeBSD приостановлена ​​из-за очень большого файла](https://habr.com/ru/news/1062560/?utm_campaign=1062560&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление «Альт Рабочая станция» 11.2, где «Яндекс Браузер» исключён из состава ISO-образа проекта](https://habr.com/ru/news/1062554/?utm_campaign=1062554&utm_source=habrahabr&utm_medium=rss)
+- [Доверие к поставщику становится важнее продукта: российские NGFW и UserGate усиливают присутствие в поисковом поле](https://habr.com/ru/companies/usergate/news/1062544/?utm_campaign=1062544&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft работает над устранением проблемы c карантином почтовых ящиков в Exchange Online](https://habr.com/ru/news/1062534/?utm_campaign=1062534&utm_source=habrahabr&utm_medium=rss)
+- [Oracle подписала с Пентагоном 10-летний контракт на ПО стоимостью до $7 млрд](https://habr.com/ru/news/1062532/?utm_campaign=1062532&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
