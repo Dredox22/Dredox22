@@ -86,7 +86,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Instagram** начала блокировать видео с пранками, снятыми на умные очки Meta*](https://habr.com/ru/news/1062898/?utm_campaign=1062898&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft скоро позволит пользователям отключить аппаратную клавишу Copilot в Windows 11](https://habr.com/ru/news/1062884/?utm_campaign=1062884&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft позволит пользователям отключить аппаратную клавишу Copilot в Windows 11](https://habr.com/ru/news/1062884/?utm_campaign=1062884&utm_source=habrahabr&utm_medium=rss)
 - [Vodafone начал испытания умной вышки мобильной связи](https://habr.com/ru/news/1062870/?utm_campaign=1062870&utm_source=habrahabr&utm_medium=rss)
 - [Кому досталась высшая награда в области математики 2026 года: лауреаты медали Филдса](https://habr.com/ru/news/1062840/?utm_campaign=1062840&utm_source=habrahabr&utm_medium=rss)
 - [Жителя США обвинили в удалении данных со смартфона во время пограндосмотра](https://habr.com/ru/news/1062868/?utm_campaign=1062868&utm_source=habrahabr&utm_medium=rss)
