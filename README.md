@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Кому досталась высшая награда в области математики 2026 года: лауреаты медали Филдса](https://habr.com/ru/news/1062840/?utm_campaign=1062840&utm_source=habrahabr&utm_medium=rss)
+- [Жителя США обвинили в удалении данных со смартфона во время пограндосмотра](https://habr.com/ru/news/1062868/?utm_campaign=1062868&utm_source=habrahabr&utm_medium=rss)
+- [GitHub изменил программу вознаграждений за обнаружение ошибок](https://habr.com/ru/news/1062862/?utm_campaign=1062862&utm_source=habrahabr&utm_medium=rss)
 - [Дженсен Хуанг: ограничения открытых моделей вытолкнут инновации из США](https://habr.com/ru/news/1062820/?utm_campaign=1062820&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic выпустили Claude Opus 5: почти Fable 5 за половину цены](https://habr.com/ru/news/1062814/?utm_campaign=1062814&utm_source=habrahabr&utm_medium=rss)
-- [Джек Дорси: правительство Индии не любит такие технологии, как Bitchat, и хочет, чтобы его убрали из GitHub](https://habr.com/ru/news/1062778/?utm_campaign=1062778&utm_source=habrahabr&utm_medium=rss)
-- [Perfscale news #3. Websocket, Inference, NPM](https://habr.com/ru/news/1061118/?utm_campaign=1061118&utm_source=habrahabr&utm_medium=rss)
-- [Подтверждена совместимость платформы виртуализации SpaceVM и СЗИ ВИ Dallas Lock](https://habr.com/ru/companies/spacevm/news/1062698/?utm_campaign=1062698&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
