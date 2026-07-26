@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla собирается «открыть исходный код» Model S и X](https://habr.com/ru/news/1063058/?utm_campaign=1063058&utm_source=habrahabr&utm_medium=rss)
+- [Amazon ужесточит контроль за генерацией продавцами изображений товаров](https://habr.com/ru/news/1063054/?utm_campaign=1063054&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск системной библиотеки GNU C Library 2.44 &lpar;glibc&rpar;](https://habr.com/ru/news/1062968/?utm_campaign=1062968&utm_source=habrahabr&utm_medium=rss)
 - [За сутки в списке рассылки linux-cve-announce опубликовано 432 новых отчёта об уязвимостях в ядре Linux](https://habr.com/ru/news/1063038/?utm_campaign=1063038&utm_source=habrahabr&utm_medium=rss)
 - [Представлен первый бета-релиз OpenUaExplorer](https://habr.com/ru/news/1063036/?utm_campaign=1063036&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления Wine 11.14](https://habr.com/ru/news/1062880/?utm_campaign=1062880&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект whatbroke для сравнения поведения ИИ-агента между двумя запусками](https://habr.com/ru/news/1062974/?utm_campaign=1062974&utm_source=habrahabr&utm_medium=rss)
-- [Instagram** начала блокировать видео с пранками, снятыми на умные очки Meta*](https://habr.com/ru/news/1062898/?utm_campaign=1062898&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
