@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Moonshot AI откроет веса Kimi K3 27 июля](https://habr.com/ru/companies/bothub/news/1063118/?utm_campaign=1063118&utm_source=habrahabr&utm_medium=rss)
+- [Президент РФ подписал закон о регулировании искусственного интеллекта](https://habr.com/ru/news/1063114/?utm_campaign=1063114&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia подняла цены на свои видеокарты — подорожание затронуло весь актуальный модельный ряд с GDDR7 и GDDR6](https://habr.com/ru/news/1063082/?utm_campaign=1063082&utm_source=habrahabr&utm_medium=rss)
 - [Новые подробности взлома Hugging Face агентом OpenAI: компания могла не замечать проблему почти неделю](https://habr.com/ru/companies/bothub/news/1063070/?utm_campaign=1063070&utm_source=habrahabr&utm_medium=rss)
 - [Tesla собирается «открыть исходный код» Model S и X](https://habr.com/ru/news/1063058/?utm_campaign=1063058&utm_source=habrahabr&utm_medium=rss)
-- [Amazon ужесточит контроль за генерацией продавцами изображений товаров](https://habr.com/ru/news/1063054/?utm_campaign=1063054&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск системной библиотеки GNU C Library 2.44 &lpar;glibc&rpar;](https://habr.com/ru/news/1062968/?utm_campaign=1062968&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
