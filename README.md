@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Moonshot AI откроет веса Kimi K3 27 июля](https://habr.com/ru/companies/bothub/news/1063118/?utm_campaign=1063118&utm_source=habrahabr&utm_medium=rss)
-- [Президент РФ подписал закон о регулировании искусственного интеллекта](https://habr.com/ru/news/1063114/?utm_campaign=1063114&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia подняла цены на свои видеокарты — подорожание затронуло весь актуальный модельный ряд с GDDR7 и GDDR6](https://habr.com/ru/news/1063082/?utm_campaign=1063082&utm_source=habrahabr&utm_medium=rss)
-- [Новые подробности взлома Hugging Face агентом OpenAI: компания могла не замечать проблему почти неделю](https://habr.com/ru/companies/bothub/news/1063070/?utm_campaign=1063070&utm_source=habrahabr&utm_medium=rss)
-- [Tesla собирается «открыть исходный код» Model S и X](https://habr.com/ru/news/1063058/?utm_campaign=1063058&utm_source=habrahabr&utm_medium=rss)
+- [Мусоровозы в США хотят оснащать ИИ-камерами для проверки строительных норм](https://habr.com/ru/news/1063262/?utm_campaign=1063262&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект aeman для планирования работы инженерных команд](https://habr.com/ru/news/1062980/?utm_campaign=1062980&utm_source=habrahabr&utm_medium=rss)
+- [Гендиректор Hugging Face призвал к «радикальной прозрачности» после взлома со стороны OpenAI](https://habr.com/ru/news/1063250/?utm_campaign=1063250&utm_source=habrahabr&utm_medium=rss)
+- [Вышел FreeCAD 1.1.3](https://habr.com/ru/news/1063188/?utm_campaign=1063188&utm_source=habrahabr&utm_medium=rss)
+- [Представлено обновление утилиты CrystalDiskInfo 9.9.3](https://habr.com/ru/news/1063182/?utm_campaign=1063182&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
