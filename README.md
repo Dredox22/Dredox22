@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОП-5 ИБ‑событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1063624/?utm_campaign=1063624&utm_source=habrahabr&utm_medium=rss)
+- [NVIDIA добавила в Agent Toolkit физику и солверы](https://habr.com/ru/news/1063610/?utm_campaign=1063610&utm_source=habrahabr&utm_medium=rss)
+- [Президент подписал закон о штрафах для УК за недопуск операторов связи в дома](https://habr.com/ru/news/1063604/?utm_campaign=1063604&utm_source=habrahabr&utm_medium=rss)
 - [На «Госуслугах» запустят сервис получения льгот с помощью карты «Мир»](https://habr.com/ru/news/1063532/?utm_campaign=1063532&utm_source=habrahabr&utm_medium=rss)
 - [Открытый проект Cassette Simulation позволяет делать имитацию аудиопрофилей кассетной ленты с помощью FFmpeg](https://habr.com/ru/news/1063514/?utm_campaign=1063514&utm_source=habrahabr&utm_medium=rss)
-- [«Роскосмос» испытал модем «АТ‑Гонец» для спутникового интернета вещей](https://habr.com/ru/news/1063498/?utm_campaign=1063498&utm_source=habrahabr&utm_medium=rss)
-- [Абоненты «Билайна» столкнулись с попытками кражи номеров через дистанционный выпуск eSIM](https://habr.com/ru/news/1063472/?utm_campaign=1063472&utm_source=habrahabr&utm_medium=rss)
-- [Amazon запросила у FCC разрешение на запуск более чем 5,1 тысячи спутников интернет‑системы Amazon Leo](https://habr.com/ru/news/1063462/?utm_campaign=1063462&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
