@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Мусоровозы в США хотят оснащать ИИ-камерами для проверки строительных норм](https://habr.com/ru/news/1063262/?utm_campaign=1063262&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект aeman для планирования работы инженерных команд](https://habr.com/ru/news/1062980/?utm_campaign=1062980&utm_source=habrahabr&utm_medium=rss)
-- [Гендиректор Hugging Face призвал к «радикальной прозрачности» после взлома со стороны OpenAI](https://habr.com/ru/news/1063250/?utm_campaign=1063250&utm_source=habrahabr&utm_medium=rss)
-- [Вышел FreeCAD 1.1.3](https://habr.com/ru/news/1063188/?utm_campaign=1063188&utm_source=habrahabr&utm_medium=rss)
-- [Представлено обновление утилиты CrystalDiskInfo 9.9.3](https://habr.com/ru/news/1063182/?utm_campaign=1063182&utm_source=habrahabr&utm_medium=rss)
+- [В коде приложения Spotify для Android обнаружили упоминания функции распознавания музыки](https://habr.com/ru/news/1063432/?utm_campaign=1063432&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Geekbench 7 с новыми тестами для ИИ, видео и многоядерных процессоров](https://habr.com/ru/news/1063430/?utm_campaign=1063430&utm_source=habrahabr&utm_medium=rss)
+- [Midjourney купила стартап в области астрологии Co‑Star и разрабатывает собственное приложение](https://habr.com/ru/news/1063410/?utm_campaign=1063410&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft представила две новые модели MAI и постепенно заменяет ими OpenAI в собственных сервисах](https://habr.com/ru/companies/bothub/news/1063394/?utm_campaign=1063394&utm_source=habrahabr&utm_medium=rss)
+- [МВД сообщило о задержании в Новосибирской области группы рассыльщиков Android‑вирусов](https://habr.com/ru/news/1063386/?utm_campaign=1063386&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
