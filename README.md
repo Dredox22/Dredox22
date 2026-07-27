@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В коде приложения Spotify для Android обнаружили упоминания функции распознавания музыки](https://habr.com/ru/news/1063432/?utm_campaign=1063432&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Geekbench 7 с новыми тестами для ИИ, видео и многоядерных процессоров](https://habr.com/ru/news/1063430/?utm_campaign=1063430&utm_source=habrahabr&utm_medium=rss)
-- [Midjourney купила стартап в области астрологии Co‑Star и разрабатывает собственное приложение](https://habr.com/ru/news/1063410/?utm_campaign=1063410&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила две новые модели MAI и постепенно заменяет ими OpenAI в собственных сервисах](https://habr.com/ru/companies/bothub/news/1063394/?utm_campaign=1063394&utm_source=habrahabr&utm_medium=rss)
-- [МВД сообщило о задержании в Новосибирской области группы рассыльщиков Android‑вирусов](https://habr.com/ru/news/1063386/?utm_campaign=1063386&utm_source=habrahabr&utm_medium=rss)
+- [На «Госуслугах» запустят сервис получения льгот с помощью карты «Мир»](https://habr.com/ru/news/1063532/?utm_campaign=1063532&utm_source=habrahabr&utm_medium=rss)
+- [Открытый проект Cassette Simulation позволяет делать имитацию аудиопрофилей кассетной ленты с помощью FFmpeg](https://habr.com/ru/news/1063514/?utm_campaign=1063514&utm_source=habrahabr&utm_medium=rss)
+- [«Роскосмос» испытал модем «АТ‑Гонец» для спутникового интернета вещей](https://habr.com/ru/news/1063498/?utm_campaign=1063498&utm_source=habrahabr&utm_medium=rss)
+- [Абоненты «Билайна» столкнулись с попытками кражи номеров через дистанционный выпуск eSIM](https://habr.com/ru/news/1063472/?utm_campaign=1063472&utm_source=habrahabr&utm_medium=rss)
+- [Amazon запросила у FCC разрешение на запуск более чем 5,1 тысячи спутников интернет‑системы Amazon Leo](https://habr.com/ru/news/1063462/?utm_campaign=1063462&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
