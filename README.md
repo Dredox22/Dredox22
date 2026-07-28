@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp** тестирует редактирование подписей к статусам на Android](https://habr.com/ru/news/1063758/?utm_campaign=1063758&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск RapidRAW 1.6.0 — открытого редактора изображений RAW](https://habr.com/ru/news/1063680/?utm_campaign=1063680&utm_source=habrahabr&utm_medium=rss)
 - [Обновление открытой утилиты для оптимизации энергопотребления и производительности auto‑cpufreq 3.1](https://habr.com/ru/news/1063286/?utm_campaign=1063286&utm_source=habrahabr&utm_medium=rss)
 - [Cisco запускает Antares — недорогие ИИ‑модели для поиска известных уязвимостей в исходном коде](https://habr.com/ru/news/1062506/?utm_campaign=1062506&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ‑событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1063624/?utm_campaign=1063624&utm_source=habrahabr&utm_medium=rss)
-- [NVIDIA добавила в Agent Toolkit физику и солверы](https://habr.com/ru/news/1063610/?utm_campaign=1063610&utm_source=habrahabr&utm_medium=rss)
-- [Президент подписал закон о штрафах для УК за недопуск операторов связи в дома](https://habr.com/ru/news/1063604/?utm_campaign=1063604&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
