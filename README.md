@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [AI VK Research научила классические рекомендательные системы учитывать будущие интересы пользователей](https://habr.com/ru/news/1063876/?utm_campaign=1063876&utm_source=habrahabr&utm_medium=rss)
-- [Создали самый быстрый кластер Managed Kubernetes в России: новости продукта за первое полугодие](https://habr.com/ru/companies/selectel/news/1063598/?utm_campaign=1063598&utm_source=habrahabr&utm_medium=rss)
-- [Сбой в работе IT‑инфраструктуры Xbox заблокировал запуск игр даже с дисков](https://habr.com/ru/news/1063842/?utm_campaign=1063842&utm_source=habrahabr&utm_medium=rss)
-- [«Базальт СПО» выпустила технологический комплекс «Альт Платформа» 11.0](https://habr.com/ru/companies/basealtspo/news/1063826/?utm_campaign=1063826&utm_source=habrahabr&utm_medium=rss)
-- [В fastjson 1.2.68–1.2.83 обнаружили RCE в приложениях Spring Boot](https://habr.com/ru/companies/otus/news/1063838/?utm_campaign=1063838&utm_source=habrahabr&utm_medium=rss)
+- [Компания «Газинформсервис» первой локализовала MITRE ATT&amp;amp;CK v18 для русскоязычной аудитории](https://habr.com/ru/companies/gaz-is/news/1063990/?utm_campaign=1063990&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: ИИ по‑прежнему не способен справиться со сложными задачами в большинстве профессий](https://habr.com/ru/news/1063952/?utm_campaign=1063952&utm_source=habrahabr&utm_medium=rss)
+- [MF Spark Camp: Как мы превращаем сухие алгоритмы в живой интеллект и собираем команду у костра](https://habr.com/ru/companies/megafon/news/1063978/?utm_campaign=1063978&utm_source=habrahabr&utm_medium=rss)
+- [Ноутбук Surface Laptop со Snapdragon X Plus, 256 ГБ SSD и 8 ГБ LPDDR5X зависает при выполнении базовых задач](https://habr.com/ru/news/1063966/?utm_campaign=1063966&utm_source=habrahabr&utm_medium=rss)
+- [Claude Opus 5 за сутки сделал открытый клон Starfield](https://habr.com/ru/news/1063958/?utm_campaign=1063958&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
