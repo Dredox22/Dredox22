@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: «ЗНТЦ разработал установку электронно‑лучевой литографии по технологии 150 нм для фотошаблонов и спецмикросхем»](https://habr.com/ru/news/1064214/?utm_campaign=1064214&utm_source=habrahabr&utm_medium=rss)
+- [Mistral выпустила модель для автономной навигации роботов с помощью одной RGB‑камеры](https://habr.com/ru/news/1064208/?utm_campaign=1064208&utm_source=habrahabr&utm_medium=rss)
+- [НИИЭТ начал серийные поставки RISC‑V микроконтроллеров К1921ВГ015 российским производителям электроники](https://habr.com/ru/news/1064202/?utm_campaign=1064202&utm_source=habrahabr&utm_medium=rss)
 - [Hugging Face представила Grabette — опенсорс‑устройство для записи манипуляций с предметами, чтобы обучать роботов](https://habr.com/ru/news/1064156/?utm_campaign=1064156&utm_source=habrahabr&utm_medium=rss)
 - [Соцсеть X запустила платёжный сервис X Money](https://habr.com/ru/news/1064118/?utm_campaign=1064118&utm_source=habrahabr&utm_medium=rss)
-- [Языковую модель на 28,9 млн параметров запустили на микроконтроллере ESP32-S3](https://habr.com/ru/news/1064114/?utm_campaign=1064114&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: браузеры с ИИ‑агентами помогают обходить политику same‑origin](https://habr.com/ru/news/1064108/?utm_campaign=1064108&utm_source=habrahabr&utm_medium=rss)
-- [Космокоты для каждого. В ИИ‑роутер добавили топовые генераторы изображений](https://habr.com/ru/companies/selectel/news/1064104/?utm_campaign=1064104&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
