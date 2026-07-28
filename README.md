@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [WhatsApp** тестирует редактирование подписей к статусам на Android](https://habr.com/ru/news/1063758/?utm_campaign=1063758&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск RapidRAW 1.6.0 — открытого редактора изображений RAW](https://habr.com/ru/news/1063680/?utm_campaign=1063680&utm_source=habrahabr&utm_medium=rss)
-- [Обновление открытой утилиты для оптимизации энергопотребления и производительности auto‑cpufreq 3.1](https://habr.com/ru/news/1063286/?utm_campaign=1063286&utm_source=habrahabr&utm_medium=rss)
-- [Cisco запускает Antares — недорогие ИИ‑модели для поиска известных уязвимостей в исходном коде](https://habr.com/ru/news/1062506/?utm_campaign=1062506&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ‑событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1063624/?utm_campaign=1063624&utm_source=habrahabr&utm_medium=rss)
+- [AI VK Research научила классические рекомендательные системы учитывать будущие интересы пользователей](https://habr.com/ru/news/1063876/?utm_campaign=1063876&utm_source=habrahabr&utm_medium=rss)
+- [Создали самый быстрый кластер Managed Kubernetes в России: новости продукта за первое полугодие](https://habr.com/ru/companies/selectel/news/1063598/?utm_campaign=1063598&utm_source=habrahabr&utm_medium=rss)
+- [Сбой в работе IT‑инфраструктуры Xbox заблокировал запуск игр даже с дисков](https://habr.com/ru/news/1063842/?utm_campaign=1063842&utm_source=habrahabr&utm_medium=rss)
+- [«Базальт СПО» выпустила технологический комплекс «Альт Платформа» 11.0](https://habr.com/ru/companies/basealtspo/news/1063826/?utm_campaign=1063826&utm_source=habrahabr&utm_medium=rss)
+- [В fastjson 1.2.68–1.2.83 обнаружили RCE в приложениях Spring Boot](https://habr.com/ru/companies/otus/news/1063838/?utm_campaign=1063838&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
