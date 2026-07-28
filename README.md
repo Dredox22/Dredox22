@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Соцсеть X запустила платёжный сервис X Money](https://habr.com/ru/news/1064118/?utm_campaign=1064118&utm_source=habrahabr&utm_medium=rss)
+- [Языковую модель на 28,9 млн параметров запустили на микроконтроллере ESP32-S3](https://habr.com/ru/news/1064114/?utm_campaign=1064114&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: браузеры с ИИ‑агентами помогают обходить политику same‑origin](https://habr.com/ru/news/1064108/?utm_campaign=1064108&utm_source=habrahabr&utm_medium=rss)
+- [Космокоты для каждого. В ИИ‑роутер добавили топовые генераторы изображений](https://habr.com/ru/companies/selectel/news/1064104/?utm_campaign=1064104&utm_source=habrahabr&utm_medium=rss)
 - [«Лествица»: детектив, в котором каждый выбор меняет историю](https://habr.com/ru/news/1064042/?utm_campaign=1064042&utm_source=habrahabr&utm_medium=rss)
-- [Дженсен Хуанг опубликовал манифест в защиту открытого ИИ](https://habr.com/ru/news/1063986/?utm_campaign=1063986&utm_source=habrahabr&utm_medium=rss)
-- [Больше половины топ‑менеджеров торопят внедрение ИИ, игнорируя неготовность инфраструктуры](https://habr.com/ru/companies/k2tech/news/1064032/?utm_campaign=1064032&utm_source=habrahabr&utm_medium=rss)
-- [Reddit вслед за Old Reddit начал показывать всплывающие окна с просьбой авторизоваться](https://habr.com/ru/news/1063970/?utm_campaign=1063970&utm_source=habrahabr&utm_medium=rss)
-- [Компания «Газинформсервис» первой локализовала MITRE ATT&amp;amp;CK v18 для русскоязычной аудитории](https://habr.com/ru/companies/gaz-is/news/1063990/?utm_campaign=1063990&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
