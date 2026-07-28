@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Hugging Face представила Grabette — опенсорс‑устройство для записи манипуляций с предметами, чтобы обучать роботов](https://habr.com/ru/news/1064156/?utm_campaign=1064156&utm_source=habrahabr&utm_medium=rss)
 - [Соцсеть X запустила платёжный сервис X Money](https://habr.com/ru/news/1064118/?utm_campaign=1064118&utm_source=habrahabr&utm_medium=rss)
 - [Языковую модель на 28,9 млн параметров запустили на микроконтроллере ESP32-S3](https://habr.com/ru/news/1064114/?utm_campaign=1064114&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: браузеры с ИИ‑агентами помогают обходить политику same‑origin](https://habr.com/ru/news/1064108/?utm_campaign=1064108&utm_source=habrahabr&utm_medium=rss)
 - [Космокоты для каждого. В ИИ‑роутер добавили топовые генераторы изображений](https://habr.com/ru/companies/selectel/news/1064104/?utm_campaign=1064104&utm_source=habrahabr&utm_medium=rss)
-- [«Лествица»: детектив, в котором каждый выбор меняет историю](https://habr.com/ru/news/1064042/?utm_campaign=1064042&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
