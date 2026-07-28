@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Лествица»: детектив, в котором каждый выбор меняет историю](https://habr.com/ru/news/1064042/?utm_campaign=1064042&utm_source=habrahabr&utm_medium=rss)
+- [Дженсен Хуанг опубликовал манифест в защиту открытого ИИ](https://habr.com/ru/news/1063986/?utm_campaign=1063986&utm_source=habrahabr&utm_medium=rss)
+- [Больше половины топ‑менеджеров торопят внедрение ИИ, игнорируя неготовность инфраструктуры](https://habr.com/ru/companies/k2tech/news/1064032/?utm_campaign=1064032&utm_source=habrahabr&utm_medium=rss)
+- [Reddit вслед за Old Reddit начал показывать всплывающие окна с просьбой авторизоваться](https://habr.com/ru/news/1063970/?utm_campaign=1063970&utm_source=habrahabr&utm_medium=rss)
 - [Компания «Газинформсервис» первой локализовала MITRE ATT&amp;amp;CK v18 для русскоязычной аудитории](https://habr.com/ru/companies/gaz-is/news/1063990/?utm_campaign=1063990&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: ИИ по‑прежнему не способен справиться со сложными задачами в большинстве профессий](https://habr.com/ru/news/1063952/?utm_campaign=1063952&utm_source=habrahabr&utm_medium=rss)
-- [MF Spark Camp: Как мы превращаем сухие алгоритмы в живой интеллект и собираем команду у костра](https://habr.com/ru/companies/megafon/news/1063978/?utm_campaign=1063978&utm_source=habrahabr&utm_medium=rss)
-- [Ноутбук Surface Laptop со Snapdragon X Plus, 256 ГБ SSD и 8 ГБ LPDDR5X зависает при выполнении базовых задач](https://habr.com/ru/news/1063966/?utm_campaign=1063966&utm_source=habrahabr&utm_medium=rss)
-- [Claude Opus 5 за сутки сделал открытый клон Starfield](https://habr.com/ru/news/1063958/?utm_campaign=1063958&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
