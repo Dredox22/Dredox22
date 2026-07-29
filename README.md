@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Основатель мессенджера Telegram Павел Дуров объявлен в международный розыск](https://habr.com/ru/news/1064234/?utm_campaign=1064234&utm_source=habrahabr&utm_medium=rss)
-- [Вышел GitUp 1.5.0 — открытый проект интерфейса для Git для Mac](https://habr.com/ru/news/1064038/?utm_campaign=1064038&utm_source=habrahabr&utm_medium=rss)
-- [Какие данные собирают чат‑боты с искусственным интеллектом и что пользователи могут с этим сделать](https://habr.com/ru/news/1063704/?utm_campaign=1063704&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: «ЗНТЦ разработал установку электронно‑лучевой литографии по технологии 150 нм для фотошаблонов и спецмикросхем»](https://habr.com/ru/news/1064214/?utm_campaign=1064214&utm_source=habrahabr&utm_medium=rss)
-- [Mistral выпустила модель для автономной навигации роботов с помощью одной RGB‑камеры](https://habr.com/ru/news/1064208/?utm_campaign=1064208&utm_source=habrahabr&utm_medium=rss)
+- [JetBrains протестировали скилл Ponytail: объём кода сократился на 15%, а расходы на 10%](https://habr.com/ru/news/1064338/?utm_campaign=1064338&utm_source=habrahabr&utm_medium=rss)
+- [Как видеть полный контекст по клиенту и строить графы связей — расскажем на вебинаре](https://habr.com/ru/companies/hflabs/news/1064102/?utm_campaign=1064102&utm_source=habrahabr&utm_medium=rss)
+- [Финская Fingrid предупредила российских операторов связи о прекращении обслуживания опор ЛЭП](https://habr.com/ru/news/1064270/?utm_campaign=1064270&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты UserGate uFactor объяснили, как защититься при использовании ИИ-агентов](https://habr.com/ru/companies/usergate/news/1064282/?utm_campaign=1064282&utm_source=habrahabr&utm_medium=rss)
+- [Visa сократит около 2,6 тысячи сотрудников технологических и продуктовых команд](https://habr.com/ru/news/1064280/?utm_campaign=1064280&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
