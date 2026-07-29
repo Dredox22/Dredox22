@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Основатель мессенджера Telegram Павел Дуров объявлен в международный розыск](https://habr.com/ru/news/1064234/?utm_campaign=1064234&utm_source=habrahabr&utm_medium=rss)
+- [Вышел GitUp 1.5.0 — открытый проект интерфейса для Git для Mac](https://habr.com/ru/news/1064038/?utm_campaign=1064038&utm_source=habrahabr&utm_medium=rss)
 - [Какие данные собирают чат‑боты с искусственным интеллектом и что пользователи могут с этим сделать](https://habr.com/ru/news/1063704/?utm_campaign=1063704&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: «ЗНТЦ разработал установку электронно‑лучевой литографии по технологии 150 нм для фотошаблонов и спецмикросхем»](https://habr.com/ru/news/1064214/?utm_campaign=1064214&utm_source=habrahabr&utm_medium=rss)
 - [Mistral выпустила модель для автономной навигации роботов с помощью одной RGB‑камеры](https://habr.com/ru/news/1064208/?utm_campaign=1064208&utm_source=habrahabr&utm_medium=rss)
-- [НИИЭТ начал серийные поставки RISC‑V микроконтроллеров К1921ВГ015 российским производителям электроники](https://habr.com/ru/news/1064202/?utm_campaign=1064202&utm_source=habrahabr&utm_medium=rss)
-- [Hugging Face представила Grabette — опенсорс‑устройство для записи манипуляций с предметами, чтобы обучать роботов](https://habr.com/ru/news/1064156/?utm_campaign=1064156&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
