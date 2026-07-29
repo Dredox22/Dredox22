@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [npm начал проверять пакеты на вредоносный код при публикации](https://habr.com/ru/companies/otus/news/1064432/?utm_campaign=1064432&utm_source=habrahabr&utm_medium=rss)
-- [Веб‑версия WhatsApp** получила поддержку голосовых и видеозвонков](https://habr.com/ru/news/1064388/?utm_campaign=1064388&utm_source=habrahabr&utm_medium=rss)
-- [1 224 сотрудника западных AI-лабораторий попросили США придумать, как притормозить AI](https://habr.com/ru/news/1064374/?utm_campaign=1064374&utm_source=habrahabr&utm_medium=rss)
-- [Hugging Face опубликовала технический разбор атаки ИИ‑агента OpenAI](https://habr.com/ru/companies/bothub/news/1064324/?utm_campaign=1064324&utm_source=habrahabr&utm_medium=rss)
-- [Команда GrapheneOS защищает функцию удаления данных, которая заблокировала досмотр смартфона пользователя на границе США](https://habr.com/ru/news/1064366/?utm_campaign=1064366&utm_source=habrahabr&utm_medium=rss)
+- [Google позволит смартфонам Pixel разблокировать часы Pixel Watch](https://habr.com/ru/news/1064522/?utm_campaign=1064522&utm_source=habrahabr&utm_medium=rss)
+- [Почта России масштабировала процессы безопасной разработки с Swordfish Security](https://habr.com/ru/companies/swordfish_security/news/1064506/?utm_campaign=1064506&utm_source=habrahabr&utm_medium=rss)
+- [Что грозит Павлу Дурову и Telegram в России после обвинений ФСБ](https://habr.com/ru/news/1064484/?utm_campaign=1064484&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты UserGate обозначили шесть критериев выбора верной модели SOC для российского бизнеса](https://habr.com/ru/companies/usergate/news/1064470/?utm_campaign=1064470&utm_source=habrahabr&utm_medium=rss)
+- [«Газинформсервис» провёл международные киберучения для 22 команд из 12 стран на конференции ICT-Crime 2026](https://habr.com/ru/companies/gaz-is/news/1064458/?utm_campaign=1064458&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
