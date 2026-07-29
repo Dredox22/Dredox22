@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [JetBrains протестировали скилл Ponytail: объём кода сократился на 15%, а расходы на 10%](https://habr.com/ru/news/1064338/?utm_campaign=1064338&utm_source=habrahabr&utm_medium=rss)
-- [Как видеть полный контекст по клиенту и строить графы связей — расскажем на вебинаре](https://habr.com/ru/companies/hflabs/news/1064102/?utm_campaign=1064102&utm_source=habrahabr&utm_medium=rss)
-- [Финская Fingrid предупредила российских операторов связи о прекращении обслуживания опор ЛЭП](https://habr.com/ru/news/1064270/?utm_campaign=1064270&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты UserGate uFactor объяснили, как защититься при использовании ИИ-агентов](https://habr.com/ru/companies/usergate/news/1064282/?utm_campaign=1064282&utm_source=habrahabr&utm_medium=rss)
-- [Visa сократит около 2,6 тысячи сотрудников технологических и продуктовых команд](https://habr.com/ru/news/1064280/?utm_campaign=1064280&utm_source=habrahabr&utm_medium=rss)
+- [npm начал проверять пакеты на вредоносный код при публикации](https://habr.com/ru/companies/otus/news/1064432/?utm_campaign=1064432&utm_source=habrahabr&utm_medium=rss)
+- [Веб‑версия WhatsApp** получила поддержку голосовых и видеозвонков](https://habr.com/ru/news/1064388/?utm_campaign=1064388&utm_source=habrahabr&utm_medium=rss)
+- [1 224 сотрудника западных AI-лабораторий попросили США придумать, как притормозить AI](https://habr.com/ru/news/1064374/?utm_campaign=1064374&utm_source=habrahabr&utm_medium=rss)
+- [Hugging Face опубликовала технический разбор атаки ИИ‑агента OpenAI](https://habr.com/ru/companies/bothub/news/1064324/?utm_campaign=1064324&utm_source=habrahabr&utm_medium=rss)
+- [Команда GrapheneOS защищает функцию удаления данных, которая заблокировала досмотр смартфона пользователя на границе США](https://habr.com/ru/news/1064366/?utm_campaign=1064366&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
