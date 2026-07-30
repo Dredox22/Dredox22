@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Valve спонсирует работу по переносу драйвера RADV на Windows](https://habr.com/ru/news/1064702/?utm_campaign=1064702&utm_source=habrahabr&utm_medium=rss)
+- [Обновление открытого проекта Subtitle Edit 5.1.0 для создания, редактирования, синхронизирования и перевода субтитров](https://habr.com/ru/news/1064634/?utm_campaign=1064634&utm_source=habrahabr&utm_medium=rss)
+- [Представлен проект Vinyl для Mac, превращающий треки из Spotify в анимированные обои с вращающейся виниловой пластинкой](https://habr.com/ru/news/1064648/?utm_campaign=1064648&utm_source=habrahabr&utm_medium=rss)
 - [GOG приступила к разработке лаунчера Galaxy для Linux](https://habr.com/ru/news/1064556/?utm_campaign=1064556&utm_source=habrahabr&utm_medium=rss)
 - [Нью‑Йорк ограничит персонализированные ленты для подростков](https://habr.com/ru/news/1064536/?utm_campaign=1064536&utm_source=habrahabr&utm_medium=rss)
-- [Google позволит смартфонам Pixel разблокировать часы Pixel Watch](https://habr.com/ru/news/1064522/?utm_campaign=1064522&utm_source=habrahabr&utm_medium=rss)
-- [Почта России масштабировала процессы безопасной разработки с Swordfish Security](https://habr.com/ru/companies/swordfish_security/news/1064506/?utm_campaign=1064506&utm_source=habrahabr&utm_medium=rss)
-- [Что грозит Павлу Дурову и Telegram в России после обвинений ФСБ](https://habr.com/ru/news/1064484/?utm_campaign=1064484&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
