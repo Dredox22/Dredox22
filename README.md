@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышла новая версия редактора Visual Studio Code 1.131](https://habr.com/ru/companies/selectel/news/1064588/?utm_campaign=1064588&utm_source=habrahabr&utm_medium=rss)
-- [Британский регулятор начал расследование против Microsoft из‑за изменений в тарифах Microsoft 365 Personal и Family](https://habr.com/ru/news/1064876/?utm_campaign=1064876&utm_source=habrahabr&utm_medium=rss)
-- [Visual Studio Code 1.131: новый режим работы с агентами, диктовка и редактор Markdown](https://habr.com/ru/companies/otus/news/1064864/?utm_campaign=1064864&utm_source=habrahabr&utm_medium=rss)
-- [InfoWatch Device Control повысил удобство контроля внешних устройств](https://habr.com/ru/companies/infowatch/news/1064842/?utm_campaign=1064842&utm_source=habrahabr&utm_medium=rss)
-- [Intel и Fortinet объявили о совместной разработке чипа Security Processor 6, ориентированного на производительность](https://habr.com/ru/news/1064790/?utm_campaign=1064790&utm_source=habrahabr&utm_medium=rss)
+- [Битрикс24 делает двухфакторную аутентификацию обязательной для клиентов на тарифах «Энтерпрайз» и «Профессиональный»](https://habr.com/ru/news/1064968/?utm_campaign=1064968&utm_source=habrahabr&utm_medium=rss)
+- [Google начала тестировать проверку возраста пользователей Android‑приложений через Play Age Signals API](https://habr.com/ru/news/1064934/?utm_campaign=1064934&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: Павла Дурова* внесли в перечень террористов и экстремистов Росфинмониторинга](https://habr.com/ru/news/1064944/?utm_campaign=1064944&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft без предупреждения устанавливает OneDrive Photos на ПК под Windows 11](https://habr.com/ru/news/1064928/?utm_campaign=1064928&utm_source=habrahabr&utm_medium=rss)
+- [Claude Opus 5 Max удалила всю базу данных проекта через десять минут после начала работы](https://habr.com/ru/news/1064918/?utm_campaign=1064918&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
