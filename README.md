@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Австралийский регулятор подал на Telegram в суд; платформу обвиняют в нарушении законов о борьбе с запрещённым контентом](https://habr.com/ru/news/1064798/?utm_campaign=1064798&utm_source=habrahabr&utm_medium=rss)
-- [В «Яндекс Картах» появились готовые маршруты для пеших прогулок](https://habr.com/ru/news/1064796/?utm_campaign=1064796&utm_source=habrahabr&utm_medium=rss)
-- [SpaceX планирует купить частоты на аукционе и начать конкурировать с мобильными операторами](https://habr.com/ru/news/1064792/?utm_campaign=1064792&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры предлагает оставить авторизацию на иностранных сайтах только по номеру телефона](https://habr.com/ru/news/1064780/?utm_campaign=1064780&utm_source=habrahabr&utm_medium=rss)
-- [Обновление платформы SimpleOne 1.34.0 ускоряет реакцию на критичные события и снижает риски внутренних аудитов](https://habr.com/ru/companies/simpleone/news/1064770/?utm_campaign=1064770&utm_source=habrahabr&utm_medium=rss)
+- [Вышла новая версия редактора Visual Studio Code 1.131](https://habr.com/ru/companies/selectel/news/1064588/?utm_campaign=1064588&utm_source=habrahabr&utm_medium=rss)
+- [Британский регулятор начал расследование против Microsoft из‑за изменений в тарифах Microsoft 365 Personal и Family](https://habr.com/ru/news/1064876/?utm_campaign=1064876&utm_source=habrahabr&utm_medium=rss)
+- [Visual Studio Code 1.131: новый режим работы с агентами, диктовка и редактор Markdown](https://habr.com/ru/companies/otus/news/1064864/?utm_campaign=1064864&utm_source=habrahabr&utm_medium=rss)
+- [InfoWatch Device Control повысил удобство контроля внешних устройств](https://habr.com/ru/companies/infowatch/news/1064842/?utm_campaign=1064842&utm_source=habrahabr&utm_medium=rss)
+- [Intel и Fortinet объявили о совместной разработке чипа Security Processor 6, ориентированного на производительность](https://habr.com/ru/news/1064790/?utm_campaign=1064790&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
