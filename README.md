@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Valve спонсирует работу по переносу драйвера RADV на Windows](https://habr.com/ru/news/1064702/?utm_campaign=1064702&utm_source=habrahabr&utm_medium=rss)
-- [Обновление открытого проекта Subtitle Edit 5.1.0 для создания, редактирования, синхронизирования и перевода субтитров](https://habr.com/ru/news/1064634/?utm_campaign=1064634&utm_source=habrahabr&utm_medium=rss)
-- [Представлен проект Vinyl для Mac, превращающий треки из Spotify в анимированные обои с вращающейся виниловой пластинкой](https://habr.com/ru/news/1064648/?utm_campaign=1064648&utm_source=habrahabr&utm_medium=rss)
-- [GOG приступила к разработке лаунчера Galaxy для Linux](https://habr.com/ru/news/1064556/?utm_campaign=1064556&utm_source=habrahabr&utm_medium=rss)
-- [Нью‑Йорк ограничит персонализированные ленты для подростков](https://habr.com/ru/news/1064536/?utm_campaign=1064536&utm_source=habrahabr&utm_medium=rss)
+- [Австралийский регулятор подал на Telegram в суд; платформу обвиняют в нарушении законов о борьбе с запрещённым контентом](https://habr.com/ru/news/1064798/?utm_campaign=1064798&utm_source=habrahabr&utm_medium=rss)
+- [В «Яндекс Картах» появились готовые маршруты для пеших прогулок](https://habr.com/ru/news/1064796/?utm_campaign=1064796&utm_source=habrahabr&utm_medium=rss)
+- [SpaceX планирует купить частоты на аукционе и начать конкурировать с мобильными операторами](https://habr.com/ru/news/1064792/?utm_campaign=1064792&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры предлагает оставить авторизацию на иностранных сайтах только по номеру телефона](https://habr.com/ru/news/1064780/?utm_campaign=1064780&utm_source=habrahabr&utm_medium=rss)
+- [Обновление платформы SimpleOne 1.34.0 ускоряет реакцию на критичные события и снижает риски внутренних аудитов](https://habr.com/ru/companies/simpleone/news/1064770/?utm_campaign=1064770&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
