@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Как хранить медицинские данные и не строить свой ЦОД](https://habr.com/ru/companies/cloud4y/news/1064998/?utm_campaign=1064998&utm_source=habrahabr&utm_medium=rss)
+- [За недопуск провайдеров в дома УК начали привлекать к ответственности](https://habr.com/ru/news/1064992/?utm_campaign=1064992&utm_source=habrahabr&utm_medium=rss)
 - [Битрикс24 делает двухфакторную аутентификацию обязательной для клиентов на тарифах «Энтерпрайз» и «Профессиональный»](https://habr.com/ru/news/1064968/?utm_campaign=1064968&utm_source=habrahabr&utm_medium=rss)
 - [Google начала тестировать проверку возраста пользователей Android‑приложений через Play Age Signals API](https://habr.com/ru/news/1064934/?utm_campaign=1064934&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: Павла Дурова* внесли в перечень террористов и экстремистов Росфинмониторинга](https://habr.com/ru/news/1064944/?utm_campaign=1064944&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft без предупреждения устанавливает OneDrive Photos на ПК под Windows 11](https://habr.com/ru/news/1064928/?utm_campaign=1064928&utm_source=habrahabr&utm_medium=rss)
-- [Claude Opus 5 Max удалила всю базу данных проекта через десять минут после начала работы](https://habr.com/ru/news/1064918/?utm_campaign=1064918&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
