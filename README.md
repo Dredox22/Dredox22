@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Активисты начали уничтожать камеры Flock по всей территории США](https://habr.com/ru/news/1065142/?utm_campaign=1065142&utm_source=habrahabr&utm_medium=rss)
-- [Keychron анонсировала ZGM — открытую прошивку для игровых мышей](https://habr.com/ru/news/1065132/?utm_campaign=1065132&utm_source=habrahabr&utm_medium=rss)
-- [Альянс AOMedia представил первую версию спецификации Open Audio Renderer](https://habr.com/ru/news/1065130/?utm_campaign=1065130&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Chrome 151](https://habr.com/ru/news/1064772/?utm_campaign=1064772&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление открытого мультиплатформенного растрового графического редактора Krita 5.3.3](https://habr.com/ru/news/1064750/?utm_campaign=1064750&utm_source=habrahabr&utm_medium=rss)
+- [Apple даст возможность увеличивать лимиты использования ИИ‑функций за дополнительную плату](https://habr.com/ru/news/1065236/?utm_campaign=1065236&utm_source=habrahabr&utm_medium=rss)
+- [Выпускник НГУ создал бесплатный браузерный симулятор «Компьютер Ершова» для сборки 8-битного процессора](https://habr.com/ru/news/1065190/?utm_campaign=1065190&utm_source=habrahabr&utm_medium=rss)
+- [Геймер из Аризоны попал в больницу с огнестрельными ранениями после общения с админом одного сервера игры Rust](https://habr.com/ru/news/1065246/?utm_campaign=1065246&utm_source=habrahabr&utm_medium=rss)
+- [Торгово‑промышленная палата попросила ужесточить контроль за локализацией продукции](https://habr.com/ru/news/1065222/?utm_campaign=1065222&utm_source=habrahabr&utm_medium=rss)
+- [С 1 августа мобильный трафик на Max станет бесплатным для пользователей](https://habr.com/ru/news/1065188/?utm_campaign=1065188&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
