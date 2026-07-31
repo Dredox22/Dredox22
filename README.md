@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic нашла три случая, когда Claude получил интернет в тестах и атаковал реальные компании](https://habr.com/ru/companies/bothub/news/1065366/?utm_campaign=1065366&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: Nvidia подняла цены на комплекты GPU+VRAM на 30%, AMD — на 10%](https://habr.com/ru/news/1065346/?utm_campaign=1065346&utm_source=habrahabr&utm_medium=rss)
 - [Немецкий суд признал разработчиков ИИ‑генератора Suno виновными в нарушении авторских прав](https://habr.com/ru/news/1065334/?utm_campaign=1065334&utm_source=habrahabr&utm_medium=rss)
 - [На Netflix подали в суд за утерю мастер‑копии ещё не вышедшего фильма](https://habr.com/ru/news/1065300/?utm_campaign=1065300&utm_source=habrahabr&utm_medium=rss)
 - [Perfscale news #4. GRPC, Fixed Triggers, Child Process](https://habr.com/ru/news/1064292/?utm_campaign=1064292&utm_source=habrahabr&utm_medium=rss)
-- [Релиз PPEM 2.8: кворумная синхронная репликация, управление конфигурацией и поддержка AQO](https://habr.com/ru/companies/postgrespro/news/1064738/?utm_campaign=1064738&utm_source=habrahabr&utm_medium=rss)
-- [Apple даст возможность увеличивать лимиты использования ИИ‑функций за дополнительную плату](https://habr.com/ru/news/1065236/?utm_campaign=1065236&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
