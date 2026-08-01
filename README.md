@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз гипервизора Xen 4.22](https://habr.com/ru/news/1065148/?utm_campaign=1065148&utm_source=habrahabr&utm_medium=rss)
 - [Counter-Strike: Global Offensive стал доступен для запуска в браузере](https://habr.com/ru/news/1065506/?utm_campaign=1065506&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic нашла три случая, когда Claude получил интернет в тестах и атаковал реальные компании](https://habr.com/ru/companies/bothub/news/1065366/?utm_campaign=1065366&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: Nvidia подняла цены на комплекты GPU+VRAM на 30%, AMD — на 10%](https://habr.com/ru/news/1065346/?utm_campaign=1065346&utm_source=habrahabr&utm_medium=rss)
 - [Немецкий суд признал разработчиков ИИ‑генератора Suno виновными в нарушении авторских прав](https://habr.com/ru/news/1065334/?utm_campaign=1065334&utm_source=habrahabr&utm_medium=rss)
-- [На Netflix подали в суд за утерю мастер‑копии ещё не вышедшего фильма](https://habr.com/ru/news/1065300/?utm_campaign=1065300&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
