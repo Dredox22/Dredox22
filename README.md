@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск 4MLinux 52.0](https://habr.com/ru/news/1065626/?utm_campaign=1065626&utm_source=habrahabr&utm_medium=rss)
+- [Пользователь TikTok попал под полицейское расследование за использование очков Meta* для съёмки людей](https://habr.com/ru/news/1065694/?utm_campaign=1065694&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Microsoft Edge 151](https://habr.com/ru/news/1065598/?utm_campaign=1065598&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление открытого проекта для создания и хранения в электронной библиотеке книг разного формата Calibre 9.12](https://habr.com/ru/news/1065438/?utm_campaign=1065438&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI заявила о 10 математических прорывах: достижения новой модели Astra](https://habr.com/ru/companies/bothub/news/1065612/?utm_campaign=1065612&utm_source=habrahabr&utm_medium=rss)
-- [Google DeepMind представила Gemini Robotics ER 2 — модель для физического ИИ](https://habr.com/ru/companies/bothub/news/1065558/?utm_campaign=1065558&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект Decimen Optical Transfer для передачи файлов между смартфонами через QR-коды](https://habr.com/ru/news/1065534/?utm_campaign=1065534&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
