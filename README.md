@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Microsoft Edge 151](https://habr.com/ru/news/1065598/?utm_campaign=1065598&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление открытого проекта для создания и хранения в электронной библиотеке книг разного формата Calibre 9.12](https://habr.com/ru/news/1065438/?utm_campaign=1065438&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI заявила о 10 математических прорывах: достижения новой модели Astra](https://habr.com/ru/companies/bothub/news/1065612/?utm_campaign=1065612&utm_source=habrahabr&utm_medium=rss)
 - [Google DeepMind представила Gemini Robotics ER 2 — модель для физического ИИ](https://habr.com/ru/companies/bothub/news/1065558/?utm_campaign=1065558&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый проект Decimen Optical Transfer для передачи файлов между смартфонами через QR-коды](https://habr.com/ru/news/1065534/?utm_campaign=1065534&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск открытой платформы для самостоятельного хранения и управления фото и видео Immich 3.1](https://habr.com/ru/news/1065154/?utm_campaign=1065154&utm_source=habrahabr&utm_medium=rss)
-- [Релиз гипервизора Xen 4.22](https://habr.com/ru/news/1065148/?utm_campaign=1065148&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
