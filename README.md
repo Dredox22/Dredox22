@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud X OS получила сертификат ФСТЭК](https://habr.com/ru/companies/cloud_x/news/1066090/?utm_campaign=1066090&utm_source=habrahabr&utm_medium=rss)
-- [Московский суд отказался признавать авторские права на изображения, созданные с помощью ИИ](https://habr.com/ru/news/1066064/?utm_campaign=1066064&utm_source=habrahabr&utm_medium=rss)
-- [Обновление проекта KillerPDF 1.7.0 — редактора PDF с открытым исходным кодом для Windows 10/11](https://habr.com/ru/news/1065880/?utm_campaign=1065880&utm_source=habrahabr&utm_medium=rss)
-- [Unity добавила в свой движок специальную поддержку игровой экосистемы Netflix](https://habr.com/ru/news/1066004/?utm_campaign=1066004&utm_source=habrahabr&utm_medium=rss)
-- [Инженер Apple утверждает, что его уволили после отказа отправлять идентификаторы устройств клиентов в AT&amp;amp;T](https://habr.com/ru/news/1065982/?utm_campaign=1065982&utm_source=habrahabr&utm_medium=rss)
+- [В Steam вышла бесплатная утилита Porthole для игр по локальной сети через серверы Valve](https://habr.com/ru/news/1066208/?utm_campaign=1066208&utm_source=habrahabr&utm_medium=rss)
+- [1Password: 40% разработчиков предоставляют агентам ИИ постоянный доступ к системам](https://habr.com/ru/news/1066188/?utm_campaign=1066188&utm_source=habrahabr&utm_medium=rss)
+- [ФАС возбудила дело против Apple, потому что компания не предустанавливает Max на iPhone](https://habr.com/ru/news/1066154/?utm_campaign=1066154&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ‑событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1066134/?utm_campaign=1066134&utm_source=habrahabr&utm_medium=rss)
+- [Студенты Центрального университета завоевали три медали на Международной олимпиаде по математике в Болгарии](https://habr.com/ru/news/1066128/?utm_campaign=1066128&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
