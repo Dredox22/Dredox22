@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Alibaba выпустили Qwen3.8-Max: стоит в четыре раза дешевле Opus 5, но уступает в сложном кодинге](https://habr.com/ru/news/1065884/?utm_campaign=1065884&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления видеоредактора с открытым исходным кодом Shotcut 26.8](https://habr.com/ru/news/1065758/?utm_campaign=1065758&utm_source=habrahabr&utm_medium=rss)
-- [Группу подростков‑туристов пришлось спасать на вертолёте из‑за ошибки Google Maps](https://habr.com/ru/news/1065874/?utm_campaign=1065874&utm_source=habrahabr&utm_medium=rss)
-- [Представлен выпуск браузерного движка Servo 0.4.0, написанного на Rust](https://habr.com/ru/news/1065628/?utm_campaign=1065628&utm_source=habrahabr&utm_medium=rss)
-- [Релиз NetBSD 11.0](https://habr.com/ru/news/1065696/?utm_campaign=1065696&utm_source=habrahabr&utm_medium=rss)
+- [Unity добавила в свой движок специальную поддержку игровой экосистемы Netflix](https://habr.com/ru/news/1066004/?utm_campaign=1066004&utm_source=habrahabr&utm_medium=rss)
+- [Инженер Apple утверждает, что его уволили после отказа отправлять идентификаторы устройств клиентов в AT&amp;amp;T](https://habr.com/ru/news/1065982/?utm_campaign=1065982&utm_source=habrahabr&utm_medium=rss)
+- [Wildberries, Ozon, МТС и «Яндекс» заинтересовались покупкой долей в НСПК](https://habr.com/ru/news/1065932/?utm_campaign=1065932&utm_source=habrahabr&utm_medium=rss)
+- [В США недобросовестные сотрудники полиции превратили общенациональную сеть камер Flock в инструмент слежки](https://habr.com/ru/news/1065924/?utm_campaign=1065924&utm_source=habrahabr&utm_medium=rss)
+- [Мобильные операторы начали блокировать массовые звонки без маркировки](https://habr.com/ru/news/1065920/?utm_campaign=1065920&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
