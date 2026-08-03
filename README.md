@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Seeed Studio выпустила reCamera Pro — 4K‑камеру с поддержкой локального AI](https://habr.com/ru/news/1066256/?utm_campaign=1066256&utm_source=habrahabr&utm_medium=rss)
 - [Atomic Heart вышла в российском Steam спустя 3 года после релиза, ранее тайтл был доступен только в VK Play](https://habr.com/ru/news/1066222/?utm_campaign=1066222&utm_source=habrahabr&utm_medium=rss)
 - [В Steam вышла бесплатная утилита Porthole для игр по локальной сети через серверы Valve](https://habr.com/ru/news/1066208/?utm_campaign=1066208&utm_source=habrahabr&utm_medium=rss)
 - [1Password: 40% разработчиков предоставляют агентам ИИ постоянный доступ к системам](https://habr.com/ru/news/1066188/?utm_campaign=1066188&utm_source=habrahabr&utm_medium=rss)
 - [ФАС возбудила дело против Apple, потому что компания не предустанавливает Max на iPhone](https://habr.com/ru/news/1066154/?utm_campaign=1066154&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ‑событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1066134/?utm_campaign=1066134&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
