@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloud X OS получила сертификат ФСТЭК](https://habr.com/ru/companies/cloud_x/news/1066090/?utm_campaign=1066090&utm_source=habrahabr&utm_medium=rss)
+- [Московский суд отказался признавать авторские права на изображения, созданные с помощью ИИ](https://habr.com/ru/news/1066064/?utm_campaign=1066064&utm_source=habrahabr&utm_medium=rss)
+- [Обновление проекта KillerPDF 1.7.0 — редактора PDF с открытым исходным кодом для Windows 10/11](https://habr.com/ru/news/1065880/?utm_campaign=1065880&utm_source=habrahabr&utm_medium=rss)
 - [Unity добавила в свой движок специальную поддержку игровой экосистемы Netflix](https://habr.com/ru/news/1066004/?utm_campaign=1066004&utm_source=habrahabr&utm_medium=rss)
 - [Инженер Apple утверждает, что его уволили после отказа отправлять идентификаторы устройств клиентов в AT&amp;amp;T](https://habr.com/ru/news/1065982/?utm_campaign=1065982&utm_source=habrahabr&utm_medium=rss)
-- [Wildberries, Ozon, МТС и «Яндекс» заинтересовались покупкой долей в НСПК](https://habr.com/ru/news/1065932/?utm_campaign=1065932&utm_source=habrahabr&utm_medium=rss)
-- [В США недобросовестные сотрудники полиции превратили общенациональную сеть камер Flock в инструмент слежки](https://habr.com/ru/news/1065924/?utm_campaign=1065924&utm_source=habrahabr&utm_medium=rss)
-- [Мобильные операторы начали блокировать массовые звонки без маркировки](https://habr.com/ru/news/1065920/?utm_campaign=1065920&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
