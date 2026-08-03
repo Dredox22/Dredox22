@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен выпуск браузерного движка Servo 0.4.0, написанного на Rust](https://habr.com/ru/news/1065628/?utm_campaign=1065628&utm_source=habrahabr&utm_medium=rss)
 - [Релиз NetBSD 11.0](https://habr.com/ru/news/1065696/?utm_campaign=1065696&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск 4MLinux 52.0](https://habr.com/ru/news/1065626/?utm_campaign=1065626&utm_source=habrahabr&utm_medium=rss)
 - [Пользователь TikTok попал под полицейское расследование за использование очков Meta* для съёмки людей](https://habr.com/ru/news/1065694/?utm_campaign=1065694&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Microsoft Edge 151](https://habr.com/ru/news/1065598/?utm_campaign=1065598&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление открытого проекта для создания и хранения в электронной библиотеке книг разного формата Calibre 9.12](https://habr.com/ru/news/1065438/?utm_campaign=1065438&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
