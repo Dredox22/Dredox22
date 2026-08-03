@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Alibaba выпустили Qwen3.8-Max: стоит в четыре раза дешевле Opus 5, но уступает в сложном кодинге](https://habr.com/ru/news/1065884/?utm_campaign=1065884&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления видеоредактора с открытым исходным кодом Shotcut 26.8](https://habr.com/ru/news/1065758/?utm_campaign=1065758&utm_source=habrahabr&utm_medium=rss)
+- [Группу подростков‑туристов пришлось спасать на вертолёте из‑за ошибки Google Maps](https://habr.com/ru/news/1065874/?utm_campaign=1065874&utm_source=habrahabr&utm_medium=rss)
 - [Представлен выпуск браузерного движка Servo 0.4.0, написанного на Rust](https://habr.com/ru/news/1065628/?utm_campaign=1065628&utm_source=habrahabr&utm_medium=rss)
 - [Релиз NetBSD 11.0](https://habr.com/ru/news/1065696/?utm_campaign=1065696&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск 4MLinux 52.0](https://habr.com/ru/news/1065626/?utm_campaign=1065626&utm_source=habrahabr&utm_medium=rss)
-- [Пользователь TikTok попал под полицейское расследование за использование очков Meta* для съёмки людей](https://habr.com/ru/news/1065694/?utm_campaign=1065694&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Microsoft Edge 151](https://habr.com/ru/news/1065598/?utm_campaign=1065598&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
