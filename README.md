@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Разработчик ради шутки выложил в Steam игру This Game Costs 200 Dollars и выставил за неё ровно $200, её купили 6717 раз](https://habr.com/ru/news/1066442/?utm_campaign=1066442&utm_source=habrahabr&utm_medium=rss)
-- [Представлен проект ICQ Reborn — сторонняя версия оригинального мессенджера и без шифрования](https://habr.com/ru/news/1066426/?utm_campaign=1066426&utm_source=habrahabr&utm_medium=rss)
-- [После увольнения некоторые бывшие сотрудники Apple годами сохраняли доступ к секретным документам компании через iCloud](https://habr.com/ru/news/1066392/?utm_campaign=1066392&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» создал компанию для развития медицинского ИИ‑ассистента](https://habr.com/ru/news/1066388/?utm_campaign=1066388&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Intune теперь поддерживает инвентаризацию реестра](https://habr.com/ru/news/1066352/?utm_campaign=1066352&utm_source=habrahabr&utm_medium=rss)
+- [Представлена версия 2.0.0 OpenModSim](https://habr.com/ru/news/1066522/?utm_campaign=1066522&utm_source=habrahabr&utm_medium=rss)
+- [Создатель оригинального «Диспетчера задач» Windows выпустил мониторинг системы для macOS](https://habr.com/ru/news/1066506/?utm_campaign=1066506&utm_source=habrahabr&utm_medium=rss)
+- [Агент ФБР похитил около $1 млн с иностранных криптокошельков](https://habr.com/ru/news/1066504/?utm_campaign=1066504&utm_source=habrahabr&utm_medium=rss)
+- [Череда релизов: вышли новые версии Axiom JDK, Axiom NIK, Libercat и Axiom JDK Express](https://habr.com/ru/companies/axiomjdk/news/1066482/?utm_campaign=1066482&utm_source=habrahabr&utm_medium=rss)
+- [Центральный университет открыл набор в магистратуру «ИИ в биотехе»](https://habr.com/ru/news/1066468/?utm_campaign=1066468&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
