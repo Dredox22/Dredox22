@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В Китае люди начали сдавать свои лица в аренду для ИИ‑сериалов и рекламы](https://habr.com/ru/news/1066362/?utm_campaign=1066362&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Tomviz 3.0 — открытого проекта для реконструкции, обработки и визуализации трёхмерных томографических данных](https://habr.com/ru/news/1066086/?utm_campaign=1066086&utm_source=habrahabr&utm_medium=rss)
-- [Галлюцинации недели: открытые веса Kimi K3, Gemini Robotics 2 и внезапное снижение цен на GPT 5.6](https://habr.com/ru/news/1066024/?utm_campaign=1066024&utm_source=habrahabr&utm_medium=rss)
-- [WhatsApp** исправила проблему c отключением части учётных записей](https://habr.com/ru/news/1066336/?utm_campaign=1066336&utm_source=habrahabr&utm_medium=rss)
-- [4 августа Telegram стал временно недоступен в App Store в нескольких странах, включая Россию, Турцию и США](https://habr.com/ru/news/1066340/?utm_campaign=1066340&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик ради шутки выложил в Steam игру This Game Costs 200 Dollars и выставил за неё ровно $200, её купили 6717 раз](https://habr.com/ru/news/1066442/?utm_campaign=1066442&utm_source=habrahabr&utm_medium=rss)
+- [Представлен проект ICQ Reborn — сторонняя версия оригинального мессенджера и без шифрования](https://habr.com/ru/news/1066426/?utm_campaign=1066426&utm_source=habrahabr&utm_medium=rss)
+- [После увольнения некоторые бывшие сотрудники Apple годами сохраняли доступ к секретным документам компании через iCloud](https://habr.com/ru/news/1066392/?utm_campaign=1066392&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» создал компанию для развития медицинского ИИ‑ассистента](https://habr.com/ru/news/1066388/?utm_campaign=1066388&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft Intune теперь поддерживает инвентаризацию реестра](https://habr.com/ru/news/1066352/?utm_campaign=1066352&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
