@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Поиск «Яндекса» начал предупреждать, что онлайн-банки могут быть недоступны в иностранных браузерах](https://habr.com/ru/news/1066598/?utm_campaign=1066598&utm_source=habrahabr&utm_medium=rss)
+- [Маркетплейсы меняют правила: почему одного нового закона продавцам не хватит](https://habr.com/ru/companies/infostart/news/1066594/?utm_campaign=1066594&utm_source=habrahabr&utm_medium=rss)
 - [Представлена версия 2.0.0 OpenModSim](https://habr.com/ru/news/1066522/?utm_campaign=1066522&utm_source=habrahabr&utm_medium=rss)
 - [Создатель оригинального «Диспетчера задач» Windows выпустил мониторинг системы для macOS](https://habr.com/ru/news/1066506/?utm_campaign=1066506&utm_source=habrahabr&utm_medium=rss)
 - [Агент ФБР похитил около $1 млн с иностранных криптокошельков](https://habr.com/ru/news/1066504/?utm_campaign=1066504&utm_source=habrahabr&utm_medium=rss)
-- [Череда релизов: вышли новые версии Axiom JDK, Axiom NIK, Libercat и Axiom JDK Express](https://habr.com/ru/companies/axiomjdk/news/1066482/?utm_campaign=1066482&utm_source=habrahabr&utm_medium=rss)
-- [Центральный университет открыл набор в магистратуру «ИИ в биотехе»](https://habr.com/ru/news/1066468/?utm_campaign=1066468&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
