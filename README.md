@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Из-за отзыва зарубежных SSL-сертификатов сайты российских банков перестали открываться в Chrome, Safari, Edge и Opera](https://habr.com/ru/news/1066306/?utm_campaign=1066306&utm_source=habrahabr&utm_medium=rss)
-- [Релиз текстового редактора GNU nano 9.2](https://habr.com/ru/news/1066050/?utm_campaign=1066050&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления HopToDesk 1.46.14 — безопасного открытого решения для удалённого рабочего стола](https://habr.com/ru/news/1065996/?utm_campaign=1065996&utm_source=habrahabr&utm_medium=rss)
-- [Российские банки массово перешли на сертификат Минцирфы](https://habr.com/ru/news/1066284/?utm_campaign=1066284&utm_source=habrahabr&utm_medium=rss)
-- [Seeed Studio выпустила reCamera Pro — 4K‑камеру с поддержкой локального AI](https://habr.com/ru/news/1066256/?utm_campaign=1066256&utm_source=habrahabr&utm_medium=rss)
+- [В Китае люди начали сдавать свои лица в аренду для ИИ‑сериалов и рекламы](https://habr.com/ru/news/1066362/?utm_campaign=1066362&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Tomviz 3.0 — открытого проекта для реконструкции, обработки и визуализации трёхмерных томографических данных](https://habr.com/ru/news/1066086/?utm_campaign=1066086&utm_source=habrahabr&utm_medium=rss)
+- [Галлюцинации недели: открытые веса Kimi K3, Gemini Robotics 2 и внезапное снижение цен на GPT 5.6](https://habr.com/ru/news/1066024/?utm_campaign=1066024&utm_source=habrahabr&utm_medium=rss)
+- [WhatsApp** исправила проблему c отключением части учётных записей](https://habr.com/ru/news/1066336/?utm_campaign=1066336&utm_source=habrahabr&utm_medium=rss)
+- [4 августа Telegram стал временно недоступен в App Store в нескольких странах, включая Россию, Турцию и США](https://habr.com/ru/news/1066340/?utm_campaign=1066340&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
