@@ -87,9 +87,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Глава Telegram: мессенджер временно убрали из App Store после манипуляции со старым сообщением и не спросив команду](https://habr.com/ru/news/1066682/?utm_campaign=1066682&utm_source=habrahabr&utm_medium=rss)
 - [Релиз консольного файлового менеджера Midnight Commander 6.0 &lpar;mc6&rpar;](https://habr.com/ru/news/1066666/?utm_campaign=1066666&utm_source=habrahabr&utm_medium=rss)
-- [Как Яндекс Браузер проверяет национальные сертификаты на сайтах банков](https://habr.com/ru/companies/yandex/news/1066624/?utm_campaign=1066624&utm_source=habrahabr&utm_medium=rss)
+- [Как Яндекс Браузер проверяет национальные сертификаты на сайтах банков](https://habr.com/ru/companies/yandex/news/1066624/?utm_campaign=1066624&utm_source=habrahabr&utm_medium=rss)
 - [Поиск «Яндекса» начал предупреждать, что онлайн-банки могут быть недоступны в иностранных браузерах](https://habr.com/ru/news/1066598/?utm_campaign=1066598&utm_source=habrahabr&utm_medium=rss)
-- [Маркетплейсы меняют правила: почему одного нового закона продавцам не хватит](https://habr.com/ru/companies/infostart/news/1066594/?utm_campaign=1066594&utm_source=habrahabr&utm_medium=rss)
+- [Маркетплейсы меняют правила: почему одного нового закона продавцам не хватит](https://habr.com/ru/companies/infostart/news/1066594/?utm_campaign=1066594&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
