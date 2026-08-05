@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Manticore Search 28.6.6: UUID-идентификаторы документов, сортировка в GROUP_CONCAT&lpar;&rpar; и 16 исправлений](https://habr.com/ru/news/1066756/?utm_campaign=1066756&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск музыкального проигрывателя Rhythmbox 3.5](https://habr.com/ru/news/1066660/?utm_campaign=1066660&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект Prismriver Lyrics 1.0.0 — инструментарий для поиска текстов песен](https://habr.com/ru/news/1066640/?utm_campaign=1066640&utm_source=habrahabr&utm_medium=rss)
-- [Глава Telegram: мессенджер временно убрали из App Store после манипуляции со старым сообщением и не спросив команду](https://habr.com/ru/news/1066682/?utm_campaign=1066682&utm_source=habrahabr&utm_medium=rss)
-- [Релиз консольного файлового менеджера Midnight Commander 6.0 &lpar;mc6&rpar;](https://habr.com/ru/news/1066666/?utm_campaign=1066666&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры мониторят ваш периметр непрерывно. А вы?](https://habr.com/ru/companies/secware/news/1066860/?utm_campaign=1066860&utm_source=habrahabr&utm_medium=rss)
+- [ЦБ: мошенники украли у россиян 252 млн рублей через банкоматы за второй квартал 2026 года](https://habr.com/ru/news/1066852/?utm_campaign=1066852&utm_source=habrahabr&utm_medium=rss)
+- [Sandisk и SK Hynix опубликовали первый открытый стандарт высокоскоростной флэш‑памяти](https://habr.com/ru/news/1066824/?utm_campaign=1066824&utm_source=habrahabr&utm_medium=rss)
+- [Десятки тысяч студентов будут пересдавать проваленный под контролем ИИ экзамен](https://habr.com/ru/news/1066820/?utm_campaign=1066820&utm_source=habrahabr&utm_medium=rss)
+- [Утечки IP‑адресов и DNS в WebKit затрагивают прокси‑браузеры и Apple iCloud Private Relay](https://habr.com/ru/news/1066804/?utm_campaign=1066804&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
