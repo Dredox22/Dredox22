@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [C 4 сентября Google Assistant перестанет работать на смартфонах и планшетах Android, его заменит Gemini](https://habr.com/ru/news/1067110/?utm_campaign=1067110&utm_source=habrahabr&utm_medium=rss)
+- [KOMPAScon 6.0: фестиваль инженерной культуры и 3D-технологий](https://habr.com/ru/companies/ascon/news/1066696/?utm_campaign=1066696&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи Google Drive теперь могут оставлять замечания к моментам видео без ручного ввода таймкодов](https://habr.com/ru/news/1066750/?utm_campaign=1066750&utm_source=habrahabr&utm_medium=rss)
+- [Представлен проект «Grand Theft Auto III в браузере»](https://habr.com/ru/news/1067018/?utm_campaign=1067018&utm_source=habrahabr&utm_medium=rss)
 - [Организаторы контрольной по естественным наукам «Выходи решать!» назвали регионы с лучшими результатами за 2025 год](https://habr.com/ru/news/1066988/?utm_campaign=1066988&utm_source=habrahabr&utm_medium=rss)
-- [Депутат Госдумы заявил, что дело ФАС против Apple ничем не грозит работе iPhone в России](https://habr.com/ru/news/1066978/?utm_campaign=1066978&utm_source=habrahabr&utm_medium=rss)
-- [E-CODE 2026: главное событие ко Дню программиста](https://habr.com/ru/companies/ozontech/news/1065444/?utm_campaign=1065444&utm_source=habrahabr&utm_medium=rss)
-- [Волна краж с аппаратных кошельков Coldcard произошла из‑за уязвимости одной из версий прошивки](https://habr.com/ru/news/1066934/?utm_campaign=1066934&utm_source=habrahabr&utm_medium=rss)
-- [Россияне смогут пополнять свои счета в банке через сторонние банкоматы](https://habr.com/ru/news/1066920/?utm_campaign=1066920&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
