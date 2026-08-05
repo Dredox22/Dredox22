@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Хакеры мониторят ваш периметр непрерывно. А вы?](https://habr.com/ru/companies/secware/news/1066860/?utm_campaign=1066860&utm_source=habrahabr&utm_medium=rss)
-- [ЦБ: мошенники украли у россиян 252 млн рублей через банкоматы за второй квартал 2026 года](https://habr.com/ru/news/1066852/?utm_campaign=1066852&utm_source=habrahabr&utm_medium=rss)
-- [Sandisk и SK Hynix опубликовали первый открытый стандарт высокоскоростной флэш‑памяти](https://habr.com/ru/news/1066824/?utm_campaign=1066824&utm_source=habrahabr&utm_medium=rss)
-- [Десятки тысяч студентов будут пересдавать проваленный под контролем ИИ экзамен](https://habr.com/ru/news/1066820/?utm_campaign=1066820&utm_source=habrahabr&utm_medium=rss)
-- [Утечки IP‑адресов и DNS в WebKit затрагивают прокси‑браузеры и Apple iCloud Private Relay](https://habr.com/ru/news/1066804/?utm_campaign=1066804&utm_source=habrahabr&utm_medium=rss)
+- [Организаторы контрольной по естественным наукам «Выходи решать!» назвали регионы с лучшими результатами за 2025 год](https://habr.com/ru/news/1066988/?utm_campaign=1066988&utm_source=habrahabr&utm_medium=rss)
+- [Депутат Госдумы заявил, что дело ФАС против Apple ничем не грозит работе iPhone в России](https://habr.com/ru/news/1066978/?utm_campaign=1066978&utm_source=habrahabr&utm_medium=rss)
+- [E-CODE 2026: главное событие ко Дню программиста](https://habr.com/ru/companies/ozontech/news/1065444/?utm_campaign=1065444&utm_source=habrahabr&utm_medium=rss)
+- [Волна краж с аппаратных кошельков Coldcard произошла из‑за уязвимости одной из версий прошивки](https://habr.com/ru/news/1066934/?utm_campaign=1066934&utm_source=habrahabr&utm_medium=rss)
+- [Россияне смогут пополнять свои счета в банке через сторонние банкоматы](https://habr.com/ru/news/1066920/?utm_campaign=1066920&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
