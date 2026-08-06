@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз NWinfo 1.6.6 — открытого портативного инструмента для быстрого просмотра ключевых характеристик ПК на Windows](https://habr.com/ru/news/1067002/?utm_campaign=1067002&utm_source=habrahabr&utm_medium=rss)
-- [37% машиностроителей фокусируются на ERP и ИБ](https://habr.com/ru/companies/k2tech/news/1067144/?utm_campaign=1067144&utm_source=habrahabr&utm_medium=rss)
-- [Хакатоны августа 2026](https://habr.com/ru/news/1067118/?utm_campaign=1067118&utm_source=habrahabr&utm_medium=rss)
-- [C 4 сентября Google Assistant перестанет работать на смартфонах и планшетах Android, его заменит Gemini](https://habr.com/ru/news/1067110/?utm_campaign=1067110&utm_source=habrahabr&utm_medium=rss)
-- [KOMPAScon 6.0: фестиваль инженерной культуры и 3D-технологий](https://habr.com/ru/companies/ascon/news/1066696/?utm_campaign=1066696&utm_source=habrahabr&utm_medium=rss)
+- [Cloudflare открыла исходный код Cloudflare OS](https://habr.com/ru/news/1067278/?utm_campaign=1067278&utm_source=habrahabr&utm_medium=rss)
+- [Удаление приложений Windows не всегда означает их полное исчезновение с ПК](https://habr.com/ru/news/1067272/?utm_campaign=1067272&utm_source=habrahabr&utm_medium=rss)
+- [Представлен сервис ChatTJB с человеком вместо ИИ](https://habr.com/ru/news/1067270/?utm_campaign=1067270&utm_source=habrahabr&utm_medium=rss)
+- [Проект Arch Linux временно запретил передачу AUR‑пакетов со статусом orphaned новым сопровождающим](https://habr.com/ru/news/1067266/?utm_campaign=1067266&utm_source=habrahabr&utm_medium=rss)
+- [Вышел открытый проект Bottles 65.0 — оболочки на основе Wine для запуска приложений Windows в Linux](https://habr.com/ru/news/1066956/?utm_campaign=1066956&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
