@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare открыла исходный код Cloudflare OS](https://habr.com/ru/news/1067278/?utm_campaign=1067278&utm_source=habrahabr&utm_medium=rss)
-- [Удаление приложений Windows не всегда означает их полное исчезновение с ПК](https://habr.com/ru/news/1067272/?utm_campaign=1067272&utm_source=habrahabr&utm_medium=rss)
-- [Представлен сервис ChatTJB с человеком вместо ИИ](https://habr.com/ru/news/1067270/?utm_campaign=1067270&utm_source=habrahabr&utm_medium=rss)
-- [Проект Arch Linux временно запретил передачу AUR‑пакетов со статусом orphaned новым сопровождающим](https://habr.com/ru/news/1067266/?utm_campaign=1067266&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый проект Bottles 65.0 — оболочки на основе Wine для запуска приложений Windows в Linux](https://habr.com/ru/news/1066956/?utm_campaign=1066956&utm_source=habrahabr&utm_medium=rss)
+- [Wildberries зарегистрировала домены для собственного мессенджера](https://habr.com/ru/news/1067380/?utm_campaign=1067380&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft упростила добавление картинок‑подписей в электронные письма Outlook](https://habr.com/ru/news/1067370/?utm_campaign=1067370&utm_source=habrahabr&utm_medium=rss)
+- [Разбор в прямом эфире: MCP в Test IT 5.8 Fornax – путь от копирования сценариев в чат к работе с контекстом проекта](https://habr.com/ru/news/1067356/?utm_campaign=1067356&utm_source=habrahabr&utm_medium=rss)
+- [Российские IT-компании попросили Минцифры упростить работу с обезличенными ПД для разработки и обучения своих ИИ](https://habr.com/ru/news/1067286/?utm_campaign=1067286&utm_source=habrahabr&utm_medium=rss)
+- [Mythos 5 пыталась выдать себя за человека и выложить на GitHub вредоносный код](https://habr.com/ru/news/1067284/?utm_campaign=1067284&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
