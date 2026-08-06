@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз NWinfo 1.6.6 — открытого портативного инструмента для быстрого просмотра ключевых характеристик ПК на Windows](https://habr.com/ru/news/1067002/?utm_campaign=1067002&utm_source=habrahabr&utm_medium=rss)
 - [37% машиностроителей фокусируются на ERP и ИБ](https://habr.com/ru/companies/k2tech/news/1067144/?utm_campaign=1067144&utm_source=habrahabr&utm_medium=rss)
 - [Хакатоны августа 2026](https://habr.com/ru/news/1067118/?utm_campaign=1067118&utm_source=habrahabr&utm_medium=rss)
 - [C 4 сентября Google Assistant перестанет работать на смартфонах и планшетах Android, его заменит Gemini](https://habr.com/ru/news/1067110/?utm_campaign=1067110&utm_source=habrahabr&utm_medium=rss)
 - [KOMPAScon 6.0: фестиваль инженерной культуры и 3D-технологий](https://habr.com/ru/companies/ascon/news/1066696/?utm_campaign=1066696&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи Google Drive теперь могут оставлять замечания к моментам видео без ручного ввода таймкодов](https://habr.com/ru/news/1066750/?utm_campaign=1066750&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
