@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon DynamoDB получил поддержку векторного поиска в реальном времени](https://habr.com/ru/companies/otus/news/1067470/?utm_campaign=1067470&utm_source=habrahabr&utm_medium=rss)
+- [Вам доклады по Go или Java? VK приглашает на «Митап с двойной начинкой»](https://habr.com/ru/companies/vk/news/1067456/?utm_campaign=1067456&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи сообщили о сбоях в работе российских сервисов](https://habr.com/ru/news/1067458/?utm_campaign=1067458&utm_source=habrahabr&utm_medium=rss)
+- [Новые функции LPE для работы с датой и временем](https://habr.com/ru/companies/luxms_bi/news/1067440/?utm_campaign=1067440&utm_source=habrahabr&utm_medium=rss)
 - [Wildberries зарегистрировала домены для собственного мессенджера](https://habr.com/ru/news/1067380/?utm_campaign=1067380&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft упростила добавление картинок‑подписей в электронные письма Outlook](https://habr.com/ru/news/1067370/?utm_campaign=1067370&utm_source=habrahabr&utm_medium=rss)
-- [Разбор в прямом эфире: MCP в Test IT 5.8 Fornax – путь от копирования сценариев в чат к работе с контекстом проекта](https://habr.com/ru/news/1067356/?utm_campaign=1067356&utm_source=habrahabr&utm_medium=rss)
-- [Российские IT-компании попросили Минцифры упростить работу с обезличенными ПД для разработки и обучения своих ИИ](https://habr.com/ru/news/1067286/?utm_campaign=1067286&utm_source=habrahabr&utm_medium=rss)
-- [Mythos 5 пыталась выдать себя за человека и выложить на GitHub вредоносный код](https://habr.com/ru/news/1067284/?utm_campaign=1067284&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
