@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Студент из Южной Кореи разработал навигатор, прокладывающий пешие маршруты по тени](https://habr.com/ru/news/1067678/?utm_campaign=1067678&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи нашли способ раскрыть реальный IP пользователей функции «Частный узел iCloud»](https://habr.com/ru/news/1067668/?utm_campaign=1067668&utm_source=habrahabr&utm_medium=rss)
+- [DeepSeek предупредили о «значительном» повышении цен на API](https://habr.com/ru/news/1067646/?utm_campaign=1067646&utm_source=habrahabr&utm_medium=rss)
+- [Сервис Roku запустил круглосуточный канал Fairground AI Creator TV с фильмами и сериалами, полностью созданными ИИ](https://habr.com/ru/news/1067548/?utm_campaign=1067548&utm_source=habrahabr&utm_medium=rss)
 - [Amazon DynamoDB получил поддержку векторного поиска в реальном времени](https://habr.com/ru/companies/otus/news/1067470/?utm_campaign=1067470&utm_source=habrahabr&utm_medium=rss)
-- [Вам доклады по Go или Java? VK приглашает на «Митап с двойной начинкой»](https://habr.com/ru/companies/vk/news/1067456/?utm_campaign=1067456&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи сообщили о сбоях в работе российских сервисов](https://habr.com/ru/news/1067458/?utm_campaign=1067458&utm_source=habrahabr&utm_medium=rss)
-- [Новые функции LPE для работы с датой и временем](https://habr.com/ru/companies/luxms_bi/news/1067440/?utm_campaign=1067440&utm_source=habrahabr&utm_medium=rss)
-- [Wildberries зарегистрировала домены для собственного мессенджера](https://habr.com/ru/news/1067380/?utm_campaign=1067380&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
