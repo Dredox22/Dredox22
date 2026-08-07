@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик пожаловался, что в выдачу Gemini попали данные из его приватного Google‑документа](https://habr.com/ru/news/1067976/?utm_campaign=1067976&utm_source=habrahabr&utm_medium=rss)
+- [AMD покупает стартап Taalas для создания чипов под конкретные нейросети](https://habr.com/ru/companies/selectel/news/1067958/?utm_campaign=1067958&utm_source=habrahabr&utm_medium=rss)
+- [Antmicro представила открытый адаптер Thunderbolt 3 с двумя портами 10GbE](https://habr.com/ru/news/1067936/?utm_campaign=1067936&utm_source=habrahabr&utm_medium=rss)
 - [AMD приобрела стартап в сфере чипов для ИИ Taalas](https://habr.com/ru/news/1067924/?utm_campaign=1067924&utm_source=habrahabr&utm_medium=rss)
 - [Perfscale news #5](https://habr.com/ru/news/1067192/?utm_campaign=1067192&utm_source=habrahabr&utm_medium=rss)
-- [После OpenAI и Anthropic о «побеге» ИИ-модели в тестах сообщили Meta*](https://habr.com/ru/companies/bothub/news/1067894/?utm_campaign=1067894&utm_source=habrahabr&utm_medium=rss)
-- [Минпромторг предложил закрыть лазейку для госзакупок иностранной электроники](https://habr.com/ru/news/1067874/?utm_campaign=1067874&utm_source=habrahabr&utm_medium=rss)
-- [Max откроет API и запустит программу поддержки разработчиков для создания альтернативных клиентов](https://habr.com/ru/news/1067850/?utm_campaign=1067850&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
