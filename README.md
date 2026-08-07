@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В роутерах Zbtlink нашли бэкдор с отправкой внутренних данных третьим лицам](https://habr.com/ru/news/1067712/?utm_campaign=1067712&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления Mesa 26.2](https://habr.com/ru/news/1067332/?utm_campaign=1067332&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Agent Plugins 1.0: единый формат расширений для Codex, Cursor и Copilot](https://habr.com/ru/news/1067700/?utm_campaign=1067700&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск Rust Coreutils 0.10.0](https://habr.com/ru/news/1067372/?utm_campaign=1067372&utm_source=habrahabr&utm_medium=rss)
 - [Релиз PDFsam &lpar;PDF Split And Merge&rpar; 6.0.5](https://habr.com/ru/news/1067316/?utm_campaign=1067316&utm_source=habrahabr&utm_medium=rss)
-- [Студент из Южной Кореи разработал навигатор, прокладывающий пешие маршруты по тени](https://habr.com/ru/news/1067678/?utm_campaign=1067678&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи нашли способ раскрыть реальный IP пользователей функции «Частный узел iCloud»](https://habr.com/ru/news/1067668/?utm_campaign=1067668&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
