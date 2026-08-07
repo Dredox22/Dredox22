@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Agent Plugins 1.0: единый формат расширений для Codex, Cursor и Copilot](https://habr.com/ru/news/1067700/?utm_campaign=1067700&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск Rust Coreutils 0.10.0](https://habr.com/ru/news/1067372/?utm_campaign=1067372&utm_source=habrahabr&utm_medium=rss)
+- [Релиз PDFsam &lpar;PDF Split And Merge&rpar; 6.0.5](https://habr.com/ru/news/1067316/?utm_campaign=1067316&utm_source=habrahabr&utm_medium=rss)
 - [Студент из Южной Кореи разработал навигатор, прокладывающий пешие маршруты по тени](https://habr.com/ru/news/1067678/?utm_campaign=1067678&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи нашли способ раскрыть реальный IP пользователей функции «Частный узел iCloud»](https://habr.com/ru/news/1067668/?utm_campaign=1067668&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek предупредили о «значительном» повышении цен на API](https://habr.com/ru/news/1067646/?utm_campaign=1067646&utm_source=habrahabr&utm_medium=rss)
-- [Сервис Roku запустил круглосуточный канал Fairground AI Creator TV с фильмами и сериалами, полностью созданными ИИ](https://habr.com/ru/news/1067548/?utm_campaign=1067548&utm_source=habrahabr&utm_medium=rss)
-- [Amazon DynamoDB получил поддержку векторного поиска в реальном времени](https://habr.com/ru/companies/otus/news/1067470/?utm_campaign=1067470&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
