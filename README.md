@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic сделает Auto mode режимом по умолчанию в Claude Code: люди пропустили 86,4% опасных команд](https://habr.com/ru/news/1068086/?utm_campaign=1068086&utm_source=habrahabr&utm_medium=rss)
 - [Apple планирует открыть для ПК с Windows доступ к буферу обмена iPhone в ЕС по запросу Microsoft](https://habr.com/ru/news/1066748/?utm_campaign=1066748&utm_source=habrahabr&utm_medium=rss)
 - [Claude Opus 5 удалила данные пользователя вместо создания резервной копии с помощью «rm -rf» для всего диска на ПК](https://habr.com/ru/news/1068052/?utm_campaign=1068052&utm_source=habrahabr&utm_medium=rss)
 - [ИИ создал вирусы, которых не было в природе. Стоит ли бояться?](https://habr.com/ru/companies/selectel/news/1067994/?utm_campaign=1067994&utm_source=habrahabr&utm_medium=rss)
 - [Российские школьники получили 7 золотых и 1 бронзовую медаль на Международной олимпиаде по ИИ IOAI 2026](https://habr.com/ru/news/1068028/?utm_campaign=1068028&utm_source=habrahabr&utm_medium=rss)
-- [Команда Google Creative Lab собрала офлайн‑переводчик на Raspberry Pi 5 с локальной Gemma 4](https://habr.com/ru/news/1068018/?utm_campaign=1068018&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
