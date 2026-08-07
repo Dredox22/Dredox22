@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [AMD приобрела стартап в сфере чипов для ИИ Taalas](https://habr.com/ru/news/1067924/?utm_campaign=1067924&utm_source=habrahabr&utm_medium=rss)
+- [Perfscale news #5](https://habr.com/ru/news/1067192/?utm_campaign=1067192&utm_source=habrahabr&utm_medium=rss)
 - [После OpenAI и Anthropic о «побеге» ИИ-модели в тестах сообщили Meta*](https://habr.com/ru/companies/bothub/news/1067894/?utm_campaign=1067894&utm_source=habrahabr&utm_medium=rss)
 - [Минпромторг предложил закрыть лазейку для госзакупок иностранной электроники](https://habr.com/ru/news/1067874/?utm_campaign=1067874&utm_source=habrahabr&utm_medium=rss)
 - [Max откроет API и запустит программу поддержки разработчиков для создания альтернативных клиентов](https://habr.com/ru/news/1067850/?utm_campaign=1067850&utm_source=habrahabr&utm_medium=rss)
-- [Открыта регистрация на E-CUP 2026 Students](https://habr.com/ru/companies/ozontech/news/1067838/?utm_campaign=1067838&utm_source=habrahabr&utm_medium=rss)
-- [Сбой в Рунете 6 августа произошёл из-за инцидента в инфраструктуре «Ростелекома», который смогли исправить за полчаса](https://habr.com/ru/news/1067862/?utm_campaign=1067862&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
