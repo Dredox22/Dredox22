@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [После OpenAI и Anthropic о «побеге» ИИ-модели в тестах сообщили Meta*](https://habr.com/ru/companies/bothub/news/1067894/?utm_campaign=1067894&utm_source=habrahabr&utm_medium=rss)
+- [Минпромторг предложил закрыть лазейку для госзакупок иностранной электроники](https://habr.com/ru/news/1067874/?utm_campaign=1067874&utm_source=habrahabr&utm_medium=rss)
+- [Max откроет API и запустит программу поддержки разработчиков для создания альтернативных клиентов](https://habr.com/ru/news/1067850/?utm_campaign=1067850&utm_source=habrahabr&utm_medium=rss)
+- [Открыта регистрация на E-CUP 2026 Students](https://habr.com/ru/companies/ozontech/news/1067838/?utm_campaign=1067838&utm_source=habrahabr&utm_medium=rss)
 - [Сбой в Рунете 6 августа произошёл из-за инцидента в инфраструктуре «Ростелекома», который смогли исправить за полчаса](https://habr.com/ru/news/1067862/?utm_campaign=1067862&utm_source=habrahabr&utm_medium=rss)
-- [UserGate вступил в Ассоциацию высоких технологий и цифровой инфраструктуры Республики Беларусь](https://habr.com/ru/companies/usergate/news/1067846/?utm_campaign=1067846&utm_source=habrahabr&utm_medium=rss)
-- [Deckhouse Kubernetes Platform CE теперь можно устанавливать в закрытом контуре](https://habr.com/ru/companies/flant/news/1067824/?utm_campaign=1067824&utm_source=habrahabr&utm_medium=rss)
-- [Эксперты UserGate обозначили деталь, которая выдаст дипфейк за секунду](https://habr.com/ru/companies/usergate/news/1067842/?utm_campaign=1067842&utm_source=habrahabr&utm_medium=rss)
-- [NOOA от NVIDIA: открытый Python-фреймворк для разработки ИИ-агентов](https://habr.com/ru/companies/selectel/news/1067790/?utm_campaign=1067790&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
