@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Новые изображения Солнца демонстрируют его поверхность с мельчайшими деталями](https://habr.com/ru/news/1067732/?utm_campaign=1067732&utm_source=habrahabr&utm_medium=rss)
-- [JetBrains представили Context: семантический индекс репозиториев для Claude Code, Codex и Junie](https://habr.com/ru/news/1067702/?utm_campaign=1067702&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила ИИ‑инструменты для процесса отладки в Windows 11](https://habr.com/ru/news/1067720/?utm_campaign=1067720&utm_source=habrahabr&utm_medium=rss)
-- [Грег Кроа-Хартман объявил запрет на приём ИИ-патчей в раздел drivers/staging ядра Linux](https://habr.com/ru/news/1067724/?utm_campaign=1067724&utm_source=habrahabr&utm_medium=rss)
-- [JetBrains готовит IntelliJ IDEA к работе с Cursor, Codex и Claude Code через LSP](https://habr.com/ru/news/1067704/?utm_campaign=1067704&utm_source=habrahabr&utm_medium=rss)
+- [Сбой в Рунете 6 августа произошёл из-за инцидента в инфраструктуре «Ростелекома», который смогли исправить за полчаса](https://habr.com/ru/news/1067862/?utm_campaign=1067862&utm_source=habrahabr&utm_medium=rss)
+- [UserGate вступил в Ассоциацию высоких технологий и цифровой инфраструктуры Республики Беларусь](https://habr.com/ru/companies/usergate/news/1067846/?utm_campaign=1067846&utm_source=habrahabr&utm_medium=rss)
+- [Deckhouse Kubernetes Platform CE теперь можно устанавливать в закрытом контуре](https://habr.com/ru/companies/flant/news/1067824/?utm_campaign=1067824&utm_source=habrahabr&utm_medium=rss)
+- [Эксперты UserGate обозначили деталь, которая выдаст дипфейк за секунду](https://habr.com/ru/companies/usergate/news/1067842/?utm_campaign=1067842&utm_source=habrahabr&utm_medium=rss)
+- [NOOA от NVIDIA: открытый Python-фреймворк для разработки ИИ-агентов](https://habr.com/ru/companies/selectel/news/1067790/?utm_campaign=1067790&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
