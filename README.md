@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В роутерах Zbtlink нашли бэкдор с отправкой внутренних данных третьим лицам](https://habr.com/ru/news/1067712/?utm_campaign=1067712&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления Mesa 26.2](https://habr.com/ru/news/1067332/?utm_campaign=1067332&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Agent Plugins 1.0: единый формат расширений для Codex, Cursor и Copilot](https://habr.com/ru/news/1067700/?utm_campaign=1067700&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск Rust Coreutils 0.10.0](https://habr.com/ru/news/1067372/?utm_campaign=1067372&utm_source=habrahabr&utm_medium=rss)
-- [Релиз PDFsam &lpar;PDF Split And Merge&rpar; 6.0.5](https://habr.com/ru/news/1067316/?utm_campaign=1067316&utm_source=habrahabr&utm_medium=rss)
+- [Новые изображения Солнца демонстрируют его поверхность с мельчайшими деталями](https://habr.com/ru/news/1067732/?utm_campaign=1067732&utm_source=habrahabr&utm_medium=rss)
+- [JetBrains представили Context: семантический индекс репозиториев для Claude Code, Codex и Junie](https://habr.com/ru/news/1067702/?utm_campaign=1067702&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft представила ИИ‑инструменты для процесса отладки в Windows 11](https://habr.com/ru/news/1067720/?utm_campaign=1067720&utm_source=habrahabr&utm_medium=rss)
+- [Грег Кроа-Хартман объявил запрет на приём ИИ-патчей в раздел drivers/staging ядра Linux](https://habr.com/ru/news/1067724/?utm_campaign=1067724&utm_source=habrahabr&utm_medium=rss)
+- [JetBrains готовит IntelliJ IDEA к работе с Cursor, Codex и Claude Code через LSP](https://habr.com/ru/news/1067704/?utm_campaign=1067704&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
