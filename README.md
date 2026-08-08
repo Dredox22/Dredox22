@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Компания Framework уведомила всех клиентов об утечке данных](https://habr.com/ru/news/1068122/?utm_campaign=1068122&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратит поддержку расширений Manifest V2 в браузере Edge](https://habr.com/ru/news/1068110/?utm_campaign=1068110&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic сделает Auto mode режимом по умолчанию в Claude Code: люди пропустили 86,4% опасных команд](https://habr.com/ru/news/1068086/?utm_campaign=1068086&utm_source=habrahabr&utm_medium=rss)
 - [Apple планирует открыть для ПК с Windows доступ к буферу обмена iPhone в ЕС по запросу Microsoft](https://habr.com/ru/news/1066748/?utm_campaign=1066748&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление открытого проекта для создания и хранения в электронной библиотеке книг разного формата Calibre 9.13](https://habr.com/ru/news/1068060/?utm_campaign=1068060&utm_source=habrahabr&utm_medium=rss)
-- [Claude Opus 5 удалила данные пользователя вместо создания резервной копии с помощью «rm -rf» для всего диска на ПК](https://habr.com/ru/news/1068052/?utm_campaign=1068052&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
