@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Oracle закрыла приём в открытый проект OpenJDK изменений, созданный с помощью ИИ-инструментов](https://habr.com/ru/news/1068244/?utm_campaign=1068244&utm_source=habrahabr&utm_medium=rss)
+- [Cisco представила выпуск свободного антивирусного инструментария ClamAV 1.5.4](https://habr.com/ru/news/1068112/?utm_campaign=1068112&utm_source=habrahabr&utm_medium=rss)
+- [Вышел открытый дисплейный менеджер LightDM 1.33.0](https://habr.com/ru/news/1068116/?utm_campaign=1068116&utm_source=habrahabr&utm_medium=rss)
+- [Oracle закрыла приём в открытый проект OpenJDK изменений, созданных с помощью ИИ-инструментов](https://habr.com/ru/news/1068244/?utm_campaign=1068244&utm_source=habrahabr&utm_medium=rss)
 - [Манипуляция агентами: эксплуатация уязвимостей в репозитории Google Agent Development Kit](https://habr.com/ru/companies/selectel/news/1067932/?utm_campaign=1067932&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI замедлила разработку модели Astra](https://habr.com/ru/news/1068128/?utm_campaign=1068128&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи взломали детские умные часы и показали, что можно следить за их владельцем](https://habr.com/ru/news/1068138/?utm_campaign=1068138&utm_source=habrahabr&utm_medium=rss)
-- [Cloudflare выпустил браузер Kitesurf для ИИ‑агентов](https://habr.com/ru/news/1068126/?utm_campaign=1068126&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
