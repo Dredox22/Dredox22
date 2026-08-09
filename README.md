@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Иллинойсе обязали все операционные системы сообщать возраст пользователей](https://habr.com/ru/news/1068332/?utm_campaign=1068332&utm_source=habrahabr&utm_medium=rss)
 - [Agent Plugins 1.0: единый формат плагинов для AI-агентов](https://habr.com/ru/news/1068304/?utm_campaign=1068304&utm_source=habrahabr&utm_medium=rss)
 - [Cisco представила выпуск свободного антивирусного инструментария ClamAV 1.5.4](https://habr.com/ru/news/1068112/?utm_campaign=1068112&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый дисплейный менеджер LightDM 1.33.0](https://habr.com/ru/news/1068116/?utm_campaign=1068116&utm_source=habrahabr&utm_medium=rss)
 - [Oracle закрыла приём в открытый проект OpenJDK изменений, созданных с помощью ИИ-инструментов](https://habr.com/ru/news/1068244/?utm_campaign=1068244&utm_source=habrahabr&utm_medium=rss)
-- [Манипуляция агентами: эксплуатация уязвимостей в репозитории Google Agent Development Kit](https://habr.com/ru/companies/selectel/news/1067932/?utm_campaign=1067932&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
