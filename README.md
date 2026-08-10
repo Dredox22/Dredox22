@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Московский паркинг объявил тендер почти на 1 млрд рублей на размещение IT‑инфраструктуры](https://habr.com/ru/news/1068818/?utm_campaign=1068818&utm_source=habrahabr&utm_medium=rss)
+- [Отечественные ИБ-решения «Солара» стали доступны по всей России благодаря 455 партнерам программы SolarShip](https://habr.com/ru/companies/solarsecurity/news/1068808/?utm_campaign=1068808&utm_source=habrahabr&utm_medium=rss)
 - [ФСТЭК утвердила шкалу зрелости ИБ: от «нулевого» до «верифицируемого»](https://habr.com/ru/news/1068758/?utm_campaign=1068758&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» обновил алгоритмы «Поиска по картинкам»](https://habr.com/ru/news/1068790/?utm_campaign=1068790&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик запустил Quest‑версию Beat Saber на Apple Vision Pro без стриминга и JIT](https://habr.com/ru/news/1068770/?utm_campaign=1068770&utm_source=habrahabr&utm_medium=rss)
-- [Meta выпустили Muse Glimmer 30B: локальная модель для кодинга помещается в 24 ГБ памяти](https://habr.com/ru/news/1068746/?utm_campaign=1068746&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft отключает графические пароли для новых пользователей Windows](https://habr.com/ru/news/1068742/?utm_campaign=1068742&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
