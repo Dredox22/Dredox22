@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен ReTransmission — форк Transmission после разногласий между его сопровождающими по поводу управления проектом](https://habr.com/ru/news/1068428/?utm_campaign=1068428&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления дистрибутива для одноплатных ПК DietPi 10.6](https://habr.com/ru/news/1068424/?utm_campaign=1068424&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления Wine 11.15](https://habr.com/ru/news/1068258/?utm_campaign=1068258&utm_source=habrahabr&utm_medium=rss)
 - [Suno запустит инструмент для маркировки сгенерированных треков](https://habr.com/ru/news/1068360/?utm_campaign=1068360&utm_source=habrahabr&utm_medium=rss)
 - [В Иллинойсе обязали все операционные системы сообщать возраст пользователей](https://habr.com/ru/news/1068332/?utm_campaign=1068332&utm_source=habrahabr&utm_medium=rss)
-- [Agent Plugins 1.0: единый формат плагинов для AI-агентов](https://habr.com/ru/news/1068304/?utm_campaign=1068304&utm_source=habrahabr&utm_medium=rss)
-- [Cisco представила выпуск свободного антивирусного инструментария ClamAV 1.5.4](https://habr.com/ru/news/1068112/?utm_campaign=1068112&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый дисплейный менеджер LightDM 1.33.0](https://habr.com/ru/news/1068116/?utm_campaign=1068116&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
