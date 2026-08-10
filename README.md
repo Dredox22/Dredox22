@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Исследователи обошли защиту до рабочего стола Windows в GeForce NOW](https://habr.com/ru/news/1068496/?utm_campaign=1068496&utm_source=habrahabr&utm_medium=rss)
-- [Представлен ReTransmission — форк Transmission после разногласий между его сопровождающими по поводу управления проектом](https://habr.com/ru/news/1068428/?utm_campaign=1068428&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления дистрибутива для одноплатных ПК DietPi 10.6](https://habr.com/ru/news/1068424/?utm_campaign=1068424&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления Wine 11.15](https://habr.com/ru/news/1068258/?utm_campaign=1068258&utm_source=habrahabr&utm_medium=rss)
-- [Suno запустит инструмент для маркировки сгенерированных треков](https://habr.com/ru/news/1068360/?utm_campaign=1068360&utm_source=habrahabr&utm_medium=rss)
+- [ИИ нашёл уязвимость на сайте спортзала и отменил чужую бронь ради хозяина-пользователя](https://habr.com/ru/news/1068550/?utm_campaign=1068550&utm_source=habrahabr&utm_medium=rss)
+- [Из-за ремонта подводной ВОЛС жители Камчатского края останутся на несколько суток без интернета](https://habr.com/ru/news/1068536/?utm_campaign=1068536&utm_source=habrahabr&utm_medium=rss)
+- [В Google объяснили смысл кодовых названий хакерских групп](https://habr.com/ru/news/1068526/?utm_campaign=1068526&utm_source=habrahabr&utm_medium=rss)
+- [11-летняя девочка обошла родительский контроль на ноутбуке с помощью Claude, попросив ИИ собрать ей отдельный браузер](https://habr.com/ru/news/1068532/?utm_campaign=1068532&utm_source=habrahabr&utm_medium=rss)
+- [Крупнейшие компании мира уничтожают ноутбуки в целях безопасности](https://habr.com/ru/news/1068510/?utm_campaign=1068510&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
