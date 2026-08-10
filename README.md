@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Tencent представила WorldClaw — систему AI‑агентов для генерации редактируемых 3D‑миров по текстовому описанию](https://habr.com/ru/news/1068734/?utm_campaign=1068734&utm_source=habrahabr&utm_medium=rss)
-- [Экс‑директор по кибербезопасности США: «Азимов был прав» насчёт правил для ИИ](https://habr.com/ru/news/1068712/?utm_campaign=1068712&utm_source=habrahabr&utm_medium=rss)
-- [Митап «AI‑агенты в деле: когда нейронка перестаёт отвечать и начинает работать». Открыта регистрация](https://habr.com/ru/companies/lentatech/news/1068676/?utm_campaign=1068676&utm_source=habrahabr&utm_medium=rss)
-- [Медданные по 152-ФЗ: строить или арендовать?](https://habr.com/ru/companies/cloud4y/news/1068670/?utm_campaign=1068670&utm_source=habrahabr&utm_medium=rss)
-- [В России с 1 марта 2027 года расширят критерии блокировки переводов](https://habr.com/ru/news/1068668/?utm_campaign=1068668&utm_source=habrahabr&utm_medium=rss)
+- [ФСТЭК утвердила шкалу зрелости ИБ: от «нулевого» до «верифицируемого»](https://habr.com/ru/news/1068758/?utm_campaign=1068758&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» обновил алгоритмы «Поиска по картинкам»](https://habr.com/ru/news/1068790/?utm_campaign=1068790&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик запустил Quest‑версию Beat Saber на Apple Vision Pro без стриминга и JIT](https://habr.com/ru/news/1068770/?utm_campaign=1068770&utm_source=habrahabr&utm_medium=rss)
+- [Meta выпустили Muse Glimmer 30B: локальная модель для кодинга помещается в 24 ГБ памяти](https://habr.com/ru/news/1068746/?utm_campaign=1068746&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft отключает графические пароли для новых пользователей Windows](https://habr.com/ru/news/1068742/?utm_campaign=1068742&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
