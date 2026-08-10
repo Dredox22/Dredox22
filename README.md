@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователи обошли защиту до рабочего стола Windows в GeForce NOW](https://habr.com/ru/news/1068496/?utm_campaign=1068496&utm_source=habrahabr&utm_medium=rss)
 - [Представлен ReTransmission — форк Transmission после разногласий между его сопровождающими по поводу управления проектом](https://habr.com/ru/news/1068428/?utm_campaign=1068428&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск обновления дистрибутива для одноплатных ПК DietPi 10.6](https://habr.com/ru/news/1068424/?utm_campaign=1068424&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск обновления Wine 11.15](https://habr.com/ru/news/1068258/?utm_campaign=1068258&utm_source=habrahabr&utm_medium=rss)
 - [Suno запустит инструмент для маркировки сгенерированных треков](https://habr.com/ru/news/1068360/?utm_campaign=1068360&utm_source=habrahabr&utm_medium=rss)
-- [В Иллинойсе обязали все операционные системы сообщать возраст пользователей](https://habr.com/ru/news/1068332/?utm_campaign=1068332&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
