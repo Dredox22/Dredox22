@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [ИИ нашёл уязвимость на сайте спортзала и отменил чужую бронь ради хозяина-пользователя](https://habr.com/ru/news/1068550/?utm_campaign=1068550&utm_source=habrahabr&utm_medium=rss)
-- [Из-за ремонта подводной ВОЛС жители Камчатского края останутся на несколько суток без интернета](https://habr.com/ru/news/1068536/?utm_campaign=1068536&utm_source=habrahabr&utm_medium=rss)
-- [В Google объяснили смысл кодовых названий хакерских групп](https://habr.com/ru/news/1068526/?utm_campaign=1068526&utm_source=habrahabr&utm_medium=rss)
-- [11-летняя девочка обошла родительский контроль на ноутбуке с помощью Claude, попросив ИИ собрать ей отдельный браузер](https://habr.com/ru/news/1068532/?utm_campaign=1068532&utm_source=habrahabr&utm_medium=rss)
-- [Крупнейшие компании мира уничтожают ноутбуки в целях безопасности](https://habr.com/ru/news/1068510/?utm_campaign=1068510&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» рассказал о защите детей в цифровой и городской среде](https://habr.com/ru/news/1068612/?utm_campaign=1068612&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры предложило компаниям отслеживать на одной платформе активность всех M2M СИМ-карт &lpar;в счётчиках и терминалах&rpar;](https://habr.com/ru/news/1068594/?utm_campaign=1068594&utm_source=habrahabr&utm_medium=rss)
+- [Встроенное в Windows 11 приложение «Погода» расходует более 1 ГБ оперативной памяти](https://habr.com/ru/news/1068586/?utm_campaign=1068586&utm_source=habrahabr&utm_medium=rss)
+- [Съезжаем с VMware на open source: офлайн‑воркшопы в Алматы, Бишкеке, Ташкенте и Астане по Cozystack в августе](https://habr.com/ru/companies/aenix/news/1068574/?utm_campaign=1068574&utm_source=habrahabr&utm_medium=rss)
+- [VK объединила обезличенные действия пользователей из разных сервисов в единый нейропрофиль](https://habr.com/ru/news/1068572/?utm_campaign=1068572&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
