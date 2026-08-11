@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск интегрированной среда разработки Apache NetBeans 31](https://habr.com/ru/news/1068836/?utm_campaign=1068836&utm_source=habrahabr&utm_medium=rss)
 - [Вышла версия Glow 26.12 — инструмента для системного анализа аппаратных и программных возможностей ПК на Windows 10/11](https://habr.com/ru/news/1068584/?utm_campaign=1068584&utm_source=habrahabr&utm_medium=rss)
 - [Сайт, где SpiderMan может навалять монголу-колобку](https://habr.com/ru/news/1069046/?utm_campaign=1069046&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи из JFrog забраковали 54 из 55 ИИ‑отчётов об уязвимостях в SQLite](https://habr.com/ru/news/1068916/?utm_campaign=1068916&utm_source=habrahabr&utm_medium=rss)
 - [У Valve утекли данные покупателей Steam Machine и Steam Controller](https://habr.com/ru/news/1068908/?utm_campaign=1068908&utm_source=habrahabr&utm_medium=rss)
-- [В PowerToys добавили ​​поддержку ещё одной локальной модели ИИ](https://habr.com/ru/news/1068904/?utm_campaign=1068904&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
