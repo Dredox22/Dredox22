@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Единое окно для AppSec: «Шерлок» и CodeScoring представили расширенную интеграцию решений](https://habr.com/ru/companies/codescoring/news/1069252/?utm_campaign=1069252&utm_source=habrahabr&utm_medium=rss)
+- [HH.ru закрыл публичный API поиска вакансий](https://habr.com/ru/news/1069286/?utm_campaign=1069286&utm_source=habrahabr&utm_medium=rss)
+- [Единое окно для AppSec: “Шерлок” и CodeScoring представили расширенную интеграцию решений](https://habr.com/ru/companies/codescoring/news/1069252/?utm_campaign=1069252&utm_source=habrahabr&utm_medium=rss)
 - [С 3 сентября Suno введёт ограничения для пользователей всех тарифов](https://habr.com/ru/news/1069246/?utm_campaign=1069246&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый проект Every Cube с отображением всех перестановок кубика Рубика &lpar;43 252 003 274 489 856 000 вариаций&rpar;](https://habr.com/ru/news/1069168/?utm_campaign=1069168&utm_source=habrahabr&utm_medium=rss)
 - [Tesla выпустила роботакси Cybercab с антенной Starlink](https://habr.com/ru/news/1069144/?utm_campaign=1069144&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ‑событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1069136/?utm_campaign=1069136&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
