@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла версия Glow 26.12 — инструмента для системного анализа аппаратных и программных возможностей ПК на Windows 10/11](https://habr.com/ru/news/1068584/?utm_campaign=1068584&utm_source=habrahabr&utm_medium=rss)
+- [Сайт, где SpiderMan может навалять монголу-колобку](https://habr.com/ru/news/1069046/?utm_campaign=1069046&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи из JFrog забраковали 54 из 55 ИИ‑отчётов об уязвимостях в SQLite](https://habr.com/ru/news/1068916/?utm_campaign=1068916&utm_source=habrahabr&utm_medium=rss)
 - [У Valve утекли данные покупателей Steam Machine и Steam Controller](https://habr.com/ru/news/1068908/?utm_campaign=1068908&utm_source=habrahabr&utm_medium=rss)
 - [В PowerToys добавили ​​поддержку ещё одной локальной модели ИИ](https://habr.com/ru/news/1068904/?utm_campaign=1068904&utm_source=habrahabr&utm_medium=rss)
-- [Google начала распространять сторонние магазины приложений через Google Play](https://habr.com/ru/news/1068900/?utm_campaign=1068900&utm_source=habrahabr&utm_medium=rss)
-- [Пользователь сделал хомяку систему учёта пробежек в клетке по колесу с загрузкой этих данных в Strava](https://habr.com/ru/news/1068888/?utm_campaign=1068888&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
