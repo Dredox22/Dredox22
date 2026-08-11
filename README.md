@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Галлюцинации недели: Джефф Дин уходит из Google, релиз Qwen 3.8 Max и агенты, которые завели себе доску объявлений](https://habr.com/ru/news/1068780/?utm_campaign=1068780&utm_source=habrahabr&utm_medium=rss)
-- [НСПК предупредила о возможных проблемах с онлайн‑оплатой картами Visa и Mastercard](https://habr.com/ru/news/1069088/?utm_campaign=1069088&utm_source=habrahabr&utm_medium=rss)
-- [Google начала тестировать новую главную страницу поисковика с ярлыками для работы с ИИ](https://habr.com/ru/news/1069078/?utm_campaign=1069078&utm_source=habrahabr&utm_medium=rss)
-- [Новая модель OpenAI нашла более 400 уязвимостей в ядре популярной ОС](https://habr.com/ru/news/1069084/?utm_campaign=1069084&utm_source=habrahabr&utm_medium=rss)
-- [Представлен релиз кандитат открытого OPC UA клиента OpenUaExplorer](https://habr.com/ru/news/1069082/?utm_campaign=1069082&utm_source=habrahabr&utm_medium=rss)
+- [Tesla выпустила роботакси Cybercab с антенной Starlink](https://habr.com/ru/news/1069144/?utm_campaign=1069144&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ‑событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1069136/?utm_campaign=1069136&utm_source=habrahabr&utm_medium=rss)
+- [Google Cloud представила Developer Device Platform для тестирования мобильных приложений на реальных устройствах](https://habr.com/ru/companies/otus/news/1069132/?utm_campaign=1069132&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик выпустил BlueFerry — открытый Bluetooth‑клиент для iMessage и SMS на Linux](https://habr.com/ru/news/1069126/?utm_campaign=1069126&utm_source=habrahabr&utm_medium=rss)
+- [В России запустят акселератор для стартапов в области информационной безопасности](https://habr.com/ru/news/1069118/?utm_campaign=1069118&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
