@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Приложение «Ozon Банка» удалили из Google Play](https://habr.com/ru/news/1069710/?utm_campaign=1069710&utm_source=habrahabr&utm_medium=rss)
+- [React Native 0.87: строгий TypeScript API по умолчанию, обновленный Metro, SwiftPM и поддержка AGP 9](https://habr.com/ru/companies/otus/news/1069696/?utm_campaign=1069696&utm_source=habrahabr&utm_medium=rss)
+- [Вышла «Альт Оркестрация» 11.0 — неизменяемая операционная система, которая не имеет прямых аналогов на рынке](https://habr.com/ru/companies/basealtspo/news/1069686/?utm_campaign=1069686&utm_source=habrahabr&utm_medium=rss)
 - [Инди‑разработчик с помощью ИИ написал копию Roblox для сына ради его безопасности](https://habr.com/ru/news/1069676/?utm_campaign=1069676&utm_source=habrahabr&utm_medium=rss)
-- [MAX и Минобрнауки запустили новый хакатон для студентов. Призовой фонд — 5 млн рублей](https://habr.com/ru/news/1069670/?utm_campaign=1069670&utm_source=habrahabr&utm_medium=rss)
-- [Игровая студия Supermassive Games сократила 75 сотрудников](https://habr.com/ru/news/1069652/?utm_campaign=1069652&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» представил «ГигаАгента» — автономного универсального ИИ-агента](https://habr.com/ru/news/1069644/?utm_campaign=1069644&utm_source=habrahabr&utm_medium=rss)
-- [AI‑мониторинг и управление PostgreSQL: представлена Платформа Tantor 7](https://habr.com/ru/companies/tantor/news/1068964/?utm_campaign=1068964&utm_source=habrahabr&utm_medium=rss)
+- [Как защитить контейнеры и Kubernetes?](https://habr.com/ru/companies/ussc/news/1069674/?utm_campaign=1069674&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
