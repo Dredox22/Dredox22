@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел OpenSSH 10.5](https://habr.com/ru/news/1069302/?utm_campaign=1069302&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления Media Player Classic — Home Cinema 2.8.0](https://habr.com/ru/news/1069142/?utm_campaign=1069142&utm_source=habrahabr&utm_medium=rss)
 - [Приложение «Яндекс Пэй» удалили из App Store](https://habr.com/ru/news/1069472/?utm_campaign=1069472&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft признала, что OneDrive Photos без предупреждения устанавливается на ПК с Windows 11](https://habr.com/ru/news/1069044/?utm_campaign=1069044&utm_source=habrahabr&utm_medium=rss)
 - [В 1С появилась встроенная проверка статуса самозанятых](https://habr.com/ru/companies/infostart/news/1069390/?utm_campaign=1069390&utm_source=habrahabr&utm_medium=rss)
-- [HH.ru закрыл публичный API поиска вакансий](https://habr.com/ru/news/1069286/?utm_campaign=1069286&utm_source=habrahabr&utm_medium=rss)
-- [Единое окно для AppSec: “Шерлок” и CodeScoring представили расширенную интеграцию решений](https://habr.com/ru/companies/codescoring/news/1069252/?utm_campaign=1069252&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
