@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Одна из самых сложных капч в мире — HUMAN Security &lpar;PerimeterX&rpar; — обойдена](https://habr.com/ru/news/1069888/?utm_campaign=1069888&utm_source=habrahabr&utm_medium=rss)
 - [В сеть попали личные данные 15 млн жителей Казахстана](https://habr.com/ru/news/1069878/?utm_campaign=1069878&utm_source=habrahabr&utm_medium=rss)
 - [xAI выпустили Grok 4.6: модель сравнялась с GPT-5.6 Sol](https://habr.com/ru/news/1069830/?utm_campaign=1069830&utm_source=habrahabr&utm_medium=rss)
 - [19 августа состоится вебинар «Ивент как драйвер продаж: тренды, кейсы, результаты»](https://habr.com/ru/news/1069714/?utm_campaign=1069714&utm_source=habrahabr&utm_medium=rss)
 - [Приложение «Ozon Банка» удалили из Google Play](https://habr.com/ru/news/1069710/?utm_campaign=1069710&utm_source=habrahabr&utm_medium=rss)
-- [React Native 0.87: строгий TypeScript API по умолчанию, обновленный Metro, SwiftPM и поддержка AGP 9](https://habr.com/ru/companies/otus/news/1069696/?utm_campaign=1069696&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
