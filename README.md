@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Инди‑разработчик с помощью ИИ написал копию Roblox для сына ради его безопасности](https://habr.com/ru/news/1069676/?utm_campaign=1069676&utm_source=habrahabr&utm_medium=rss)
+- [MAX и Минобрнауки запустили новый хакатон для студентов. Призовой фонд — 5 млн рублей](https://habr.com/ru/news/1069670/?utm_campaign=1069670&utm_source=habrahabr&utm_medium=rss)
+- [Игровая студия Supermassive Games сократила 75 сотрудников](https://habr.com/ru/news/1069652/?utm_campaign=1069652&utm_source=habrahabr&utm_medium=rss)
+- [«Сбер» представил «ГигаАгента» — автономного универсального ИИ-агента](https://habr.com/ru/news/1069644/?utm_campaign=1069644&utm_source=habrahabr&utm_medium=rss)
 - [AI‑мониторинг и управление PostgreSQL: представлена Платформа Tantor 7](https://habr.com/ru/companies/tantor/news/1068964/?utm_campaign=1068964&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI выпустила десктопное приложение ChatGPT для Linux](https://habr.com/ru/news/1069576/?utm_campaign=1069576&utm_source=habrahabr&utm_medium=rss)
-- [Как ИТ-директору навести порядок в бэк-офисе и стать стратегическим партнером бизнеса](https://habr.com/ru/companies/simpleone/news/1069570/?utm_campaign=1069570&utm_source=habrahabr&utm_medium=rss)
-- [SpaceXAI выпустили Grok Bot: мессенджер для взаимодействия с AI‑агентами](https://habr.com/ru/news/1069558/?utm_campaign=1069558&utm_source=habrahabr&utm_medium=rss)
-- [Discovered Materials разработали двухэтапный конвейер отбора материалов, пригодных для полупроводникового производства](https://habr.com/ru/companies/selectel/news/1069542/?utm_campaign=1069542&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
