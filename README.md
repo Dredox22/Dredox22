@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft повысила лицензионные сборы на OEM сборки ПК с Windows](https://habr.com/ru/news/1069512/?utm_campaign=1069512&utm_source=habrahabr&utm_medium=rss)
-- [Nubes упростил защищенное подключение бизнеса к ГИС ЕРНИС и АИС «Таксомотор»](https://habr.com/ru/companies/nubes/news/1069536/?utm_campaign=1069536&utm_source=habrahabr&utm_medium=rss)
-- [Глава Replit: ИИ освободил инженерам время для изобретательских задач](https://habr.com/ru/news/1069510/?utm_campaign=1069510&utm_source=habrahabr&utm_medium=rss)
-- [NVIDIA представили Nemotron 3.5 Lightning, быструю локальную модель](https://habr.com/ru/news/1069528/?utm_campaign=1069528&utm_source=habrahabr&utm_medium=rss)
-- [ФБР: киберпреступники взламывают онлайн‑аккаунты для кражи интимных снимков](https://habr.com/ru/news/1069504/?utm_campaign=1069504&utm_source=habrahabr&utm_medium=rss)
+- [AI‑мониторинг и управление PostgreSQL: представлена Платформа Tantor 7](https://habr.com/ru/companies/tantor/news/1068964/?utm_campaign=1068964&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI выпустила десктопное приложение ChatGPT для Linux](https://habr.com/ru/news/1069576/?utm_campaign=1069576&utm_source=habrahabr&utm_medium=rss)
+- [Как ИТ-директору навести порядок в бэк-офисе и стать стратегическим партнером бизнеса](https://habr.com/ru/companies/simpleone/news/1069570/?utm_campaign=1069570&utm_source=habrahabr&utm_medium=rss)
+- [SpaceXAI выпустили Grok Bot: мессенджер для взаимодействия с AI‑агентами](https://habr.com/ru/news/1069558/?utm_campaign=1069558&utm_source=habrahabr&utm_medium=rss)
+- [Discovered Materials разработали двухэтапный конвейер отбора материалов, пригодных для полупроводникового производства](https://habr.com/ru/companies/selectel/news/1069542/?utm_campaign=1069542&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
