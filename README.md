@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [xAI выпустили Grok 4.6: модель сравнялась с GPT-5.6 Sol](https://habr.com/ru/news/1069830/?utm_campaign=1069830&utm_source=habrahabr&utm_medium=rss)
 - [Приложение «Ozon Банка» удалили из Google Play](https://habr.com/ru/news/1069710/?utm_campaign=1069710&utm_source=habrahabr&utm_medium=rss)
 - [React Native 0.87: строгий TypeScript API по умолчанию, обновленный Metro, SwiftPM и поддержка AGP 9](https://habr.com/ru/companies/otus/news/1069696/?utm_campaign=1069696&utm_source=habrahabr&utm_medium=rss)
 - [Вышла «Альт Оркестрация» 11.0 — неизменяемая операционная система, которая не имеет прямых аналогов на рынке](https://habr.com/ru/companies/basealtspo/news/1069686/?utm_campaign=1069686&utm_source=habrahabr&utm_medium=rss)
 - [Инди‑разработчик с помощью ИИ написал копию Roblox для сына ради его безопасности](https://habr.com/ru/news/1069676/?utm_campaign=1069676&utm_source=habrahabr&utm_medium=rss)
-- [Как защитить контейнеры и Kubernetes?](https://habr.com/ru/companies/ussc/news/1069674/?utm_campaign=1069674&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
