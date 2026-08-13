@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Исследователи выявили технику атаки TONTOU с эксплуатацией микроархитектурных уязвимостей класса Spectre v2](https://habr.com/ru/news/1069916/?utm_campaign=1069916&utm_source=habrahabr&utm_medium=rss)
-- [Meta* запустила ИИ‑агента для работы с большими кодовыми базами](https://habr.com/ru/news/1069914/?utm_campaign=1069914&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Cjam 2.6.0.0 — легковесного Freeware редактора MP3 для ПК на ОС Windows](https://habr.com/ru/news/1069666/?utm_campaign=1069666&utm_source=habrahabr&utm_medium=rss)
-- [Google обновила справочную документацию Chrome о загрузке ИИ на устройства](https://habr.com/ru/news/1069912/?utm_campaign=1069912&utm_source=habrahabr&utm_medium=rss)
-- [Релиз языка программирования Mojo 1.0](https://habr.com/ru/news/1069624/?utm_campaign=1069624&utm_source=habrahabr&utm_medium=rss)
+- [В России ограничили использование sim‑боксов для борьбы с мошенниками](https://habr.com/ru/news/1069980/?utm_campaign=1069980&utm_source=habrahabr&utm_medium=rss)
+- [Еще больше компетенций: beCloud внедрил Standoff Defend для постоянной практики команды своего центра кибербезопасности](https://habr.com/ru/companies/pt/news/1069976/?utm_campaign=1069976&utm_source=habrahabr&utm_medium=rss)
+- [Стартап Discovered Materials при помощи ИИ‑агентов ищет новые материалы для чипов, которые будут меньше нагреваться](https://habr.com/ru/news/1069962/?utm_campaign=1069962&utm_source=habrahabr&utm_medium=rss)
+- [Amazon будет по умолчанию использовать для обучения ИИ‑моделей контент стримеров Twitch, если они не откажутся от этого](https://habr.com/ru/news/1069952/?utm_campaign=1069952&utm_source=habrahabr&utm_medium=rss)
+- [Go-Go-Gadg...Error? Смотрим, как ошибаются Go разработчики](https://habr.com/ru/companies/pvs-studio/news/1069680/?utm_campaign=1069680&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
