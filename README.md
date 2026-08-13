@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [VK вышла на квартальную чистую прибыль впервые за четыре года](https://habr.com/ru/news/1070112/?utm_campaign=1070112&utm_source=habrahabr&utm_medium=rss)
+- [Китайские производители обеспечили 97% мировых поставок человекоподобных роботов в первом полугодии 2026 года](https://habr.com/ru/news/1070094/?utm_campaign=1070094&utm_source=habrahabr&utm_medium=rss)
+- [ИИ головного мозга. ВОЗ зарегистрировала новую болезнь](https://habr.com/ru/news/1070076/?utm_campaign=1070076&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики uBlock Origin прекратили поддержку фильтров для Facebook**](https://habr.com/ru/news/1070062/?utm_campaign=1070062&utm_source=habrahabr&utm_medium=rss)
 - [Positive Technologies открывает новый набор на программу стажировок с обучением PT Start](https://habr.com/ru/companies/pt/news/1070010/?utm_campaign=1070010&utm_source=habrahabr&utm_medium=rss)
-- [Часть пользователей Claude недовольна введённой недавно маркировкой контента](https://habr.com/ru/news/1070030/?utm_campaign=1070030&utm_source=habrahabr&utm_medium=rss)
-- [Инфостарт запускает фэнтези‑флешмоб к TECH EVENT и A&amp;amp;PM EVENT 2026](https://habr.com/ru/companies/infostart/news/1070028/?utm_campaign=1070028&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Angular v22: от повышения стабильности до ИИ‑песочницы](https://habr.com/ru/companies/selectel/news/1069712/?utm_campaign=1069712&utm_source=habrahabr&utm_medium=rss)
-- [От локального пользователя до SYSTEM: Microsoft исправила эксплуатируемый zero‑day в Windows](https://habr.com/ru/companies/otus/news/1070014/?utm_campaign=1070014&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
