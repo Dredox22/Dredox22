@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek Harness набрал 37 тысяч звёзд за первый день: что умеет новый кодинг-агент](https://habr.com/ru/news/1070332/?utm_campaign=1070332&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI и Cerebras разогнали GPT-5.6 Sol до 750 токенов в секунду](https://habr.com/ru/news/1070326/?utm_campaign=1070326&utm_source=habrahabr&utm_medium=rss)
 - [«Крёстная мать ИИ»: главный риск нейросетей в школах — не списывание, а потеря интереса к учёбе](https://habr.com/ru/news/1070298/?utm_campaign=1070298&utm_source=habrahabr&utm_medium=rss)
 - [Инженеры научились отслеживать людей при помощи обычного WiFi](https://habr.com/ru/news/1070278/?utm_campaign=1070278&utm_source=habrahabr&utm_medium=rss)
 - [TG Notion: напоминалки для задач](https://habr.com/ru/news/1070246/?utm_campaign=1070246&utm_source=habrahabr&utm_medium=rss)
-- [Дайджест обновлений MWS Cloud Platform](https://habr.com/ru/companies/mws/news/1070186/?utm_campaign=1070186&utm_source=habrahabr&utm_medium=rss)
-- [Новгородские учёные разработали «умный» столик для снижения брака в производстве микросхем](https://habr.com/ru/news/1070128/?utm_campaign=1070128&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
