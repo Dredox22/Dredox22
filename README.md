@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В России ограничили использование sim‑боксов для борьбы с мошенниками](https://habr.com/ru/news/1069980/?utm_campaign=1069980&utm_source=habrahabr&utm_medium=rss)
-- [Еще больше компетенций: beCloud внедрил Standoff Defend для постоянной практики команды своего центра кибербезопасности](https://habr.com/ru/companies/pt/news/1069976/?utm_campaign=1069976&utm_source=habrahabr&utm_medium=rss)
-- [Стартап Discovered Materials при помощи ИИ‑агентов ищет новые материалы для чипов, которые будут меньше нагреваться](https://habr.com/ru/news/1069962/?utm_campaign=1069962&utm_source=habrahabr&utm_medium=rss)
-- [Amazon будет по умолчанию использовать для обучения ИИ‑моделей контент стримеров Twitch, если они не откажутся от этого](https://habr.com/ru/news/1069952/?utm_campaign=1069952&utm_source=habrahabr&utm_medium=rss)
-- [Go-Go-Gadg...Error? Смотрим, как ошибаются Go разработчики](https://habr.com/ru/companies/pvs-studio/news/1069680/?utm_campaign=1069680&utm_source=habrahabr&utm_medium=rss)
+- [Positive Technologies открывает новый набор на программу стажировок с обучением PT Start](https://habr.com/ru/companies/pt/news/1070010/?utm_campaign=1070010&utm_source=habrahabr&utm_medium=rss)
+- [Часть пользователей Claude недовольна введённой недавно маркировкой контента](https://habr.com/ru/news/1070030/?utm_campaign=1070030&utm_source=habrahabr&utm_medium=rss)
+- [Инфостарт запускает фэнтези‑флешмоб к TECH EVENT и A&amp;amp;PM EVENT 2026](https://habr.com/ru/companies/infostart/news/1070028/?utm_campaign=1070028&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Angular v22: от повышения стабильности до ИИ‑песочницы](https://habr.com/ru/companies/selectel/news/1069712/?utm_campaign=1069712&utm_source=habrahabr&utm_medium=rss)
+- [От локального пользователя до SYSTEM: Microsoft исправила эксплуатируемый zero‑day в Windows](https://habr.com/ru/companies/otus/news/1070014/?utm_campaign=1070014&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
