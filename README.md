@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В Петербурге пройдет бесплатная ИТ-конференция с треком по ИИ и 1С](https://habr.com/ru/companies/infostart/news/1070454/?utm_campaign=1070454&utm_source=habrahabr&utm_medium=rss)
-- [UserGate Factor: мошеннические схемы по перегону подержанных автомобилей из Европы в Россию все чаще достигают цели](https://habr.com/ru/companies/usergate/news/1070450/?utm_campaign=1070450&utm_source=habrahabr&utm_medium=rss)
-- [ИБ‑исследователь купил домен noreply.net и получает на него корпоративные данные от разных компаний](https://habr.com/ru/news/1070436/?utm_campaign=1070436&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft сокращает своё присутствие в Китае](https://habr.com/ru/news/1070434/?utm_campaign=1070434&utm_source=habrahabr&utm_medium=rss)
-- [Apple начала рассылать уведомления об угрозах атак шпионского ПО](https://habr.com/ru/news/1070418/?utm_campaign=1070418&utm_source=habrahabr&utm_medium=rss)
+- [Discord увеличил бесплатный лимит загрузки файлов с 10 до 20 МБ](https://habr.com/ru/news/1070490/?utm_campaign=1070490&utm_source=habrahabr&utm_medium=rss)
+- [Российские разработчики назвали наиболее востребованные меры поддержки игровой индустрии](https://habr.com/ru/news/1070472/?utm_campaign=1070472&utm_source=habrahabr&utm_medium=rss)
+- [В «Ростелекоме» досрочно завершили ремонт подводной ВОЛС «Камчатка — Сахалин» для пользователей Камчатского края](https://habr.com/ru/news/1070446/?utm_campaign=1070446&utm_source=habrahabr&utm_medium=rss)
+- [Провайдер Namecheap столкнулся с масштабным сбоем, сервисы были недоступны в течение нескольких часов](https://habr.com/ru/news/1070466/?utm_campaign=1070466&utm_source=habrahabr&utm_medium=rss)
+- [Кибербитва меняет правила: юбилейная ВСКБ как непрерывная практика для будущих специалистов ИБ](https://habr.com/ru/companies/innostage/news/1070460/?utm_campaign=1070460&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
