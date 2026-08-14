@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Flock заявила, что её новые инструменты безопасности помогут выявлять злоупотребления со стороны полиции](https://habr.com/ru/news/1070404/?utm_campaign=1070404&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek поднимает цены на API: в пиковые часы до 12 раз](https://habr.com/ru/news/1070386/?utm_campaign=1070386&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Manjaro Linux 26.1 «Bian-May»](https://habr.com/ru/news/1070090/?utm_campaign=1070090&utm_source=habrahabr&utm_medium=rss)
-- [В ChatGPT появилась опция «История компьютера»](https://habr.com/ru/news/1070376/?utm_campaign=1070376&utm_source=habrahabr&utm_medium=rss)
-- [Пользователь в США спрятал в судебных документах подсказку ИИ для решения спора в свою пользу](https://habr.com/ru/news/1070368/?utm_campaign=1070368&utm_source=habrahabr&utm_medium=rss)
+- [В Петербурге пройдет бесплатная ИТ-конференция с треком по ИИ и 1С](https://habr.com/ru/companies/infostart/news/1070454/?utm_campaign=1070454&utm_source=habrahabr&utm_medium=rss)
+- [UserGate Factor: мошеннические схемы по перегону подержанных автомобилей из Европы в Россию все чаще достигают цели](https://habr.com/ru/companies/usergate/news/1070450/?utm_campaign=1070450&utm_source=habrahabr&utm_medium=rss)
+- [ИБ‑исследователь купил домен noreply.net и получает на него корпоративные данные от разных компаний](https://habr.com/ru/news/1070436/?utm_campaign=1070436&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft сокращает своё присутствие в Китае](https://habr.com/ru/news/1070434/?utm_campaign=1070434&utm_source=habrahabr&utm_medium=rss)
+- [Apple начала рассылать уведомления об угрозах атак шпионского ПО](https://habr.com/ru/news/1070418/?utm_campaign=1070418&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
