@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [У крупнейшей в РФ сети фитнес‑клубов DDX утечка данных: в сети появились фотографии и персональные данные клиентов](https://habr.com/ru/news/1070356/?utm_campaign=1070356&utm_source=habrahabr&utm_medium=rss)
-- [Вышел эмулятор QEMU 11.1](https://habr.com/ru/news/1069610/?utm_campaign=1069610&utm_source=habrahabr&utm_medium=rss)
-- [Представлено обновление Wireshark 4.6.8](https://habr.com/ru/news/1069988/?utm_campaign=1069988&utm_source=habrahabr&utm_medium=rss)
-- [DeepSeek Harness набрал 37 тысяч звёзд за первый день: что умеет новый кодинг-агент](https://habr.com/ru/news/1070332/?utm_campaign=1070332&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI и Cerebras разогнали GPT-5.6 Sol до 750 токенов в секунду](https://habr.com/ru/news/1070326/?utm_campaign=1070326&utm_source=habrahabr&utm_medium=rss)
+- [Flock заявила, что её новые инструменты безопасности помогут выявлять злоупотребления со стороны полиции](https://habr.com/ru/news/1070404/?utm_campaign=1070404&utm_source=habrahabr&utm_medium=rss)
+- [DeepSeek поднимает цены на API: в пиковые часы до 12 раз](https://habr.com/ru/news/1070386/?utm_campaign=1070386&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Manjaro Linux 26.1 «Bian-May»](https://habr.com/ru/news/1070090/?utm_campaign=1070090&utm_source=habrahabr&utm_medium=rss)
+- [В ChatGPT появилась опция «История компьютера»](https://habr.com/ru/news/1070376/?utm_campaign=1070376&utm_source=habrahabr&utm_medium=rss)
+- [Пользователь в США спрятал в судебных документах подсказку ИИ для решения спора в свою пользу](https://habr.com/ru/news/1070368/?utm_campaign=1070368&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
