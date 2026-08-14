@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [У крупнейшей в РФ сети фитнес‑клубов DDX утечка данных: в сети появились фотографии и персональные данные клиентов](https://habr.com/ru/news/1070356/?utm_campaign=1070356&utm_source=habrahabr&utm_medium=rss)
+- [Вышел эмулятор QEMU 11.1](https://habr.com/ru/news/1069610/?utm_campaign=1069610&utm_source=habrahabr&utm_medium=rss)
+- [Представлено обновление Wireshark 4.6.8](https://habr.com/ru/news/1069988/?utm_campaign=1069988&utm_source=habrahabr&utm_medium=rss)
 - [DeepSeek Harness набрал 37 тысяч звёзд за первый день: что умеет новый кодинг-агент](https://habr.com/ru/news/1070332/?utm_campaign=1070332&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI и Cerebras разогнали GPT-5.6 Sol до 750 токенов в секунду](https://habr.com/ru/news/1070326/?utm_campaign=1070326&utm_source=habrahabr&utm_medium=rss)
-- [«Крёстная мать ИИ»: главный риск нейросетей в школах — не списывание, а потеря интереса к учёбе](https://habr.com/ru/news/1070298/?utm_campaign=1070298&utm_source=habrahabr&utm_medium=rss)
-- [Инженеры научились отслеживать людей при помощи обычного WiFi](https://habr.com/ru/news/1070278/?utm_campaign=1070278&utm_source=habrahabr&utm_medium=rss)
-- [TG Notion: напоминалки для задач](https://habr.com/ru/news/1070246/?utm_campaign=1070246&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
