@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Обновление Claude в Chrome объединило браузерного агента с экосистемой приложений Anthropic](https://habr.com/ru/companies/selectel/news/1070408/?utm_campaign=1070408&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft упростила навигацию по документам в Word](https://habr.com/ru/news/1070580/?utm_campaign=1070580&utm_source=habrahabr&utm_medium=rss)
+- [Обновление Claude в Chrome объединило браузерного агента с экосистемой приложений Anthropic](https://habr.com/ru/companies/selectel/news/1070408/?utm_campaign=1070408&utm_source=habrahabr&utm_medium=rss)
 - [Brave стал скрывать подробную информацию о графическом процессоре](https://habr.com/ru/news/1070568/?utm_campaign=1070568&utm_source=habrahabr&utm_medium=rss)
 - [Perfscale news #6. GraphQL, поддержка Import, и метрики](https://habr.com/ru/news/1069752/?utm_campaign=1069752&utm_source=habrahabr&utm_medium=rss)
 - [Wireshark 4.6.8. Обозреваем устраненные ошибки и исправленные уязвимости](https://habr.com/ru/companies/selectel/news/1070390/?utm_campaign=1070390&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик сжёг токенов на $157 143, заплатив за них $400](https://habr.com/ru/news/1070512/?utm_campaign=1070512&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
