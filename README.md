@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Телеканал PBS опасается потери 50 ТБ данных после завершения обслуживания облачным провайдером](https://habr.com/ru/news/1070788/?utm_campaign=1070788&utm_source=habrahabr&utm_medium=rss)
 - [Google позволит пользователям удалять видимые водяные знаки из результатов работы Gemini](https://habr.com/ru/news/1070778/?utm_campaign=1070778&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратит поддержку функции Copilot в Excel](https://habr.com/ru/news/1070764/?utm_campaign=1070764&utm_source=habrahabr&utm_medium=rss)
 - [Исследователь обклеил машину специальной плёнкой для борьбы с отслеживанием камер Flock](https://habr.com/ru/news/1070760/?utm_campaign=1070760&utm_source=habrahabr&utm_medium=rss)
 - [OpenTESArena 0.18.0](https://habr.com/ru/news/1070758/?utm_campaign=1070758&utm_source=habrahabr&utm_medium=rss)
-- [Вышла NetBSD 11.0 с поддержкой RISC-V и ядром MICROVM](https://habr.com/ru/companies/selectel/news/1070570/?utm_campaign=1070570&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
