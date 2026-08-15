@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft прекратит поддержку функции Copilot в Excel](https://habr.com/ru/news/1070764/?utm_campaign=1070764&utm_source=habrahabr&utm_medium=rss)
+- [Исследователь обклеил машину специальной плёнкой для борьбы с отслеживанием камер Flock](https://habr.com/ru/news/1070760/?utm_campaign=1070760&utm_source=habrahabr&utm_medium=rss)
+- [OpenTESArena 0.18.0](https://habr.com/ru/news/1070758/?utm_campaign=1070758&utm_source=habrahabr&utm_medium=rss)
 - [Вышла NetBSD 11.0 с поддержкой RISC-V и ядром MICROVM](https://habr.com/ru/companies/selectel/news/1070570/?utm_campaign=1070570&utm_source=habrahabr&utm_medium=rss)
 - [Приложении Ozon, Ozon Fresh, Ozon Travel, «Ozon Селект», Ozon Job и Ozon Seller удалили из Google Play](https://habr.com/ru/news/1070736/?utm_campaign=1070736&utm_source=habrahabr&utm_medium=rss)
-- [Гироскоп нового поколения поможет с навигацией при проблемах с GPS](https://habr.com/ru/news/1070656/?utm_campaign=1070656&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый инструмент LACT 0.10 &lpar;Linux GPU Control Application&rpar; для настройки и мониторинга GPU в Linux](https://habr.com/ru/news/1070036/?utm_campaign=1070036&utm_source=habrahabr&utm_medium=rss)
-- [В «Яндекс Музыке» сообщили о планах маркировать ИИ-треки на платформе](https://habr.com/ru/news/1070720/?utm_campaign=1070720&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
