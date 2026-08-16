@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft предупредила, что осталось 60 дней до прекращения поддержки Windows 10 Enterprise LTSB 2016 и других версий ОС](https://habr.com/ru/news/1070918/?utm_campaign=1070918&utm_source=habrahabr&utm_medium=rss)
 - [В США выпустили меморандум, разрешающий американским компаниям взламывать подозрительные иностранные сетевые ресурсы](https://habr.com/ru/news/1070912/?utm_campaign=1070912&utm_source=habrahabr&utm_medium=rss)
 - [Представлен дистрибутив Omarchy 4.0 Quattro с идеальным Linux-окружением](https://habr.com/ru/news/1070848/?utm_campaign=1070848&utm_source=habrahabr&utm_medium=rss)
 - [Вышел SparkyLinux 8.4 — дистрибутив на базе Debian 13 «Trixie» с возвращённой поддержкой 32-битных образов Live/Install](https://habr.com/ru/news/1070814/?utm_campaign=1070814&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск патча GitLab: 19.2.2, 19.1.4, 19.0.6. Среди закрытых уязвимостей — опасные XSS и обход прав в CI/CD](https://habr.com/ru/companies/selectel/news/1070624/?utm_campaign=1070624&utm_source=habrahabr&utm_medium=rss)
-- [Российские школьники получили золотые и серебряные медали на 38-й Международной олимпиаде по информатике IOI 2026](https://habr.com/ru/news/1070796/?utm_campaign=1070796&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
