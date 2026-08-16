@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В США выпустили меморандум, разрешающий американским компаниям взламывать подозрительные иностранные сетевые ресурсы](https://habr.com/ru/news/1070912/?utm_campaign=1070912&utm_source=habrahabr&utm_medium=rss)
 - [Представлен дистрибутив Omarchy 4.0 Quattro с идеальным Linux-окружением](https://habr.com/ru/news/1070848/?utm_campaign=1070848&utm_source=habrahabr&utm_medium=rss)
 - [Вышел SparkyLinux 8.4 — дистрибутив на базе Debian 13 «Trixie» с возвращённой поддержкой 32-битных образов Live/Install](https://habr.com/ru/news/1070814/?utm_campaign=1070814&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск патча GitLab: 19.2.2, 19.1.4, 19.0.6. Среди закрытых уязвимостей — опасные XSS и обход прав в CI/CD](https://habr.com/ru/companies/selectel/news/1070624/?utm_campaign=1070624&utm_source=habrahabr&utm_medium=rss)
 - [Российские школьники получили золотые и серебряные медали на 38-й Международной олимпиаде по информатике IOI 2026](https://habr.com/ru/news/1070796/?utm_campaign=1070796&utm_source=habrahabr&utm_medium=rss)
-- [Телеканал PBS опасается потери 50 ТБ данных после завершения обслуживания облачным провайдером](https://habr.com/ru/news/1070788/?utm_campaign=1070788&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
