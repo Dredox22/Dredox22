@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Cursor запустил Origin: конкурента GitHub для AI-агентов](https://habr.com/ru/news/1071418/?utm_campaign=1071418&utm_source=habrahabr&utm_medium=rss)
 - [Новое учебное пособие «Нанософт»: «Проектирование и расчет систем электроснабжения в nanoCAD BIM Электро»](https://habr.com/ru/companies/nanosoft/news/1071390/?utm_campaign=1071390&utm_source=habrahabr&utm_medium=rss)
 - [Сбой в работе GitHub](https://habr.com/ru/news/1071370/?utm_campaign=1071370&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ‑событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1071354/?utm_campaign=1071354&utm_source=habrahabr&utm_medium=rss)
 - [Неделя сканеров Smart Engines – в нашем Telegram-канале](https://habr.com/ru/companies/smartengines/news/1071342/?utm_campaign=1071342&utm_source=habrahabr&utm_medium=rss)
-- [Провалы дата‑дривен решений: честный разговор на Fuckup Night](https://habr.com/ru/companies/avito/news/1071322/?utm_campaign=1071322&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
