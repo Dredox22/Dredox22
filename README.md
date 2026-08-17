@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Неделя сканеров Smart Engines – в нашем Telegram-канале](https://habr.com/ru/companies/smartengines/news/1071342/?utm_campaign=1071342&utm_source=habrahabr&utm_medium=rss)
+- [Провалы дата‑дривен решений: честный разговор на Fuckup Night](https://habr.com/ru/companies/avito/news/1071322/?utm_campaign=1071322&utm_source=habrahabr&utm_medium=rss)
+- [«Альт Образование» 11.2: управление компьютерным классом в Wayland, настройка сенсорных экранов и обновлённое ПО](https://habr.com/ru/companies/basealtspo/news/1071318/?utm_campaign=1071318&utm_source=habrahabr&utm_medium=rss)
 - [Pentest award 2026: итоги церемонии награждения](https://habr.com/ru/news/1071296/?utm_campaign=1071296&utm_source=habrahabr&utm_medium=rss)
 - [Уязвимость приложения Screen Sharing предоставляет злоумышленникам полный контроль над Mac жертв](https://habr.com/ru/news/1071274/?utm_campaign=1071274&utm_source=habrahabr&utm_medium=rss)
-- [Онлайн‑встреча GlowByte и FanRuan «Куда движется корпоративная аналитика»](https://habr.com/ru/companies/glowbyte/news/1070642/?utm_campaign=1070642&utm_source=habrahabr&utm_medium=rss)
-- [Meta* патентует очки с ИИ, которые будут использовать распознавание лиц для идентификации людей и создания видеороликов](https://habr.com/ru/news/1071200/?utm_campaign=1071200&utm_source=habrahabr&utm_medium=rss)
-- [UserGate стал партнером ATN Cyber Security Fest 2026 в Краснодаре](https://habr.com/ru/companies/usergate/news/1071194/?utm_campaign=1071194&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
