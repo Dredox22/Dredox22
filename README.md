@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Малайзии разрабатывают охлаждающую жидкости на основе пальмового масла для иммерсионных систем](https://habr.com/ru/news/1071122/?utm_campaign=1071122&utm_source=habrahabr&utm_medium=rss)
+- [X представила репозиторий с открытым исходным кодом своих алгоритмов ранжирования и фильтрации](https://habr.com/ru/news/1071112/?utm_campaign=1071112&utm_source=habrahabr&utm_medium=rss)
+- [Эксперт: отзыв зарубежных TLS‑сертификатов грозит сбоями в онлайн‑банкинге и работе российских сервисов](https://habr.com/ru/news/1071110/?utm_campaign=1071110&utm_source=habrahabr&utm_medium=rss)
 - [Роскомнадзор за полтора года не выявил повторных утечек персональных данных](https://habr.com/ru/news/1071094/?utm_campaign=1071094&utm_source=habrahabr&utm_medium=rss)
-- [Opensophy и Ziree Medical запускают открытый эксперимент по фототерапии псориаза](https://habr.com/ru/news/1071082/?utm_campaign=1071082&utm_source=habrahabr&utm_medium=rss)
 - [Гендиректор Anthropic: негативная реакция на ИИ — это «кризис доверия»](https://habr.com/ru/news/1071054/?utm_campaign=1071054&utm_source=habrahabr&utm_medium=rss)
-- [ИИ раскрыл исторический поворот в шедевре Рафаэля](https://habr.com/ru/news/1071048/?utm_campaign=1071048&utm_source=habrahabr&utm_medium=rss)
-- [В Firefox для iOS появился встроенный блокировщик рекламы](https://habr.com/ru/news/1071068/?utm_campaign=1071068&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
