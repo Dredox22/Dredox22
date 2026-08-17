@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Онлайн-встреча GlowByte и FanRuan «Куда движется корпоративная аналитика»](https://habr.com/ru/companies/glowbyte/news/1070642/?utm_campaign=1070642&utm_source=habrahabr&utm_medium=rss)
+- [Автомат повышения точности снимков ДЗЗ](https://habr.com/ru/news/1071282/?utm_campaign=1071282&utm_source=habrahabr&utm_medium=rss)
+- [Уязвимость приложения Screen Sharing предоставляет злоумышленникам полный контроль над Mac жертв](https://habr.com/ru/news/1071274/?utm_campaign=1071274&utm_source=habrahabr&utm_medium=rss)
+- [Онлайн‑встреча GlowByte и FanRuan «Куда движется корпоративная аналитика»](https://habr.com/ru/companies/glowbyte/news/1070642/?utm_campaign=1070642&utm_source=habrahabr&utm_medium=rss)
 - [Meta* патентует очки с ИИ, которые будут использовать распознавание лиц для идентификации людей и создания видеороликов](https://habr.com/ru/news/1071200/?utm_campaign=1071200&utm_source=habrahabr&utm_medium=rss)
-- [UserGate стал партнером ATN Cyber Security Fest 2026 в Краснодаре](https://habr.com/ru/companies/usergate/news/1071194/?utm_campaign=1071194&utm_source=habrahabr&utm_medium=rss)
-- [Угостим пиццей, а вы расспросите нас о СУБД](https://habr.com/ru/news/1071180/?utm_campaign=1071180&utm_source=habrahabr&utm_medium=rss)
-- [ГК InfoWatch и «Флант» подтвердили совместимость продуктов по защите данных с Deckhouse Kubernetes Platform](https://habr.com/ru/companies/infowatch/news/1071162/?utm_campaign=1071162&utm_source=habrahabr&utm_medium=rss)
+- [UserGate стал партнером ATN Cyber Security Fest 2026 в Краснодаре](https://habr.com/ru/companies/usergate/news/1071194/?utm_campaign=1071194&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
