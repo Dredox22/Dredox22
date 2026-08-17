@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Stripe приобрела ИИ‑стартап OpenRouter](https://habr.com/ru/news/1071038/?utm_campaign=1071038&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft удалит утилиту командной строки WMIC из Windows 11 26H2](https://habr.com/ru/news/1071032/?utm_campaign=1071032&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Linux 7.2](https://habr.com/ru/news/1068558/?utm_campaign=1068558&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск терминального файлового менеджера nnn &lpar;n³&rpar; v5.3 Mai Tai](https://habr.com/ru/news/1070942/?utm_campaign=1070942&utm_source=habrahabr&utm_medium=rss)
 - [Экс‑инженер Microsoft разрабатывает DayFrame — модульный конкурент Outlook](https://habr.com/ru/news/1070922/?utm_campaign=1070922&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft предупредила, что осталось 60 дней до прекращения поддержки Windows 10 Enterprise LTSB 2016 и других версий ОС](https://habr.com/ru/news/1070918/?utm_campaign=1070918&utm_source=habrahabr&utm_medium=rss)
-- [В США выпустили меморандум, разрешающий американским компаниям взламывать подозрительные иностранные сетевые ресурсы](https://habr.com/ru/news/1070912/?utm_campaign=1070912&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
