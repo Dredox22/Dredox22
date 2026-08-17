@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В Малайзии разрабатывают охлаждающую жидкости на основе пальмового масла для иммерсионных систем](https://habr.com/ru/news/1071122/?utm_campaign=1071122&utm_source=habrahabr&utm_medium=rss)
+- [ГК InfoWatch и «Флант» подтвердили совместимость продуктов по защите данных с Deckhouse Kubernetes Platform](https://habr.com/ru/companies/infowatch/news/1071162/?utm_campaign=1071162&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» представил концепцию датасета для проверки ИИ‑моделей на соответствие закону и духовным ценностям](https://habr.com/ru/news/1071160/?utm_campaign=1071160&utm_source=habrahabr&utm_medium=rss)
+- [Космос как сервис: доступ к спутнику-платформе RUVDS открыт для всех желающих](https://habr.com/ru/companies/ruvds/news/1071140/?utm_campaign=1071140&utm_source=habrahabr&utm_medium=rss)
+- [В Малайзии разрабатывают охлаждающую жидкость на основе пальмового масла для иммерсионных систем](https://habr.com/ru/news/1071122/?utm_campaign=1071122&utm_source=habrahabr&utm_medium=rss)
 - [X представила репозиторий с открытым исходным кодом своих алгоритмов ранжирования и фильтрации](https://habr.com/ru/news/1071112/?utm_campaign=1071112&utm_source=habrahabr&utm_medium=rss)
-- [Эксперт: отзыв зарубежных TLS‑сертификатов грозит сбоями в онлайн‑банкинге и работе российских сервисов](https://habr.com/ru/news/1071110/?utm_campaign=1071110&utm_source=habrahabr&utm_medium=rss)
-- [Роскомнадзор за полтора года не выявил повторных утечек персональных данных](https://habr.com/ru/news/1071094/?utm_campaign=1071094&utm_source=habrahabr&utm_medium=rss)
-- [Гендиректор Anthropic: негативная реакция на ИИ — это «кризис доверия»](https://habr.com/ru/news/1071054/?utm_campaign=1071054&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
