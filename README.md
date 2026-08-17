@@ -85,7 +85,7 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Автомат повышения точности снимков ДЗЗ](https://habr.com/ru/news/1071282/?utm_campaign=1071282&utm_source=habrahabr&utm_medium=rss)
+- [Pentest award 2026: итоги церемонии награждения](https://habr.com/ru/news/1071296/?utm_campaign=1071296&utm_source=habrahabr&utm_medium=rss)
 - [Уязвимость приложения Screen Sharing предоставляет злоумышленникам полный контроль над Mac жертв](https://habr.com/ru/news/1071274/?utm_campaign=1071274&utm_source=habrahabr&utm_medium=rss)
 - [Онлайн‑встреча GlowByte и FanRuan «Куда движется корпоративная аналитика»](https://habr.com/ru/companies/glowbyte/news/1070642/?utm_campaign=1070642&utm_source=habrahabr&utm_medium=rss)
 - [Meta* патентует очки с ИИ, которые будут использовать распознавание лиц для идентификации людей и создания видеороликов](https://habr.com/ru/news/1071200/?utm_campaign=1071200&utm_source=habrahabr&utm_medium=rss)
