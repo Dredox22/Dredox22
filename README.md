@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Гендиректор Anthropic: негативная реакция на ИИ — это «кризис доверия»](https://habr.com/ru/news/1071054/?utm_campaign=1071054&utm_source=habrahabr&utm_medium=rss)
+- [ИИ раскрыл исторический поворот в шедевре Рафаэля](https://habr.com/ru/news/1071048/?utm_campaign=1071048&utm_source=habrahabr&utm_medium=rss)
+- [В Firefox для iOS появился встроенный блокировщик рекламы](https://habr.com/ru/news/1071068/?utm_campaign=1071068&utm_source=habrahabr&utm_medium=rss)
+- [На Тайване инженер пытался с помощью камеры украсть секреты из закрытого периметра](https://habr.com/ru/news/1071042/?utm_campaign=1071042&utm_source=habrahabr&utm_medium=rss)
 - [Stripe приобрела ИИ‑стартап OpenRouter](https://habr.com/ru/news/1071038/?utm_campaign=1071038&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft удалит утилиту командной строки WMIC из Windows 11 26H2](https://habr.com/ru/news/1071032/?utm_campaign=1071032&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Linux 7.2](https://habr.com/ru/news/1068558/?utm_campaign=1068558&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск терминального файлового менеджера nnn &lpar;n³&rpar; v5.3 Mai Tai](https://habr.com/ru/news/1070942/?utm_campaign=1070942&utm_source=habrahabr&utm_medium=rss)
-- [Экс‑инженер Microsoft разрабатывает DayFrame — модульный конкурент Outlook](https://habr.com/ru/news/1070922/?utm_campaign=1070922&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
