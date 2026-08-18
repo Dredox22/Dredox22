@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [GitLab экстренно закрыл уязвимости с оценкой CVSS 9.4: как неаутентифицированный пользователь мог удалять чужие проекты](https://habr.com/ru/companies/selectel/news/1071598/?utm_campaign=1071598&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи начали отменять подписки на Claude из‑за водяных знаков в сгенерированном контенте](https://habr.com/ru/news/1071702/?utm_campaign=1071702&utm_source=habrahabr&utm_medium=rss)
+- [Российских разработчиков ИИ могут обязать платить правообладателям за использование контента для обучения моделей](https://habr.com/ru/news/1071698/?utm_campaign=1071698&utm_source=habrahabr&utm_medium=rss)
+- [Уязвимость в GitLab с оценкой CVSS 9.4: как неаутентифицированный пользователь мог удалять чужие проекты](https://habr.com/ru/companies/selectel/news/1071598/?utm_campaign=1071598&utm_source=habrahabr&utm_medium=rss)
 - [В КНР госструктурам приказали удалить версии Windows 10](https://habr.com/ru/news/1071642/?utm_campaign=1071642&utm_source=habrahabr&utm_medium=rss)
 - [Business Insider: Дима бросил учёбу ради World of Warcraft и стал миллионером](https://habr.com/ru/news/1071620/?utm_campaign=1071620&utm_source=habrahabr&utm_medium=rss)
-- [Вышла бета‑версия браузера Orion для Linux на WebKit без телеметрии, трекеров, рекламы и с настройками приватности](https://habr.com/ru/news/1071644/?utm_campaign=1071644&utm_source=habrahabr&utm_medium=rss)
-- [Рекордное число пользователей Apple получили предупреждение о шпионском ПО](https://habr.com/ru/news/1071612/?utm_campaign=1071612&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
