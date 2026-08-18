@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Очередной рекорд квантовых сетей — передача на 62 км по существующим кабелям](https://habr.com/ru/news/1071624/?utm_campaign=1071624&utm_source=habrahabr&utm_medium=rss)
 - [Как понять, что компании уже пора переходить на ERP](https://habr.com/ru/companies/infostart/news/1071588/?utm_campaign=1071588&utm_source=habrahabr&utm_medium=rss)
 - [Тайвань выплатит каждому гражданину $314 дивидендов от ИИ](https://habr.com/ru/news/1071586/?utm_campaign=1071586&utm_source=habrahabr&utm_medium=rss)
 - [НСПК запустила сервис для дистанционной смены обычных карт «Мир» на премиальные](https://habr.com/ru/news/1071568/?utm_campaign=1071568&utm_source=habrahabr&utm_medium=rss)
 - [Reddit начал тестирование нового аудио‑ и видеосервиса, похожего на ленту популярных роликов в TikTok](https://habr.com/ru/news/1071550/?utm_campaign=1071550&utm_source=habrahabr&utm_medium=rss)
-- [В «Яндекс Картах» появились данные о направлении дорожных камер и ограничениях скорости на всём маршруте](https://habr.com/ru/news/1071540/?utm_campaign=1071540&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
