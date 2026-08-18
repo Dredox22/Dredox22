@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [СМИ: Минцифры планирует передавать крупным операторам сети оставшихся без лицензии провайдеров](https://habr.com/ru/news/1071460/?utm_campaign=1071460&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia инвестирует $105 млрд в дата‑центр OpenAI в штате Огайо](https://habr.com/ru/news/1071474/?utm_campaign=1071474&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: Минцифры планирует передавать крупным операторам сети оставшихся без лицензии провайдеров](https://habr.com/ru/news/1071460/?utm_campaign=1071460&utm_source=habrahabr&utm_medium=rss)
 - [Ещё одна связка в российском Linux-стеке: Avanpost DS Pro интегрирован с Granulex Recovery](https://habr.com/ru/news/1071414/?utm_campaign=1071414&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Firefox 154.0](https://habr.com/ru/news/1071380/?utm_campaign=1071380&utm_source=habrahabr&utm_medium=rss)
 - [Cursor запустил Origin: конкурента GitHub для AI-агентов](https://habr.com/ru/news/1071418/?utm_campaign=1071418&utm_source=habrahabr&utm_medium=rss)
-- [Новое учебное пособие «Нанософт»: «Проектирование и расчет систем электроснабжения в nanoCAD BIM Электро»](https://habr.com/ru/companies/nanosoft/news/1071390/?utm_campaign=1071390&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
