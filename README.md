@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сотрудники стартапа ИИ‑автоматизации Relay перейдут в Google Chrome](https://habr.com/ru/news/1071496/?utm_campaign=1071496&utm_source=habrahabr&utm_medium=rss)
+- [WordPress.com начнёт предлагать бесплатный студенческий план](https://habr.com/ru/news/1071490/?utm_campaign=1071490&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft призвала компании отказаться от локальной Active Directory](https://habr.com/ru/news/1071484/?utm_campaign=1071484&utm_source=habrahabr&utm_medium=rss)
+- [В 404 Media отследили партию редких книг, которая закончила жизнь на тренировочном полигоне ИИ Amazon](https://habr.com/ru/news/1071486/?utm_campaign=1071486&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia инвестирует $105 млрд в дата‑центр OpenAI в штате Огайо](https://habr.com/ru/news/1071474/?utm_campaign=1071474&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: Минцифры планирует передавать крупным операторам сети оставшихся без лицензии провайдеров](https://habr.com/ru/news/1071460/?utm_campaign=1071460&utm_source=habrahabr&utm_medium=rss)
-- [Ещё одна связка в российском Linux-стеке: Avanpost DS Pro интегрирован с Granulex Recovery](https://habr.com/ru/news/1071414/?utm_campaign=1071414&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Firefox 154.0](https://habr.com/ru/news/1071380/?utm_campaign=1071380&utm_source=habrahabr&utm_medium=rss)
-- [Cursor запустил Origin: конкурента GitHub для AI-агентов](https://habr.com/ru/news/1071418/?utm_campaign=1071418&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
