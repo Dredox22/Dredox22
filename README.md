@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Электромобили UMO 5 получили расширенный доступ к технологиям «Яндекс Авто»](https://habr.com/ru/news/1071704/?utm_campaign=1071704&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи начали отменять подписки на Claude из‑за водяных знаков в сгенерированном контенте](https://habr.com/ru/news/1071702/?utm_campaign=1071702&utm_source=habrahabr&utm_medium=rss)
 - [Российских разработчиков ИИ могут обязать платить правообладателям за использование контента для обучения моделей](https://habr.com/ru/news/1071698/?utm_campaign=1071698&utm_source=habrahabr&utm_medium=rss)
 - [Уязвимость в GitLab с оценкой CVSS 9.4: как неаутентифицированный пользователь мог удалять чужие проекты](https://habr.com/ru/companies/selectel/news/1071598/?utm_campaign=1071598&utm_source=habrahabr&utm_medium=rss)
 - [В КНР госструктурам приказали удалить версии Windows 10](https://habr.com/ru/news/1071642/?utm_campaign=1071642&utm_source=habrahabr&utm_medium=rss)
-- [Business Insider: Дима бросил учёбу ради World of Warcraft и стал миллионером](https://habr.com/ru/news/1071620/?utm_campaign=1071620&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
