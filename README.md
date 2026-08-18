@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Reddit начал тестирование нового аудио‑ и видеосервиса, похожего на ленту популярных роликов в TikTok](https://habr.com/ru/news/1071550/?utm_campaign=1071550&utm_source=habrahabr&utm_medium=rss)
+- [В «Яндекс Картах» появились данные о направлении дорожных камер и ограничениях скорости на всём маршруте](https://habr.com/ru/news/1071540/?utm_campaign=1071540&utm_source=habrahabr&utm_medium=rss)
+- [Feedly объяснила недельное замедление работы](https://habr.com/ru/news/1071504/?utm_campaign=1071504&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft откажется от SMS и голосовой аутентификации в Entra ID](https://habr.com/ru/news/1071512/?utm_campaign=1071512&utm_source=habrahabr&utm_medium=rss)
 - [Сотрудники стартапа ИИ‑автоматизации Relay перейдут в Google Chrome](https://habr.com/ru/news/1071496/?utm_campaign=1071496&utm_source=habrahabr&utm_medium=rss)
-- [WordPress.com начнёт предлагать бесплатный студенческий план](https://habr.com/ru/news/1071490/?utm_campaign=1071490&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft призвала компании отказаться от локальной Active Directory](https://habr.com/ru/news/1071484/?utm_campaign=1071484&utm_source=habrahabr&utm_medium=rss)
-- [В 404 Media отследили партию редких книг, которая закончила жизнь на тренировочном полигоне ИИ Amazon](https://habr.com/ru/news/1071486/?utm_campaign=1071486&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia инвестирует $105 млрд в дата‑центр OpenAI в штате Огайо](https://habr.com/ru/news/1071474/?utm_campaign=1071474&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
