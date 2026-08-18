@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Очередной рекорд квантовых сетей — передача на 62 км по существующим кабелям](https://habr.com/ru/news/1071624/?utm_campaign=1071624&utm_source=habrahabr&utm_medium=rss)
-- [Как понять, что компании уже пора переходить на ERP](https://habr.com/ru/companies/infostart/news/1071588/?utm_campaign=1071588&utm_source=habrahabr&utm_medium=rss)
-- [Тайвань выплатит каждому гражданину $314 дивидендов от ИИ](https://habr.com/ru/news/1071586/?utm_campaign=1071586&utm_source=habrahabr&utm_medium=rss)
-- [НСПК запустила сервис для дистанционной смены обычных карт «Мир» на премиальные](https://habr.com/ru/news/1071568/?utm_campaign=1071568&utm_source=habrahabr&utm_medium=rss)
-- [Reddit начал тестирование нового аудио‑ и видеосервиса, похожего на ленту популярных роликов в TikTok](https://habr.com/ru/news/1071550/?utm_campaign=1071550&utm_source=habrahabr&utm_medium=rss)
+- [GitLab экстренно закрыл уязвимости с оценкой CVSS 9.4: как неаутентифицированный пользователь мог удалять чужие проекты](https://habr.com/ru/companies/selectel/news/1071598/?utm_campaign=1071598&utm_source=habrahabr&utm_medium=rss)
+- [В КНР госструктурам приказали удалить версии Windows 10](https://habr.com/ru/news/1071642/?utm_campaign=1071642&utm_source=habrahabr&utm_medium=rss)
+- [Business Insider: Дима бросил учёбу ради World of Warcraft и стал миллионером](https://habr.com/ru/news/1071620/?utm_campaign=1071620&utm_source=habrahabr&utm_medium=rss)
+- [Вышла бета‑версия браузера Orion для Linux на WebKit без телеметрии, трекеров, рекламы и с настройками приватности](https://habr.com/ru/news/1071644/?utm_campaign=1071644&utm_source=habrahabr&utm_medium=rss)
+- [Рекордное число пользователей Apple получили предупреждение о шпионском ПО](https://habr.com/ru/news/1071612/?utm_campaign=1071612&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
