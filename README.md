@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск Mozilla Thunderbird 154.0](https://habr.com/ru/news/1071522/?utm_campaign=1071522&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый драйвер для HP Laser 1003/1006/1008 &lpar;a/w&rpar; для macOS, созданный с помощью Claude](https://habr.com/ru/news/1071814/?utm_campaign=1071814&utm_source=habrahabr&utm_medium=rss)
 - [Учёные сделали энергоэффективный накопитель на основе ДНК](https://habr.com/ru/news/1071812/?utm_campaign=1071812&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI представила режим для подростков с инструментами для учёбы и родительским контролем](https://habr.com/ru/news/1071800/?utm_campaign=1071800&utm_source=habrahabr&utm_medium=rss)
 - [INFOSTART A&amp;amp;PM EVENT 2026: началось голосование за доклады](https://habr.com/ru/companies/infostart/news/1071758/?utm_campaign=1071758&utm_source=habrahabr&utm_medium=rss)
-- [Электромобили UMO 5 получили расширенный доступ к технологиям «Яндекс Авто»](https://habr.com/ru/news/1071704/?utm_campaign=1071704&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
