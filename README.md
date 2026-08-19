@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Разработчик портировал Android 13 на reMarkable Paper Pro](https://habr.com/ru/news/1072044/?utm_campaign=1072044&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI распустила команду Preparedness, отвечавшую за анализ наиболее опасных сценариев работы ИИ](https://habr.com/ru/news/1071452/?utm_campaign=1071452&utm_source=habrahabr&utm_medium=rss)
-- [Американские конгрессмены, их помощники и лоббисты всё чаще несут тексты законопроектов, написанные нейросетями](https://habr.com/ru/news/1071990/?utm_campaign=1071990&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры обсуждает ужесточение условий работы для виртуальных операторов связи](https://habr.com/ru/news/1071988/?utm_campaign=1071988&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Postgres ProGate 1.4.0: параллелизация задач, ускоренная интроспекция и оптимизация работы с СУБД](https://habr.com/ru/companies/postgrespro/news/1070964/?utm_campaign=1070964&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики Tomb Raider: Legacy of Atlantis рассказали о геймплее ремейка первой части](https://habr.com/ru/companies/ggsel/news/1072114/?utm_campaign=1072114&utm_source=habrahabr&utm_medium=rss)
+- [Google купила внутренние данные обанкротившейся авиакомпании Spirit Airlines и будет обучать на них свой ИИ](https://habr.com/ru/news/1072092/?utm_campaign=1072092&utm_source=habrahabr&utm_medium=rss)
+- [Программа Tantor JAM 2026](https://habr.com/ru/companies/tantor/news/1072086/?utm_campaign=1072086&utm_source=habrahabr&utm_medium=rss)
+- [Минпромторг планирует локализацию чипов для ИИ](https://habr.com/ru/news/1072084/?utm_campaign=1072084&utm_source=habrahabr&utm_medium=rss)
+- [nanoCAD ММГ — новый продукт для геотехнического мониторинга в условиях вечной мерзлоты](https://habr.com/ru/companies/nanosoft/news/1072078/?utm_campaign=1072078&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
