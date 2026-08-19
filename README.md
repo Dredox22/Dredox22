@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Telegram подал заявку на регистрацию доменной зоны *.gram](https://habr.com/ru/news/1071874/?utm_campaign=1071874&utm_source=habrahabr&utm_medium=rss)
+- [На аукцион выставили школьный проект Стива Джобса по электронике](https://habr.com/ru/news/1071884/?utm_campaign=1071884&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI усилила контроль над своими ИИ‑моделями](https://habr.com/ru/news/1071880/?utm_campaign=1071880&utm_source=habrahabr&utm_medium=rss)
+- [В Nvidia GeForce NOW добавили официальную поддержку Firefox](https://habr.com/ru/news/1071878/?utm_campaign=1071878&utm_source=habrahabr&utm_medium=rss)
+- [Telegram подал заявку на регистрацию доменной зоны *.gram](https://habr.com/ru/news/1071874/?utm_campaign=1071874&utm_source=habrahabr&utm_medium=rss)
 - [Вышла система виртуализации VirtualBox 7.2.16](https://habr.com/ru/news/1071822/?utm_campaign=1071822&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск Mozilla Thunderbird 154.0](https://habr.com/ru/news/1071522/?utm_campaign=1071522&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый драйвер для HP Laser 1003/1006/1008 &lpar;a/w&rpar; для macOS, созданный с помощью Claude](https://habr.com/ru/news/1071814/?utm_campaign=1071814&utm_source=habrahabr&utm_medium=rss)
-- [Учёные сделали энергоэффективный накопитель на основе ДНК](https://habr.com/ru/news/1071812/?utm_campaign=1071812&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
