@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Анонсирована Riot Riders — кооперативная инди-игра с пулевым адом и оригинальной механикой](https://habr.com/ru/companies/ggsel/news/1072116/?utm_campaign=1072116&utm_source=habrahabr&utm_medium=rss)
+- [Как Oracle меняет цикл обновлений Java. Разбираем августовский CSPU](https://habr.com/ru/companies/selectel/news/1072080/?utm_campaign=1072080&utm_source=habrahabr&utm_medium=rss)
+- [Исследование «Инфосистемы Джет»: 64% российских компаний не готовы пережить кибератаку](https://habr.com/ru/companies/jetinfosystems/news/1072132/?utm_campaign=1072132&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Tomb Raider: Legacy of Atlantis рассказали о геймплее ремейка первой части](https://habr.com/ru/companies/ggsel/news/1072114/?utm_campaign=1072114&utm_source=habrahabr&utm_medium=rss)
 - [Google купила внутренние данные обанкротившейся авиакомпании Spirit Airlines и будет обучать на них свой ИИ](https://habr.com/ru/news/1072092/?utm_campaign=1072092&utm_source=habrahabr&utm_medium=rss)
-- [Программа Tantor JAM 2026](https://habr.com/ru/companies/tantor/news/1072086/?utm_campaign=1072086&utm_source=habrahabr&utm_medium=rss)
-- [Минпромторг планирует локализацию чипов для ИИ](https://habr.com/ru/news/1072084/?utm_campaign=1072084&utm_source=habrahabr&utm_medium=rss)
-- [nanoCAD ММГ — новый продукт для геотехнического мониторинга в условиях вечной мерзлоты](https://habr.com/ru/companies/nanosoft/news/1072078/?utm_campaign=1072078&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
