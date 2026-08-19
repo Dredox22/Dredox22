@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI распустила команду Preparedness, отвечавшую за анализ наиболее опасных сценариев работы ИИ](https://habr.com/ru/news/1071452/?utm_campaign=1071452&utm_source=habrahabr&utm_medium=rss)
+- [Американские конгрессмены, их помощники и лоббисты всё чаще несут тексты законопроектов, написанные нейросетями](https://habr.com/ru/news/1071990/?utm_campaign=1071990&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры обсуждает ужесточение условий работы для виртуальных операторов связи](https://habr.com/ru/news/1071988/?utm_campaign=1071988&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Postgres ProGate 1.4.0: параллелизация задач, ускоренная интроспекция и оптимизация работы с СУБД](https://habr.com/ru/companies/postgrespro/news/1070964/?utm_campaign=1070964&utm_source=habrahabr&utm_medium=rss)
 - [UserGate развернет на OFFZONE 2026 интерактивную площадку для SOC‑инженеров](https://habr.com/ru/companies/usergate/news/1071980/?utm_campaign=1071980&utm_source=habrahabr&utm_medium=rss)
-- [ЦБ: все операции с цифровым рублём для россиян будут бесплатными](https://habr.com/ru/news/1071976/?utm_campaign=1071976&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект DesktopFly — десктопный питомец для macOS в виде мухи на основе 668 нейронов мозга дрозофилы](https://habr.com/ru/news/1071930/?utm_campaign=1071930&utm_source=habrahabr&utm_medium=rss)
-- [На Gamescom 2026 будет показан геймплей RTS по вселенной «Игры престолов»](https://habr.com/ru/companies/ggsel/news/1071948/?utm_campaign=1071948&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
