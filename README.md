@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Анонсирована Riot Riders — кооперативная инди-игра с пулевым адом и оригинальной механикой](https://habr.com/ru/companies/ggsel/news/1072116/?utm_campaign=1072116&utm_source=habrahabr&utm_medium=rss)
-- [Как Oracle меняет цикл обновлений Java. Разбираем августовский CSPU](https://habr.com/ru/companies/selectel/news/1072080/?utm_campaign=1072080&utm_source=habrahabr&utm_medium=rss)
-- [Исследование «Инфосистемы Джет»: 64% российских компаний не готовы пережить кибератаку](https://habr.com/ru/companies/jetinfosystems/news/1072132/?utm_campaign=1072132&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики Tomb Raider: Legacy of Atlantis рассказали о геймплее ремейка первой части](https://habr.com/ru/companies/ggsel/news/1072114/?utm_campaign=1072114&utm_source=habrahabr&utm_medium=rss)
-- [Google купила внутренние данные обанкротившейся авиакомпании Spirit Airlines и будет обучать на них свой ИИ](https://habr.com/ru/news/1072092/?utm_campaign=1072092&utm_source=habrahabr&utm_medium=rss)
+- [АМОР пред­ло­жила аль­тер­на­тив­ный ва­риант ре­фор­мы свя­зи в ли­цен­зи­рова­нии](https://habr.com/ru/news/1072166/?utm_campaign=1072166&utm_source=habrahabr&utm_medium=rss)
+- [Неделя до «Митапа с двойной начинкой»](https://habr.com/ru/companies/vk/news/1072164/?utm_campaign=1072164&utm_source=habrahabr&utm_medium=rss)
+- [Анонсирована Riot Riders — кооперативная инди‑игра с пулевым адом и оригинальной механикой](https://habr.com/ru/companies/ggsel/news/1072116/?utm_campaign=1072116&utm_source=habrahabr&utm_medium=rss)
+- [Как Oracle меняет цикл обновлений Java. Разбираем августовский CSPU](https://habr.com/ru/companies/selectel/news/1072080/?utm_campaign=1072080&utm_source=habrahabr&utm_medium=rss)
+- [Исследование «Инфосистемы Джет»: 64% российских компаний не готовы пережить кибератаку](https://habr.com/ru/companies/jetinfosystems/news/1072132/?utm_campaign=1072132&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
