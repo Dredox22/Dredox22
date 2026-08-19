@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В России на фоне резкого взлёта цен на оперативную память из‑за развития ИИ подорожали серверы](https://habr.com/ru/news/1071934/?utm_campaign=1071934&utm_source=habrahabr&utm_medium=rss)
+- [Cursor запустила платформу Origin для размещения кода](https://habr.com/ru/news/1071916/?utm_campaign=1071916&utm_source=habrahabr&utm_medium=rss)
+- [Селлеры смогут рассчитывать налоговые платежи в личном кабинете Cбер2B Онлайн-продажи](https://habr.com/ru/companies/ecom_with_love/news/1071922/?utm_campaign=1071922&utm_source=habrahabr&utm_medium=rss)
 - [Nokia планирует закрыть почти все заводы в материковом Китае к концу 2026 года](https://habr.com/ru/news/1071904/?utm_campaign=1071904&utm_source=habrahabr&utm_medium=rss)
 - [Аппарат НАСА LRO сделал фото кратера на Луне после падения второй ступени Falcon 9](https://habr.com/ru/news/1071894/?utm_campaign=1071894&utm_source=habrahabr&utm_medium=rss)
-- [В EFF высказались по поводу использования камер Flock](https://habr.com/ru/news/1071886/?utm_campaign=1071886&utm_source=habrahabr&utm_medium=rss)
-- [На аукцион выставили школьный проект Стива Джобса по электронике](https://habr.com/ru/news/1071884/?utm_campaign=1071884&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI усилила контроль над своими ИИ‑моделями](https://habr.com/ru/news/1071880/?utm_campaign=1071880&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
