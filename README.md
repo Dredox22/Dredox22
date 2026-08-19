@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nokia планирует закрыть почти все заводы в материковом Китае к концу 2026 года](https://habr.com/ru/news/1071904/?utm_campaign=1071904&utm_source=habrahabr&utm_medium=rss)
+- [Аппарат НАСА LRO сделал фото кратера на Луне после падения второй ступени Falcon 9](https://habr.com/ru/news/1071894/?utm_campaign=1071894&utm_source=habrahabr&utm_medium=rss)
+- [В EFF высказались по поводу использования камер Flock](https://habr.com/ru/news/1071886/?utm_campaign=1071886&utm_source=habrahabr&utm_medium=rss)
 - [На аукцион выставили школьный проект Стива Джобса по электронике](https://habr.com/ru/news/1071884/?utm_campaign=1071884&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI усилила контроль над своими ИИ‑моделями](https://habr.com/ru/news/1071880/?utm_campaign=1071880&utm_source=habrahabr&utm_medium=rss)
-- [В Nvidia GeForce NOW добавили официальную поддержку Firefox](https://habr.com/ru/news/1071878/?utm_campaign=1071878&utm_source=habrahabr&utm_medium=rss)
-- [Telegram подал заявку на регистрацию доменной зоны *.gram](https://habr.com/ru/news/1071874/?utm_campaign=1071874&utm_source=habrahabr&utm_medium=rss)
-- [Вышла система виртуализации VirtualBox 7.2.16](https://habr.com/ru/news/1071822/?utm_campaign=1071822&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
