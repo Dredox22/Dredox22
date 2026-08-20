@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышло обновление диагностической утилиты CPU-Z 2.21](https://habr.com/ru/news/1072234/?utm_campaign=1072234&utm_source=habrahabr&utm_medium=rss)
 - [Китайский видеохостинг Bilibili начал работать за пределами страны](https://habr.com/ru/news/1072280/?utm_campaign=1072280&utm_source=habrahabr&utm_medium=rss)
 - [«Известия»: из «Антифрода 3.0» убрали требование о трёхлетнем хранении данных о регистрациях](https://habr.com/ru/news/1072232/?utm_campaign=1072232&utm_source=habrahabr&utm_medium=rss)
 - [ЦБ введёт ежемесячный лимит в 300 тыс. на пополнение кошельков для цифровых рублей](https://habr.com/ru/news/1072178/?utm_campaign=1072178&utm_source=habrahabr&utm_medium=rss)
 - [АМОР пред­ло­жила аль­тер­на­тив­ный ва­риант ре­фор­мы свя­зи в ли­цен­зи­рова­нии](https://habr.com/ru/news/1072166/?utm_campaign=1072166&utm_source=habrahabr&utm_medium=rss)
-- [Неделя до «Митапа с двойной начинкой»](https://habr.com/ru/companies/vk/news/1072164/?utm_campaign=1072164&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
