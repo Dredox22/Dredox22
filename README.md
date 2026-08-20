@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла новая версия Go — 1.27](https://habr.com/ru/news/1072344/?utm_campaign=1072344&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft Copilot выдал исследователям способ обхода его защиты](https://habr.com/ru/news/1072328/?utm_campaign=1072328&utm_source=habrahabr&utm_medium=rss)
 - [Плачущий эмодзи стал самым популярным в 2025 году](https://habr.com/ru/news/1072320/?utm_campaign=1072320&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Tails 7.11](https://habr.com/ru/news/1072250/?utm_campaign=1072250&utm_source=habrahabr&utm_medium=rss)
 - [Представлен сайт Rebrand Registry, отслеживающий все изменения названий текущих продуктов Microsoft](https://habr.com/ru/news/1072266/?utm_campaign=1072266&utm_source=habrahabr&utm_medium=rss)
-- [Raspberry Pi представила официальный программатор &lpar;Programming Jig&rpar; за $600 для Compute Module 5](https://habr.com/ru/news/1072228/?utm_campaign=1072228&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление диагностической утилиты CPU‑Z 2.21](https://habr.com/ru/news/1072234/?utm_campaign=1072234&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
