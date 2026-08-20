@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mozilla продлила поддержку Firefox в ОС Windows 7/8.1 и macOS 10.12–10.14 до марта 2027 года](https://habr.com/ru/news/1072354/?utm_campaign=1072354&utm_source=habrahabr&utm_medium=rss)
+- [Google ввела новые правила по установке приложений от непроверенных разработчиков](https://habr.com/ru/news/1072332/?utm_campaign=1072332&utm_source=habrahabr&utm_medium=rss)
 - [Вышла новая версия Go — 1.27](https://habr.com/ru/news/1072344/?utm_campaign=1072344&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft Copilot выдал исследователям способ обхода его защиты](https://habr.com/ru/news/1072328/?utm_campaign=1072328&utm_source=habrahabr&utm_medium=rss)
 - [Плачущий эмодзи стал самым популярным в 2025 году](https://habr.com/ru/news/1072320/?utm_campaign=1072320&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Tails 7.11](https://habr.com/ru/news/1072250/?utm_campaign=1072250&utm_source=habrahabr&utm_medium=rss)
-- [Представлен сайт Rebrand Registry, отслеживающий все изменения названий текущих продуктов Microsoft](https://habr.com/ru/news/1072266/?utm_campaign=1072266&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
