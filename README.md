@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [О! Хакатон возвращается: AI-задачи, миллион на кону](https://habr.com/ru/companies/ostrovok/news/1072506/?utm_campaign=1072506&utm_source=habrahabr&utm_medium=rss)
 - [PARANO1D MAINNET 1.0.0](https://habr.com/ru/news/1072460/?utm_campaign=1072460&utm_source=habrahabr&utm_medium=rss)
 - [Удобный VRAM-калькулятор для быстрого подбора GPU-серверов](https://habr.com/ru/companies/selectel/news/1072400/?utm_campaign=1072400&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Sentence Transformers v6.0: новые возможности для RAG и мультимодального поиска](https://habr.com/ru/companies/selectel/news/1072158/?utm_campaign=1072158&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого проекта IncidentRelay 2.0 — системы для организации дежурств и маршрутизации оповещений](https://habr.com/ru/news/1072414/?utm_campaign=1072414&utm_source=habrahabr&utm_medium=rss)
-- [«Гознак» не ожидает существенных изменений из‑за цифрового рубля](https://habr.com/ru/news/1072406/?utm_campaign=1072406&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
