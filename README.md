@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел геймплейный трейлер Black Myth: Zhong Kui](https://habr.com/ru/companies/ggsel/news/1072620/?utm_campaign=1072620&utm_source=habrahabr&utm_medium=rss)
 - [Pine64 прекратила выпуск Linux‑устройств](https://habr.com/ru/news/1072574/?utm_campaign=1072574&utm_source=habrahabr&utm_medium=rss)
 - [В Spotify запустили режим Running Mode в приложении для Android](https://habr.com/ru/news/1072546/?utm_campaign=1072546&utm_source=habrahabr&utm_medium=rss)
 - [Стажировка в AvitoTech: набираем бэкендеров, фронтендеров, QA, Android- и iOS-разработчиков](https://habr.com/ru/companies/avito/news/1072244/?utm_campaign=1072244&utm_source=habrahabr&utm_medium=rss)
 - [Геосоциальный сервис Blink добавил чаты и звонки](https://habr.com/ru/news/1072540/?utm_campaign=1072540&utm_source=habrahabr&utm_medium=rss)
-- [«Золотая корона» уйдёт с европейского рынка](https://habr.com/ru/news/1072534/?utm_campaign=1072534&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
