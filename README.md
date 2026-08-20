@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [TG Notion: добавлен английский язык интерфейса](https://habr.com/ru/news/1072698/?utm_campaign=1072698&utm_source=habrahabr&utm_medium=rss)
 - [Binance разрешила ИИ‑агентам торговать](https://habr.com/ru/news/1072660/?utm_campaign=1072660&utm_source=habrahabr&utm_medium=rss)
 - [Карта GeForce RTX 3070 несколько лет работала с постоянным перегревом из‑за неправильной заводской сборки](https://habr.com/ru/news/1072652/?utm_campaign=1072652&utm_source=habrahabr&utm_medium=rss)
 - [Asana за две недели заменила систему тестирования при помощи Codex от OpenAI](https://habr.com/ru/news/1072648/?utm_campaign=1072648&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз многопользовательского шутера WW1 Gallipoli](https://habr.com/ru/companies/ggsel/news/1072638/?utm_campaign=1072638&utm_source=habrahabr&utm_medium=rss)
-- [Вышел геймплейный трейлер Black Myth: Zhong Kui](https://habr.com/ru/companies/ggsel/news/1072620/?utm_campaign=1072620&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
