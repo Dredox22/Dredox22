@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [О! Хакатон возвращается: AI-задачи, миллион на кону](https://habr.com/ru/companies/ostrovok/news/1072506/?utm_campaign=1072506&utm_source=habrahabr&utm_medium=rss)
-- [PARANO1D MAINNET 1.0.0](https://habr.com/ru/news/1072460/?utm_campaign=1072460&utm_source=habrahabr&utm_medium=rss)
-- [Удобный VRAM-калькулятор для быстрого подбора GPU-серверов](https://habr.com/ru/companies/selectel/news/1072400/?utm_campaign=1072400&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Sentence Transformers v6.0: новые возможности для RAG и мультимодального поиска](https://habr.com/ru/companies/selectel/news/1072158/?utm_campaign=1072158&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого проекта IncidentRelay 2.0 — системы для организации дежурств и маршрутизации оповещений](https://habr.com/ru/news/1072414/?utm_campaign=1072414&utm_source=habrahabr&utm_medium=rss)
+- [В Spotify запустили режим Running Mode в приложении для Android](https://habr.com/ru/news/1072546/?utm_campaign=1072546&utm_source=habrahabr&utm_medium=rss)
+- [Стажировка в AvitoTech: набираем бэкендеров, фронтендеров, QA, Android- и iOS-разработчиков](https://habr.com/ru/companies/avito/news/1072244/?utm_campaign=1072244&utm_source=habrahabr&utm_medium=rss)
+- [Геосоциальный сервис Blink добавил чаты и звонки](https://habr.com/ru/news/1072540/?utm_campaign=1072540&utm_source=habrahabr&utm_medium=rss)
+- [«Золотая корона» уйдёт с европейского рынка](https://habr.com/ru/news/1072534/?utm_campaign=1072534&utm_source=habrahabr&utm_medium=rss)
+- [В «Яндекс Электро» выпустили приложение UMO для владельцев электромобилей UMO 5 и гибридных кроссоверов UMO 8](https://habr.com/ru/news/1072508/?utm_campaign=1072508&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
