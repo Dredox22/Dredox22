@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Sentence Transformers v6.0: новые возможности для RAG и мультимодального поиска](https://habr.com/ru/companies/selectel/news/1072158/?utm_campaign=1072158&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого проекта IncidentRelay 2.0 — системы для организации дежурств и маршрутизации оповещений](https://habr.com/ru/news/1072414/?utm_campaign=1072414&utm_source=habrahabr&utm_medium=rss)
+- [«Гознак» не ожидает существенных изменений из‑за цифрового рубля](https://habr.com/ru/news/1072406/?utm_campaign=1072406&utm_source=habrahabr&utm_medium=rss)
+- [Запустили Managed ClickHouse в GA](https://habr.com/ru/companies/mws/news/1072182/?utm_campaign=1072182&utm_source=habrahabr&utm_medium=rss)
 - [В Москве пройдет уличный фестиваль для руководителей ИТ, ИБ и AI‑направлений](https://habr.com/ru/companies/nubes/news/1072402/?utm_campaign=1072402&utm_source=habrahabr&utm_medium=rss)
-- [В России стартовал приём заявок на хакатон для школьников и педагогов](https://habr.com/ru/news/1072372/?utm_campaign=1072372&utm_source=habrahabr&utm_medium=rss)
-- [Mozilla продлила поддержку Firefox в ОС Windows 7/8.1 и macOS 10.12–10.14 до марта 2027 года](https://habr.com/ru/news/1072354/?utm_campaign=1072354&utm_source=habrahabr&utm_medium=rss)
-- [Google ввела новые правила по установке приложений от непроверенных разработчиков](https://habr.com/ru/news/1072332/?utm_campaign=1072332&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Go 1.27](https://habr.com/ru/news/1072348/?utm_campaign=1072348&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
