@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [PARANO1D MAINNET 1.0.0](https://habr.com/ru/news/1072460/?utm_campaign=1072460&utm_source=habrahabr&utm_medium=rss)
+- [Удобный VRAM-калькулятор для быстрого подбора GPU-серверов](https://habr.com/ru/companies/selectel/news/1072400/?utm_campaign=1072400&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Sentence Transformers v6.0: новые возможности для RAG и мультимодального поиска](https://habr.com/ru/companies/selectel/news/1072158/?utm_campaign=1072158&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытого проекта IncidentRelay 2.0 — системы для организации дежурств и маршрутизации оповещений](https://habr.com/ru/news/1072414/?utm_campaign=1072414&utm_source=habrahabr&utm_medium=rss)
 - [«Гознак» не ожидает существенных изменений из‑за цифрового рубля](https://habr.com/ru/news/1072406/?utm_campaign=1072406&utm_source=habrahabr&utm_medium=rss)
-- [Запустили Managed ClickHouse в GA](https://habr.com/ru/companies/mws/news/1072182/?utm_campaign=1072182&utm_source=habrahabr&utm_medium=rss)
-- [В Москве пройдет уличный фестиваль для руководителей ИТ, ИБ и AI‑направлений](https://habr.com/ru/companies/nubes/news/1072402/?utm_campaign=1072402&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
