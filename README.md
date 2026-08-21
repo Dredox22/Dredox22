@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В VK подали в суд на Apple из-за удаления приложений компании из AppStore](https://habr.com/ru/news/1072816/?utm_campaign=1072816&utm_source=habrahabr&utm_medium=rss)
+- [FCC отменила целевой показатель скорости в 1 Гбит/с, поскольку он несправедлив к более медленным технологиям](https://habr.com/ru/news/1072824/?utm_campaign=1072824&utm_source=habrahabr&utm_medium=rss)
+- [Сервис поиска людей ClarityCheck оставил более 9 млн изображений в незащищённом хранилище](https://habr.com/ru/news/1072806/?utm_campaign=1072806&utm_source=habrahabr&utm_medium=rss)
+- [Apple предлагает взимать с разработчиков до 15% при использовании внешних ссылок для покупок](https://habr.com/ru/news/1072802/?utm_campaign=1072802&utm_source=habrahabr&utm_medium=rss)
+- [В VK подали в суд на Apple из‑за удаления приложений компании из AppStore](https://habr.com/ru/news/1072816/?utm_campaign=1072816&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft нарушила работу Windows Defender при исправлении уязвимости нулевого дня](https://habr.com/ru/news/1072794/?utm_campaign=1072794&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Rust 1.98.0](https://habr.com/ru/news/1072810/?utm_campaign=1072810&utm_source=habrahabr&utm_medium=rss)
-- [Canonical запустила проект инструментария для автоматической трансляции кода с языка C на Rust](https://habr.com/ru/news/1072792/?utm_campaign=1072792&utm_source=habrahabr&utm_medium=rss)
-- [Stripe пришлось столкнуться с конкуренцией при покупке OpenRouter](https://habr.com/ru/news/1072790/?utm_campaign=1072790&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
