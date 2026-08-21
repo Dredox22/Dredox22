@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [«Ведомости»: российские онлайн‑магазины предупредили о проблемах с оплатой в иностранных браузерах](https://habr.com/ru/news/1072974/?utm_campaign=1072974&utm_source=habrahabr&utm_medium=rss)
+- [Proton Mail теперь сортирует электронные письма по категориям, как Gmail](https://habr.com/ru/news/1072964/?utm_campaign=1072964&utm_source=habrahabr&utm_medium=rss)
+- [Директор по ИИ GlowByte станет модератором ИТ-форума инноваций в ритейле](https://habr.com/ru/companies/glowbyte/news/1072956/?utm_campaign=1072956&utm_source=habrahabr&utm_medium=rss)
 - [Павел Агалецкий выпустил видеообзор Go 1.27 — что нового в языке и стандартной библиотеке](https://habr.com/ru/companies/avito/news/1072592/?utm_campaign=1072592&utm_source=habrahabr&utm_medium=rss)
 - [Что нового в Managed Kubernetes: дайджест апдейтов за июль](https://habr.com/ru/companies/selectel/news/1072804/?utm_campaign=1072804&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Space VDI 6.2.0 с расширенными возможностями администрирования VDI‑среды](https://habr.com/ru/companies/spacevm/news/1072858/?utm_campaign=1072858&utm_source=habrahabr&utm_medium=rss)
-- [Apple Music начнёт добавлять метку Made With AI к контенту, созданному с помощью ИИ](https://habr.com/ru/news/1072900/?utm_campaign=1072900&utm_source=habrahabr&utm_medium=rss)
-- [Apple согласилась ввести единые правила для разработчиков в ЕС](https://habr.com/ru/news/1072892/?utm_campaign=1072892&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
