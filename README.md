@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft сообщила о проблемах с августовскими обновлениями Windows 11](https://habr.com/ru/news/1072788/?utm_campaign=1072788&utm_source=habrahabr&utm_medium=rss)
+- [ChatGPT сможет отправлять текстовые сообщения с помощью нового плагина Apple Messages](https://habr.com/ru/news/1072784/?utm_campaign=1072784&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск инструментария с комплектом аудиопрограмм в одном приложении KataLib 5.3.4.0 для Windows](https://habr.com/ru/news/1072682/?utm_campaign=1072682&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление открытого проекта PhotoQuick — минималистичного редактора изображений для Linux и Windows](https://habr.com/ru/news/1072484/?utm_campaign=1072484&utm_source=habrahabr&utm_medium=rss)
 - [Япония обяжет компании, занимающиеся ИИ, раскрывать используемые для его обучения данные](https://habr.com/ru/news/1072728/?utm_campaign=1072728&utm_source=habrahabr&utm_medium=rss)
-- [В Windows 11 могут появиться индивидуальные настройки конфиденциальности для приложений Win32](https://habr.com/ru/news/1072464/?utm_campaign=1072464&utm_source=habrahabr&utm_medium=rss)
-- [TG Notion: добавлен английский язык интерфейса](https://habr.com/ru/news/1072698/?utm_campaign=1072698&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
