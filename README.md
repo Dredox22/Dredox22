@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple сократила команду по разработке приложений для виртуальной реальности](https://habr.com/ru/news/1072852/?utm_campaign=1072852&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем на митап: Фронтенд, который не сгенерируешь](https://habr.com/ru/companies/usetech/news/1072840/?utm_campaign=1072840&utm_source=habrahabr&utm_medium=rss)
 - [FCC отменила целевой показатель скорости в 1 Гбит/с, поскольку он несправедлив к более медленным технологиям](https://habr.com/ru/news/1072824/?utm_campaign=1072824&utm_source=habrahabr&utm_medium=rss)
 - [Сервис поиска людей ClarityCheck оставил более 9 млн изображений в незащищённом хранилище](https://habr.com/ru/news/1072806/?utm_campaign=1072806&utm_source=habrahabr&utm_medium=rss)
 - [Apple предлагает взимать с разработчиков до 15% при использовании внешних ссылок для покупок](https://habr.com/ru/news/1072802/?utm_campaign=1072802&utm_source=habrahabr&utm_medium=rss)
-- [В VK подали в суд на Apple из‑за удаления приложений компании из AppStore](https://habr.com/ru/news/1072816/?utm_campaign=1072816&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft нарушила работу Windows Defender при исправлении уязвимости нулевого дня](https://habr.com/ru/news/1072794/?utm_campaign=1072794&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
