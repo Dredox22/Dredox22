@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft сообщила о проблемах с августовскими обновлениями Windows 11](https://habr.com/ru/news/1072788/?utm_campaign=1072788&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT сможет отправлять текстовые сообщения с помощью нового плагина Apple Messages](https://habr.com/ru/news/1072784/?utm_campaign=1072784&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск инструментария с комплектом аудиопрограмм в одном приложении KataLib 5.3.4.0 для Windows](https://habr.com/ru/news/1072682/?utm_campaign=1072682&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление открытого проекта PhotoQuick — минималистичного редактора изображений для Linux и Windows](https://habr.com/ru/news/1072484/?utm_campaign=1072484&utm_source=habrahabr&utm_medium=rss)
-- [Япония обяжет компании, занимающиеся ИИ, раскрывать используемые для его обучения данные](https://habr.com/ru/news/1072728/?utm_campaign=1072728&utm_source=habrahabr&utm_medium=rss)
+- [В VK подали в суд на Apple из-за удаления приложений компании из AppStore](https://habr.com/ru/news/1072816/?utm_campaign=1072816&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft нарушила работу Windows Defender при исправлении уязвимости нулевого дня](https://habr.com/ru/news/1072794/?utm_campaign=1072794&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Rust 1.98.0](https://habr.com/ru/news/1072810/?utm_campaign=1072810&utm_source=habrahabr&utm_medium=rss)
+- [Canonical запустила проект инструментария для автоматической трансляции кода с языка C на Rust](https://habr.com/ru/news/1072792/?utm_campaign=1072792&utm_source=habrahabr&utm_medium=rss)
+- [Stripe пришлось столкнуться с конкуренцией при покупке OpenRouter](https://habr.com/ru/news/1072790/?utm_campaign=1072790&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
