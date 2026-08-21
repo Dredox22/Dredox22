@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ разработал компоненты микросхем в 500 раз меньшие, чем инженеры считали возможным](https://habr.com/ru/news/1073138/?utm_campaign=1073138&utm_source=habrahabr&utm_medium=rss)
 - [VK WorkSpace для бизнеса: что обсудили на вебинаре с экспертом](https://habr.com/ru/companies/infostart/news/1073114/?utm_campaign=1073114&utm_source=habrahabr&utm_medium=rss)
 - [Compulsion Games отделяется от XBOX](https://habr.com/ru/news/1073060/?utm_campaign=1073060&utm_source=habrahabr&utm_medium=rss)
 - [Total War: ROME II распродается в Steam со скидкой 80%](https://habr.com/ru/news/1073054/?utm_campaign=1073054&utm_source=habrahabr&utm_medium=rss)
 - [Perfscale news #7. Fix Import, SOAP, and more HTTP metrics](https://habr.com/ru/news/1072902/?utm_campaign=1072902&utm_source=habrahabr&utm_medium=rss)
-- [ЦБ планирует ввести возможность оплаты цифровыми рублями без интернета](https://habr.com/ru/news/1073026/?utm_campaign=1073026&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
