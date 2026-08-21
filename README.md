@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ЦБ планирует ввести возможность оплаты цифровыми рублями без интернета](https://habr.com/ru/news/1073026/?utm_campaign=1073026&utm_source=habrahabr&utm_medium=rss)
+- [Япония пыталась создать операционную систему для всего мира, но затем вмешалось правительство США](https://habr.com/ru/news/1073018/?utm_campaign=1073018&utm_source=habrahabr&utm_medium=rss)
+- [Питониха по имени Джоди Фостер стала первой змеёй, прошедшей новаторское лечение от рака](https://habr.com/ru/news/1073008/?utm_campaign=1073008&utm_source=habrahabr&utm_medium=rss)
 - [«Ведомости»: российские онлайн‑магазины предупредили о проблемах с оплатой в иностранных браузерах](https://habr.com/ru/news/1072974/?utm_campaign=1072974&utm_source=habrahabr&utm_medium=rss)
 - [Proton Mail теперь сортирует электронные письма по категориям, как Gmail](https://habr.com/ru/news/1072964/?utm_campaign=1072964&utm_source=habrahabr&utm_medium=rss)
-- [Директор по ИИ GlowByte станет модератором ИТ-форума инноваций в ритейле](https://habr.com/ru/companies/glowbyte/news/1072956/?utm_campaign=1072956&utm_source=habrahabr&utm_medium=rss)
-- [Павел Агалецкий выпустил видеообзор Go 1.27 — что нового в языке и стандартной библиотеке](https://habr.com/ru/companies/avito/news/1072592/?utm_campaign=1072592&utm_source=habrahabr&utm_medium=rss)
-- [Что нового в Managed Kubernetes: дайджест апдейтов за июль](https://habr.com/ru/companies/selectel/news/1072804/?utm_campaign=1072804&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
