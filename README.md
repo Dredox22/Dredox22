@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Павел Агалецкий выпустил видеообзор Go 1.27 — что нового в языке и стандартной библиотеке](https://habr.com/ru/companies/avito/news/1072592/?utm_campaign=1072592&utm_source=habrahabr&utm_medium=rss)
+- [Что нового в Managed Kubernetes: дайджест апдейтов за июль](https://habr.com/ru/companies/selectel/news/1072804/?utm_campaign=1072804&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Space VDI 6.2.0 с расширенными возможностями администрирования VDI‑среды](https://habr.com/ru/companies/spacevm/news/1072858/?utm_campaign=1072858&utm_source=habrahabr&utm_medium=rss)
+- [Apple Music начнёт добавлять метку Made With AI к контенту, созданному с помощью ИИ](https://habr.com/ru/news/1072900/?utm_campaign=1072900&utm_source=habrahabr&utm_medium=rss)
 - [Apple согласилась ввести единые правила для разработчиков в ЕС](https://habr.com/ru/news/1072892/?utm_campaign=1072892&utm_source=habrahabr&utm_medium=rss)
-- [И снова Арктика: провели первое FM-вещание из стратосферы над Северным полюсом](https://habr.com/ru/companies/ruvds/news/1072854/?utm_campaign=1072854&utm_source=habrahabr&utm_medium=rss)
-- [Mail расширил каналы технической поддержки для пользователей](https://habr.com/ru/news/1072874/?utm_campaign=1072874&utm_source=habrahabr&utm_medium=rss)
-- [Ozon и Wildberries запустят оплату в цифровых рублях](https://habr.com/ru/news/1072862/?utm_campaign=1072862&utm_source=habrahabr&utm_medium=rss)
-- [Приложения Ozon, Ozon Fresh, Ozon Travel, «Ozon Селект», Ozon Job и Ozon Seller вернулись в Google Play](https://habr.com/ru/news/1072860/?utm_campaign=1072860&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
