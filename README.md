@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple сократила команду по разработке приложений для виртуальной реальности](https://habr.com/ru/news/1072852/?utm_campaign=1072852&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем на митап: Фронтенд, который не сгенерируешь](https://habr.com/ru/companies/usetech/news/1072840/?utm_campaign=1072840&utm_source=habrahabr&utm_medium=rss)
-- [FCC отменила целевой показатель скорости в 1 Гбит/с, поскольку он несправедлив к более медленным технологиям](https://habr.com/ru/news/1072824/?utm_campaign=1072824&utm_source=habrahabr&utm_medium=rss)
-- [Сервис поиска людей ClarityCheck оставил более 9 млн изображений в незащищённом хранилище](https://habr.com/ru/news/1072806/?utm_campaign=1072806&utm_source=habrahabr&utm_medium=rss)
-- [Apple предлагает взимать с разработчиков до 15% при использовании внешних ссылок для покупок](https://habr.com/ru/news/1072802/?utm_campaign=1072802&utm_source=habrahabr&utm_medium=rss)
+- [Apple согласилась ввести единые правила для разработчиков в ЕС](https://habr.com/ru/news/1072892/?utm_campaign=1072892&utm_source=habrahabr&utm_medium=rss)
+- [И снова Арктика: провели первое FM-вещание из стратосферы над Северным полюсом](https://habr.com/ru/companies/ruvds/news/1072854/?utm_campaign=1072854&utm_source=habrahabr&utm_medium=rss)
+- [Mail расширил каналы технической поддержки для пользователей](https://habr.com/ru/news/1072874/?utm_campaign=1072874&utm_source=habrahabr&utm_medium=rss)
+- [Ozon и Wildberries запустят оплату в цифровых рублях](https://habr.com/ru/news/1072862/?utm_campaign=1072862&utm_source=habrahabr&utm_medium=rss)
+- [Приложения Ozon, Ozon Fresh, Ozon Travel, «Ozon Селект», Ozon Job и Ozon Seller вернулись в Google Play](https://habr.com/ru/news/1072860/?utm_campaign=1072860&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
