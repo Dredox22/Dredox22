@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышло обновление Phosh 0.57 — проект GNOME-окружения для смартфонов](https://habr.com/ru/news/1072942/?utm_campaign=1072942&utm_source=habrahabr&utm_medium=rss)
+- [В Telegram добавят WEB-прокси](https://habr.com/ru/news/1073200/?utm_campaign=1073200&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление диагностической утилиты CPU‑Z 3.01 с обновлённым онлайн-сервисом Validator V3](https://habr.com/ru/news/1072886/?utm_campaign=1072886&utm_source=habrahabr&utm_medium=rss)
 - [ИИ разработал компоненты микросхем в 500 раз меньшие, чем инженеры считали возможным](https://habr.com/ru/news/1073138/?utm_campaign=1073138&utm_source=habrahabr&utm_medium=rss)
 - [VK WorkSpace для бизнеса: что обсудили на вебинаре с экспертом](https://habr.com/ru/companies/infostart/news/1073114/?utm_campaign=1073114&utm_source=habrahabr&utm_medium=rss)
-- [Compulsion Games отделяется от XBOX](https://habr.com/ru/news/1073060/?utm_campaign=1073060&utm_source=habrahabr&utm_medium=rss)
-- [Total War: ROME II распродается в Steam со скидкой 80%](https://habr.com/ru/news/1073054/?utm_campaign=1073054&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
