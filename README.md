@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Nintendo направила GitHub 7 уведомлений DMCA, касающихся обхода средств защиты — платформа заблокировала 401 репозиторий](https://habr.com/ru/news/1073280/?utm_campaign=1073280&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск пакетного менеджера RPM 6.1](https://habr.com/ru/news/1072930/?utm_campaign=1072930&utm_source=habrahabr&utm_medium=rss)
 - [Почти в 90% статей в PubMed Central нашли признаки работы с ИИ](https://habr.com/ru/news/1073226/?utm_campaign=1073226&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление Phosh 0.57 — проект GNOME-окружения для смартфонов](https://habr.com/ru/news/1072942/?utm_campaign=1072942&utm_source=habrahabr&utm_medium=rss)
 - [В Telegram добавят WEB-прокси](https://habr.com/ru/news/1073200/?utm_campaign=1073200&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление диагностической утилиты CPU‑Z 3.01 с обновлённым онлайн-сервисом Validator V3](https://habr.com/ru/news/1072886/?utm_campaign=1072886&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
