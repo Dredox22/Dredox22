@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [A2A присоединяется к открытому агентному стеку AAIF](https://habr.com/ru/news/1073444/?utm_campaign=1073444&utm_source=habrahabr&utm_medium=rss)
 - [Сайт AliExpress от Alibaba тайно прослушивает скриптовые сигналы от наушников для идентификации посетителей](https://habr.com/ru/news/1073424/?utm_campaign=1073424&utm_source=habrahabr&utm_medium=rss)
 - [Линус Торвальдс использовал ИИ для отладки ошибки в драйвере графического процессора Intel](https://habr.com/ru/news/1073386/?utm_campaign=1073386&utm_source=habrahabr&utm_medium=rss)
 - [В Anna&#39;s Archive призвали сканировать бумажные книги и загружать их в интернет](https://habr.com/ru/news/1073380/?utm_campaign=1073380&utm_source=habrahabr&utm_medium=rss)
 - [Проект Python официально начал публиковать документацию на русском языке](https://habr.com/ru/news/1073382/?utm_campaign=1073382&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления Wine 11.16](https://habr.com/ru/news/1073342/?utm_campaign=1073342&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
