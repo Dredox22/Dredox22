@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск обновления Wine 11.16](https://habr.com/ru/news/1073342/?utm_campaign=1073342&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic встроила Mythos 5 в Claude Security](https://habr.com/ru/companies/bothub/news/1073346/?utm_campaign=1073346&utm_source=habrahabr&utm_medium=rss)
 - [В десктопной версии Telegram 7.1.1 появился WEB-прокси](https://habr.com/ru/news/1073330/?utm_campaign=1073330&utm_source=habrahabr&utm_medium=rss)
 - [Nintendo направила GitHub 7 уведомлений DMCA, касающихся обхода средств защиты — платформа заблокировала 401 репозиторий](https://habr.com/ru/news/1073280/?utm_campaign=1073280&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск пакетного менеджера RPM 6.1](https://habr.com/ru/news/1072930/?utm_campaign=1072930&utm_source=habrahabr&utm_medium=rss)
-- [Почти в 90% статей в PubMed Central нашли признаки работы с ИИ](https://habr.com/ru/news/1073226/?utm_campaign=1073226&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
