@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Сэм Альтман заявил, что его тревожит будущее, в котором ИИ контролируют несколько крупных компаний](https://habr.com/ru/news/1073838/?utm_campaign=1073838&utm_source=habrahabr&utm_medium=rss)
+- [Безумная индюшка How to Fish стала лидером продаж в Steam](https://habr.com/ru/news/1073764/?utm_campaign=1073764&utm_source=habrahabr&utm_medium=rss)
+- [Обзор изменений в законодательстве за июль 2026 года](https://habr.com/ru/companies/ussc/news/1073812/?utm_campaign=1073812&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи представили атаку Zombie Card, которая позволяет расплачиваться просроченными картами Visa](https://habr.com/ru/news/1073808/?utm_campaign=1073808&utm_source=habrahabr&utm_medium=rss)
-- [Orange Pi или Raspberry Pi? Для российских проектов появилась альтернатива – БДВП](https://habr.com/ru/news/1073790/?utm_campaign=1073790&utm_source=habrahabr&utm_medium=rss)
-- [DataDome: скупающие память DDR5 боты обеспечивают до 91% всего трафика на страницах ретейлера ОЗУ](https://habr.com/ru/news/1073768/?utm_campaign=1073768&utm_source=habrahabr&utm_medium=rss)
-- [Paradox Interactive по ошибке раскрыла название новой игры](https://habr.com/ru/news/1073758/?utm_campaign=1073758&utm_source=habrahabr&utm_medium=rss)
-- [Официальная документация Python теперь доступна на русском языке](https://habr.com/ru/companies/selectel/news/1073700/?utm_campaign=1073700&utm_source=habrahabr&utm_medium=rss)
+- [Orange Pi или Raspberry Pi? Для российских проектов появилась альтернатива — БДВП](https://habr.com/ru/news/1073790/?utm_campaign=1073790&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
