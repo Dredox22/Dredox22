@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователи представили атаку Zombie Card, которая позволяет расплачиваться просроченными картами Visa](https://habr.com/ru/news/1073808/?utm_campaign=1073808&utm_source=habrahabr&utm_medium=rss)
+- [Orange Pi или Raspberry Pi? Для российских проектов появилась альтернатива – БДВП](https://habr.com/ru/news/1073790/?utm_campaign=1073790&utm_source=habrahabr&utm_medium=rss)
+- [DataDome: скупающие память DDR5 боты обеспечивают до 91% всего трафика на страницах ретейлера ОЗУ](https://habr.com/ru/news/1073768/?utm_campaign=1073768&utm_source=habrahabr&utm_medium=rss)
+- [Paradox Interactive по ошибке раскрыла название новой игры](https://habr.com/ru/news/1073758/?utm_campaign=1073758&utm_source=habrahabr&utm_medium=rss)
 - [Официальная документация Python теперь доступна на русском языке](https://habr.com/ru/companies/selectel/news/1073700/?utm_campaign=1073700&utm_source=habrahabr&utm_medium=rss)
-- [Сотни утёкших ключей AWS предоставляют полный контроль над корпоративными учётными записями](https://habr.com/ru/news/1073730/?utm_campaign=1073730&utm_source=habrahabr&utm_medium=rss)
-- [Одна команда в Windows 10/11 значительно экономит место на системном диске без снижения производительности](https://habr.com/ru/news/1073722/?utm_campaign=1073722&utm_source=habrahabr&utm_medium=rss)
-- [ГК Luxms получила образовательную лицензию](https://habr.com/ru/companies/luxms_bi/news/1073716/?utm_campaign=1073716&utm_source=habrahabr&utm_medium=rss)
-- [«Диасофт»: интеграцию с 1С можно организовать без доработки конфигурации](https://habr.com/ru/companies/diasoft_company/news/1073698/?utm_campaign=1073698&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
