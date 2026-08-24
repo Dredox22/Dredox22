@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Micron представила новый НИЦ для развития полупроводниковой памяти и искусственного интеллекта](https://habr.com/ru/news/1073916/?utm_campaign=1073916&utm_source=habrahabr&utm_medium=rss)
+- [Meta* запустила новую платформу для вайб‑кодинга Pocket](https://habr.com/ru/news/1073890/?utm_campaign=1073890&utm_source=habrahabr&utm_medium=rss)
 - [Более 70% банков не хватает специалистов для настройки антифрод-систем — исследование «Инфосистемы Джет»](https://habr.com/ru/companies/jetinfosystems/news/1073894/?utm_campaign=1073894&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила скрипты PowerShell для ИТ‑администраторов, позволяющие управлять резервными копиями настроек Windows](https://habr.com/ru/news/1073848/?utm_campaign=1073848&utm_source=habrahabr&utm_medium=rss)
 - [Сэм Альтман заявил, что его тревожит будущее, в котором ИИ контролируют несколько крупных компаний](https://habr.com/ru/news/1073838/?utm_campaign=1073838&utm_source=habrahabr&utm_medium=rss)
-- [Безумная индюшка How to Fish стала лидером продаж в Steam](https://habr.com/ru/news/1073764/?utm_campaign=1073764&utm_source=habrahabr&utm_medium=rss)
-- [Обзор изменений в законодательстве за июль 2026 года](https://habr.com/ru/companies/ussc/news/1073812/?utm_campaign=1073812&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
