@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [На Twitch и Amazon подали в суд за обучение ИИ с помощью контента стримеров](https://habr.com/ru/news/1073656/?utm_campaign=1073656&utm_source=habrahabr&utm_medium=rss)
+- [OneDrive для macOS станет намного быстрее](https://habr.com/ru/news/1073636/?utm_campaign=1073636&utm_source=habrahabr&utm_medium=rss)
+- [Российские производители печатных плат заявили о нехватке сырья](https://habr.com/ru/news/1073632/?utm_campaign=1073632&utm_source=habrahabr&utm_medium=rss)
 - [Cоздатель Postgres: Oracle невольно помогла мировому распространению СУБД PostgreSQL](https://habr.com/ru/news/1073576/?utm_campaign=1073576&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты пояснили, что Apple после суда не вернёт сервисы VK в AppStore](https://habr.com/ru/news/1073570/?utm_campaign=1073570&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft решила незаметно скрыть новое приложение OneDrive для Windows 11](https://habr.com/ru/news/1073564/?utm_campaign=1073564&utm_source=habrahabr&utm_medium=rss)
-- [Google предоставит издателям способ борьбы с падением реферального трафика от ИИ‑поиска](https://habr.com/ru/news/1073558/?utm_campaign=1073558&utm_source=habrahabr&utm_medium=rss)
-- [Более 1 млн пользователей нажали на кнопку в LinkedIn «Похоже на ИИ‑слоп»](https://habr.com/ru/news/1073556/?utm_campaign=1073556&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
