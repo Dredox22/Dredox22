@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ГК Luxms получила образовательную лицензию](https://habr.com/ru/companies/luxms_bi/news/1073716/?utm_campaign=1073716&utm_source=habrahabr&utm_medium=rss)
+- [«Диасофт»: интеграцию с 1С можно организовать без доработки конфигурации](https://habr.com/ru/companies/diasoft_company/news/1073698/?utm_campaign=1073698&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» добавил аренду самокатов и велосипедов в «Яндекс Карты»](https://habr.com/ru/news/1073680/?utm_campaign=1073680&utm_source=habrahabr&utm_medium=rss)
 - [Из «Антифрод 3.0» убрали регистрацию на иностранных сайтах по номеру](https://habr.com/ru/news/1073664/?utm_campaign=1073664&utm_source=habrahabr&utm_medium=rss)
 - [На Twitch и Amazon подали в суд за обучение ИИ с помощью контента стримеров](https://habr.com/ru/news/1073656/?utm_campaign=1073656&utm_source=habrahabr&utm_medium=rss)
-- [OneDrive для macOS станет намного быстрее](https://habr.com/ru/news/1073636/?utm_campaign=1073636&utm_source=habrahabr&utm_medium=rss)
-- [Российские производители печатных плат заявили о нехватке сырья](https://habr.com/ru/news/1073632/?utm_campaign=1073632&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
