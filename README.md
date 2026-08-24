@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Энтузиасты запустили проект LunaStore — реинкарнацию каталога Windows XP](https://habr.com/ru/news/1073498/?utm_campaign=1073498&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft обвинила устройства с RGB‑подсветкой в ​​проблемах запуска игр на Windows 11](https://habr.com/ru/news/1073452/?utm_campaign=1073452&utm_source=habrahabr&utm_medium=rss)
 - [A2A присоединяется к открытому агентному стеку AAIF](https://habr.com/ru/news/1073444/?utm_campaign=1073444&utm_source=habrahabr&utm_medium=rss)
 - [Сайт AliExpress от Alibaba тайно прослушивает скриптовые сигналы от наушников для идентификации посетителей](https://habr.com/ru/news/1073424/?utm_campaign=1073424&utm_source=habrahabr&utm_medium=rss)
 - [Линус Торвальдс использовал ИИ для отладки ошибки в драйвере графического процессора Intel](https://habr.com/ru/news/1073386/?utm_campaign=1073386&utm_source=habrahabr&utm_medium=rss)
-- [В Anna&#39;s Archive призвали сканировать бумажные книги и загружать их в интернет](https://habr.com/ru/news/1073380/?utm_campaign=1073380&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
