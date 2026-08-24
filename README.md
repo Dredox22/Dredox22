@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Более 70% банков не хватает специалистов для настройки антифрод-систем — исследование «Инфосистемы Джет»](https://habr.com/ru/companies/jetinfosystems/news/1073894/?utm_campaign=1073894&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft выпустила скрипты PowerShell для ИТ‑администраторов, позволяющие управлять резервными копиями настроек Windows](https://habr.com/ru/news/1073848/?utm_campaign=1073848&utm_source=habrahabr&utm_medium=rss)
 - [Сэм Альтман заявил, что его тревожит будущее, в котором ИИ контролируют несколько крупных компаний](https://habr.com/ru/news/1073838/?utm_campaign=1073838&utm_source=habrahabr&utm_medium=rss)
 - [Безумная индюшка How to Fish стала лидером продаж в Steam](https://habr.com/ru/news/1073764/?utm_campaign=1073764&utm_source=habrahabr&utm_medium=rss)
 - [Обзор изменений в законодательстве за июль 2026 года](https://habr.com/ru/companies/ussc/news/1073812/?utm_campaign=1073812&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи представили атаку Zombie Card, которая позволяет расплачиваться просроченными картами Visa](https://habr.com/ru/news/1073808/?utm_campaign=1073808&utm_source=habrahabr&utm_medium=rss)
-- [Orange Pi или Raspberry Pi? Для российских проектов появилась альтернатива — БДВП](https://habr.com/ru/news/1073790/?utm_campaign=1073790&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
