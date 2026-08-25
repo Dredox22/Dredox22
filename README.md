@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В России появилась классификация центров обработки данных](https://habr.com/ru/news/1074258/?utm_campaign=1074258&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft разработала приложение, которое переключает поисковую систему по умолчанию на Bing во всех браузерах](https://habr.com/ru/news/1074250/?utm_campaign=1074250&utm_source=habrahabr&utm_medium=rss)
+- [Linux-дистрибутив Omarchy 4.0 от создателя Ruby on Rails](https://habr.com/ru/companies/selectel/news/1074050/?utm_campaign=1074050&utm_source=habrahabr&utm_medium=rss)
 - [Orca: бесплатная open-source ADE набрала 50 тысяч звёзд на GitHub](https://habr.com/ru/news/1074212/?utm_campaign=1074212&utm_source=habrahabr&utm_medium=rss)
 - [Адреса iCloud+ Hide My Email останутся на icloud.com](https://habr.com/ru/news/1074192/?utm_campaign=1074192&utm_source=habrahabr&utm_medium=rss)
-- [Безопасность ИИ входит в ТОП-5 приоритетов четверти российских корпораций](https://habr.com/ru/companies/k2tech/news/1074180/?utm_campaign=1074180&utm_source=habrahabr&utm_medium=rss)
-- [Подтверждена совместимость DS Proxima и MITIGATOR для масштабируемой защиты от DDoS-атак](https://habr.com/ru/companies/dsol/news/1074164/?utm_campaign=1074164&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ‑событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1074150/?utm_campaign=1074150&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
