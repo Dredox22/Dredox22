@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Форум «Технопром» 26–28 августа. Обсудим гибридный интеллект и не только](https://habr.com/ru/companies/infowatch/news/1074368/?utm_campaign=1074368&utm_source=habrahabr&utm_medium=rss)
+- [Linux — 35 лет. Как хобби стало основой мировой IT-инфраструктуры](https://habr.com/ru/companies/oxygendc/news/1074358/?utm_campaign=1074358&utm_source=habrahabr&utm_medium=rss)
+- [Для повышения производительности Windows 11 больше не требуется чистая установка ОС](https://habr.com/ru/news/1074360/?utm_campaign=1074360&utm_source=habrahabr&utm_medium=rss)
 - [Крошечная «радуга на чипе» значительно ускорит работу сетей 6G](https://habr.com/ru/news/1074290/?utm_campaign=1074290&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратит поддержку Exchange Connector в Excel, что потребует ручной миграции затронутых рабочих книг](https://habr.com/ru/news/1074302/?utm_campaign=1074302&utm_source=habrahabr&utm_medium=rss)
-- [Бывший инженер Microsoft выпустил новый «Диспетчер задач» для Linux, Windows и macOS](https://habr.com/ru/news/1074314/?utm_campaign=1074314&utm_source=habrahabr&utm_medium=rss)
-- [Миссия выполнима: наш спутник-платформа завершил работу на орбите](https://habr.com/ru/companies/ruvds/news/1074312/?utm_campaign=1074312&utm_source=habrahabr&utm_medium=rss)
-- [В Max появились мультиаккаунты](https://habr.com/ru/news/1074246/?utm_campaign=1074246&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
