@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Max появились мультиаккаунты](https://habr.com/ru/news/1074246/?utm_campaign=1074246&utm_source=habrahabr&utm_medium=rss)
+- [️RAG, агенты и production – честно про AI](https://habr.com/ru/companies/chestnyznak/news/1074264/?utm_campaign=1074264&utm_source=habrahabr&utm_medium=rss)
 - [В России появилась классификация центров обработки данных](https://habr.com/ru/news/1074258/?utm_campaign=1074258&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft разработала приложение, которое переключает поисковую систему по умолчанию на Bing во всех браузерах](https://habr.com/ru/news/1074250/?utm_campaign=1074250&utm_source=habrahabr&utm_medium=rss)
 - [Linux-дистрибутив Omarchy 4.0 от создателя Ruby on Rails](https://habr.com/ru/companies/selectel/news/1074050/?utm_campaign=1074050&utm_source=habrahabr&utm_medium=rss)
-- [Orca: бесплатная open-source ADE набрала 50 тысяч звёзд на GitHub](https://habr.com/ru/news/1074212/?utm_campaign=1074212&utm_source=habrahabr&utm_medium=rss)
-- [Адреса iCloud+ Hide My Email останутся на icloud.com](https://habr.com/ru/news/1074192/?utm_campaign=1074192&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
