@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Секреты в переменных CI/CD? Показываем, как это чинится — от коммита до продакшена](https://habr.com/ru/companies/flant/news/1073922/?utm_campaign=1073922&utm_source=habrahabr&utm_medium=rss)
 - [Релиз инструмента для профессиональной записи и обработки звука Ardour 9.8](https://habr.com/ru/news/1073938/?utm_campaign=1073938&utm_source=habrahabr&utm_medium=rss)
 - [Ox Alpha – кто ты, воин?](https://habr.com/ru/news/1074008/?utm_campaign=1074008&utm_source=habrahabr&utm_medium=rss)
 - [В Tantor Postgres теперь можно создавать базы 1С без прав суперпользователя](https://habr.com/ru/companies/tantor/news/1072712/?utm_campaign=1072712&utm_source=habrahabr&utm_medium=rss)
 - [Micron представила новый НИЦ для развития полупроводниковой памяти и искусственного интеллекта](https://habr.com/ru/news/1073916/?utm_campaign=1073916&utm_source=habrahabr&utm_medium=rss)
-- [Meta* запустила новую платформу для вайб‑кодинга Pocket](https://habr.com/ru/news/1073890/?utm_campaign=1073890&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
