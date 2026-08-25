@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [От ИИ в 1С до киберустойчивости: программа Петербургского цифрового хаба](https://habr.com/ru/companies/infostart/news/1073886/?utm_campaign=1073886&utm_source=habrahabr&utm_medium=rss)
-- [Секреты в переменных CI/CD? Показываем, как это чинится — от коммита до продакшена](https://habr.com/ru/companies/flant/news/1073922/?utm_campaign=1073922&utm_source=habrahabr&utm_medium=rss)
-- [Релиз инструмента для профессиональной записи и обработки звука Ardour 9.8](https://habr.com/ru/news/1073938/?utm_campaign=1073938&utm_source=habrahabr&utm_medium=rss)
-- [Ox Alpha – кто ты, воин?](https://habr.com/ru/news/1074008/?utm_campaign=1074008&utm_source=habrahabr&utm_medium=rss)
-- [В Tantor Postgres теперь можно создавать базы 1С без прав суперпользователя](https://habr.com/ru/companies/tantor/news/1072712/?utm_campaign=1072712&utm_source=habrahabr&utm_medium=rss)
+- [В российских магазинах с 1 сентября появится единый QR‑код для оплаты](https://habr.com/ru/news/1074114/?utm_campaign=1074114&utm_source=habrahabr&utm_medium=rss)
+- [Гендиректор Flock: США нужен «компромисс» между конфиденциальностью и безопасностью](https://habr.com/ru/news/1074082/?utm_campaign=1074082&utm_source=habrahabr&utm_medium=rss)
+- [В десктопной версии Telegram 7.1.2 доработали WEB‑прокси](https://habr.com/ru/news/1074112/?utm_campaign=1074112&utm_source=habrahabr&utm_medium=rss)
+- [35 лет назад студент из Хельсинки написал, что его проект «точно не станет большим»](https://habr.com/ru/companies/ssp-soft/news/1069732/?utm_campaign=1069732&utm_source=habrahabr&utm_medium=rss)
+- [В тестовой сборке Windows 11 функцию управления распределением оперативной памяти](https://habr.com/ru/news/1074078/?utm_campaign=1074078&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
