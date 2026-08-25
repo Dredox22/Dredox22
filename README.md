@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Крошечная «радуга на чипе» значительно ускорит работу сетей 6G](https://habr.com/ru/news/1074290/?utm_campaign=1074290&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft прекратит поддержку Exchange Connector в Excel, что потребует ручной миграции затронутых рабочих книг](https://habr.com/ru/news/1074302/?utm_campaign=1074302&utm_source=habrahabr&utm_medium=rss)
+- [Бывший инженер Microsoft выпустил новый «Диспетчер задач» для Linux, Windows и macOS](https://habr.com/ru/news/1074314/?utm_campaign=1074314&utm_source=habrahabr&utm_medium=rss)
+- [Миссия выполнима: наш спутник-платформа завершил работу на орбите](https://habr.com/ru/companies/ruvds/news/1074312/?utm_campaign=1074312&utm_source=habrahabr&utm_medium=rss)
 - [В Max появились мультиаккаунты](https://habr.com/ru/news/1074246/?utm_campaign=1074246&utm_source=habrahabr&utm_medium=rss)
-- [️RAG, агенты и production – честно про AI](https://habr.com/ru/companies/chestnyznak/news/1074264/?utm_campaign=1074264&utm_source=habrahabr&utm_medium=rss)
-- [В России появилась классификация центров обработки данных](https://habr.com/ru/news/1074258/?utm_campaign=1074258&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft разработала приложение, которое переключает поисковую систему по умолчанию на Bing во всех браузерах](https://habr.com/ru/news/1074250/?utm_campaign=1074250&utm_source=habrahabr&utm_medium=rss)
-- [Linux-дистрибутив Omarchy 4.0 от создателя Ruby on Rails](https://habr.com/ru/companies/selectel/news/1074050/?utm_campaign=1074050&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
