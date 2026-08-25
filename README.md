@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ТОП-5 ИБ‑событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1074150/?utm_campaign=1074150&utm_source=habrahabr&utm_medium=rss)
+- [Valve исполнилось 30 лет](https://habr.com/ru/news/1074148/?utm_campaign=1074148&utm_source=habrahabr&utm_medium=rss)
+- [SimpleOne ESM 2.2.0: новый блочный редактор и представление данных в виде календаря](https://habr.com/ru/companies/simpleone/news/1074144/?utm_campaign=1074144&utm_source=habrahabr&utm_medium=rss)
+- [Бытовые периферийные устройства оказалось легко взломать с помощью ИИ‑агентов](https://habr.com/ru/news/1074104/?utm_campaign=1074104&utm_source=habrahabr&utm_medium=rss)
 - [В российских магазинах с 1 сентября появится единый QR‑код для оплаты](https://habr.com/ru/news/1074114/?utm_campaign=1074114&utm_source=habrahabr&utm_medium=rss)
-- [Гендиректор Flock: США нужен «компромисс» между конфиденциальностью и безопасностью](https://habr.com/ru/news/1074082/?utm_campaign=1074082&utm_source=habrahabr&utm_medium=rss)
-- [В десктопной версии Telegram 7.1.2 доработали WEB‑прокси](https://habr.com/ru/news/1074112/?utm_campaign=1074112&utm_source=habrahabr&utm_medium=rss)
-- [35 лет назад студент из Хельсинки написал, что его проект «точно не станет большим»](https://habr.com/ru/companies/ssp-soft/news/1069732/?utm_campaign=1069732&utm_source=habrahabr&utm_medium=rss)
-- [В тестовой сборке Windows 11 функцию управления распределением оперативной памяти](https://habr.com/ru/news/1074078/?utm_campaign=1074078&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
