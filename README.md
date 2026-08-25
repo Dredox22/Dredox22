@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Безопасность, ИИ и автоматизация: три взгляда на современную разработку](https://habr.com/ru/companies/infotecs_tech/news/1074346/?utm_campaign=1074346&utm_source=habrahabr&utm_medium=rss)
 - [Как устроен автоматизированный аудит сайтов в ЮScan](https://habr.com/ru/companies/yoomoney/news/1074398/?utm_campaign=1074398&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI вернёт 5-часовой лимит в Codex для подписчиков за $20](https://habr.com/ru/news/1074390/?utm_campaign=1074390&utm_source=habrahabr&utm_medium=rss)
 - [Форум «Технопром» 26–28 августа. Обсудим гибридный интеллект и не только](https://habr.com/ru/companies/infowatch/news/1074368/?utm_campaign=1074368&utm_source=habrahabr&utm_medium=rss)
 - [Linux — 35 лет. Как хобби стало основой мировой IT-инфраструктуры](https://habr.com/ru/companies/oxygendc/news/1074358/?utm_campaign=1074358&utm_source=habrahabr&utm_medium=rss)
-- [Для повышения производительности Windows 11 больше не требуется чистая установка ОС](https://habr.com/ru/news/1074360/?utm_campaign=1074360&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
