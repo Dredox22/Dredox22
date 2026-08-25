@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Orca: бесплатная open-source ADE набрала 50 тысяч звёзд на GitHub](https://habr.com/ru/news/1074212/?utm_campaign=1074212&utm_source=habrahabr&utm_medium=rss)
+- [Адреса iCloud+ Hide My Email останутся на icloud.com](https://habr.com/ru/news/1074192/?utm_campaign=1074192&utm_source=habrahabr&utm_medium=rss)
+- [Безопасность ИИ входит в ТОП-5 приоритетов четверти российских корпораций](https://habr.com/ru/companies/k2tech/news/1074180/?utm_campaign=1074180&utm_source=habrahabr&utm_medium=rss)
+- [Подтверждена совместимость DS Proxima и MITIGATOR для масштабируемой защиты от DDoS-атак](https://habr.com/ru/companies/dsol/news/1074164/?utm_campaign=1074164&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ‑событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1074150/?utm_campaign=1074150&utm_source=habrahabr&utm_medium=rss)
-- [Valve исполнилось 30 лет](https://habr.com/ru/news/1074148/?utm_campaign=1074148&utm_source=habrahabr&utm_medium=rss)
-- [SimpleOne ESM 2.2.0: новый блочный редактор и представление данных в виде календаря](https://habr.com/ru/companies/simpleone/news/1074144/?utm_campaign=1074144&utm_source=habrahabr&utm_medium=rss)
-- [Бытовые периферийные устройства оказалось легко взломать с помощью ИИ‑агентов](https://habr.com/ru/news/1074104/?utm_campaign=1074104&utm_source=habrahabr&utm_medium=rss)
-- [В российских магазинах с 1 сентября появится единый QR‑код для оплаты](https://habr.com/ru/news/1074114/?utm_campaign=1074114&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
