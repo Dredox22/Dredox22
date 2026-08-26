@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Правительство разрешило использовать иностранное оптоволокно до середины 2027 года](https://habr.com/ru/news/1074816/?utm_campaign=1074816&utm_source=habrahabr&utm_medium=rss)
+- [Уже завтра: как определить, нужна ли компании ERP](https://habr.com/ru/companies/infostart/news/1074736/?utm_campaign=1074736&utm_source=habrahabr&utm_medium=rss)
 - [Новый прикладной балансировщик с поддержкой Gateway API в Deckhouse Kubernetes Platform](https://habr.com/ru/companies/flant/news/1074618/?utm_campaign=1074618&utm_source=habrahabr&utm_medium=rss)
 - [Как использовать LLM в тестировании: разбираем harness, автотесты и LLM-судью](https://habr.com/ru/companies/yoomoney/news/1074750/?utm_campaign=1074750&utm_source=habrahabr&utm_medium=rss)
 - [Вышел мессенджер WB Chat &lpar;beta&rpar;](https://habr.com/ru/news/1074742/?utm_campaign=1074742&utm_source=habrahabr&utm_medium=rss)
-- [Yandex Scale 2026: 30 докладов, 15 воркшопов и новый трек DeepTech](https://habr.com/ru/companies/yandex_cloud_and_infra/news/1074732/?utm_campaign=1074732&utm_source=habrahabr&utm_medium=rss)
-- [В России начали блокировать DoH и DoT от Google и Cloudflare](https://habr.com/ru/news/1074730/?utm_campaign=1074730&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
