@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Чип OpenAI разогнал Kimi K2.5 почти до 700 токенов в секунду](https://habr.com/ru/news/1074634/?utm_campaign=1074634&utm_source=habrahabr&utm_medium=rss)
 - [Автоматизация контроля качества и безопасности ПО](https://habr.com/ru/companies/pvs-studio/news/1074120/?utm_campaign=1074120&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Telegram: приветствия, кнопки в сообщениях и подписи к подаркам](https://habr.com/ru/news/1074578/?utm_campaign=1074578&utm_source=habrahabr&utm_medium=rss)
 - [X обвинила открытый проект Nitter в сборе данных](https://habr.com/ru/news/1074574/?utm_campaign=1074574&utm_source=habrahabr&utm_medium=rss)
 - [Google разрабатывает опцию против укачивания Motion Assist для Android, которая почти повторяет аналог от Apple](https://habr.com/ru/news/1074576/?utm_campaign=1074576&utm_source=habrahabr&utm_medium=rss)
-- [В PowerToys добавили инструмент Windows Hopper](https://habr.com/ru/news/1074572/?utm_campaign=1074572&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
