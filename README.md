@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Yandex Scale 2026: 30 докладов, 15 воркшопов и новый трек DeepTech](https://habr.com/ru/companies/yandex_cloud_and_infra/news/1074732/?utm_campaign=1074732&utm_source=habrahabr&utm_medium=rss)
+- [В России начали блокировать DoH и DoT от Google и Cloudflare](https://habr.com/ru/news/1074730/?utm_campaign=1074730&utm_source=habrahabr&utm_medium=rss)
+- [Fairphone представила новый модульный смартфон Gen 6+](https://habr.com/ru/companies/selectel/news/1074062/?utm_campaign=1074062&utm_source=habrahabr&utm_medium=rss)
+- [Пользователь обнаружил, что Windows незаметно удалила драйвер видеокарты](https://habr.com/ru/news/1073806/?utm_campaign=1073806&utm_source=habrahabr&utm_medium=rss)
 - [Ассоциация звукозаписывающих компаний Австралии запретила включать в чарты или выдвигать на получение премий ИИ‑песни](https://habr.com/ru/news/1074698/?utm_campaign=1074698&utm_source=habrahabr&utm_medium=rss)
-- [Специалист объяснил работу службы оценки производительности Windows 11](https://habr.com/ru/news/1074674/?utm_campaign=1074674&utm_source=habrahabr&utm_medium=rss)
-- [Autodesk добавила в Flow Studio управление 3D-сценой перед AI-генерацией видео](https://habr.com/ru/news/1074692/?utm_campaign=1074692&utm_source=habrahabr&utm_medium=rss)
-- [В «Нейроюристе» от «Яндекса» появилась надстройка для Microsoft Word](https://habr.com/ru/news/1074614/?utm_campaign=1074614&utm_source=habrahabr&utm_medium=rss)
-- [Обновление ChatGPT Work позволяет ИИ‑агентам выполнять сложные сквозные задачи](https://habr.com/ru/news/1074666/?utm_campaign=1074666&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
