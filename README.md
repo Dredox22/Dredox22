@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Компании лабораторного оборудования продают антитела с помощью обработанных изображений](https://habr.com/ru/news/1074566/?utm_campaign=1074566&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск Cjam 2.6.1.0 — легковесного Freeware редактора MP3 для ПК на ОС Windows](https://habr.com/ru/news/1074098/?utm_campaign=1074098&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Vanilla OS 3 Reunion на базе Debian, GNOME 50 и с поддержкой ARM64](https://habr.com/ru/news/1074206/?utm_campaign=1074206&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление Media Player Classic — Home Cinema 2.8.1](https://habr.com/ru/news/1074086/?utm_campaign=1074086&utm_source=habrahabr&utm_medium=rss)
 - [Казахстанец решил вернуть DDR4 Patriot по гарантии: отправка стоит дороже нового модуля](https://habr.com/ru/news/1073792/?utm_campaign=1073792&utm_source=habrahabr&utm_medium=rss)
-- [Raspberry Pi опубликовала руководство по созданию самодельного ПК в кейсе на базе Raspberry Pi 5](https://habr.com/ru/news/1074484/?utm_campaign=1074484&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
