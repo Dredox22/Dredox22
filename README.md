@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновление Telegram: приветствия, кнопки в сообщениях и подписи к подаркам](https://habr.com/ru/news/1074578/?utm_campaign=1074578&utm_source=habrahabr&utm_medium=rss)
+- [X обвинила открытый проект Nitter в сборе данных](https://habr.com/ru/news/1074574/?utm_campaign=1074574&utm_source=habrahabr&utm_medium=rss)
+- [Google разрабатывает опцию против укачивания Motion Assist для Android, которая почти повторяет аналог от Apple](https://habr.com/ru/news/1074576/?utm_campaign=1074576&utm_source=habrahabr&utm_medium=rss)
+- [В PowerToys добавили инструмент Windows Hopper](https://habr.com/ru/news/1074572/?utm_campaign=1074572&utm_source=habrahabr&utm_medium=rss)
 - [Компании лабораторного оборудования продают антитела с помощью обработанных изображений](https://habr.com/ru/news/1074566/?utm_campaign=1074566&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск Cjam 2.6.1.0 — легковесного Freeware редактора MP3 для ПК на ОС Windows](https://habr.com/ru/news/1074098/?utm_campaign=1074098&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Vanilla OS 3 Reunion на базе Debian, GNOME 50 и с поддержкой ARM64](https://habr.com/ru/news/1074206/?utm_campaign=1074206&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление Media Player Classic — Home Cinema 2.8.1](https://habr.com/ru/news/1074086/?utm_campaign=1074086&utm_source=habrahabr&utm_medium=rss)
-- [Казахстанец решил вернуть DDR4 Patriot по гарантии: отправка стоит дороже нового модуля](https://habr.com/ru/news/1073792/?utm_campaign=1073792&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
