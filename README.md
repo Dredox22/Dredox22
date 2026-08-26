@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен проект Retropages — онлайн библиотека видеоигровой литературы](https://habr.com/ru/news/1074950/?utm_campaign=1074950&utm_source=habrahabr&utm_medium=rss)
+- [Data Sapience — генеральный партнер сессии технологий искусственного интеллекта на Форуме ИТ и инноваций в ритейле](https://habr.com/ru/companies/datasapience/news/1074926/?utm_campaign=1074926&utm_source=habrahabr&utm_medium=rss)
+- [Z.ai выпустили GLM-5.3-Flash: ту самую Ox Alpha, которая за неделю стала топ-1 в OpenCode и OpenRouter](https://habr.com/ru/news/1074904/?utm_campaign=1074904&utm_source=habrahabr&utm_medium=rss)
+- [Медицинский ИИ не может записать британцев на приём, потому что не понимает йоркширский акцент](https://habr.com/ru/news/1074890/?utm_campaign=1074890&utm_source=habrahabr&utm_medium=rss)
 - [Из России c ChatGPT: OpenAI блокирует «израильский аналитический институт»](https://habr.com/ru/news/1074870/?utm_campaign=1074870&utm_source=habrahabr&utm_medium=rss)
-- [Добавили интеграцию с «Вкусвиллом» – можно собрать корзину прямо из чат-бота](https://habr.com/ru/companies/gptunnel/news/1074866/?utm_campaign=1074866&utm_source=habrahabr&utm_medium=rss)
-- [«Аэрофлот» начнёт принимать цифровые рубли](https://habr.com/ru/news/1074858/?utm_campaign=1074858&utm_source=habrahabr&utm_medium=rss)
-- [Windows NT 4.0 исполнилось 30 лет](https://habr.com/ru/news/1074844/?utm_campaign=1074844&utm_source=habrahabr&utm_medium=rss)
-- [Innostage PAM и PT Sandbox подтвердили совместимость для проверки файлов при привилегированном доступе](https://habr.com/ru/companies/innostage/news/1074836/?utm_campaign=1074836&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
