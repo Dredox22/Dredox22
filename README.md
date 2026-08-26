@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Из России c ChatGPT: OpenAI блокирует «израильский аналитический институт»](https://habr.com/ru/news/1074870/?utm_campaign=1074870&utm_source=habrahabr&utm_medium=rss)
+- [Добавили интеграцию с «Вкусвиллом» – можно собрать корзину прямо из чат-бота](https://habr.com/ru/companies/gptunnel/news/1074866/?utm_campaign=1074866&utm_source=habrahabr&utm_medium=rss)
+- [«Аэрофлот» начнёт принимать цифровые рубли](https://habr.com/ru/news/1074858/?utm_campaign=1074858&utm_source=habrahabr&utm_medium=rss)
 - [Windows NT 4.0 исполнилось 30 лет](https://habr.com/ru/news/1074844/?utm_campaign=1074844&utm_source=habrahabr&utm_medium=rss)
 - [Innostage PAM и PT Sandbox подтвердили совместимость для проверки файлов при привилегированном доступе](https://habr.com/ru/companies/innostage/news/1074836/?utm_campaign=1074836&utm_source=habrahabr&utm_medium=rss)
-- [Первые пользователи Pixel 11 начали жаловаться на неожиданные отключения новых смартфонов](https://habr.com/ru/news/1074832/?utm_campaign=1074832&utm_source=habrahabr&utm_medium=rss)
-- [Правительство разрешило использовать иностранное оптоволокно до середины 2027 года](https://habr.com/ru/news/1074816/?utm_campaign=1074816&utm_source=habrahabr&utm_medium=rss)
-- [Уже завтра: как определить, нужна ли компании ERP](https://habr.com/ru/companies/infostart/news/1074736/?utm_campaign=1074736&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
