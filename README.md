@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows NT 4.0 исполнилось 30 лет](https://habr.com/ru/news/1074844/?utm_campaign=1074844&utm_source=habrahabr&utm_medium=rss)
+- [Innostage PAM и PT Sandbox подтвердили совместимость для проверки файлов при привилегированном доступе](https://habr.com/ru/companies/innostage/news/1074836/?utm_campaign=1074836&utm_source=habrahabr&utm_medium=rss)
+- [Первые пользователи Pixel 11 начали жаловаться на неожиданные отключения новых смартфонов](https://habr.com/ru/news/1074832/?utm_campaign=1074832&utm_source=habrahabr&utm_medium=rss)
 - [Правительство разрешило использовать иностранное оптоволокно до середины 2027 года](https://habr.com/ru/news/1074816/?utm_campaign=1074816&utm_source=habrahabr&utm_medium=rss)
 - [Уже завтра: как определить, нужна ли компании ERP](https://habr.com/ru/companies/infostart/news/1074736/?utm_campaign=1074736&utm_source=habrahabr&utm_medium=rss)
-- [Новый прикладной балансировщик с поддержкой Gateway API в Deckhouse Kubernetes Platform](https://habr.com/ru/companies/flant/news/1074618/?utm_campaign=1074618&utm_source=habrahabr&utm_medium=rss)
-- [Как использовать LLM в тестировании: разбираем harness, автотесты и LLM-судью](https://habr.com/ru/companies/yoomoney/news/1074750/?utm_campaign=1074750&utm_source=habrahabr&utm_medium=rss)
-- [Вышел мессенджер WB Chat &lpar;beta&rpar;](https://habr.com/ru/news/1074742/?utm_campaign=1074742&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
