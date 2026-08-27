@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз текстового редактора GNU Emacs 31.1](https://habr.com/ru/news/1074606/?utm_campaign=1074606&utm_source=habrahabr&utm_medium=rss)
+- [Вышел LibreOffice 26.8, бесплатная альтернатива Microsoft Office без генеративного ИИ и облака](https://habr.com/ru/news/1075038/?utm_campaign=1075038&utm_source=habrahabr&utm_medium=rss)
 - [В камерах Ring появится новый стандарт шифрования TAKE — Throw Away the Key Encryption](https://habr.com/ru/news/1075006/?utm_campaign=1075006&utm_source=habrahabr&utm_medium=rss)
 - [Z.ai выпустила GLM 5.3 Flash с открытыми весами. Модель уже доступна в KodaCode](https://habr.com/ru/companies/koda/news/1074964/?utm_campaign=1074964&utm_source=habrahabr&utm_medium=rss)
 - [Представлен проект Retropages — онлайн библиотека видеоигровой литературы](https://habr.com/ru/news/1074950/?utm_campaign=1074950&utm_source=habrahabr&utm_medium=rss)
-- [Data Sapience — генеральный партнер сессии технологий искусственного интеллекта на Форуме ИТ и инноваций в ритейле](https://habr.com/ru/companies/datasapience/news/1074926/?utm_campaign=1074926&utm_source=habrahabr&utm_medium=rss)
-- [Z.ai выпустили GLM-5.3-Flash: ту самую Ox Alpha, которая за неделю стала топ-1 в OpenCode и OpenRouter](https://habr.com/ru/news/1074904/?utm_campaign=1074904&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
