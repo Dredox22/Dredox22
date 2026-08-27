@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз текстового редактора GNU Emacs 31.1](https://habr.com/ru/news/1074606/?utm_campaign=1074606&utm_source=habrahabr&utm_medium=rss)
-- [Вышел LibreOffice 26.8, бесплатная альтернатива Microsoft Office без генеративного ИИ и облака](https://habr.com/ru/news/1075038/?utm_campaign=1075038&utm_source=habrahabr&utm_medium=rss)
-- [В камерах Ring появится новый стандарт шифрования TAKE — Throw Away the Key Encryption](https://habr.com/ru/news/1075006/?utm_campaign=1075006&utm_source=habrahabr&utm_medium=rss)
-- [Z.ai выпустила GLM 5.3 Flash с открытыми весами. Модель уже доступна в KodaCode](https://habr.com/ru/companies/koda/news/1074964/?utm_campaign=1074964&utm_source=habrahabr&utm_medium=rss)
-- [Представлен проект Retropages — онлайн библиотека видеоигровой литературы](https://habr.com/ru/news/1074950/?utm_campaign=1074950&utm_source=habrahabr&utm_medium=rss)
+- [Зачем пересылать гигабайты? Как Samsung встроила вычисления прямо в банки памяти LPDDR5X-PIM](https://habr.com/ru/companies/selectel/news/1075344/?utm_campaign=1075344&utm_source=habrahabr&utm_medium=rss)
+- [GuardConf 2026: конференция по разработке, защите и монетизации ПО](https://habr.com/ru/companies/aktiv-company/news/1075352/?utm_campaign=1075352&utm_source=habrahabr&utm_medium=rss)
+- [IBM уходит в Agentic RL: три новые модели Granite 4.2 научили автономно программировать в терминале](https://habr.com/ru/companies/selectel/news/1075338/?utm_campaign=1075338&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia прекратит выпускать драйверы GeForce Game Ready для Windows 10 в октябре 2026 года](https://habr.com/ru/news/1075332/?utm_campaign=1075332&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI начнёт показывать рекламу пользователям ChatGPT в Индии](https://habr.com/ru/news/1075314/?utm_campaign=1075314&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
