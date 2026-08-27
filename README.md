@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел мажорный релиз foundry — 1.8.0](https://habr.com/ru/news/1075520/?utm_campaign=1075520&utm_source=habrahabr&utm_medium=rss)
+- [Rockstar показала 26 минут GTA VI, а автор утечек перед премьерой вывел около $270 тысяч из своего мемкоина](https://habr.com/ru/news/1075518/?utm_campaign=1075518&utm_source=habrahabr&utm_medium=rss)
+- [В десктопной версии Telegram 7.1.3 доработали WEB‑прокси](https://habr.com/ru/news/1075456/?utm_campaign=1075456&utm_source=habrahabr&utm_medium=rss)
+- [WhatsApp** тестирует новую функцию для защиты от мошеннических сообщений](https://habr.com/ru/news/1075412/?utm_campaign=1075412&utm_source=habrahabr&utm_medium=rss)
 - [Зачем пересылать гигабайты? Как Samsung встроила вычисления прямо в банки памяти LPDDR5X-PIM](https://habr.com/ru/companies/selectel/news/1075344/?utm_campaign=1075344&utm_source=habrahabr&utm_medium=rss)
-- [GuardConf 2026: конференция по разработке, защите и монетизации ПО](https://habr.com/ru/companies/aktiv-company/news/1075352/?utm_campaign=1075352&utm_source=habrahabr&utm_medium=rss)
-- [IBM уходит в Agentic RL: три новые модели Granite 4.2 научили автономно программировать в терминале](https://habr.com/ru/companies/selectel/news/1075338/?utm_campaign=1075338&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia прекратит выпускать драйверы GeForce Game Ready для Windows 10 в октябре 2026 года](https://habr.com/ru/news/1075332/?utm_campaign=1075332&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI начнёт показывать рекламу пользователям ChatGPT в Индии](https://habr.com/ru/news/1075314/?utm_campaign=1075314&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
