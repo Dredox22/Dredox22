@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [ИИ-агенты OpenAI нашли тайный чат и коллективно взломали Hugging Face](https://habr.com/ru/companies/koda/news/1075710/?utm_campaign=1075710&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила исправление проблем запуска и вылетов игр в Windows 11 после обвинения устройств с RGB‑подсветкой](https://habr.com/ru/news/1075702/?utm_campaign=1075702&utm_source=habrahabr&utm_medium=rss)
-- [Ответ Blackwell: OpenAI раскрыла характеристики собственного инференс-ASIC Jalapeño](https://habr.com/ru/companies/selectel/news/1075616/?utm_campaign=1075616&utm_source=habrahabr&utm_medium=rss)
-- [«Ведомости»: владельцы iPhone пока не смогут пользоваться цифровым рублём](https://habr.com/ru/news/1075698/?utm_campaign=1075698&utm_source=habrahabr&utm_medium=rss)
-- [Perfscale news #8. WS Benchmark, Jmeter open sourced &amp;amp; fixed linked accounts](https://habr.com/ru/news/1075678/?utm_campaign=1075678&utm_source=habrahabr&utm_medium=rss)
+- [Обновление CodeScoring 2026.35.0: «Каталог», более точный анализ достижимости и поиск клонированных уязвимостей в Java](https://habr.com/ru/companies/codescoring/news/1076006/?utm_campaign=1076006&utm_source=habrahabr&utm_medium=rss)
+- [Мнение: развитие ИИ повысит спрос как минимум на три группы специалистов](https://habr.com/ru/news/1075944/?utm_campaign=1075944&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры не поддержало поправки о ретроспективных выплатах правообладателям за обучение ИИ](https://habr.com/ru/news/1075886/?utm_campaign=1075886&utm_source=habrahabr&utm_medium=rss)
+- [Разработчица сделала игру с рекламой, которую можно отключить, один раз пройдя сложный режим](https://habr.com/ru/news/1075864/?utm_campaign=1075864&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи: ИИ‑агенты всё ещё не могут надёжно автоматизировать работу с Excel](https://habr.com/ru/news/1075854/?utm_campaign=1075854&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
