@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышел мажорный релиз foundry — 1.8.0](https://habr.com/ru/news/1075520/?utm_campaign=1075520&utm_source=habrahabr&utm_medium=rss)
-- [Rockstar показала 26 минут GTA VI, а автор утечек перед премьерой вывел около $270 тысяч из своего мемкоина](https://habr.com/ru/news/1075518/?utm_campaign=1075518&utm_source=habrahabr&utm_medium=rss)
-- [В десктопной версии Telegram 7.1.3 доработали WEB‑прокси](https://habr.com/ru/news/1075456/?utm_campaign=1075456&utm_source=habrahabr&utm_medium=rss)
-- [WhatsApp** тестирует новую функцию для защиты от мошеннических сообщений](https://habr.com/ru/news/1075412/?utm_campaign=1075412&utm_source=habrahabr&utm_medium=rss)
-- [Зачем пересылать гигабайты? Как Samsung встроила вычисления прямо в банки памяти LPDDR5X-PIM](https://habr.com/ru/companies/selectel/news/1075344/?utm_campaign=1075344&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-агенты OpenAI нашли тайный чат и коллективно взломали Hugging Face](https://habr.com/ru/companies/koda/news/1075710/?utm_campaign=1075710&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft выпустила исправление проблем запуска и вылетов игр в Windows 11 после обвинения устройств с RGB‑подсветкой](https://habr.com/ru/news/1075702/?utm_campaign=1075702&utm_source=habrahabr&utm_medium=rss)
+- [Ответ Blackwell: OpenAI раскрыла характеристики собственного инференс-ASIC Jalapeño](https://habr.com/ru/companies/selectel/news/1075616/?utm_campaign=1075616&utm_source=habrahabr&utm_medium=rss)
+- [«Ведомости»: владельцы iPhone пока не смогут пользоваться цифровым рублём](https://habr.com/ru/news/1075698/?utm_campaign=1075698&utm_source=habrahabr&utm_medium=rss)
+- [Perfscale news #8. WS Benchmark, Jmeter open sourced &amp;amp; fixed linked accounts](https://habr.com/ru/news/1075678/?utm_campaign=1075678&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
