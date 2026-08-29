@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз Microsoft Edge 152](https://habr.com/ru/news/1075926/?utm_campaign=1075926&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление инструмента мониторинга HWiNFO 8.52](https://habr.com/ru/news/1075442/?utm_campaign=1075442&utm_source=habrahabr&utm_medium=rss)
-- [Обновление CodeScoring 2026.35.0: «Каталог», более точный анализ достижимости и поиск клонированных уязвимостей в Java](https://habr.com/ru/companies/codescoring/news/1076006/?utm_campaign=1076006&utm_source=habrahabr&utm_medium=rss)
-- [Мнение: развитие ИИ повысит спрос как минимум на три группы специалистов](https://habr.com/ru/news/1075944/?utm_campaign=1075944&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры не поддержало поправки о ретроспективных выплатах правообладателям за обучение ИИ](https://habr.com/ru/news/1075886/?utm_campaign=1075886&utm_source=habrahabr&utm_medium=rss)
+- [В бета‑версии Telegram для Android появился WEB‑прокси](https://habr.com/ru/news/1076100/?utm_campaign=1076100&utm_source=habrahabr&utm_medium=rss)
+- [Astro представила Sätteri — быстрый обработчик Markdown и MDX на Rust](https://habr.com/ru/companies/selectel/news/1075734/?utm_campaign=1075734&utm_source=habrahabr&utm_medium=rss)
+- [ПК с функцией «горячего обновления» принудительно перезагрузят для обновлений Windows в течение двух месяцев](https://habr.com/ru/news/1076062/?utm_campaign=1076062&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление открытого проекта для создания и хранения в электронной библиотеке книг разного формата Calibre 9.14](https://habr.com/ru/news/1075656/?utm_campaign=1075656&utm_source=habrahabr&utm_medium=rss)
+- [Apple объявила об открытии нового образовательного центра во Вьетнаме](https://habr.com/ru/news/1076060/?utm_campaign=1076060&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
