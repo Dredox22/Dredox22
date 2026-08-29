@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Microsoft Edge 152](https://habr.com/ru/news/1075926/?utm_campaign=1075926&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление инструмента мониторинга HWiNFO 8.52](https://habr.com/ru/news/1075442/?utm_campaign=1075442&utm_source=habrahabr&utm_medium=rss)
 - [Обновление CodeScoring 2026.35.0: «Каталог», более точный анализ достижимости и поиск клонированных уязвимостей в Java](https://habr.com/ru/companies/codescoring/news/1076006/?utm_campaign=1076006&utm_source=habrahabr&utm_medium=rss)
 - [Мнение: развитие ИИ повысит спрос как минимум на три группы специалистов](https://habr.com/ru/news/1075944/?utm_campaign=1075944&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры не поддержало поправки о ретроспективных выплатах правообладателям за обучение ИИ](https://habr.com/ru/news/1075886/?utm_campaign=1075886&utm_source=habrahabr&utm_medium=rss)
-- [Разработчица сделала игру с рекламой, которую можно отключить, один раз пройдя сложный режим](https://habr.com/ru/news/1075864/?utm_campaign=1075864&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи: ИИ‑агенты всё ещё не могут надёжно автоматизировать работу с Excel](https://habr.com/ru/news/1075854/?utm_campaign=1075854&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
