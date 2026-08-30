@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [PdfPixel релиз 0.9.0 выходит в свет](https://habr.com/ru/news/1076482/?utm_campaign=1076482&utm_source=habrahabr&utm_medium=rss)
 - [Hugging Face открыла предзаказ на робоутку Microduck: за сутки она принесла $2,6 млн](https://habr.com/ru/news/1075540/?utm_campaign=1075540&utm_source=habrahabr&utm_medium=rss)
+- [Релиз ReactOS 0.4.16](https://habr.com/ru/news/1076468/?utm_campaign=1076468&utm_source=habrahabr&utm_medium=rss)
 - [Южная Корея выдаст всем своим гражданам бесплатный доступ к генеративным ИИ‑сервисам](https://habr.com/ru/news/1076456/?utm_campaign=1076456&utm_source=habrahabr&utm_medium=rss)
 - [MCP-спецификация сама стала генератором тестов для агента](https://habr.com/ru/news/1076386/?utm_campaign=1076386&utm_source=habrahabr&utm_medium=rss)
-- [Бесплатные курсы по нейросетям и ИИ в 2026: с чего начать](https://habr.com/ru/companies/netologyru/news/1075964/?utm_campaign=1075964&utm_source=habrahabr&utm_medium=rss)
-- [Владелец Asus ROG Zephyrus M16 пожаловался, что жидкий металл в ноутбуке испортил компоненты и привёл к перегреву](https://habr.com/ru/news/1076316/?utm_campaign=1076316&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
