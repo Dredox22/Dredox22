@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Южная Корея выдаст всем своим гражданам бесплатный доступ к генеративным ИИ‑сервисам](https://habr.com/ru/news/1076456/?utm_campaign=1076456&utm_source=habrahabr&utm_medium=rss)
+- [MCP-спецификация сама стала генератором тестов для агента](https://habr.com/ru/news/1076386/?utm_campaign=1076386&utm_source=habrahabr&utm_medium=rss)
 - [Бесплатные курсы по нейросетям и ИИ в 2026: с чего начать](https://habr.com/ru/companies/netologyru/news/1075964/?utm_campaign=1075964&utm_source=habrahabr&utm_medium=rss)
 - [Владелец Asus ROG Zephyrus M16 пожаловался, что жидкий металл в ноутбуке испортил компоненты и привёл к перегреву](https://habr.com/ru/news/1076316/?utm_campaign=1076316&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft пытается убедить сотрудников в том, что строительство ЦОД для ИИ приносит пользу обществу](https://habr.com/ru/news/1076308/?utm_campaign=1076308&utm_source=habrahabr&utm_medium=rss)
-- [Разговоры с чат‑ботами могут стать доказательством в суде](https://habr.com/ru/news/1076290/?utm_campaign=1076290&utm_source=habrahabr&utm_medium=rss)
-- [Sony Music и другие издательства подали в суд на Anthropic](https://habr.com/ru/news/1076280/?utm_campaign=1076280&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
