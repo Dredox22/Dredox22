@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude удалил 700 ГБ из домашнего каталога во время проверки скрипта для предотвращения случайного удаления файлов](https://habr.com/ru/news/1076130/?utm_campaign=1076130&utm_source=habrahabr&utm_medium=rss)
-- [Представлен проект GitGTA — визуализация коммитов в репозиториях проекта на GitHub в стиле GTA](https://habr.com/ru/news/1076104/?utm_campaign=1076104&utm_source=habrahabr&utm_medium=rss)
-- [В бета‑версии Telegram для Android появился WEB‑прокси](https://habr.com/ru/news/1076100/?utm_campaign=1076100&utm_source=habrahabr&utm_medium=rss)
-- [Astro представила Sätteri — быстрый обработчик Markdown и MDX на Rust](https://habr.com/ru/companies/selectel/news/1075734/?utm_campaign=1075734&utm_source=habrahabr&utm_medium=rss)
-- [ПК с функцией «горячего обновления» принудительно перезагрузят для обновлений Windows в течение двух месяцев](https://habr.com/ru/news/1076062/?utm_campaign=1076062&utm_source=habrahabr&utm_medium=rss)
+- [Приложение персонализированных ИИ‑рекомендации Dreambeans доступно для бесплатного тестирования в США](https://habr.com/ru/news/1076272/?utm_campaign=1076272&utm_source=habrahabr&utm_medium=rss)
+- [Сообщество Debian проголосовало за разрешение «ответственного использования генеративного ИИ»](https://habr.com/ru/news/1076268/?utm_campaign=1076268&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI расторгает контракт с Cursor после приобретения Anysphere компанией SpaceX](https://habr.com/ru/news/1076270/?utm_campaign=1076270&utm_source=habrahabr&utm_medium=rss)
+- [В браузере Brave появились встроенные псевдонимы электронной почты](https://habr.com/ru/news/1076264/?utm_campaign=1076264&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: только 2% запросов к git.kernel.org формируют настоящие пользователи, а не боты/скрапперы](https://habr.com/ru/news/1076176/?utm_campaign=1076176&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
