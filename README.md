@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Приложение персонализированных ИИ‑рекомендации Dreambeans доступно для бесплатного тестирования в США](https://habr.com/ru/news/1076272/?utm_campaign=1076272&utm_source=habrahabr&utm_medium=rss)
-- [Сообщество Debian проголосовало за разрешение «ответственного использования генеративного ИИ»](https://habr.com/ru/news/1076268/?utm_campaign=1076268&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI расторгает контракт с Cursor после приобретения Anysphere компанией SpaceX](https://habr.com/ru/news/1076270/?utm_campaign=1076270&utm_source=habrahabr&utm_medium=rss)
-- [В браузере Brave появились встроенные псевдонимы электронной почты](https://habr.com/ru/news/1076264/?utm_campaign=1076264&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: только 2% запросов к git.kernel.org формируют настоящие пользователи, а не боты/скрапперы](https://habr.com/ru/news/1076176/?utm_campaign=1076176&utm_source=habrahabr&utm_medium=rss)
+- [Бесплатные курсы по нейросетям и ИИ в 2026: с чего начать](https://habr.com/ru/companies/netologyru/news/1075964/?utm_campaign=1075964&utm_source=habrahabr&utm_medium=rss)
+- [Владелец Asus ROG Zephyrus M16 пожаловался, что жидкий металл в ноутбуке испортил компоненты и привёл к перегреву](https://habr.com/ru/news/1076316/?utm_campaign=1076316&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft пытается убедить сотрудников в том, что строительство ЦОД для ИИ приносит пользу обществу](https://habr.com/ru/news/1076308/?utm_campaign=1076308&utm_source=habrahabr&utm_medium=rss)
+- [Разговоры с чат‑ботами могут стать доказательством в суде](https://habr.com/ru/news/1076290/?utm_campaign=1076290&utm_source=habrahabr&utm_medium=rss)
+- [Sony Music и другие издательства подали в суд на Anthropic](https://habr.com/ru/news/1076280/?utm_campaign=1076280&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
