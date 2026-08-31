@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [PdfPixel релиз 0.9.0 выходит в свет](https://habr.com/ru/news/1076482/?utm_campaign=1076482&utm_source=habrahabr&utm_medium=rss)
-- [Hugging Face открыла предзаказ на робоутку Microduck: за сутки она принесла $2,6 млн](https://habr.com/ru/news/1075540/?utm_campaign=1075540&utm_source=habrahabr&utm_medium=rss)
-- [Релиз ReactOS 0.4.16](https://habr.com/ru/news/1076468/?utm_campaign=1076468&utm_source=habrahabr&utm_medium=rss)
-- [Южная Корея выдаст всем своим гражданам бесплатный доступ к генеративным ИИ‑сервисам](https://habr.com/ru/news/1076456/?utm_campaign=1076456&utm_source=habrahabr&utm_medium=rss)
-- [MCP-спецификация сама стала генератором тестов для агента](https://habr.com/ru/news/1076386/?utm_campaign=1076386&utm_source=habrahabr&utm_medium=rss)
+- [Авторам предложили вводить запрет на использование контента для обучения ИИ через единую базу](https://habr.com/ru/news/1076650/?utm_campaign=1076650&utm_source=habrahabr&utm_medium=rss)
+- [Почему Microsoft перестала включать в Windows “Сапёра”, «Косынку» и другие стандартные игры](https://habr.com/ru/news/1076648/?utm_campaign=1076648&utm_source=habrahabr&utm_medium=rss)
+- [ЦБ РФ представил логотип цифрового рубля и рассказал, как начать им пользоваться](https://habr.com/ru/news/1076628/?utm_campaign=1076628&utm_source=habrahabr&utm_medium=rss)
+- [GI Labs представила EGO1GS — компактную гарнитуру, которая записывает движения человека для обучения роботов](https://habr.com/ru/news/1076622/?utm_campaign=1076622&utm_source=habrahabr&utm_medium=rss)
+- [PGMeetup.МСК 2026: распределённые базы, ночные апгрейды и миграция со скоростью света](https://habr.com/ru/companies/postgrespro/news/1076564/?utm_campaign=1076564&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
