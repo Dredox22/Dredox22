@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Авторам предложили вводить запрет на использование контента для обучения ИИ через единую базу](https://habr.com/ru/news/1076650/?utm_campaign=1076650&utm_source=habrahabr&utm_medium=rss)
-- [Почему Microsoft перестала включать в Windows “Сапёра”, «Косынку» и другие стандартные игры](https://habr.com/ru/news/1076648/?utm_campaign=1076648&utm_source=habrahabr&utm_medium=rss)
-- [ЦБ РФ представил логотип цифрового рубля и рассказал, как начать им пользоваться](https://habr.com/ru/news/1076628/?utm_campaign=1076628&utm_source=habrahabr&utm_medium=rss)
-- [GI Labs представила EGO1GS — компактную гарнитуру, которая записывает движения человека для обучения роботов](https://habr.com/ru/news/1076622/?utm_campaign=1076622&utm_source=habrahabr&utm_medium=rss)
-- [PGMeetup.МСК 2026: распределённые базы, ночные апгрейды и миграция со скоростью света](https://habr.com/ru/companies/postgrespro/news/1076564/?utm_campaign=1076564&utm_source=habrahabr&utm_medium=rss)
+- [Инженеры OpenAI не смогли объяснить код, который нейросеть сгенерировала для кернела AI‑ускорителя Jalapeño](https://habr.com/ru/news/1076906/?utm_campaign=1076906&utm_source=habrahabr&utm_medium=rss)
+- [Представлено приложение «Яндекс Плюс»: «Кинопоиск», «Яндекс Музыка» и «Яндекс Книги» в одном проекте](https://habr.com/ru/news/1076894/?utm_campaign=1076894&utm_source=habrahabr&utm_medium=rss)
+- [Каждый пятый разработчик уже не пишет код без ИИ](https://habr.com/ru/companies/koda/news/1076892/?utm_campaign=1076892&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар. Час на взлом: как ИИ-агенты ломают инфраструктуру и как защититься?](https://habr.com/ru/companies/beeline_cloud/news/1076842/?utm_campaign=1076842&utm_source=habrahabr&utm_medium=rss)
+- [Вышел OpenClaw 2.0: упрощённый первый запуск, поиск по истории чатов и новая система памяти](https://habr.com/ru/news/1076838/?utm_campaign=1076838&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
