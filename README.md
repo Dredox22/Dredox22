@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла шестая бета‑версия операционной системы Haiku](https://habr.com/ru/news/1076948/?utm_campaign=1076948&utm_source=habrahabr&utm_medium=rss)
 - [Инженеры OpenAI не смогли объяснить код, который нейросеть сгенерировала для кернела AI‑ускорителя Jalapeño](https://habr.com/ru/news/1076906/?utm_campaign=1076906&utm_source=habrahabr&utm_medium=rss)
 - [Представлено приложение «Яндекс Плюс»: «Кинопоиск», «Яндекс Музыка» и «Яндекс Книги» в одном проекте](https://habr.com/ru/news/1076894/?utm_campaign=1076894&utm_source=habrahabr&utm_medium=rss)
-- [Каждый пятый разработчик уже не пишет код без ИИ](https://habr.com/ru/companies/koda/news/1076892/?utm_campaign=1076892&utm_source=habrahabr&utm_medium=rss)
+- [Каждый пятый разработчик уже не пишет код без ИИ](https://habr.com/ru/companies/koda/news/1076892/?utm_campaign=1076892&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар. Час на взлом: как ИИ-агенты ломают инфраструктуру и как защититься?](https://habr.com/ru/companies/beeline_cloud/news/1076842/?utm_campaign=1076842&utm_source=habrahabr&utm_medium=rss)
-- [Вышел OpenClaw 2.0: упрощённый первый запуск, поиск по истории чатов и новая система памяти](https://habr.com/ru/news/1076838/?utm_campaign=1076838&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
