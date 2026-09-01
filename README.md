@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Компания Dyson выпустила зубную щётку с камерой, заменяющей ещё и зубную нить](https://habr.com/ru/news/1077172/?utm_campaign=1077172&utm_source=habrahabr&utm_medium=rss)
-- [Стартовал онлайн-марафон по выполнению космических нормативов ТехноГТО](https://habr.com/ru/news/1077150/?utm_campaign=1077150&utm_source=habrahabr&utm_medium=rss)
-- [Антидетект-браузер Aurorium запускает бесплатный тариф Blink с ИИ-фингерпринтами до конца осени](https://habr.com/ru/companies/aurorium/news/1076658/?utm_campaign=1076658&utm_source=habrahabr&utm_medium=rss)
-- [От запросов до DevOps: чему учиться 1С-специалисту этой осенью](https://habr.com/ru/companies/infostart/news/1077120/?utm_campaign=1077120&utm_source=habrahabr&utm_medium=rss)
-- [Владельцы смартфонов Pixel 11 столкнулись с проблемой самопроизвольного включения экранов из‑за любой вибрации](https://habr.com/ru/news/1077116/?utm_campaign=1077116&utm_source=habrahabr&utm_medium=rss)
+- [Прекращена поддержка проекта Debian 11 LTS](https://habr.com/ru/news/1077012/?utm_campaign=1077012&utm_source=habrahabr&utm_medium=rss)
+- [Для iMazing выпустил патч и на Mac опять можно устанавливать ранее удалённые приложения](https://habr.com/ru/news/1077316/?utm_campaign=1077316&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем на QA-митап от Мир Plat.Form и MoscowQA в Москве](https://habr.com/ru/companies/nspk/news/1077294/?utm_campaign=1077294&utm_source=habrahabr&utm_medium=rss)
+- [В PT Fusion появились закрытые отчеты киберразведки и YARA-правила](https://habr.com/ru/companies/pt/news/1077250/?utm_campaign=1077250&utm_source=habrahabr&utm_medium=rss)
+- [Представлен прототип открытой системы управления проектами VibePM](https://habr.com/ru/news/1077224/?utm_campaign=1077224&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
