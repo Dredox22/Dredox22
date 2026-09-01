@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышла шестая бета‑версия операционной системы Haiku](https://habr.com/ru/news/1076948/?utm_campaign=1076948&utm_source=habrahabr&utm_medium=rss)
-- [Инженеры OpenAI не смогли объяснить код, который нейросеть сгенерировала для кернела AI‑ускорителя Jalapeño](https://habr.com/ru/news/1076906/?utm_campaign=1076906&utm_source=habrahabr&utm_medium=rss)
-- [Представлено приложение «Яндекс Плюс»: «Кинопоиск», «Яндекс Музыка» и «Яндекс Книги» в одном проекте](https://habr.com/ru/news/1076894/?utm_campaign=1076894&utm_source=habrahabr&utm_medium=rss)
-- [Каждый пятый разработчик уже не пишет код без ИИ](https://habr.com/ru/companies/koda/news/1076892/?utm_campaign=1076892&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар. Час на взлом: как ИИ-агенты ломают инфраструктуру и как защититься?](https://habr.com/ru/companies/beeline_cloud/news/1076842/?utm_campaign=1076842&utm_source=habrahabr&utm_medium=rss)
+- [Instagram** ввёл новые ограничения для ИИ‑профилей](https://habr.com/ru/news/1077016/?utm_campaign=1077016&utm_source=habrahabr&utm_medium=rss)
+- [Галлюцинации недели: OpenClaw 2.0, Nvidia обсуждает покупку Hugging Face и новый Mac Studio на M5 Ultra с 512 ГБ памяти](https://habr.com/ru/news/1076750/?utm_campaign=1076750&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Firefox 155.0](https://habr.com/ru/news/1077020/?utm_campaign=1077020&utm_source=habrahabr&utm_medium=rss)
+- [Жители Саудовской Аравии получат бесплатный доступ к ИИ‑инструментам Adobe](https://habr.com/ru/news/1077010/?utm_campaign=1077010&utm_source=habrahabr&utm_medium=rss)
+- [С 1 сентября пентест стал методом контроля защищённости, а аттестация ФСТЭК охватила станки с ЧПУ в ОПК](https://habr.com/ru/news/1076946/?utm_campaign=1076946&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
