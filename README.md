@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Instagram** ввёл новые ограничения для ИИ‑профилей](https://habr.com/ru/news/1077016/?utm_campaign=1077016&utm_source=habrahabr&utm_medium=rss)
-- [Галлюцинации недели: OpenClaw 2.0, Nvidia обсуждает покупку Hugging Face и новый Mac Studio на M5 Ultra с 512 ГБ памяти](https://habr.com/ru/news/1076750/?utm_campaign=1076750&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Firefox 155.0](https://habr.com/ru/news/1077020/?utm_campaign=1077020&utm_source=habrahabr&utm_medium=rss)
-- [Жители Саудовской Аравии получат бесплатный доступ к ИИ‑инструментам Adobe](https://habr.com/ru/news/1077010/?utm_campaign=1077010&utm_source=habrahabr&utm_medium=rss)
-- [С 1 сентября пентест стал методом контроля защищённости, а аттестация ФСТЭК охватила станки с ЧПУ в ОПК](https://habr.com/ru/news/1076946/?utm_campaign=1076946&utm_source=habrahabr&utm_medium=rss)
+- [Компания Dyson выпустила зубную щётку с камерой, заменяющей ещё и зубную нить](https://habr.com/ru/news/1077172/?utm_campaign=1077172&utm_source=habrahabr&utm_medium=rss)
+- [Стартовал онлайн-марафон по выполнению космических нормативов ТехноГТО](https://habr.com/ru/news/1077150/?utm_campaign=1077150&utm_source=habrahabr&utm_medium=rss)
+- [Антидетект-браузер Aurorium запускает бесплатный тариф Blink с ИИ-фингерпринтами до конца осени](https://habr.com/ru/companies/aurorium/news/1076658/?utm_campaign=1076658&utm_source=habrahabr&utm_medium=rss)
+- [От запросов до DevOps: чему учиться 1С-специалисту этой осенью](https://habr.com/ru/companies/infostart/news/1077120/?utm_campaign=1077120&utm_source=habrahabr&utm_medium=rss)
+- [Владельцы смартфонов Pixel 11 столкнулись с проблемой самопроизвольного включения экранов из‑за любой вибрации](https://habr.com/ru/news/1077116/?utm_campaign=1077116&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
