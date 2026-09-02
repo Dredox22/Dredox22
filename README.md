@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышло обновление Phiola — открытого портативного мультиплатформенного аудиоплеера с поддержкой скриптов](https://habr.com/ru/news/1077168/?utm_campaign=1077168&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск Rust Coreutils 0.11.0](https://habr.com/ru/news/1077088/?utm_campaign=1077088&utm_source=habrahabr&utm_medium=rss)
 - [Базовая версия MacBook Neo аномально быстро расходует ресурс SSD из‑за всего 8 ГБ оперативной памяти](https://habr.com/ru/news/1077410/?utm_campaign=1077410&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic предупредила пользователей Claude об утечке их данных для входа из‑за вредоносного ПО](https://habr.com/ru/news/1076960/?utm_campaign=1076960&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic представила Claude Fable 5.1 — модель для сложных задач и долгой работы с ИИ-агентами](https://habr.com/ru/companies/otus/news/1077398/?utm_campaign=1077398&utm_source=habrahabr&utm_medium=rss)
-- [Pulsar новое созвездие точного позиционирования](https://habr.com/ru/news/1077386/?utm_campaign=1077386&utm_source=habrahabr&utm_medium=rss)
-- [Учёные создали систему охлаждения, преобразующую отработанное тепло в холод без использования электричества](https://habr.com/ru/news/1077330/?utm_campaign=1077330&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
