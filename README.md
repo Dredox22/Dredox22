@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышло обновление Phiola — открытого портативного мультиплатформенного аудиоплеера с поддержкой скриптов](https://habr.com/ru/news/1077168/?utm_campaign=1077168&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск Rust Coreutils 0.11.0](https://habr.com/ru/news/1077088/?utm_campaign=1077088&utm_source=habrahabr&utm_medium=rss)
-- [Базовая версия MacBook Neo аномально быстро расходует ресурс SSD из‑за всего 8 ГБ оперативной памяти](https://habr.com/ru/news/1077410/?utm_campaign=1077410&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic предупредила пользователей Claude об утечке их данных для входа из‑за вредоносного ПО](https://habr.com/ru/news/1076960/?utm_campaign=1076960&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic представила Claude Fable 5.1 — модель для сложных задач и долгой работы с ИИ-агентами](https://habr.com/ru/companies/otus/news/1077398/?utm_campaign=1077398&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск Mozilla Thunderbird 155.0](https://habr.com/ru/news/1077486/?utm_campaign=1077486&utm_source=habrahabr&utm_medium=rss)
+- [Флорида и Техас отказываются от камер Flock из‑за опасений по поводу конфиденциальности](https://habr.com/ru/news/1077510/?utm_campaign=1077510&utm_source=habrahabr&utm_medium=rss)
+- [В AppStore появились поддельные приложения российских сервисов VK и Max](https://habr.com/ru/news/1077480/?utm_campaign=1077480&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск BetterMediaInfo 1.1.0 — это графический интерфейс для MediaInfo и анализа метаданных для аудио‑ и видеофайлов](https://habr.com/ru/news/1077140/?utm_campaign=1077140&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление Phiola — открытого портативного мультиплатформенного аудиоплеера с поддержкой скриптов](https://habr.com/ru/news/1077168/?utm_campaign=1077168&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
