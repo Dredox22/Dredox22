@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Выпуск Mozilla Thunderbird 155.0](https://habr.com/ru/news/1077486/?utm_campaign=1077486&utm_source=habrahabr&utm_medium=rss)
-- [Флорида и Техас отказываются от камер Flock из‑за опасений по поводу конфиденциальности](https://habr.com/ru/news/1077510/?utm_campaign=1077510&utm_source=habrahabr&utm_medium=rss)
-- [В AppStore появились поддельные приложения российских сервисов VK и Max](https://habr.com/ru/news/1077480/?utm_campaign=1077480&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск BetterMediaInfo 1.1.0 — это графический интерфейс для MediaInfo и анализа метаданных для аудио‑ и видеофайлов](https://habr.com/ru/news/1077140/?utm_campaign=1077140&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление Phiola — открытого портативного мультиплатформенного аудиоплеера с поддержкой скриптов](https://habr.com/ru/news/1077168/?utm_campaign=1077168&utm_source=habrahabr&utm_medium=rss)
+- [В США предъявили обвинения россиянину в заражении компьютеров более 80 тысяч фрилансеров вредоносным ПО](https://habr.com/ru/news/1077696/?utm_campaign=1077696&utm_source=habrahabr&utm_medium=rss)
+- [Компания Postgres Professional первой среди коммерческих форков закрыла критические уязвимости PostgreSQL](https://habr.com/ru/companies/postgrespro/news/1076556/?utm_campaign=1076556&utm_source=habrahabr&utm_medium=rss)
+- [НАСА выбрало компанию Blue Origin в качестве поставщика телекоммуникационной сети для Марса](https://habr.com/ru/news/1077662/?utm_campaign=1077662&utm_source=habrahabr&utm_medium=rss)
+- [В Китае открыли «детский сад для роботов»](https://habr.com/ru/news/1077660/?utm_campaign=1077660&utm_source=habrahabr&utm_medium=rss)
+- [Старая медная проводная сеть BT может стоить более £2 млрд](https://habr.com/ru/news/1077636/?utm_campaign=1077636&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
