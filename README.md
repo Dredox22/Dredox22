@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google добавила в Android поиск вещей без трекера и функцию против укачивания](https://habr.com/ru/news/1077850/?utm_campaign=1077850&utm_source=habrahabr&utm_medium=rss)
+- [Content Directories в Unity 6.6: закат Asset Bundles](https://habr.com/ru/news/1077844/?utm_campaign=1077844&utm_source=habrahabr&utm_medium=rss)
 - [Вышел альфа‑релиз Paint.NET 5.2 с экспериментальной поддержкой Wine/Linux](https://habr.com/ru/news/1077780/?utm_campaign=1077780&utm_source=habrahabr&utm_medium=rss)
 - [Операционная система «Альт Образование» бесплатна для школ — акция от «Базальт СПО»](https://habr.com/ru/companies/basealtspo/news/1077776/?utm_campaign=1077776&utm_source=habrahabr&utm_medium=rss)
 - [Frank Media рассказал о сложностях, с которыми столкнулись пользователи при попытке воспользоваться цифровым рублём](https://habr.com/ru/news/1077746/?utm_campaign=1077746&utm_source=habrahabr&utm_medium=rss)
-- [Digital Q.Sensor BI от «Диасофт» обновил ИИ-агента: визуальные правки дашбордов без доступа к данным](https://habr.com/ru/companies/diasoft_company/news/1077736/?utm_campaign=1077736&utm_source=habrahabr&utm_medium=rss)
-- [В США предъявили обвинения россиянину в заражении компьютеров более 80 тысяч фрилансеров вредоносным ПО](https://habr.com/ru/news/1077696/?utm_campaign=1077696&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
