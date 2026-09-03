@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Samsung начала блокировать аккаунты некоторых владельцев Galaxy](https://habr.com/ru/news/1077918/?utm_campaign=1077918&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи разместили фальшивое объявление о сдаче квартиры на Даунинг‑стрит на Booking.com](https://habr.com/ru/news/1077916/?utm_campaign=1077916&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление RapidRAW 1.6.2 — открытого редактора изображений RAW](https://habr.com/ru/news/1077158/?utm_campaign=1077158&utm_source=habrahabr&utm_medium=rss)
-- [В Cloudflare сэкономили 100 ТБ оперативной памяти, оптимизировав кэш DNS-резолвера 1.1.1.1](https://habr.com/ru/news/1077672/?utm_campaign=1077672&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления открытого редактора звука Audacity 3.7.9](https://habr.com/ru/news/1077508/?utm_campaign=1077508&utm_source=habrahabr&utm_medium=rss)
+- [В Chrome 154 Beta появились новые возможности CSS, WebSocket и WebCrypto](https://habr.com/ru/companies/otus/news/1078052/?utm_campaign=1078052&utm_source=habrahabr&utm_medium=rss)
+- [Энтузиаст запустил DLSS 5 Neural Rendering для обычной веб-камеры](https://habr.com/ru/news/1078070/?utm_campaign=1078070&utm_source=habrahabr&utm_medium=rss)
+- [Приглашаем обсудить внедрение ИИ-агентов в бизнес](https://habr.com/ru/companies/selectel/news/1077992/?utm_campaign=1077992&utm_source=habrahabr&utm_medium=rss)
+- [СМИ: цифровой рубль может привести к потере до 100 млрд рублей комиссионных доходов банков и к оттоку 10% пассивов](https://habr.com/ru/news/1078056/?utm_campaign=1078056&utm_source=habrahabr&utm_medium=rss)
+- [«Бюро 1440»: начато поэтапное внедрение спутниковой связи нового поколения на скоростных поездах](https://habr.com/ru/news/1078024/?utm_campaign=1078024&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
