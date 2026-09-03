@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft обучает виртуальных репетиторов с помощью AI‑двойников учеников](https://habr.com/ru/news/1077892/?utm_campaign=1077892&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики приложений для macOS теперь могут отказаться от поддержки Intel‑версий в Mac App Store](https://habr.com/ru/news/1077886/?utm_campaign=1077886&utm_source=habrahabr&utm_medium=rss)
-- [Стартап Mostik связал GLM-5.2 и Qwen-3.5 без текстового обменаа](https://habr.com/ru/news/1077876/?utm_campaign=1077876&utm_source=habrahabr&utm_medium=rss)
-- [Google добавила в Android поиск вещей без трекера и функцию против укачивания](https://habr.com/ru/news/1077850/?utm_campaign=1077850&utm_source=habrahabr&utm_medium=rss)
-- [Content Directories в Unity 6.6: закат Asset Bundles](https://habr.com/ru/news/1077844/?utm_campaign=1077844&utm_source=habrahabr&utm_medium=rss)
+- [Samsung начала блокировать аккаунты некоторых владельцев Galaxy](https://habr.com/ru/news/1077918/?utm_campaign=1077918&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи разместили фальшивое объявление о сдаче квартиры на Даунинг‑стрит на Booking.com](https://habr.com/ru/news/1077916/?utm_campaign=1077916&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление RapidRAW 1.6.2 — открытого редактора изображений RAW](https://habr.com/ru/news/1077158/?utm_campaign=1077158&utm_source=habrahabr&utm_medium=rss)
+- [В Cloudflare сэкономили 100 ТБ оперативной памяти, оптимизировав кэш DNS-резолвера 1.1.1.1](https://habr.com/ru/news/1077672/?utm_campaign=1077672&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления открытого редактора звука Audacity 3.7.9](https://habr.com/ru/news/1077508/?utm_campaign=1077508&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
