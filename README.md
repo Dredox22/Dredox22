@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследование: ИИ стал чаще выходить из-под контроля](https://habr.com/ru/news/1077440/?utm_campaign=1077440&utm_source=habrahabr&utm_medium=rss)
 - [Холиварные аналитические посиделки: Орбитальный контроль](https://habr.com/ru/companies/infotecs_tech/news/1078042/?utm_campaign=1078042&utm_source=habrahabr&utm_medium=rss)
 - [Релиз открытой системы для глубокого инспектирования сетевых пакетов nDPI 6.0](https://habr.com/ru/news/1078138/?utm_campaign=1078138&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia покупает Hugging Face за $12,9 млрд: зачем компании площадка с открытыми моделями машинного обучения](https://habr.com/ru/news/1078262/?utm_campaign=1078262&utm_source=habrahabr&utm_medium=rss)
 - [Первый международный: F6 выпустила глобальный отчет «Ландшафт киберугроз 2025–2026»](https://habr.com/ru/companies/F6/news/1078208/?utm_campaign=1078208&utm_source=habrahabr&utm_medium=rss)
-- [RWB Infra x Security Meetup](https://habr.com/ru/companies/rwb/news/1078188/?utm_campaign=1078188&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
