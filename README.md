@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В Chrome 154 Beta появились новые возможности CSS, WebSocket и WebCrypto](https://habr.com/ru/companies/otus/news/1078052/?utm_campaign=1078052&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст запустил DLSS 5 Neural Rendering для обычной веб-камеры](https://habr.com/ru/news/1078070/?utm_campaign=1078070&utm_source=habrahabr&utm_medium=rss)
-- [Приглашаем обсудить внедрение ИИ-агентов в бизнес](https://habr.com/ru/companies/selectel/news/1077992/?utm_campaign=1077992&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: цифровой рубль может привести к потере до 100 млрд рублей комиссионных доходов банков и к оттоку 10% пассивов](https://habr.com/ru/news/1078056/?utm_campaign=1078056&utm_source=habrahabr&utm_medium=rss)
-- [«Бюро 1440»: начато поэтапное внедрение спутниковой связи нового поколения на скоростных поездах](https://habr.com/ru/news/1078024/?utm_campaign=1078024&utm_source=habrahabr&utm_medium=rss)
+- [NVIDIA договорилась о покупке Hugging Face за $12,93 млрд](https://habr.com/ru/news/1078250/?utm_campaign=1078250&utm_source=habrahabr&utm_medium=rss)
+- [Первый международный: F6 выпустила глобальный отчет «Ландшафт киберугроз 2025–2026»](https://habr.com/ru/companies/F6/news/1078208/?utm_campaign=1078208&utm_source=habrahabr&utm_medium=rss)
+- [RWB Infra x Security Meetup](https://habr.com/ru/companies/rwb/news/1078188/?utm_campaign=1078188&utm_source=habrahabr&utm_medium=rss)
+- [Против OpenAI подали ещё 30 исков из‑за стрельбы в канадской школе](https://habr.com/ru/news/1078176/?utm_campaign=1078176&utm_source=habrahabr&utm_medium=rss)
+- [Buhtrap на связи: бухгалтеров атакуют через новый сайт-приманку](https://habr.com/ru/companies/F6/news/1078098/?utm_campaign=1078098&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
