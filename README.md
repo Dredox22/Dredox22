@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Выпуск открытого редактора звука Audacity 4.0](https://habr.com/ru/news/1078290/?utm_campaign=1078290&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Tails 7.12](https://habr.com/ru/news/1078174/?utm_campaign=1078174&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: ИИ стал чаще выходить из-под контроля](https://habr.com/ru/news/1077440/?utm_campaign=1077440&utm_source=habrahabr&utm_medium=rss)
-- [Холиварные аналитические посиделки: Орбитальный контроль](https://habr.com/ru/companies/infotecs_tech/news/1078042/?utm_campaign=1078042&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытой системы для глубокого инспектирования сетевых пакетов nDPI 6.0](https://habr.com/ru/news/1078138/?utm_campaign=1078138&utm_source=habrahabr&utm_medium=rss)
+- [В браузере Brave объяснили преимущества перед конкурентами](https://habr.com/ru/news/1078412/?utm_campaign=1078412&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft прекращает поддержку Project Online Essentials](https://habr.com/ru/news/1078378/?utm_campaign=1078378&utm_source=habrahabr&utm_medium=rss)
+- [Google запустила глобальную ИИ‑модель прогнозирования погоды WeatherNext 3](https://habr.com/ru/news/1078374/?utm_campaign=1078374&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск Qmmp 2.4.2 — открытого мультимедийного проигрывателя на базе Qt для Windows и Linux](https://habr.com/ru/news/1078074/?utm_campaign=1078074&utm_source=habrahabr&utm_medium=rss)
+- [Обвинённый в инсайдерской торговле на Polymarket инженер Google назвал её азартной игрой](https://habr.com/ru/news/1078356/?utm_campaign=1078356&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
