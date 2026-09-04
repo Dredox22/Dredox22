@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [GLM-5.3 уже в GPT Model Hub: новая модель Z.ai для разработки и ИИ-агентов](https://habr.com/ru/companies/mws/news/1078530/?utm_campaign=1078530&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT добавил поддержку WebMCP во встроенный браузер](https://habr.com/ru/news/1078534/?utm_campaign=1078534&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft ужесточит требования к подписанию драйверов для Windows 11 и Server 2025](https://habr.com/ru/news/1078526/?utm_campaign=1078526&utm_source=habrahabr&utm_medium=rss)
-- [Practical ML Conf 2026: главное из программы](https://habr.com/ru/companies/yandex/news/1078106/?utm_campaign=1078106&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: в РФ обсуждают создание межрегиональных хабов центров обработки данных](https://habr.com/ru/news/1078496/?utm_campaign=1078496&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia представила PAIR — утилиту, с помощью которой объединяет несколько ПК и распределяет между ними AI‑задачи](https://habr.com/ru/news/1078660/?utm_campaign=1078660&utm_source=habrahabr&utm_medium=rss)
+- [Агенты Cursor научились собирать приложения для iOS и macOS](https://habr.com/ru/companies/bothub/news/1078642/?utm_campaign=1078642&utm_source=habrahabr&utm_medium=rss)
+- [GPT-6 Astra: OpenAI хочет превратить ИИ из помощника в исполнителя задач](https://habr.com/ru/companies/otus/news/1078608/?utm_campaign=1078608&utm_source=habrahabr&utm_medium=rss)
+- [Cohere выпустила Parse 5: модель извлекает данные из сложных документов в Markdown](https://habr.com/ru/companies/selectel/news/1078320/?utm_campaign=1078320&utm_source=habrahabr&utm_medium=rss)
+- [Perfscale news #9. GPU, LLM, Docker images](https://habr.com/ru/news/1077874/?utm_campaign=1077874&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
