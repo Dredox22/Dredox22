@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Live-дистрибутив на базе Debian 14 для системных администраторов Grml 2026.08 &lpar;кодовое имя Hättiwaritätti&rpar;](https://habr.com/ru/news/1078726/?utm_campaign=1078726&utm_source=habrahabr&utm_medium=rss)
+- [27 октября суд в РФ начнёт рассматривать иск VK к Apple с требованием вернуть приложения холдинга в AppStore](https://habr.com/ru/news/1078724/?utm_campaign=1078724&utm_source=habrahabr&utm_medium=rss)
+- [Семь нейросетей сравнили вслепую на восьми заданиях: победила Fable 5.1, Kimi K3 взяла больше всего заданий](https://habr.com/ru/news/1078704/?utm_campaign=1078704&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Ocenaudio 3.21 — бесплатный мультиплатформенный аудио- и музыкальный редактор](https://habr.com/ru/news/1078528/?utm_campaign=1078528&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia представила PAIR — утилиту, с помощью которой объединяет несколько ПК и распределяет между ними AI‑задачи](https://habr.com/ru/news/1078660/?utm_campaign=1078660&utm_source=habrahabr&utm_medium=rss)
-- [Агенты Cursor научились собирать приложения для iOS и macOS](https://habr.com/ru/companies/bothub/news/1078642/?utm_campaign=1078642&utm_source=habrahabr&utm_medium=rss)
-- [Cohere выпустила Parse 5: модель извлекает данные из сложных документов в Markdown](https://habr.com/ru/companies/selectel/news/1078320/?utm_campaign=1078320&utm_source=habrahabr&utm_medium=rss)
-- [Perfscale news #9. GPU, LLM, Docker images](https://habr.com/ru/news/1077874/?utm_campaign=1077874&utm_source=habrahabr&utm_medium=rss)
-- [GLM-5.3 уже в GPT Model Hub: новая модель Z.ai для разработки и ИИ-агентов](https://habr.com/ru/companies/mws/news/1078530/?utm_campaign=1078530&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
