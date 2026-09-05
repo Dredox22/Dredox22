@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude по просьбе разработчика предложил перевести время на Mac на 4026 год и парализовал работу ПК](https://habr.com/ru/news/1078788/?utm_campaign=1078788&utm_source=habrahabr&utm_medium=rss)
 - [NVIDIA выпустила PAIR — виртуальный маршрутизатор локального инференса для домашних ПК](https://habr.com/ru/companies/selectel/news/1078630/?utm_campaign=1078630&utm_source=habrahabr&utm_medium=rss)
-- [Ежемесячная подборка хакатонов — август 2026](https://habr.com/ru/news/1078648/?utm_campaign=1078648&utm_source=habrahabr&utm_medium=rss)
+- [Ежемесячная подборка хакатонов — сентябрь 2026](https://habr.com/ru/news/1078648/?utm_campaign=1078648&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft внедряет проверку возраста в Windows 11](https://habr.com/ru/news/1078742/?utm_campaign=1078742&utm_source=habrahabr&utm_medium=rss)
 - [Mullvad объявил о закрытии общедоступных зашифрованных DNS‑серверов и спонсорской поддержке Quad9](https://habr.com/ru/news/1078736/?utm_campaign=1078736&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Live-дистрибутив на базе Debian 14 для системных администраторов Grml 2026.08 &lpar;кодовое имя Hättiwaritätti&rpar;](https://habr.com/ru/news/1078726/?utm_campaign=1078726&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
