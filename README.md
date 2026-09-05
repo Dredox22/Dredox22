@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [NVIDIA выпустила PAIR — виртуальный маршрутизатор локального инференса для домашних ПК](https://habr.com/ru/companies/selectel/news/1078630/?utm_campaign=1078630&utm_source=habrahabr&utm_medium=rss)
+- [Ежемесячная подборка хакатонов — август 2026](https://habr.com/ru/news/1078648/?utm_campaign=1078648&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft внедряет проверку возраста в Windows 11](https://habr.com/ru/news/1078742/?utm_campaign=1078742&utm_source=habrahabr&utm_medium=rss)
+- [Mullvad объявил о закрытии общедоступных зашифрованных DNS‑серверов и спонсорской поддержке Quad9](https://habr.com/ru/news/1078736/?utm_campaign=1078736&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Live-дистрибутив на базе Debian 14 для системных администраторов Grml 2026.08 &lpar;кодовое имя Hättiwaritätti&rpar;](https://habr.com/ru/news/1078726/?utm_campaign=1078726&utm_source=habrahabr&utm_medium=rss)
-- [27 октября суд в РФ начнёт рассматривать иск VK к Apple с требованием вернуть приложения холдинга в AppStore](https://habr.com/ru/news/1078724/?utm_campaign=1078724&utm_source=habrahabr&utm_medium=rss)
-- [Семь нейросетей сравнили вслепую на восьми заданиях: победила Fable 5.1, Kimi K3 взяла больше всего заданий](https://habr.com/ru/news/1078704/?utm_campaign=1078704&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Ocenaudio 3.21 — бесплатный мультиплатформенный аудио- и музыкальный редактор](https://habr.com/ru/news/1078528/?utm_campaign=1078528&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia представила PAIR — утилиту, с помощью которой объединяет несколько ПК и распределяет между ними AI‑задачи](https://habr.com/ru/news/1078660/?utm_campaign=1078660&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
