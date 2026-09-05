@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В октябре Microsoft прекратит поддержку функции Similarity Checker в Word](https://habr.com/ru/news/1078834/?utm_campaign=1078834&utm_source=habrahabr&utm_medium=rss)
+- [WSJ: онлайн‑собеседования стали требовательнее из‑за ИИ‑аватаров и мошенников](https://habr.com/ru/news/1078830/?utm_campaign=1078830&utm_source=habrahabr&utm_medium=rss)
+- [Линус Торвальдс пофиксил баг в ядре Linux при помощи ИИ](https://habr.com/ru/companies/spring_aio/news/1078818/?utm_campaign=1078818&utm_source=habrahabr&utm_medium=rss)
 - [Claude по просьбе разработчика предложил перевести время на Mac на 4026 год и парализовал работу ПК](https://habr.com/ru/news/1078788/?utm_campaign=1078788&utm_source=habrahabr&utm_medium=rss)
 - [NVIDIA выпустила PAIR — виртуальный маршрутизатор локального инференса для домашних ПК](https://habr.com/ru/companies/selectel/news/1078630/?utm_campaign=1078630&utm_source=habrahabr&utm_medium=rss)
-- [Ежемесячная подборка хакатонов — сентябрь 2026](https://habr.com/ru/news/1078648/?utm_campaign=1078648&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft внедряет проверку возраста в Windows 11](https://habr.com/ru/news/1078742/?utm_campaign=1078742&utm_source=habrahabr&utm_medium=rss)
-- [Mullvad объявил о закрытии общедоступных зашифрованных DNS‑серверов и спонсорской поддержке Quad9](https://habr.com/ru/news/1078736/?utm_campaign=1078736&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
