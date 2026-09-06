@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз System Informer 4.0 — открытого диспетчера задач для Windows 10/11](https://habr.com/ru/news/1078398/?utm_campaign=1078398&utm_source=habrahabr&utm_medium=rss)
+- [Вышел 7-Zip 26.03](https://habr.com/ru/news/1078862/?utm_campaign=1078862&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления Wine 11.17](https://habr.com/ru/news/1078728/?utm_campaign=1078728&utm_source=habrahabr&utm_medium=rss)
 - [Боты на серверах Telegram уже доступны — подайте заявку в бету](https://habr.com/ru/news/1078906/?utm_campaign=1078906&utm_source=habrahabr&utm_medium=rss)
 - [В октябре Microsoft прекратит поддержку функции Similarity Checker в Word](https://habr.com/ru/news/1078834/?utm_campaign=1078834&utm_source=habrahabr&utm_medium=rss)
-- [WSJ: онлайн‑собеседования стали требовательнее из‑за ИИ‑аватаров и мошенников](https://habr.com/ru/news/1078830/?utm_campaign=1078830&utm_source=habrahabr&utm_medium=rss)
-- [Линус Торвальдс пофиксил баг в ядре Linux при помощи ИИ](https://habr.com/ru/companies/spring_aio/news/1078818/?utm_campaign=1078818&utm_source=habrahabr&utm_medium=rss)
-- [Claude по просьбе разработчика предложил перевести время на Mac на 4026 год и парализовал работу ПК](https://habr.com/ru/news/1078788/?utm_campaign=1078788&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
