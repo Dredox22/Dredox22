@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Боты на серверах Telegram уже доступны — подайте заявку в бету](https://habr.com/ru/news/1078906/?utm_campaign=1078906&utm_source=habrahabr&utm_medium=rss)
 - [В октябре Microsoft прекратит поддержку функции Similarity Checker в Word](https://habr.com/ru/news/1078834/?utm_campaign=1078834&utm_source=habrahabr&utm_medium=rss)
 - [WSJ: онлайн‑собеседования стали требовательнее из‑за ИИ‑аватаров и мошенников](https://habr.com/ru/news/1078830/?utm_campaign=1078830&utm_source=habrahabr&utm_medium=rss)
 - [Линус Торвальдс пофиксил баг в ядре Linux при помощи ИИ](https://habr.com/ru/companies/spring_aio/news/1078818/?utm_campaign=1078818&utm_source=habrahabr&utm_medium=rss)
 - [Claude по просьбе разработчика предложил перевести время на Mac на 4026 год и парализовал работу ПК](https://habr.com/ru/news/1078788/?utm_campaign=1078788&utm_source=habrahabr&utm_medium=rss)
-- [NVIDIA выпустила PAIR — виртуальный маршрутизатор локального инференса для домашних ПК](https://habr.com/ru/companies/selectel/news/1078630/?utm_campaign=1078630&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
