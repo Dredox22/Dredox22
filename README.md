@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Криптоинвестор лишился около $2,1 млн, перейдя по фишинговой ссылке из ответа ChatGPT](https://habr.com/ru/news/1079110/?utm_campaign=1079110&utm_source=habrahabr&utm_medium=rss)
 - [The Seattle Times и Newsday подали в суд на OpenAI и Microsoft](https://habr.com/ru/news/1078922/?utm_campaign=1078922&utm_source=habrahabr&utm_medium=rss)
 - [Сетевой сбой в работе VirusTotal в РФ](https://habr.com/ru/news/1078930/?utm_campaign=1078930&utm_source=habrahabr&utm_medium=rss)
 - [Брюс Перенс заявил: только патенты могут спасти Open Source](https://habr.com/ru/news/1078918/?utm_campaign=1078918&utm_source=habrahabr&utm_medium=rss)
 - [Релиз System Informer 4.0 — открытого диспетчера задач для Windows 10/11](https://habr.com/ru/news/1078398/?utm_campaign=1078398&utm_source=habrahabr&utm_medium=rss)
-- [Вышел 7-Zip 26.03](https://habr.com/ru/news/1078862/?utm_campaign=1078862&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
