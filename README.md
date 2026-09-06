@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [The Seattle Times и Newsday подали в суд на OpenAI и Microsoft](https://habr.com/ru/news/1078922/?utm_campaign=1078922&utm_source=habrahabr&utm_medium=rss)
+- [Сетевой сбой в работе VirusTotal в РФ](https://habr.com/ru/news/1078930/?utm_campaign=1078930&utm_source=habrahabr&utm_medium=rss)
+- [Брюс Перенс заявил: только патенты могут спасти Open Source](https://habr.com/ru/news/1078918/?utm_campaign=1078918&utm_source=habrahabr&utm_medium=rss)
 - [Релиз System Informer 4.0 — открытого диспетчера задач для Windows 10/11](https://habr.com/ru/news/1078398/?utm_campaign=1078398&utm_source=habrahabr&utm_medium=rss)
 - [Вышел 7-Zip 26.03](https://habr.com/ru/news/1078862/?utm_campaign=1078862&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления Wine 11.17](https://habr.com/ru/news/1078728/?utm_campaign=1078728&utm_source=habrahabr&utm_medium=rss)
-- [Боты на серверах Telegram уже доступны — подайте заявку в бету](https://habr.com/ru/news/1078906/?utm_campaign=1078906&utm_source=habrahabr&utm_medium=rss)
-- [В октябре Microsoft прекратит поддержку функции Similarity Checker в Word](https://habr.com/ru/news/1078834/?utm_campaign=1078834&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
