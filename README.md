@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Уязвимость в стороннем модуле «Фото До и После»: обновитесь до версии 1.0.2](https://habr.com/ru/news/1079266/?utm_campaign=1079266&utm_source=habrahabr&utm_medium=rss)
-- [Неделя распознавания документов — в нашем Telegram](https://habr.com/ru/companies/smartengines/news/1079262/?utm_campaign=1079262&utm_source=habrahabr&utm_medium=rss)
-- [Работа программистов постепенно смещается к проектированию правил и систем обратной связи для ИИ](https://habr.com/ru/news/1079226/?utm_campaign=1079226&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик SponsorBar предлагает владельцам Mac зарабатывать на рекламе в строке меню](https://habr.com/ru/news/1079242/?utm_campaign=1079242&utm_source=habrahabr&utm_medium=rss)
-- [Панель задач Windows 95 не была заимствована из NeXT Dock](https://habr.com/ru/news/1079216/?utm_campaign=1079216&utm_source=habrahabr&utm_medium=rss)
+- [Мы сделали аналог V0, Replit, Bolt, Lovable и Cursor](https://habr.com/ru/companies/amvera/news/1079474/?utm_campaign=1079474&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft: Windows 11 будет загружаться быстрее и лучше работать на ПК с 8 ГБ ОЗУ](https://habr.com/ru/news/1079472/?utm_campaign=1079472&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ‑событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1079468/?utm_campaign=1079468&utm_source=habrahabr&utm_medium=rss)
+- [ChatGPT сможет подключаться к приложениям пользователей и имитировать стиль их письма](https://habr.com/ru/news/1079418/?utm_campaign=1079418&utm_source=habrahabr&utm_medium=rss)
+- [UserGate и компания «Актив» подтвердили совместимость uClient и Рутокен ЭЦП 3.0](https://habr.com/ru/companies/usergate/news/1079444/?utm_campaign=1079444&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
