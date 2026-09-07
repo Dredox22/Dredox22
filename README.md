@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Криптоинвестор лишился около $2,1 млн, перейдя по фишинговой ссылке из ответа ChatGPT](https://habr.com/ru/news/1079110/?utm_campaign=1079110&utm_source=habrahabr&utm_medium=rss)
-- [The Seattle Times и Newsday подали в суд на OpenAI и Microsoft](https://habr.com/ru/news/1078922/?utm_campaign=1078922&utm_source=habrahabr&utm_medium=rss)
-- [Сетевой сбой в работе VirusTotal в РФ](https://habr.com/ru/news/1078930/?utm_campaign=1078930&utm_source=habrahabr&utm_medium=rss)
-- [Брюс Перенс заявил: только патенты могут спасти Open Source](https://habr.com/ru/news/1078918/?utm_campaign=1078918&utm_source=habrahabr&utm_medium=rss)
-- [Релиз System Informer 4.0 — открытого диспетчера задач для Windows 10/11](https://habr.com/ru/news/1078398/?utm_campaign=1078398&utm_source=habrahabr&utm_medium=rss)
+- [Уязвимость в стороннем модуле «Фото До и После»: обновитесь до версии 1.0.2](https://habr.com/ru/news/1079266/?utm_campaign=1079266&utm_source=habrahabr&utm_medium=rss)
+- [Неделя распознавания документов — в нашем Telegram](https://habr.com/ru/companies/smartengines/news/1079262/?utm_campaign=1079262&utm_source=habrahabr&utm_medium=rss)
+- [Работа программистов постепенно смещается к проектированию правил и систем обратной связи для ИИ](https://habr.com/ru/news/1079226/?utm_campaign=1079226&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик SponsorBar предлагает владельцам Mac зарабатывать на рекламе в строке меню](https://habr.com/ru/news/1079242/?utm_campaign=1079242&utm_source=habrahabr&utm_medium=rss)
+- [Панель задач Windows 95 не была заимствована из NeXT Dock](https://habr.com/ru/news/1079216/?utm_campaign=1079216&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
