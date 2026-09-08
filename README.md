@@ -86,10 +86,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Энтузиаст опубликовал android‑клавиатуру, которая предупреждает, за какую фразу можно получить срок](https://habr.com/ru/news/1080042/?utm_campaign=1080042&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI только что решили задачу тысячелетия и представили решение задачи Навье — Стокса](https://habr.com/ru/news/1080008/?utm_campaign=1080008&utm_source=habrahabr&utm_medium=rss)
 - [Возможно OpenAI решили одну из задач тысячелетия: разбираемся в слухах вокруг уравнения Навье-Стокса](https://habr.com/ru/companies/bothub/news/1080004/?utm_campaign=1080004&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи Windows 11 получили полноэкранную рекламу в качестве обоев Bing Wallpaper](https://habr.com/ru/news/1079960/?utm_campaign=1079960&utm_source=habrahabr&utm_medium=rss)
 - [Только в 14% российских корпораций знают о методологии безопасной разработки ИИ‑систем MLSecOps](https://habr.com/ru/companies/k2tech/news/1079958/?utm_campaign=1079958&utm_source=habrahabr&utm_medium=rss)
+- [Связка DS Proxima и КриптоПро NGate как эффективное решение для бизнеса](https://habr.com/ru/companies/dsol/news/1079948/?utm_campaign=1079948&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
