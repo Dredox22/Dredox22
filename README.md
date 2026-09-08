@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Positive Technologies: доля компаний с активностью вредоносного ПО в России и СНГ выросла в полтора раза](https://habr.com/ru/companies/pt/news/1079826/?utm_campaign=1079826&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic отказалась от покупки ИИ‑стартапа Decart AI за $6 млрд](https://habr.com/ru/news/1079824/?utm_campaign=1079824&utm_source=habrahabr&utm_medium=rss)
-- [Вышел официальный фильм об истории создания и развития Visual Studio Code](https://habr.com/ru/companies/selectel/news/1079594/?utm_campaign=1079594&utm_source=habrahabr&utm_medium=rss)
-- [«РТК‑ЦОД» расширяет программу багбаунти на платформе Standoff Bug Bounty](https://habr.com/ru/companies/rt-dc/news/1076836/?utm_campaign=1076836&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар GlowByte и Modus: разберем, как убрать ручную сборку отчетов](https://habr.com/ru/companies/glowbyte/news/1078786/?utm_campaign=1078786&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи Windows 11 получили полноэкранную рекламу в качестве обоев Bing Wallpaper](https://habr.com/ru/news/1079960/?utm_campaign=1079960&utm_source=habrahabr&utm_medium=rss)
+- [Только в 14% российских корпораций знают о методологии безопасной разработки ИИ‑систем MLSecOps](https://habr.com/ru/companies/k2tech/news/1079958/?utm_campaign=1079958&utm_source=habrahabr&utm_medium=rss)
+- [Связка DS Proxima и КриптоПро NGate как эффективное решение для бизнеса](https://habr.com/ru/companies/dsol/news/1079948/?utm_campaign=1079948&utm_source=habrahabr&utm_medium=rss)
+- [В npm обнаружили вредоносное ПО в 59 новых пакетах, включая ИИ‑агента для разработки](https://habr.com/ru/companies/codescoring/news/1079936/?utm_campaign=1079936&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: умные телевизоры LG анализируют контент с HDMI и собирают слишком много пользовательских данных](https://habr.com/ru/news/1079900/?utm_campaign=1079900&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
