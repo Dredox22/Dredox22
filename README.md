@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [2026-09-08: Telegram «прилёг» в Азии](https://habr.com/ru/news/1079648/?utm_campaign=1079648&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытой платформы мониторинга ошибок и производительности Gotcha 1.0](https://habr.com/ru/news/1079302/?utm_campaign=1079302&utm_source=habrahabr&utm_medium=rss)
 - [Asahi Linux добавила поддержку компьютеров Apple на M3](https://habr.com/ru/news/1079554/?utm_campaign=1079554&utm_source=habrahabr&utm_medium=rss)
 - [Яндекс назначил новых технических директоров: что ждёт Алису AI, Поиск и Умные устройства](https://habr.com/ru/companies/yandex/news/1079510/?utm_campaign=1079510&utm_source=habrahabr&utm_medium=rss)
 - [Мы сделали аналог V0, Replit, Bolt, Lovable и Cursor](https://habr.com/ru/companies/amvera/news/1079474/?utm_campaign=1079474&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft: Windows 11 будет загружаться быстрее и лучше работать на ПК с 8 ГБ ОЗУ](https://habr.com/ru/news/1079472/?utm_campaign=1079472&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ‑событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1079468/?utm_campaign=1079468&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
