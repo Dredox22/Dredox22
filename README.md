@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [2026-09-08: Telegram «прилёг» в Азии](https://habr.com/ru/news/1079648/?utm_campaign=1079648&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытой платформы мониторинга ошибок и производительности Gotcha 1.0](https://habr.com/ru/news/1079302/?utm_campaign=1079302&utm_source=habrahabr&utm_medium=rss)
-- [Asahi Linux добавила поддержку компьютеров Apple на M3](https://habr.com/ru/news/1079554/?utm_campaign=1079554&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс назначил новых технических директоров: что ждёт Алису AI, Поиск и Умные устройства](https://habr.com/ru/companies/yandex/news/1079510/?utm_campaign=1079510&utm_source=habrahabr&utm_medium=rss)
-- [Мы сделали аналог V0, Replit, Bolt, Lovable и Cursor](https://habr.com/ru/companies/amvera/news/1079474/?utm_campaign=1079474&utm_source=habrahabr&utm_medium=rss)
+- [Positive Technologies: доля компаний с активностью вредоносного ПО в России и СНГ выросла в полтора раза](https://habr.com/ru/companies/pt/news/1079826/?utm_campaign=1079826&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic отказалась от покупки ИИ‑стартапа Decart AI за $6 млрд](https://habr.com/ru/news/1079824/?utm_campaign=1079824&utm_source=habrahabr&utm_medium=rss)
+- [Вышел официальный фильм об истории создания и развития Visual Studio Code](https://habr.com/ru/companies/selectel/news/1079594/?utm_campaign=1079594&utm_source=habrahabr&utm_medium=rss)
+- [«РТК‑ЦОД» расширяет программу багбаунти на платформе Standoff Bug Bounty](https://habr.com/ru/companies/rt-dc/news/1076836/?utm_campaign=1076836&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар GlowByte и Modus: разберем, как убрать ручную сборку отчетов](https://habr.com/ru/companies/glowbyte/news/1078786/?utm_campaign=1078786&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
