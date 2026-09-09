@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Американца приговорили к 15 годам тюрьмы за шантаж женщин с помощью сгенерированных порнографических видео](https://habr.com/ru/news/1080332/?utm_campaign=1080332&utm_source=habrahabr&utm_medium=rss)
-- [Россиянина экстрадировали из Грузии в США по делу о кибермошенничестве и хищении «миллионов долларов»](https://habr.com/ru/news/1080330/?utm_campaign=1080330&utm_source=habrahabr&utm_medium=rss)
-- [Chrome переходит на двухнедельный цикл обновлений](https://habr.com/ru/companies/otus/news/1080328/?utm_campaign=1080328&utm_source=habrahabr&utm_medium=rss)
-- [10 сентября — вебинар «Персональные данные: анализ новых требований и судебной практики»](https://habr.com/ru/companies/infowatch/news/1080318/?utm_campaign=1080318&utm_source=habrahabr&utm_medium=rss)
-- [Война никогда не меняется? Civilization 7 получит DLC про ядерную войну и гибридное противостояние](https://habr.com/ru/companies/ggsel/news/1080280/?utm_campaign=1080280&utm_source=habrahabr&utm_medium=rss)
+- [В Рунити аттестовали инфраструктуру по новым требованиям ФСТЭК для работы с ЕСИА](https://habr.com/ru/companies/runity/news/1080476/?utm_campaign=1080476&utm_source=habrahabr&utm_medium=rss)
+- [Работники Blizzard объединились для защиты от ИИ и сокращений](https://habr.com/ru/companies/ggsel/news/1080448/?utm_campaign=1080448&utm_source=habrahabr&utm_medium=rss)
+- [9 сентября — День тестировщика. У этого праздника есть настоящий bug](https://habr.com/ru/companies/yoomoney/news/1080438/?utm_campaign=1080438&utm_source=habrahabr&utm_medium=rss)
+- [MAX убирает автодобавление в чаты: клубы на группах придётся срочно переделывать](https://habr.com/ru/news/1080400/?utm_campaign=1080400&utm_source=habrahabr&utm_medium=rss)
+- [Китайский производитель памяти CXMT увеличил штата разработчиков более чем на 60% всего за один год](https://habr.com/ru/news/1080388/?utm_campaign=1080388&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
