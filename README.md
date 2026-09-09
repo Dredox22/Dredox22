@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователи смогли подслушать разговор по наушникам через бетонную стену](https://habr.com/ru/news/1080502/?utm_campaign=1080502&utm_source=habrahabr&utm_medium=rss)
 - [В Рунити аттестовали инфраструктуру по новым требованиям ФСТЭК для работы с ЕСИА](https://habr.com/ru/companies/runity/news/1080476/?utm_campaign=1080476&utm_source=habrahabr&utm_medium=rss)
 - [Работники Blizzard объединились для защиты от ИИ и сокращений](https://habr.com/ru/companies/ggsel/news/1080448/?utm_campaign=1080448&utm_source=habrahabr&utm_medium=rss)
 - [9 сентября — День тестировщика. У этого праздника есть настоящий bug](https://habr.com/ru/companies/yoomoney/news/1080438/?utm_campaign=1080438&utm_source=habrahabr&utm_medium=rss)
 - [MAX убирает автодобавление в чаты: клубы на группах придётся срочно переделывать](https://habr.com/ru/news/1080400/?utm_campaign=1080400&utm_source=habrahabr&utm_medium=rss)
-- [Китайский производитель памяти CXMT увеличил штата разработчиков более чем на 60% всего за один год](https://habr.com/ru/news/1080388/?utm_campaign=1080388&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
