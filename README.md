@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [ФНС получит право отслеживать устройства владельцев цифровых рублей](https://habr.com/ru/news/1080178/?utm_campaign=1080178&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft: роль программистов изменится](https://habr.com/ru/news/1080130/?utm_campaign=1080130&utm_source=habrahabr&utm_medium=rss)
-- [Шестиногий робот научился ходить, подражая палочнику](https://habr.com/ru/news/1080010/?utm_campaign=1080010&utm_source=habrahabr&utm_medium=rss)
-- [Intel запланировала увеличение розничной стоимости процессоров для ПК примерно на 10% с 5 октября](https://habr.com/ru/news/1080140/?utm_campaign=1080140&utm_source=habrahabr&utm_medium=rss)
-- [Утечка данных из вьетнамской базы данных APIS привела к раскрытию информации о 220 млн пассажиров](https://habr.com/ru/news/1080122/?utm_campaign=1080122&utm_source=habrahabr&utm_medium=rss)
+- [Американца приговорили к 15 годам тюрьмы за шантаж женщин с помощью сгенерированных порнографических видео](https://habr.com/ru/news/1080332/?utm_campaign=1080332&utm_source=habrahabr&utm_medium=rss)
+- [Россиянина экстрадировали из Грузии в США по делу о кибермошенничестве и хищении «миллионов долларов»](https://habr.com/ru/news/1080330/?utm_campaign=1080330&utm_source=habrahabr&utm_medium=rss)
+- [Chrome переходит на двухнедельный цикл обновлений](https://habr.com/ru/companies/otus/news/1080328/?utm_campaign=1080328&utm_source=habrahabr&utm_medium=rss)
+- [10 сентября — вебинар «Персональные данные: анализ новых требований и судебной практики»](https://habr.com/ru/companies/infowatch/news/1080318/?utm_campaign=1080318&utm_source=habrahabr&utm_medium=rss)
+- [Война никогда не меняется? Civilization 7 получит DLC про ядерную войну и гибридное противостояние](https://habr.com/ru/companies/ggsel/news/1080280/?utm_campaign=1080280&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
