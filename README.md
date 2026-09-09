@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Энтузиаст опубликовал android‑клавиатуру, которая предупреждает, за какую фразу можно получить срок](https://habr.com/ru/news/1080042/?utm_campaign=1080042&utm_source=habrahabr&utm_medium=rss)
-- [Возможно OpenAI решили одну из задач тысячелетия: разбираемся в слухах вокруг уравнения Навье-Стокса](https://habr.com/ru/companies/bothub/news/1080004/?utm_campaign=1080004&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи Windows 11 получили полноэкранную рекламу в качестве обоев Bing Wallpaper](https://habr.com/ru/news/1079960/?utm_campaign=1079960&utm_source=habrahabr&utm_medium=rss)
-- [Только в 14% российских корпораций знают о методологии безопасной разработки ИИ‑систем MLSecOps](https://habr.com/ru/companies/k2tech/news/1079958/?utm_campaign=1079958&utm_source=habrahabr&utm_medium=rss)
-- [Связка DS Proxima и КриптоПро NGate как эффективное решение для бизнеса](https://habr.com/ru/companies/dsol/news/1079948/?utm_campaign=1079948&utm_source=habrahabr&utm_medium=rss)
+- [ФНС получит право отслеживать устройства владельцев цифровых рублей](https://habr.com/ru/news/1080178/?utm_campaign=1080178&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft: роль программистов изменится](https://habr.com/ru/news/1080130/?utm_campaign=1080130&utm_source=habrahabr&utm_medium=rss)
+- [Шестиногий робот научился ходить, подражая палочнику](https://habr.com/ru/news/1080010/?utm_campaign=1080010&utm_source=habrahabr&utm_medium=rss)
+- [Intel запланировала увеличение розничной стоимости процессоров для ПК примерно на 10% с 5 октября](https://habr.com/ru/news/1080140/?utm_campaign=1080140&utm_source=habrahabr&utm_medium=rss)
+- [Утечка данных из вьетнамской базы данных APIS привела к раскрытию информации о 220 млн пассажиров](https://habr.com/ru/news/1080122/?utm_campaign=1080122&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
