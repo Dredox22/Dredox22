@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Hugging Face выпустила ML Intern — агента для обучения и публикации моделей](https://habr.com/ru/news/1081052/?utm_campaign=1081052&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик выпустил утилиту Glance для разблокировки MacBook с помощью веб‑камеры](https://habr.com/ru/news/1081042/?utm_campaign=1081042&utm_source=habrahabr&utm_medium=rss)
+- [LG отрицает, что следит за пользователями своих умных телевизоров](https://habr.com/ru/news/1081024/?utm_campaign=1081024&utm_source=habrahabr&utm_medium=rss)
 - [ГигаКонф 2026: место, где бизнес и разработчики обсудят будущее агентной экономики и генеративной разработки](https://habr.com/ru/companies/sberbank/news/1080982/?utm_campaign=1080982&utm_source=habrahabr&utm_medium=rss)
 - [Программирование с нуля бесплатно: 10 курсов, демодоступов и вебинаров — от тестировщика до ИИ и безопасности](https://habr.com/ru/companies/netologyru/news/1080954/?utm_campaign=1080954&utm_source=habrahabr&utm_medium=rss)
-- [Бесплатные курсы для фронтенд- и бэкенд-разработчиков на сайте AvitoTech](https://habr.com/ru/companies/avito/news/1080964/?utm_campaign=1080964&utm_source=habrahabr&utm_medium=rss)
-- [Онлайн MMO‑шутера Pioner составляет всего 13 человек](https://habr.com/ru/companies/ggsel/news/1080938/?utm_campaign=1080938&utm_source=habrahabr&utm_medium=rss)
-- [Компания UserGate вновь названа лидером российского рынка NGFW](https://habr.com/ru/companies/usergate/news/1080922/?utm_campaign=1080922&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
