@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [«Сбер» показал умное зеркало на базе медицинского ассистента GigaDoc](https://habr.com/ru/news/1080740/?utm_campaign=1080740&utm_source=habrahabr&utm_medium=rss)
-- [Несколько спецслужб США выдвинули коллективные обвинения в адрес китайских ИИ‑компаний](https://habr.com/ru/news/1080732/?utm_campaign=1080732&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры предложило усилить контроль за администраторами СОРМ](https://habr.com/ru/news/1080710/?utm_campaign=1080710&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft напомнила о прекращении поддержки Publisher](https://habr.com/ru/news/1080704/?utm_campaign=1080704&utm_source=habrahabr&utm_medium=rss)
-- [Оно снова в npm: вредонос Shai‑Hulud вернулся спустя 111 дней](https://habr.com/ru/companies/codescoring/news/1080694/?utm_campaign=1080694&utm_source=habrahabr&utm_medium=rss)
+- [Онлайн MMO-шутера Pioner составляет всего 13 человек](https://habr.com/ru/companies/ggsel/news/1080938/?utm_campaign=1080938&utm_source=habrahabr&utm_medium=rss)
+- [Компания UserGate вновь названа лидером российского рынка NGFW](https://habr.com/ru/companies/usergate/news/1080922/?utm_campaign=1080922&utm_source=habrahabr&utm_medium=rss)
+- [Состоялся полный релиз Valheim](https://habr.com/ru/companies/ggsel/news/1080908/?utm_campaign=1080908&utm_source=habrahabr&utm_medium=rss)
+- [Нагрузочное тестирование подтвердило трехкратный запас производительности платформы SimpleOne](https://habr.com/ru/companies/simpleone/news/1080896/?utm_campaign=1080896&utm_source=habrahabr&utm_medium=rss)
+- [️ DeepSeek выпустила Flash-модель, которая убила собственную Pro-версию](https://habr.com/ru/companies/koda/news/1080868/?utm_campaign=1080868&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
