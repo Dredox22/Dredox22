@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Система обработки заявок в магазине дополнений Microsoft Edge перегружена из‑за расширений с ИИ](https://habr.com/ru/news/1080598/?utm_campaign=1080598&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект GNU Radio World в браузере для исследования экосистемы SDR без необходимости установки ПО](https://habr.com/ru/news/1080496/?utm_campaign=1080496&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи смогли подслушать разговор по наушникам через бетонную стену](https://habr.com/ru/news/1080502/?utm_campaign=1080502&utm_source=habrahabr&utm_medium=rss)
-- [В Рунити аттестовали инфраструктуру по новым требованиям ФСТЭК для работы с ЕСИА](https://habr.com/ru/companies/runity/news/1080476/?utm_campaign=1080476&utm_source=habrahabr&utm_medium=rss)
-- [Работники Blizzard объединились для защиты от ИИ и сокращений](https://habr.com/ru/companies/ggsel/news/1080448/?utm_campaign=1080448&utm_source=habrahabr&utm_medium=rss)
+- [«Сбер» показал умное зеркало на базе медицинского ассистента GigaDoc](https://habr.com/ru/news/1080740/?utm_campaign=1080740&utm_source=habrahabr&utm_medium=rss)
+- [Несколько спецслужб США выдвинули коллективные обвинения в адрес китайских ИИ‑компаний](https://habr.com/ru/news/1080732/?utm_campaign=1080732&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры предложило усилить контроль за администраторами СОРМ](https://habr.com/ru/news/1080710/?utm_campaign=1080710&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft напомнила о прекращении поддержки Publisher](https://habr.com/ru/news/1080704/?utm_campaign=1080704&utm_source=habrahabr&utm_medium=rss)
+- [Оно снова в npm: вредонос Shai‑Hulud вернулся спустя 111 дней](https://habr.com/ru/companies/codescoring/news/1080694/?utm_campaign=1080694&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
