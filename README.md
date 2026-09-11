@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск irc-клиента mIRC 7.85](https://habr.com/ru/news/1080804/?utm_campaign=1080804&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft показала, как с помощью ИИ-агента можно собрать нативное приложение для Windows](https://habr.com/ru/news/1080206/?utm_campaign=1080206&utm_source=habrahabr&utm_medium=rss)
 - [Hugging Face выпустила ML Intern — агента для обучения и публикации моделей](https://habr.com/ru/news/1081052/?utm_campaign=1081052&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил утилиту Glance для разблокировки MacBook с помощью веб‑камеры](https://habr.com/ru/news/1081042/?utm_campaign=1081042&utm_source=habrahabr&utm_medium=rss)
 - [LG отрицает, что следит за пользователями своих умных телевизоров](https://habr.com/ru/news/1081024/?utm_campaign=1081024&utm_source=habrahabr&utm_medium=rss)
-- [ГигаКонф 2026: место, где бизнес и разработчики обсудят будущее агентной экономики и генеративной разработки](https://habr.com/ru/companies/sberbank/news/1080982/?utm_campaign=1080982&utm_source=habrahabr&utm_medium=rss)
-- [Программирование с нуля бесплатно: 10 курсов, демодоступов и вебинаров — от тестировщика до ИИ и безопасности](https://habr.com/ru/companies/netologyru/news/1080954/?utm_campaign=1080954&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
