@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Выпуск irc-клиента mIRC 7.85](https://habr.com/ru/news/1080804/?utm_campaign=1080804&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft показала, как с помощью ИИ-агента можно собрать нативное приложение для Windows](https://habr.com/ru/news/1080206/?utm_campaign=1080206&utm_source=habrahabr&utm_medium=rss)
-- [Hugging Face выпустила ML Intern — агента для обучения и публикации моделей](https://habr.com/ru/news/1081052/?utm_campaign=1081052&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик выпустил утилиту Glance для разблокировки MacBook с помощью веб‑камеры](https://habr.com/ru/news/1081042/?utm_campaign=1081042&utm_source=habrahabr&utm_medium=rss)
-- [LG отрицает, что следит за пользователями своих умных телевизоров](https://habr.com/ru/news/1081024/?utm_campaign=1081024&utm_source=habrahabr&utm_medium=rss)
+- [Positive Technologies приобрела долю в CyberOK для развития технологий защиты внешнего периметра](https://habr.com/ru/companies/pt/news/1081158/?utm_campaign=1081158&utm_source=habrahabr&utm_medium=rss)
+- [В России запущены коммерческие сети связи пятого поколения](https://habr.com/ru/news/1081144/?utm_campaign=1081144&utm_source=habrahabr&utm_medium=rss)
+- [IDScan подтвердила утечку данных более 153 миллионов водительских удостоверений граждан США и Канады](https://habr.com/ru/news/1081130/?utm_campaign=1081130&utm_source=habrahabr&utm_medium=rss)
+- [Copilot интегрировали в интерфейс написания писем в Outlook](https://habr.com/ru/news/1081116/?utm_campaign=1081116&utm_source=habrahabr&utm_medium=rss)
+- [Apple выпустила руководства по адаптации приложений для складного iPhone Duo](https://habr.com/ru/news/1081118/?utm_campaign=1081118&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
