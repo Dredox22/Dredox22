@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В Neovim добавили vim.async для модернизации асинхронной архитектуры](https://habr.com/ru/companies/selectel/news/1080932/?utm_campaign=1080932&utm_source=habrahabr&utm_medium=rss)
-- [В Anthropic предотвратили попытки создания биологического оружия](https://habr.com/ru/news/1081342/?utm_campaign=1081342&utm_source=habrahabr&utm_medium=rss)
-- [Perfscale news #10. Shared variables, Pub/Sub load testing &amp;amp; live metrics](https://habr.com/ru/news/1081272/?utm_campaign=1081272&utm_source=habrahabr&utm_medium=rss)
-- [Обновление открытого проекта Subtitle Edit 5.2.0 для создания, редактирования, синхронизирования и перевода субтитров](https://habr.com/ru/news/1081258/?utm_campaign=1081258&utm_source=habrahabr&utm_medium=rss)
-- [Более миллиона продаж и перегруженные сервера — релиз Wardogs](https://habr.com/ru/companies/ggsel/news/1081274/?utm_campaign=1081274&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic раскрыла сеть из дейтинговых приложений с ИИ‑персонажами, работающими на Claude](https://habr.com/ru/news/1081422/?utm_campaign=1081422&utm_source=habrahabr&utm_medium=rss)
+- [В Москве появился памятник кнопке «Пауза», пропавшей с ноутбуков](https://habr.com/ru/companies/2gis/news/1081414/?utm_campaign=1081414&utm_source=habrahabr&utm_medium=rss)
+- [Unity выпустила официальный плагин для Claude Code, Codex и Grok](https://habr.com/ru/news/1081400/?utm_campaign=1081400&utm_source=habrahabr&utm_medium=rss)
+- [Кашель, вакуум, два ствола — Роджер Кларк рассказал об озвучке Артура Моргана](https://habr.com/ru/companies/ggsel/news/1081358/?utm_campaign=1081358&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик Starfield: «У нас ничего не вышло»](https://habr.com/ru/companies/ggsel/news/1081354/?utm_campaign=1081354&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
