@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Positive Technologies приобрела долю в CyberOK для развития технологий защиты внешнего периметра](https://habr.com/ru/companies/pt/news/1081158/?utm_campaign=1081158&utm_source=habrahabr&utm_medium=rss)
-- [В России запущены коммерческие сети связи пятого поколения](https://habr.com/ru/news/1081144/?utm_campaign=1081144&utm_source=habrahabr&utm_medium=rss)
-- [IDScan подтвердила утечку данных более 153 миллионов водительских удостоверений граждан США и Канады](https://habr.com/ru/news/1081130/?utm_campaign=1081130&utm_source=habrahabr&utm_medium=rss)
-- [Copilot интегрировали в интерфейс написания писем в Outlook](https://habr.com/ru/news/1081116/?utm_campaign=1081116&utm_source=habrahabr&utm_medium=rss)
-- [Apple выпустила руководства по адаптации приложений для складного iPhone Duo](https://habr.com/ru/news/1081118/?utm_campaign=1081118&utm_source=habrahabr&utm_medium=rss)
+- [В Neovim добавили vim.async для модернизации асинхронной архитектуры](https://habr.com/ru/companies/selectel/news/1080932/?utm_campaign=1080932&utm_source=habrahabr&utm_medium=rss)
+- [В Anthropic предотвратили попытки создания биологического оружия](https://habr.com/ru/news/1081342/?utm_campaign=1081342&utm_source=habrahabr&utm_medium=rss)
+- [Perfscale news #10. Shared variables, Pub/Sub load testing &amp;amp; live metrics](https://habr.com/ru/news/1081272/?utm_campaign=1081272&utm_source=habrahabr&utm_medium=rss)
+- [Обновление открытого проекта Subtitle Edit 5.2.0 для создания, редактирования, синхронизирования и перевода субтитров](https://habr.com/ru/news/1081258/?utm_campaign=1081258&utm_source=habrahabr&utm_medium=rss)
+- [Более миллиона продаж и перегруженные сервера — релиз Wardogs](https://habr.com/ru/companies/ggsel/news/1081274/?utm_campaign=1081274&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
