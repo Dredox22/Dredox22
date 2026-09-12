@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз OpenRGB 1.0 — открытого проекта для управления RGB-подсветкой периферии](https://habr.com/ru/news/1081510/?utm_campaign=1081510&utm_source=habrahabr&utm_medium=rss)
+- [Что нового в PHPUnit 13.3](https://habr.com/ru/companies/selectel/news/1081368/?utm_campaign=1081368&utm_source=habrahabr&utm_medium=rss)
 - [Обновления Windows Server нарушили работу служб удалённых рабочих столов](https://habr.com/ru/news/1081492/?utm_campaign=1081492&utm_source=habrahabr&utm_medium=rss)
 - [Сотрудникам Micron на Тайване выплатят от 35 до 68 окладов по итогам года](https://habr.com/ru/news/1081490/?utm_campaign=1081490&utm_source=habrahabr&utm_medium=rss)
 - [Немецкая полиция читает и сохраняет переписку в WhatsApp** и Signal](https://habr.com/ru/news/1081486/?utm_campaign=1081486&utm_source=habrahabr&utm_medium=rss)
-- [Релиз языка программирования Julia 1.13](https://habr.com/ru/news/1081194/?utm_campaign=1081194&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск GIMP 3.2.6](https://habr.com/ru/news/1081086/?utm_campaign=1081086&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
