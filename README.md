@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз языка программирования Julia 1.13](https://habr.com/ru/news/1081194/?utm_campaign=1081194&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск GIMP 3.2.6](https://habr.com/ru/news/1081086/?utm_campaign=1081086&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic раскрыла сеть из дейтинговых приложений с ИИ‑персонажами, работающими на Claude](https://habr.com/ru/news/1081422/?utm_campaign=1081422&utm_source=habrahabr&utm_medium=rss)
 - [В Москве появился памятник кнопке «Пауза», пропавшей с ноутбуков](https://habr.com/ru/companies/2gis/news/1081414/?utm_campaign=1081414&utm_source=habrahabr&utm_medium=rss)
 - [Unity выпустила официальный плагин для Claude Code, Codex и Grok](https://habr.com/ru/news/1081400/?utm_campaign=1081400&utm_source=habrahabr&utm_medium=rss)
-- [Кашель, вакуум, два ствола — Роджер Кларк рассказал об озвучке Артура Моргана](https://habr.com/ru/companies/ggsel/news/1081358/?utm_campaign=1081358&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик Starfield: «У нас ничего не вышло»](https://habr.com/ru/companies/ggsel/news/1081354/?utm_campaign=1081354&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
