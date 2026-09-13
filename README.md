@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude по одному промпту и за несколько переделок создала печатную плату в KiCad с нуля, ПО для MCU тоже написал ИИ](https://habr.com/ru/news/1081606/?utm_campaign=1081606&utm_source=habrahabr&utm_medium=rss)
-- [Глава Anthropic призвал замедлить развитие ИИ](https://habr.com/ru/news/1081594/?utm_campaign=1081594&utm_source=habrahabr&utm_medium=rss)
-- [Релиз OpenRGB 1.0 — открытого проекта для управления RGB‑подсветкой периферии](https://habr.com/ru/news/1081510/?utm_campaign=1081510&utm_source=habrahabr&utm_medium=rss)
-- [Что нового в PHPUnit 13.3](https://habr.com/ru/companies/selectel/news/1081368/?utm_campaign=1081368&utm_source=habrahabr&utm_medium=rss)
-- [Обновления Windows Server нарушили работу служб удалённых рабочих столов](https://habr.com/ru/news/1081492/?utm_campaign=1081492&utm_source=habrahabr&utm_medium=rss)
+- [WhatsApp Business API: с 1 октября платим за всё? Разбираю по пунктам](https://habr.com/ru/news/1081720/?utm_campaign=1081720&utm_source=habrahabr&utm_medium=rss)
+- [Revolut по ошибке выдала мошенникам данные своих клиентов, включая селфи и историю криптовалютных транзакций](https://habr.com/ru/news/1081692/?utm_campaign=1081692&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления HopToDesk 1.46.50 — безопасного открытого решения для удалённого рабочего стола](https://habr.com/ru/news/1081224/?utm_campaign=1081224&utm_source=habrahabr&utm_medium=rss)
+- [«Байкал Электроникс» запустила ИИ-ассистента на портале техдокументации и SDK для микроконтроллера Baikal-U &lpar;BE-U1000&rpar;](https://habr.com/ru/news/1081666/?utm_campaign=1081666&utm_source=habrahabr&utm_medium=rss)
+- [Подписка OpenCode Go вышла на самоокупаемость](https://habr.com/ru/news/1081676/?utm_campaign=1081676&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
