@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз открытого мультиплатформенного редактора видео KeyCut 1.0](https://habr.com/ru/news/1081874/?utm_campaign=1081874&utm_source=habrahabr&utm_medium=rss)
-- [Ofcom: за 2 года около 3,5 млн британских абонентов сменили провайдера услуг телефонной связи или доступа в интернет](https://habr.com/ru/news/1082010/?utm_campaign=1082010&utm_source=habrahabr&utm_medium=rss)
-- [Представлен проект браузерного эмулятора Nokia N‑Gage](https://habr.com/ru/news/1081982/?utm_campaign=1081982&utm_source=habrahabr&utm_medium=rss)
-- [Совет директоров уволил основателя WordPress — через 48 часов он вернулся](https://habr.com/ru/news/1081972/?utm_campaign=1081972&utm_source=habrahabr&utm_medium=rss)
-- [Partners’ Club проведёт «Большой Созвон» о кризисе рынка заказных digital-услуг и ИТ-аутстаффинга](https://habr.com/ru/companies/agima/news/1081968/?utm_campaign=1081968&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления дистрибутива для одноплатных ПК DietPi 10.7](https://habr.com/ru/news/1082012/?utm_campaign=1082012&utm_source=habrahabr&utm_medium=rss)
+- [Злоумышленники начали публиковать документы и селфи клиентов Revolut, требуя выкуп и угрожая раскрыть новые данные](https://habr.com/ru/news/1082132/?utm_campaign=1082132&utm_source=habrahabr&utm_medium=rss)
+- [АНБ США планирует реструктуризацию, уделяя повышенное внимание ИИ и кибербезопасности](https://habr.com/ru/news/1082096/?utm_campaign=1082096&utm_source=habrahabr&utm_medium=rss)
+- [Intel передумала закрывать проект шрифта с открытым исходным кодом One Mono для эмуляторов терминалов и редакторов кода](https://habr.com/ru/news/1082054/?utm_campaign=1082054&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого мультиплатформенного проекта по обрезке и склейке видео по ключевым кадрам KeyCut 1.0](https://habr.com/ru/news/1081874/?utm_campaign=1081874&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
