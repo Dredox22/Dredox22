@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Лауреаты Филдсовской премии: ИИ‑компании уничтожают математику](https://habr.com/ru/news/1081866/?utm_campaign=1081866&utm_source=habrahabr&utm_medium=rss)
-- [Австралийский интернет‑регулятор добился от Roblox усиления защиты детей](https://habr.com/ru/news/1081864/?utm_campaign=1081864&utm_source=habrahabr&utm_medium=rss)
-- [В Windows 11 вернули возможность перемещать панель задач](https://habr.com/ru/news/1081862/?utm_campaign=1081862&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления PicView 5.1 — открытого просмотрщика изображений для ПК на Windows 10/11 и macOS](https://habr.com/ru/news/1081736/?utm_campaign=1081736&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Cjam 2.7.0.0 — легковесного Freeware редактора MP3 для ПК на ОС Windows](https://habr.com/ru/news/1081724/?utm_campaign=1081724&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого мультиплатформенного редактора видео KeyCut 1.0](https://habr.com/ru/news/1081874/?utm_campaign=1081874&utm_source=habrahabr&utm_medium=rss)
+- [Ofcom: за 2 года около 3,5 млн британских абонентов сменили провайдера услуг телефонной связи или доступа в интернет](https://habr.com/ru/news/1082010/?utm_campaign=1082010&utm_source=habrahabr&utm_medium=rss)
+- [Представлен проект браузерного эмулятора Nokia N‑Gage](https://habr.com/ru/news/1081982/?utm_campaign=1081982&utm_source=habrahabr&utm_medium=rss)
+- [Совет директоров уволил основателя WordPress — через 48 часов он вернулся](https://habr.com/ru/news/1081972/?utm_campaign=1081972&utm_source=habrahabr&utm_medium=rss)
+- [Partners’ Club проведёт «Большой Созвон» о кризисе рынка заказных digital-услуг и ИТ-аутстаффинга](https://habr.com/ru/companies/agima/news/1081968/?utm_campaign=1081968&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
