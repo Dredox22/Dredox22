@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Обновление Windows 11 KB5124008 нарушает работу подключений Always On VPN](https://habr.com/ru/news/1081732/?utm_campaign=1081732&utm_source=habrahabr&utm_medium=rss)
-- [WhatsApp Business API: с 1 октября платим за всё? Разбираю по пунктам](https://habr.com/ru/news/1081720/?utm_campaign=1081720&utm_source=habrahabr&utm_medium=rss)
-- [Revolut по ошибке выдала мошенникам данные своих клиентов, включая селфи и историю криптовалютных транзакций](https://habr.com/ru/news/1081692/?utm_campaign=1081692&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления HopToDesk 1.46.50 — безопасного открытого решения для удалённого рабочего стола](https://habr.com/ru/news/1081224/?utm_campaign=1081224&utm_source=habrahabr&utm_medium=rss)
-- [«Байкал Электроникс» запустила ИИ-ассистента на портале техдокументации и SDK для микроконтроллера Baikal-U &lpar;BE-U1000&rpar;](https://habr.com/ru/news/1081666/?utm_campaign=1081666&utm_source=habrahabr&utm_medium=rss)
+- [Лауреаты Филдсовской премии: ИИ‑компании уничтожают математику](https://habr.com/ru/news/1081866/?utm_campaign=1081866&utm_source=habrahabr&utm_medium=rss)
+- [Австралийский интернет‑регулятор добился от Roblox усиления защиты детей](https://habr.com/ru/news/1081864/?utm_campaign=1081864&utm_source=habrahabr&utm_medium=rss)
+- [В Windows 11 вернули возможность перемещать панель задач](https://habr.com/ru/news/1081862/?utm_campaign=1081862&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления PicView 5.1 — открытого просмотрщика изображений для ПК на Windows 10/11 и macOS](https://habr.com/ru/news/1081736/?utm_campaign=1081736&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Cjam 2.7.0.0 — легковесного Freeware редактора MP3 для ПК на ОС Windows](https://habr.com/ru/news/1081724/?utm_campaign=1081724&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
