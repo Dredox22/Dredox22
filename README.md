@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск открытой платформы для самостоятельного хранения и управления фото и видео Immich 3.2](https://habr.com/ru/news/1081988/?utm_campaign=1081988&utm_source=habrahabr&utm_medium=rss)
+- [Вышли версии инструмента для редактирования и обработки видео с открытым исходным кодом VirtualDub2 2.5.3 и 2.5.5](https://habr.com/ru/news/1081922/?utm_campaign=1081922&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик добавил Wi‑Fi в кондиционер Mitsubishi с помощью ESP32](https://habr.com/ru/news/1082214/?utm_campaign=1082214&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск обновления дистрибутива для одноплатных ПК DietPi 10.7](https://habr.com/ru/news/1082012/?utm_campaign=1082012&utm_source=habrahabr&utm_medium=rss)
 - [Злоумышленники начали публиковать документы и селфи клиентов Revolut, требуя выкуп и угрожая раскрыть новые данные](https://habr.com/ru/news/1082132/?utm_campaign=1082132&utm_source=habrahabr&utm_medium=rss)
-- [АНБ США планирует реструктуризацию, уделяя повышенное внимание ИИ и кибербезопасности](https://habr.com/ru/news/1082096/?utm_campaign=1082096&utm_source=habrahabr&utm_medium=rss)
-- [Intel передумала закрывать проект шрифта с открытым исходным кодом One Mono для эмуляторов терминалов и редакторов кода](https://habr.com/ru/news/1082054/?utm_campaign=1082054&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
