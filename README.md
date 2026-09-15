@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В подписку iCloud+ теперь входят сервисы Apple TV и Apple Arcade, но не во всех странах](https://habr.com/ru/news/1082712/?utm_campaign=1082712&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры взломали инфраструктуру туроператора Tez Tour](https://habr.com/ru/news/1082710/?utm_campaign=1082710&utm_source=habrahabr&utm_medium=rss)
 - [В iOS 27 нашли возможность подключать к Siri сторонние LLM](https://habr.com/ru/news/1082688/?utm_campaign=1082688&utm_source=habrahabr&utm_medium=rss)
 - [DDoS‑Guard представляет новый сервис dCAPTCHA для защиты от ботов и спама](https://habr.com/ru/companies/ddosguard/news/1082574/?utm_campaign=1082574&utm_source=habrahabr&utm_medium=rss)
 - [Новый релиз Security Vision 5: гибкое хранение событий, автоматизация обслуживания БД и развитие виджетов](https://habr.com/ru/companies/securityvison/news/1082570/?utm_campaign=1082570&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Firefox 156.0](https://habr.com/ru/news/1082174/?utm_campaign=1082174&utm_source=habrahabr&utm_medium=rss)
-- [Fujifilm представила компактную цифровую камеру Instax Pal 2](https://habr.com/ru/news/1082526/?utm_campaign=1082526&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
