@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Выпуск открытой платформы для самостоятельного хранения и управления фото и видео Immich 3.2](https://habr.com/ru/news/1081988/?utm_campaign=1081988&utm_source=habrahabr&utm_medium=rss)
-- [Вышли версии инструмента для редактирования и обработки видео с открытым исходным кодом VirtualDub2 2.5.3 и 2.5.5](https://habr.com/ru/news/1081922/?utm_campaign=1081922&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик добавил Wi‑Fi в кондиционер Mitsubishi с помощью ESP32](https://habr.com/ru/news/1082214/?utm_campaign=1082214&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления дистрибутива для одноплатных ПК DietPi 10.7](https://habr.com/ru/news/1082012/?utm_campaign=1082012&utm_source=habrahabr&utm_medium=rss)
-- [Злоумышленники начали публиковать документы и селфи клиентов Revolut, требуя выкуп и угрожая раскрыть новые данные](https://habr.com/ru/news/1082132/?utm_campaign=1082132&utm_source=habrahabr&utm_medium=rss)
+- [Windows 11 научилась полностью переустанавливать себя из облака без загрузочной флешки](https://habr.com/ru/companies/selectel/news/1081890/?utm_campaign=1081890&utm_source=habrahabr&utm_medium=rss)
+- [Генеральный директор CrowdStrike выступил против призывов замедлить развитие ИИ](https://habr.com/ru/news/1082480/?utm_campaign=1082480&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI привлекла сотни сторонних подрядчиков, которые читают и оценивают реальные переписки пользователей с ChatGPT](https://habr.com/ru/news/1082432/?utm_campaign=1082432&utm_source=habrahabr&utm_medium=rss)
+- [«Сбер» представил Time Adapter — надстройку к генеративным моделям для управления динамикой событий и частотой кадров](https://habr.com/ru/news/1082410/?utm_campaign=1082410&utm_source=habrahabr&utm_medium=rss)
+- [Cline выпустили Desktop версию: импорт из Claude и Codex, бесплатные модели и подписка за $9,99](https://habr.com/ru/news/1082352/?utm_campaign=1082352&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
