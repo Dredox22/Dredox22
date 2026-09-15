@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows 11 научилась полностью переустанавливать себя из облака без загрузочной флешки](https://habr.com/ru/companies/selectel/news/1081890/?utm_campaign=1081890&utm_source=habrahabr&utm_medium=rss)
-- [Генеральный директор CrowdStrike выступил против призывов замедлить развитие ИИ](https://habr.com/ru/news/1082480/?utm_campaign=1082480&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI привлекла сотни сторонних подрядчиков, которые читают и оценивают реальные переписки пользователей с ChatGPT](https://habr.com/ru/news/1082432/?utm_campaign=1082432&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» представил Time Adapter — надстройку к генеративным моделям для управления динамикой событий и частотой кадров](https://habr.com/ru/news/1082410/?utm_campaign=1082410&utm_source=habrahabr&utm_medium=rss)
-- [Cline выпустили Desktop версию: импорт из Claude и Codex, бесплатные модели и подписка за $9,99](https://habr.com/ru/news/1082352/?utm_campaign=1082352&utm_source=habrahabr&utm_medium=rss)
+- [DDoS‑Guard представляет новый сервис dCAPTCHA для защиты от ботов и спама](https://habr.com/ru/companies/ddosguard/news/1082574/?utm_campaign=1082574&utm_source=habrahabr&utm_medium=rss)
+- [Новый релиз Security Vision 5: гибкое хранение событий, автоматизация обслуживания БД и развитие виджетов](https://habr.com/ru/companies/securityvison/news/1082570/?utm_campaign=1082570&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Firefox 156.0](https://habr.com/ru/news/1082174/?utm_campaign=1082174&utm_source=habrahabr&utm_medium=rss)
+- [Fujifilm представила компактную цифровую камеру Instax Pal 2](https://habr.com/ru/news/1082526/?utm_campaign=1082526&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс» получил единый сертификат ISO/IEC 27001:2022 для «Яндекс ID», «Яндекс 360» и «Яндекс Метрики»](https://habr.com/ru/news/1082512/?utm_campaign=1082512&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
