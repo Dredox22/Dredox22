@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Роевой интеллект: AI-агенты сообща обошли защитные ограничения](https://habr.com/ru/companies/ideco/news/1082758/?utm_campaign=1082758&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: запуск 5G в диапазоне 4,9 ГГц в РФ пока ограничен пилотными площадками](https://habr.com/ru/news/1082746/?utm_campaign=1082746&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Mozilla Thunderbird 156.0, где для сервисов «Яндекса» включён процесс входа через внешний браузер](https://habr.com/ru/news/1082186/?utm_campaign=1082186&utm_source=habrahabr&utm_medium=rss)
-- [Вышла система виртуализации VirtualBox 7.2.18](https://habr.com/ru/news/1082646/?utm_campaign=1082646&utm_source=habrahabr&utm_medium=rss)
-- [В подписку iCloud+ теперь входят сервисы Apple TV и Apple Arcade, но не во всех странах](https://habr.com/ru/news/1082712/?utm_campaign=1082712&utm_source=habrahabr&utm_medium=rss)
+- [На «Госуслугах» стартовала запись на курс по искусственному интеллекту для учителей](https://habr.com/ru/news/1082978/?utm_campaign=1082978&utm_source=habrahabr&utm_medium=rss)
+- [«Бэкенд расправил плечи» — новый подкаст AvitoTech](https://habr.com/ru/companies/avito/news/1082970/?utm_campaign=1082970&utm_source=habrahabr&utm_medium=rss)
+- [Платформа безопасной разработки CodeScoring запустила собственное хранилище артефактов CodeScoring.Save](https://habr.com/ru/companies/codescoring/news/1082968/?utm_campaign=1082968&utm_source=habrahabr&utm_medium=rss)
+- [Чипы упали на 5–7% после того, как главы лабораторий призвали притормозить](https://habr.com/ru/companies/selectel/news/1082948/?utm_campaign=1082948&utm_source=habrahabr&utm_medium=rss)
+- [CRM можно больше не открывать. Главное с Dreamforce 2026](https://habr.com/ru/companies/koda/news/1082934/?utm_campaign=1082934&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
