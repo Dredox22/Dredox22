@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [На «Госуслугах» стартовала запись на курс по искусственному интеллекту для учителей](https://habr.com/ru/news/1082978/?utm_campaign=1082978&utm_source=habrahabr&utm_medium=rss)
-- [«Бэкенд расправил плечи» — новый подкаст AvitoTech](https://habr.com/ru/companies/avito/news/1082970/?utm_campaign=1082970&utm_source=habrahabr&utm_medium=rss)
-- [Платформа безопасной разработки CodeScoring запустила собственное хранилище артефактов CodeScoring.Save](https://habr.com/ru/companies/codescoring/news/1082968/?utm_campaign=1082968&utm_source=habrahabr&utm_medium=rss)
-- [Чипы упали на 5–7% после того, как главы лабораторий призвали притормозить](https://habr.com/ru/companies/selectel/news/1082948/?utm_campaign=1082948&utm_source=habrahabr&utm_medium=rss)
-- [CRM можно больше не открывать. Главное с Dreamforce 2026](https://habr.com/ru/companies/koda/news/1082934/?utm_campaign=1082934&utm_source=habrahabr&utm_medium=rss)
+- [В OpenIDE появилась поддержка C/C++ благодаря независимому разработчику](https://habr.com/ru/companies/haulmont/news/1083076/?utm_campaign=1083076&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи связали майскую атаку на RubyGems с агентами OpenAI](https://habr.com/ru/companies/codescoring/news/1083068/?utm_campaign=1083068&utm_source=habrahabr&utm_medium=rss)
+- [Google выкатила Gemini 3.8 Live и версию с рассуждениями](https://habr.com/ru/companies/selectel/news/1082998/?utm_campaign=1082998&utm_source=habrahabr&utm_medium=rss)
+- [Denuvo подала иск против взломщика игр с ником voices38 за обход системы защиты игр](https://habr.com/ru/news/1083010/?utm_campaign=1083010&utm_source=habrahabr&utm_medium=rss)
+- [В «Яндекс Картах» теперь можно без подключения к интернету построить все виды маршрутов через офлайн‑карту](https://habr.com/ru/news/1083000/?utm_campaign=1083000&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
