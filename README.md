@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Deveillance представила Kalypta — приложение, которое мешает нейросетям расшифровывать созвоны](https://habr.com/ru/news/1083160/?utm_campaign=1083160&utm_source=habrahabr&utm_medium=rss)
 - [В OpenIDE появилась поддержка C/C++ благодаря независимому разработчику](https://habr.com/ru/companies/haulmont/news/1083076/?utm_campaign=1083076&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи связали майскую атаку на RubyGems с агентами OpenAI](https://habr.com/ru/companies/codescoring/news/1083068/?utm_campaign=1083068&utm_source=habrahabr&utm_medium=rss)
 - [Google выкатила Gemini 3.8 Live и версию с рассуждениями](https://habr.com/ru/companies/selectel/news/1082998/?utm_campaign=1082998&utm_source=habrahabr&utm_medium=rss)
 - [Denuvo подала иск против взломщика игр с ником voices38 за обход системы защиты игр](https://habr.com/ru/news/1083010/?utm_campaign=1083010&utm_source=habrahabr&utm_medium=rss)
-- [В «Яндекс Картах» теперь можно без подключения к интернету построить все виды маршрутов через офлайн‑карту](https://habr.com/ru/news/1083000/?utm_campaign=1083000&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
