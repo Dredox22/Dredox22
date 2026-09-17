@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Deveillance представила Kalypta — приложение, которое мешает нейросетям расшифровывать созвоны](https://habr.com/ru/news/1083160/?utm_campaign=1083160&utm_source=habrahabr&utm_medium=rss)
-- [В OpenIDE появилась поддержка C/C++ благодаря независимому разработчику](https://habr.com/ru/companies/haulmont/news/1083076/?utm_campaign=1083076&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи связали майскую атаку на RubyGems с агентами OpenAI](https://habr.com/ru/companies/codescoring/news/1083068/?utm_campaign=1083068&utm_source=habrahabr&utm_medium=rss)
-- [Google выкатила Gemini 3.8 Live и версию с рассуждениями](https://habr.com/ru/companies/selectel/news/1082998/?utm_campaign=1082998&utm_source=habrahabr&utm_medium=rss)
-- [Denuvo подала иск против взломщика игр с ником voices38 за обход системы защиты игр](https://habr.com/ru/news/1083010/?utm_campaign=1083010&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры ведёт переговоры с Apple о подключении 5G на iPhone пользователей из РФ](https://habr.com/ru/news/1083186/?utm_campaign=1083186&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытой платформы обмена файлами OpenCloud 8.0](https://habr.com/ru/news/1083090/?utm_campaign=1083090&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Tails 7.13](https://habr.com/ru/news/1082918/?utm_campaign=1082918&utm_source=habrahabr&utm_medium=rss)
+- [Раскрыта уязвимость BrokenPipe в клиенте Steam, которая позволяет повысить привилегии в Windows до SYSTEM](https://habr.com/ru/news/1082774/?utm_campaign=1082774&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск AIDA64 8.40](https://habr.com/ru/news/1083026/?utm_campaign=1083026&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
