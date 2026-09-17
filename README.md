@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В «Архиве Интернета» из‑за наплыва ботов могут блокировать и обычных пользователей](https://habr.com/ru/news/1083466/?utm_campaign=1083466&utm_source=habrahabr&utm_medium=rss)
+- [1 октября в Ташкенте поговорим о культуре data-driven](https://habr.com/ru/companies/avito/news/1083440/?utm_campaign=1083440&utm_source=habrahabr&utm_medium=rss)
+- [Международная метеорная организация сообщила о кибератаке, нанёсшей «критический удар» по её устаревшей инфраструктуре](https://habr.com/ru/news/1083432/?utm_campaign=1083432&utm_source=habrahabr&utm_medium=rss)
+- [Шесть случаев нежелательного поведения моделей OpenAI](https://habr.com/ru/companies/bothub/news/1083364/?utm_campaign=1083364&utm_source=habrahabr&utm_medium=rss)
 - [Защита чипа PS2 пала спустя 26 лет благодаря канадскому энтузиасту, который взломал чип MechaCon](https://habr.com/ru/news/1083354/?utm_campaign=1083354&utm_source=habrahabr&utm_medium=rss)
-- [От Kubernetes-платформы к управлению гибридной распределённой инфраструктурой: встречайте Deckhouse Platform](https://habr.com/ru/companies/flant/news/1083194/?utm_campaign=1083194&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft призвала пользователей Copilot Cowork внимательнее подтверждать действия ИИ](https://habr.com/ru/news/1083294/?utm_campaign=1083294&utm_source=habrahabr&utm_medium=rss)
-- [Релиз OpenIDE 2026.2: одна IDE для Java, Kotlin, Go, Python и веб‑разработки](https://habr.com/ru/companies/haulmont/news/1083296/?utm_campaign=1083296&utm_source=habrahabr&utm_medium=rss)
-- [Взломщик игр voices38 ответил на иск Denuvo из‑за обхода систем защиты игр](https://habr.com/ru/news/1083286/?utm_campaign=1083286&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
