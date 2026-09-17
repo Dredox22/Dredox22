@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Минцифры ведёт переговоры с Apple о подключении 5G на iPhone пользователей из РФ](https://habr.com/ru/news/1083186/?utm_campaign=1083186&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытой платформы обмена файлами OpenCloud 8.0](https://habr.com/ru/news/1083090/?utm_campaign=1083090&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Tails 7.13](https://habr.com/ru/news/1082918/?utm_campaign=1082918&utm_source=habrahabr&utm_medium=rss)
-- [Раскрыта уязвимость BrokenPipe в клиенте Steam, которая позволяет повысить привилегии в Windows до SYSTEM](https://habr.com/ru/news/1082774/?utm_campaign=1082774&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск AIDA64 8.40](https://habr.com/ru/news/1083026/?utm_campaign=1083026&utm_source=habrahabr&utm_medium=rss)
+- [Защита чипа PS2 пала спустя 26 лет благодаря канадскому энтузиасту, который взломал чип MechaCon](https://habr.com/ru/news/1083354/?utm_campaign=1083354&utm_source=habrahabr&utm_medium=rss)
+- [От Kubernetes-платформы к управлению гибридной распределённой инфраструктурой: встречайте Deckhouse Platform](https://habr.com/ru/companies/flant/news/1083194/?utm_campaign=1083194&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft призвала пользователей Copilot Cowork внимательнее подтверждать действия ИИ](https://habr.com/ru/news/1083294/?utm_campaign=1083294&utm_source=habrahabr&utm_medium=rss)
+- [Релиз OpenIDE 2026.2: одна IDE для Java, Kotlin, Go, Python и веб‑разработки](https://habr.com/ru/companies/haulmont/news/1083296/?utm_campaign=1083296&utm_source=habrahabr&utm_medium=rss)
+- [Взломщик игр voices38 ответил на иск Denuvo из‑за обхода систем защиты игр](https://habr.com/ru/news/1083286/?utm_campaign=1083286&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
