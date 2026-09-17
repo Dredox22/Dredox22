@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Полноценный trading engine для экосистемы NodeJS](https://habr.com/ru/news/1083560/?utm_campaign=1083560&utm_source=habrahabr&utm_medium=rss)
 - [В «Архиве Интернета» из‑за наплыва ботов могут блокировать и обычных пользователей](https://habr.com/ru/news/1083466/?utm_campaign=1083466&utm_source=habrahabr&utm_medium=rss)
 - [1 октября в Ташкенте поговорим о культуре data-driven](https://habr.com/ru/companies/avito/news/1083440/?utm_campaign=1083440&utm_source=habrahabr&utm_medium=rss)
 - [Международная метеорная организация сообщила о кибератаке, нанёсшей «критический удар» по её устаревшей инфраструктуре](https://habr.com/ru/news/1083432/?utm_campaign=1083432&utm_source=habrahabr&utm_medium=rss)
-- [Шесть случаев нежелательного поведения моделей OpenAI](https://habr.com/ru/companies/bothub/news/1083364/?utm_campaign=1083364&utm_source=habrahabr&utm_medium=rss)
-- [Защита чипа PS2 пала спустя 26 лет благодаря канадскому энтузиасту, который взломал чип MechaCon](https://habr.com/ru/news/1083354/?utm_campaign=1083354&utm_source=habrahabr&utm_medium=rss)
+- [Объявлены победители международной премии по цифровому опыту сотрудников Russian Employee Experience Awards 2026](https://habr.com/ru/news/1083404/?utm_campaign=1083404&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
