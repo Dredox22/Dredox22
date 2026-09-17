@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI ищет решение ещё одной задачи тысячелетия — гипотезы Ходжа](https://habr.com/ru/companies/bothub/news/1083614/?utm_campaign=1083614&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia представила Axolotl3D — модель для достраивания скрытых частей 3D‑объектов](https://habr.com/ru/news/1083606/?utm_campaign=1083606&utm_source=habrahabr&utm_medium=rss)
+- [В AI‑режиме браузера Firefox появится поддержка модели Mistral Small 4](https://habr.com/ru/news/1083594/?utm_campaign=1083594&utm_source=habrahabr&utm_medium=rss)
+- [Moonshot представили Kimi Code Desktop](https://habr.com/ru/news/1083592/?utm_campaign=1083592&utm_source=habrahabr&utm_medium=rss)
 - [Полноценный trading engine для экосистемы NodeJS](https://habr.com/ru/news/1083560/?utm_campaign=1083560&utm_source=habrahabr&utm_medium=rss)
-- [В «Архиве Интернета» из‑за наплыва ботов могут блокировать и обычных пользователей](https://habr.com/ru/news/1083466/?utm_campaign=1083466&utm_source=habrahabr&utm_medium=rss)
-- [1 октября в Ташкенте поговорим о культуре data-driven](https://habr.com/ru/companies/avito/news/1083440/?utm_campaign=1083440&utm_source=habrahabr&utm_medium=rss)
-- [Международная метеорная организация сообщила о кибератаке, нанёсшей «критический удар» по её устаревшей инфраструктуре](https://habr.com/ru/news/1083432/?utm_campaign=1083432&utm_source=habrahabr&utm_medium=rss)
-- [Объявлены победители международной премии по цифровому опыту сотрудников Russian Employee Experience Awards 2026](https://habr.com/ru/news/1083404/?utm_campaign=1083404&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
