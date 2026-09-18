@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышла новая версия плагина для агентов Google Analytics Advisor — с Search Console и полной диагностикой аналитики сайта](https://habr.com/ru/news/1083894/?utm_campaign=1083894&utm_source=habrahabr&utm_medium=rss)
-- [Авторы открытого принтера Openprinter на базе Raspberry Pi готовятся запустить краудфандинг](https://habr.com/ru/news/1083866/?utm_campaign=1083866&utm_source=habrahabr&utm_medium=rss)
-- [Альтернатива Microsoft Office от Nextcloud скоро получит полноценное десктопное приложение для Windows](https://habr.com/ru/news/1083854/?utm_campaign=1083854&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры взломали OpenAI с помощью моделей Claude](https://habr.com/ru/news/1083834/?utm_campaign=1083834&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft отказалась от инструмента для прямой передачи данных между ПК в Windows 11](https://habr.com/ru/news/1083830/?utm_campaign=1083830&utm_source=habrahabr&utm_medium=rss)
+- [Perscale news #11. Fine‑grained token, SQID, stdout log streaming](https://habr.com/ru/news/1083982/?utm_campaign=1083982&utm_source=habrahabr&utm_medium=rss)
+- [Мобильный банкинг или приложение: что теперь должен уметь веб?](https://habr.com/ru/companies/gazprombank/news/1083846/?utm_campaign=1083846&utm_source=habrahabr&utm_medium=rss)
+- [«Микросервисы на Java: Kafka, Kubernetes, мониторинг» — новый курс Яндекс Практикума](https://habr.com/ru/companies/yandex_praktikum/news/1083922/?utm_campaign=1083922&utm_source=habrahabr&utm_medium=rss)
+- [ZCode от Z.ai шифрует и грузит весь git‑репозиторий в облако Alibaba](https://habr.com/ru/news/1083926/?utm_campaign=1083926&utm_source=habrahabr&utm_medium=rss)
+- [Вышла Java 27](https://habr.com/ru/news/1083924/?utm_campaign=1083924&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
