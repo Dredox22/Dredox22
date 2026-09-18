@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Регистрация на CTF-соревнования, запланированные на GISDAYS 2026, открыта](https://habr.com/ru/companies/gaz-is/news/1083660/?utm_campaign=1083660&utm_source=habrahabr&utm_medium=rss)
+- [35 лет со дня релиза Linux 0.01](https://habr.com/ru/news/1083656/?utm_campaign=1083656&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск Rust Coreutils 0.12.0](https://habr.com/ru/news/1083524/?utm_campaign=1083524&utm_source=habrahabr&utm_medium=rss)
+- [Релиз браузера Pale Moon 35.0](https://habr.com/ru/news/1083506/?utm_campaign=1083506&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI ищет решение ещё одной задачи тысячелетия — гипотезы Ходжа](https://habr.com/ru/companies/bothub/news/1083614/?utm_campaign=1083614&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia представила Axolotl3D — модель для достраивания скрытых частей 3D‑объектов](https://habr.com/ru/news/1083606/?utm_campaign=1083606&utm_source=habrahabr&utm_medium=rss)
-- [В AI‑режиме браузера Firefox появится поддержка модели Mistral Small 4](https://habr.com/ru/news/1083594/?utm_campaign=1083594&utm_source=habrahabr&utm_medium=rss)
-- [Moonshot представили Kimi Code Desktop](https://habr.com/ru/news/1083592/?utm_campaign=1083592&utm_source=habrahabr&utm_medium=rss)
-- [Полноценный trading engine для экосистемы NodeJS](https://habr.com/ru/news/1083560/?utm_campaign=1083560&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
