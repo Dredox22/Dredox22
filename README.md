@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Регистрация на CTF-соревнования, запланированные на GISDAYS 2026, открыта](https://habr.com/ru/companies/gaz-is/news/1083660/?utm_campaign=1083660&utm_source=habrahabr&utm_medium=rss)
-- [35 лет со дня релиза Linux 0.01](https://habr.com/ru/news/1083656/?utm_campaign=1083656&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск Rust Coreutils 0.12.0](https://habr.com/ru/news/1083524/?utm_campaign=1083524&utm_source=habrahabr&utm_medium=rss)
-- [Релиз браузера Pale Moon 35.0](https://habr.com/ru/news/1083506/?utm_campaign=1083506&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI ищет решение ещё одной задачи тысячелетия — гипотезы Ходжа](https://habr.com/ru/companies/bothub/news/1083614/?utm_campaign=1083614&utm_source=habrahabr&utm_medium=rss)
+- [Вышла новая версия плагина для агентов Google Analytics Advisor — с Search Console и полной диагностикой аналитики сайта](https://habr.com/ru/news/1083894/?utm_campaign=1083894&utm_source=habrahabr&utm_medium=rss)
+- [Авторы открытого принтера Openprinter на базе Raspberry Pi готовятся запустить краудфандинг](https://habr.com/ru/news/1083866/?utm_campaign=1083866&utm_source=habrahabr&utm_medium=rss)
+- [Альтернатива Microsoft Office от Nextcloud скоро получит полноценное десктопное приложение для Windows](https://habr.com/ru/news/1083854/?utm_campaign=1083854&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры взломали OpenAI с помощью моделей Claude](https://habr.com/ru/news/1083834/?utm_campaign=1083834&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft отказалась от инструмента для прямой передачи данных между ПК в Windows 11](https://habr.com/ru/news/1083830/?utm_campaign=1083830&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
