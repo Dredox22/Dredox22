@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Valve открыла исходный код Lepton — слоя для запуска Android‑игр на Linux](https://habr.com/ru/news/1084216/?utm_campaign=1084216&utm_source=habrahabr&utm_medium=rss)
+- [GitHub Copilot связали с Sentry. Агент работает от падения приложения до готового pull request](https://habr.com/ru/news/1084210/?utm_campaign=1084210&utm_source=habrahabr&utm_medium=rss)
 - [В проекте Roboharm три нейросети управляли роборукой и выполнили опасные для жизни человека команды](https://habr.com/ru/news/1084180/?utm_campaign=1084180&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft напомнила системным администраторам о сроке завершения поддержки режима IE в 2029 году](https://habr.com/ru/news/1084152/?utm_campaign=1084152&utm_source=habrahabr&utm_medium=rss)
 - [Gemini почти взломали чужую инфраструктуру: виновата снова Irregular](https://habr.com/ru/companies/bothub/news/1084156/?utm_campaign=1084156&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft выпустила ISO‑образ Windows 11 26H2 для тестирования](https://habr.com/ru/news/1084144/?utm_campaign=1084144&utm_source=habrahabr&utm_medium=rss)
-- [ИИ заставил Java и Spring патчиться чаще](https://habr.com/ru/companies/spring_aio/news/1084128/?utm_campaign=1084128&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
