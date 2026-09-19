@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Одной картинки хватило, чтобы взломать OpenAI](https://habr.com/ru/news/1084066/?utm_campaign=1084066&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск открытого проекта Segra 1.8.0 для записи игр на ПК с Windows](https://habr.com/ru/news/1083978/?utm_campaign=1083978&utm_source=habrahabr&utm_medium=rss)
+- [Вышел пиринговый видеохостинг PeerTube 8.3](https://habr.com/ru/news/1083684/?utm_campaign=1083684&utm_source=habrahabr&utm_medium=rss)
 - [Агенту поручили починить приложение, а он изменил собственную модель](https://habr.com/ru/companies/koda/news/1084050/?utm_campaign=1084050&utm_source=habrahabr&utm_medium=rss)
 - [Claude Code сам делит проект между AI-агентами](https://habr.com/ru/news/1084048/?utm_campaign=1084048&utm_source=habrahabr&utm_medium=rss)
-- [GPT-6 Astra помогла прочести зашифрованную Enigma немецкую радиограмму 1941 года — над ней бились 21 год](https://habr.com/ru/news/1084042/?utm_campaign=1084042&utm_source=habrahabr&utm_medium=rss)
-- [Perscale news #11. Fine‑grained token, SQID, stdout log streaming](https://habr.com/ru/news/1083982/?utm_campaign=1083982&utm_source=habrahabr&utm_medium=rss)
-- [Мобильный банкинг или приложение: что теперь должен уметь веб?](https://habr.com/ru/companies/gazprombank/news/1083846/?utm_campaign=1083846&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
