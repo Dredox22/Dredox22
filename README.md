@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Агенту поручили починить приложение, а он изменил собственную модель](https://habr.com/ru/companies/koda/news/1084050/?utm_campaign=1084050&utm_source=habrahabr&utm_medium=rss)
+- [Claude Code сам делит проект между AI-агентами](https://habr.com/ru/news/1084048/?utm_campaign=1084048&utm_source=habrahabr&utm_medium=rss)
 - [GPT-6 Astra помогла прочести зашифрованную Enigma немецкую радиограмму 1941 года — над ней бились 21 год](https://habr.com/ru/news/1084042/?utm_campaign=1084042&utm_source=habrahabr&utm_medium=rss)
 - [Perscale news #11. Fine‑grained token, SQID, stdout log streaming](https://habr.com/ru/news/1083982/?utm_campaign=1083982&utm_source=habrahabr&utm_medium=rss)
 - [Мобильный банкинг или приложение: что теперь должен уметь веб?](https://habr.com/ru/companies/gazprombank/news/1083846/?utm_campaign=1083846&utm_source=habrahabr&utm_medium=rss)
-- [«Микросервисы на Java: Kafka, Kubernetes, мониторинг» — новый курс Яндекс Практикума](https://habr.com/ru/companies/yandex_praktikum/news/1083922/?utm_campaign=1083922&utm_source=habrahabr&utm_medium=rss)
-- [ZCode от Z.ai шифрует и грузит весь git‑репозиторий в облако Alibaba](https://habr.com/ru/news/1083926/?utm_campaign=1083926&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
