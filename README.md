@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Одной картинки хватило, чтобы взломать OpenAI](https://habr.com/ru/news/1084066/?utm_campaign=1084066&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic пустит внешних аудиторов к разработке Claude. На проект направят минимум $2 млрд](https://habr.com/ru/news/1084094/?utm_campaign=1084094&utm_source=habrahabr&utm_medium=rss)
+- [Toyota Motor внедрит 400 тысяч роботов собственной разработки на своих производственных площадках по всему миру](https://habr.com/ru/news/1084088/?utm_campaign=1084088&utm_source=habrahabr&utm_medium=rss)
+- [Релиз языка программирования Mojo 1.1](https://habr.com/ru/news/1083796/?utm_campaign=1083796&utm_source=habrahabr&utm_medium=rss)
+- [Как уязвимость в обработке картинок привела к доступу к OpenAI](https://habr.com/ru/news/1084066/?utm_campaign=1084066&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск открытого проекта Segra 1.8.0 для записи игр на ПК с Windows](https://habr.com/ru/news/1083978/?utm_campaign=1083978&utm_source=habrahabr&utm_medium=rss)
-- [Вышел пиринговый видеохостинг PeerTube 8.3](https://habr.com/ru/news/1083684/?utm_campaign=1083684&utm_source=habrahabr&utm_medium=rss)
-- [Агенту поручили починить приложение, а он изменил собственную модель](https://habr.com/ru/companies/koda/news/1084050/?utm_campaign=1084050&utm_source=habrahabr&utm_medium=rss)
-- [Claude Code сам делит проект между AI-агентами](https://habr.com/ru/news/1084048/?utm_campaign=1084048&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
