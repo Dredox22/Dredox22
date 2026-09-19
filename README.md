@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft напомнила системным администраторам о сроке завершения поддержки режима IE в 2029 году](https://habr.com/ru/news/1084152/?utm_campaign=1084152&utm_source=habrahabr&utm_medium=rss)
+- [Gemini почти взломали чужую инфраструктуру: виновата снова Irregular](https://habr.com/ru/companies/bothub/news/1084156/?utm_campaign=1084156&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft выпустила ISO‑образ Windows 11 26H2 для тестирования](https://habr.com/ru/news/1084144/?utm_campaign=1084144&utm_source=habrahabr&utm_medium=rss)
+- [ИИ заставил Java и Spring патчиться чаще](https://habr.com/ru/companies/spring_aio/news/1084128/?utm_campaign=1084128&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic пустит внешних аудиторов к разработке Claude. На проект направят минимум $2 млрд](https://habr.com/ru/news/1084094/?utm_campaign=1084094&utm_source=habrahabr&utm_medium=rss)
-- [Toyota Motor внедрит 400 тысяч роботов собственной разработки на своих производственных площадках по всему миру](https://habr.com/ru/news/1084088/?utm_campaign=1084088&utm_source=habrahabr&utm_medium=rss)
-- [Релиз языка программирования Mojo 1.1](https://habr.com/ru/news/1083796/?utm_campaign=1083796&utm_source=habrahabr&utm_medium=rss)
-- [Как уязвимость в обработке картинок привела к доступу к OpenAI](https://habr.com/ru/news/1084066/?utm_campaign=1084066&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск открытого проекта Segra 1.8.0 для записи игр на ПК с Windows](https://habr.com/ru/news/1083978/?utm_campaign=1083978&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
