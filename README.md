@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Техдиректор Microsoft Azure с помощью ИИ за два дня портировал на macOS старую утилиту для Windows](https://habr.com/ru/news/1084332/?utm_campaign=1084332&utm_source=habrahabr&utm_medium=rss)
+- [Claude Code научился читать AGENTS.md](https://habr.com/ru/news/1084316/?utm_campaign=1084316&utm_source=habrahabr&utm_medium=rss)
 - [Теряющая клиентов Flock предлагает сотрудникам выплаты за увольнение по собственному желанию, чтобы избежать сокращений](https://habr.com/ru/news/1084282/?utm_campaign=1084282&utm_source=habrahabr&utm_medium=rss)
 - [В «Бюро 1440» протестировали спутниковый интернет в заполярном посёлке Нельмин‑Нос в Ненецком автономном округ](https://habr.com/ru/news/1084236/?utm_campaign=1084236&utm_source=habrahabr&utm_medium=rss)
 - [Clicks начнёт поставки своего первого смартфона Clicks Communicator в декабре](https://habr.com/ru/news/1084274/?utm_campaign=1084274&utm_source=habrahabr&utm_medium=rss)
-- [Apple Intelligence в iOS 27 теперь надо до 14 ГБ для хранения локальных моделей](https://habr.com/ru/news/1084254/?utm_campaign=1084254&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик выпустил DuoBar — статус‑бар в стиле iPhone Duo для macOS](https://habr.com/ru/news/1084244/?utm_campaign=1084244&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
