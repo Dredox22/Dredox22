@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышло обновление открытого проекта для создания и хранения в электронной библиотеке книг разного формата Calibre 9.15](https://habr.com/ru/news/1083956/?utm_campaign=1083956&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления Wine 11.18](https://habr.com/ru/news/1084062/?utm_campaign=1084062&utm_source=habrahabr&utm_medium=rss)
-- [Valve открыла исходный код Lepton — слоя для запуска Android‑игр на Linux](https://habr.com/ru/news/1084216/?utm_campaign=1084216&utm_source=habrahabr&utm_medium=rss)
-- [GitHub Copilot связали с Sentry. Агент работает от падения приложения до готового pull request](https://habr.com/ru/news/1084210/?utm_campaign=1084210&utm_source=habrahabr&utm_medium=rss)
-- [В проекте Roboharm три нейросети управляли роборукой и выполнили опасные для жизни человека команды](https://habr.com/ru/news/1084180/?utm_campaign=1084180&utm_source=habrahabr&utm_medium=rss)
+- [Теряющая клиентов Flock предлагает сотрудникам выплаты за увольнение по собственному желанию, чтобы избежать сокращений](https://habr.com/ru/news/1084282/?utm_campaign=1084282&utm_source=habrahabr&utm_medium=rss)
+- [В «Бюро 1440» протестировали спутниковый интернет в заполярном посёлке Нельмин‑Нос в Ненецком автономном округ](https://habr.com/ru/news/1084236/?utm_campaign=1084236&utm_source=habrahabr&utm_medium=rss)
+- [Clicks начнёт поставки своего первого смартфона Clicks Communicator в декабре](https://habr.com/ru/news/1084274/?utm_campaign=1084274&utm_source=habrahabr&utm_medium=rss)
+- [Apple Intelligence в iOS 27 теперь надо до 14 ГБ для хранения локальных моделей](https://habr.com/ru/news/1084254/?utm_campaign=1084254&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик выпустил DuoBar — статус‑бар в стиле iPhone Duo для macOS](https://habr.com/ru/news/1084244/?utm_campaign=1084244&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
