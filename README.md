@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [UserGate впервые продемонстрирует новое решение криптографической защиты ГОСТ VPN](https://habr.com/ru/companies/usergate/news/1084720/?utm_campaign=1084720&utm_source=habrahabr&utm_medium=rss)
-- [VK AI Security Nights ’26: как AI меняет ИБ](https://habr.com/ru/companies/vk/news/1084710/?utm_campaign=1084710&utm_source=habrahabr&utm_medium=rss)
-- [UserGate открыл первую учебную лабораторию по информационной безопасности в Республике Беларусь](https://habr.com/ru/companies/usergate/news/1084714/?utm_campaign=1084714&utm_source=habrahabr&utm_medium=rss)
-- [UserGate Factor в Москве проведёт закрытую сессию для бизнеса](https://habr.com/ru/companies/usergate/news/1084712/?utm_campaign=1084712&utm_source=habrahabr&utm_medium=rss)
-- [Nightmare Eclipse опубликовал новую уязвимость нулевого дня в Microsoft Defender](https://habr.com/ru/news/1084670/?utm_campaign=1084670&utm_source=habrahabr&utm_medium=rss)
+- [SpaceXAI выпустили Grok 4.7: модель лучше и дешевле GPT-5.6 Sol](https://habr.com/ru/news/1084864/?utm_campaign=1084864&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Grok 4.7](https://habr.com/ru/news/1084850/?utm_campaign=1084850&utm_source=habrahabr&utm_medium=rss)
+- [Релиз MusicPod 3.0 — открытого плеера для Linux, macOS и Windows](https://habr.com/ru/news/1084808/?utm_campaign=1084808&utm_source=habrahabr&utm_medium=rss)
+- [Модель Jev от TypeSafe AI стала доступна всем. На старте дают $5 на API‑счет](https://habr.com/ru/news/1084796/?utm_campaign=1084796&utm_source=habrahabr&utm_medium=rss)
+- [Innostage расширяет портфель сетевых решений за счёт оборудования Eltex](https://habr.com/ru/companies/innostage/news/1084792/?utm_campaign=1084792&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
