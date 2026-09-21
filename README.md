@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен открытый фоторедактор Compositor — бесплатный оптимизированный аналог Photoshop](https://habr.com/ru/news/1084464/?utm_campaign=1084464&utm_source=habrahabr&utm_medium=rss)
+- [В Silent Push рассказали, как специалисты из КНДР устраиваются на удалёнку в американские и европейские компании](https://habr.com/ru/news/1084466/?utm_campaign=1084466&utm_source=habrahabr&utm_medium=rss)
+- [Релиз СУБД MariaDB Server 13.0](https://habr.com/ru/news/1084376/?utm_campaign=1084376&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление Media Player Classic — Home Cinema 2.8.2](https://habr.com/ru/news/1084370/?utm_campaign=1084370&utm_source=habrahabr&utm_medium=rss)
 - [Alibaba выпустила Qwen-Image 2.1 с генерацией прозрачных изображений](https://habr.com/ru/news/1084442/?utm_campaign=1084442&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» назвал и наградил лауреатов международной премии Yandex ML Prize 2026](https://habr.com/ru/news/1084406/?utm_campaign=1084406&utm_source=habrahabr&utm_medium=rss)
-- [Техдиректор Microsoft Azure с помощью ИИ за два дня портировал на macOS старую утилиту для Windows](https://habr.com/ru/news/1084332/?utm_campaign=1084332&utm_source=habrahabr&utm_medium=rss)
-- [Claude Code научился читать AGENTS.md](https://habr.com/ru/news/1084316/?utm_campaign=1084316&utm_source=habrahabr&utm_medium=rss)
-- [Теряющая клиентов Flock предлагает сотрудникам выплаты за увольнение по собственному желанию, чтобы избежать сокращений](https://habr.com/ru/news/1084282/?utm_campaign=1084282&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
