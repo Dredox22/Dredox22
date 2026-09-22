@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышло обновление дистрибутива MX Linux 25.3 &lpar;Infinity&rpar; на базе Debian 13.7 и Linux 7.2](https://habr.com/ru/news/1084524/?utm_campaign=1084524&utm_source=habrahabr&utm_medium=rss)
-- [Галлюцинации недели: Jev, везде и сразу](https://habr.com/ru/news/1084884/?utm_campaign=1084884&utm_source=habrahabr&utm_medium=rss)
-- [Дополнительные сети VLAN для подов и виртуальных машин — теперь бесплатно в нашей Deckhouse Platform](https://habr.com/ru/companies/flant/news/1084576/?utm_campaign=1084576&utm_source=habrahabr&utm_medium=rss)
-- [Google открыла предзаказы на Googlebook — ноутбуки на стеке Android и ChromeOS](https://habr.com/ru/news/1084958/?utm_campaign=1084958&utm_source=habrahabr&utm_medium=rss)
-- [Как перестать писать каждый обмен заново: секция интеграций на TECH EVENT 2026](https://habr.com/ru/companies/infostart/news/1084822/?utm_campaign=1084822&utm_source=habrahabr&utm_medium=rss)
+- [ЕС оштрафовал Google на €403 млн за нарушение GDPR](https://habr.com/ru/news/1085198/?utm_campaign=1085198&utm_source=habrahabr&utm_medium=rss)
+- [Инженер устал от работы Enter-ом, где Claude Code создаёт спецификации, код, тесты, задачи, решения этих задач и отчёты](https://habr.com/ru/news/1085192/?utm_campaign=1085192&utm_source=habrahabr&utm_medium=rss)
+- [Google открыла публикацию игр для Android Auto и Android Automotive OS](https://habr.com/ru/news/1085142/?utm_campaign=1085142&utm_source=habrahabr&utm_medium=rss)
+- [Sony запатентовала опцию, которая позволит использовать DualSense для оплаты покупок на PlayStation](https://habr.com/ru/news/1085130/?utm_campaign=1085130&utm_source=habrahabr&utm_medium=rss)
+- [Новая модель OpenAI за 24 дня решила более 100 открытых математических задач](https://habr.com/ru/companies/bothub/news/1085122/?utm_campaign=1085122&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
