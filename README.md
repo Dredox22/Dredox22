@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Зона.рф лидирует по темпам идентификации администраторов через «Госуслуги»](https://habr.com/ru/companies/runity/news/1085384/?utm_campaign=1085384&utm_source=habrahabr&utm_medium=rss)
+- [Meta* анонсировала первый трансатлантический интернет‑кабель с пропускной способностью 1 Пбит/с](https://habr.com/ru/news/1085378/?utm_campaign=1085378&utm_source=habrahabr&utm_medium=rss)
 - [Raspberry Pi на уровне прошивки заблокировала возможность апгрейда оперативной памяти Raspberry Pi 5](https://habr.com/ru/news/1085340/?utm_campaign=1085340&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic выпустила Claude Opus 5.5. Модель приблизилась к Fable 5.1 и стала дешевле](https://habr.com/ru/news/1085332/?utm_campaign=1085332&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic выпустили Claude Opus 5.5: на 40% дешевле и более чем на 30% быстрее Opus 5](https://habr.com/ru/news/1085330/?utm_campaign=1085330&utm_source=habrahabr&utm_medium=rss)
-- [PVS‑Studio интегрирован в платформу безопасной разработки SolidLab SDP](https://habr.com/ru/companies/pvs-studio/news/1085250/?utm_campaign=1085250&utm_source=habrahabr&utm_medium=rss)
-- [Xiaomi выпустила открытые MiMo‑V2.6 с контекстом в миллион токенов и ценой от $0,28](https://habr.com/ru/companies/koda/news/1085246/?utm_campaign=1085246&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
