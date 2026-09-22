@@ -89,7 +89,7 @@
 - [Meta* анонсировала первый трансатлантический интернет‑кабель с пропускной способностью 1 Пбит/с](https://habr.com/ru/news/1085378/?utm_campaign=1085378&utm_source=habrahabr&utm_medium=rss)
 - [Raspberry Pi на уровне прошивки заблокировала возможность апгрейда оперативной памяти Raspberry Pi 5](https://habr.com/ru/news/1085340/?utm_campaign=1085340&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic выпустила Claude Opus 5.5. Модель приблизилась к Fable 5.1 и стала дешевле](https://habr.com/ru/news/1085332/?utm_campaign=1085332&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic выпустили Claude Opus 5.5: на 40% дешевле и более чем на 30% быстрее Opus 5](https://habr.com/ru/news/1085330/?utm_campaign=1085330&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic выпустила Claude Opus 5.5: на 40% дешевле и более чем на 30% быстрее Opus 5](https://habr.com/ru/news/1085330/?utm_campaign=1085330&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
