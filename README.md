@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [ЕС оштрафовал Google на €403 млн за нарушение GDPR](https://habr.com/ru/news/1085198/?utm_campaign=1085198&utm_source=habrahabr&utm_medium=rss)
-- [Инженер устал от работы Enter-ом, где Claude Code создаёт спецификации, код, тесты, задачи, решения этих задач и отчёты](https://habr.com/ru/news/1085192/?utm_campaign=1085192&utm_source=habrahabr&utm_medium=rss)
-- [Google открыла публикацию игр для Android Auto и Android Automotive OS](https://habr.com/ru/news/1085142/?utm_campaign=1085142&utm_source=habrahabr&utm_medium=rss)
-- [Sony запатентовала опцию, которая позволит использовать DualSense для оплаты покупок на PlayStation](https://habr.com/ru/news/1085130/?utm_campaign=1085130&utm_source=habrahabr&utm_medium=rss)
-- [Новая модель OpenAI за 24 дня решила более 100 открытых математических задач](https://habr.com/ru/companies/bothub/news/1085122/?utm_campaign=1085122&utm_source=habrahabr&utm_medium=rss)
+- [Raspberry Pi на уровне прошивки заблокировала возможность апгрейда оперативной памяти Raspberry Pi 5](https://habr.com/ru/news/1085340/?utm_campaign=1085340&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic выпустила Claude Opus 5.5. Модель приблизилась к Fable 5.1 и стала дешевле](https://habr.com/ru/news/1085332/?utm_campaign=1085332&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic выпустили Claude Opus 5.5: на 40% дешевле и более чем на 30% быстрее Opus 5](https://habr.com/ru/news/1085330/?utm_campaign=1085330&utm_source=habrahabr&utm_medium=rss)
+- [PVS‑Studio интегрирован в платформу безопасной разработки SolidLab SDP](https://habr.com/ru/companies/pvs-studio/news/1085250/?utm_campaign=1085250&utm_source=habrahabr&utm_medium=rss)
+- [Xiaomi выпустила открытые MiMo‑V2.6 с контекстом в миллион токенов и ценой от $0,28](https://habr.com/ru/companies/koda/news/1085246/?utm_campaign=1085246&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
