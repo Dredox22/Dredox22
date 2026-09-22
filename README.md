@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceXAI выпустили Grok 4.7: модель лучше и дешевле GPT-5.6 Sol](https://habr.com/ru/news/1084864/?utm_campaign=1084864&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Grok 4.7](https://habr.com/ru/news/1084850/?utm_campaign=1084850&utm_source=habrahabr&utm_medium=rss)
-- [Релиз MusicPod 3.0 — открытого плеера для Linux, macOS и Windows](https://habr.com/ru/news/1084808/?utm_campaign=1084808&utm_source=habrahabr&utm_medium=rss)
-- [Модель Jev от TypeSafe AI стала доступна всем. На старте дают $5 на API‑счет](https://habr.com/ru/news/1084796/?utm_campaign=1084796&utm_source=habrahabr&utm_medium=rss)
-- [Innostage расширяет портфель сетевых решений за счёт оборудования Eltex](https://habr.com/ru/companies/innostage/news/1084792/?utm_campaign=1084792&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление дистрибутива MX Linux 25.3 &lpar;Infinity&rpar; на базе Debian 13.7 и Linux 7.2](https://habr.com/ru/news/1084524/?utm_campaign=1084524&utm_source=habrahabr&utm_medium=rss)
+- [Галлюцинации недели: Jev, везде и сразу](https://habr.com/ru/news/1084884/?utm_campaign=1084884&utm_source=habrahabr&utm_medium=rss)
+- [Дополнительные сети VLAN для подов и виртуальных машин — теперь бесплатно в нашей Deckhouse Platform](https://habr.com/ru/companies/flant/news/1084576/?utm_campaign=1084576&utm_source=habrahabr&utm_medium=rss)
+- [Google открыла предзаказы на Googlebook — ноутбуки на стеке Android и ChromeOS](https://habr.com/ru/news/1084958/?utm_campaign=1084958&utm_source=habrahabr&utm_medium=rss)
+- [Как перестать писать каждый обмен заново: секция интеграций на TECH EVENT 2026](https://habr.com/ru/companies/infostart/news/1084822/?utm_campaign=1084822&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
