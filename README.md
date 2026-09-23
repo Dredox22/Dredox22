@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышел Sublime Text 4213: поддержка Python 3.14, обновленная подсветка C# и кастомные иконки файлов](https://habr.com/ru/companies/selectel/news/1085202/?utm_campaign=1085202&utm_source=habrahabr&utm_medium=rss)
-- [1С под нагрузкой: как вырасти от запуска тестов до экспертных решений](https://habr.com/ru/companies/infostart/news/1085554/?utm_campaign=1085554&utm_source=habrahabr&utm_medium=rss)
-- [К2Тех назвал три тренда, которые меняют подход компаний к ИТ-инфраструктуре](https://habr.com/ru/companies/k2tech/news/1085550/?utm_campaign=1085550&utm_source=habrahabr&utm_medium=rss)
-- [Telegram продлил срок действия права на товарный знак в РФ на десять лет](https://habr.com/ru/news/1085532/?utm_campaign=1085532&utm_source=habrahabr&utm_medium=rss)
-- [Приложение Adobe Premiere вышло на Android, но предъявляет высокие требования к объёму оперативной памяти](https://habr.com/ru/news/1085540/?utm_campaign=1085540&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар GlowByte и AW BI: миграция BI в крупной международной компании](https://habr.com/ru/companies/glowbyte/news/1085764/?utm_campaign=1085764&utm_source=habrahabr&utm_medium=rss)
+- [У CrowdSec украли код из 170 приватных репозиториев через заражённые npm-пакеты](https://habr.com/ru/companies/codescoring/news/1085736/?utm_campaign=1085736&utm_source=habrahabr&utm_medium=rss)
+- [Netcraze выпустила роутер Titan SE с Wi‑Fi 7 и слотом для NVMe SSD](https://habr.com/ru/news/1085688/?utm_campaign=1085688&utm_source=habrahabr&utm_medium=rss)
+- [Google тестирует показ ИИ‑ленты в Discover](https://habr.com/ru/news/1085640/?utm_campaign=1085640&utm_source=habrahabr&utm_medium=rss)
+- [«Миссия Луна» на «ИГРОПРОМе»: как игры ведут к космосу и будущей профессии](https://habr.com/ru/news/1085638/?utm_campaign=1085638&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
