@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [JetBrains больше не хочет быть просто компанией про IDE](https://habr.com/ru/news/1085888/?utm_campaign=1085888&utm_source=habrahabr&utm_medium=rss)
 - [KodaCode 1.2.0 получил новые модели, субагентов и планирование в Desktop и CLI](https://habr.com/ru/companies/koda/news/1085884/?utm_campaign=1085884&utm_source=habrahabr&utm_medium=rss)
 - [Claude Opus 5.5 вышел в релиз, а повлияло ли это на рынок?](https://habr.com/ru/companies/selectel/news/1085780/?utm_campaign=1085780&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар GlowByte и AW BI: миграция BI в крупной международной компании](https://habr.com/ru/companies/glowbyte/news/1085764/?utm_campaign=1085764&utm_source=habrahabr&utm_medium=rss)
 - [У CrowdSec украли код из 170 приватных репозиториев через заражённые npm-пакеты](https://habr.com/ru/companies/codescoring/news/1085736/?utm_campaign=1085736&utm_source=habrahabr&utm_medium=rss)
-- [Netcraze выпустила роутер Titan SE с Wi‑Fi 7 и слотом для NVMe SSD](https://habr.com/ru/news/1085688/?utm_campaign=1085688&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
