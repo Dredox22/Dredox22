@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Выпуск системы фильтрации спама Rspamd 4.2.0](https://habr.com/ru/news/1085136/?utm_campaign=1085136&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого музыкального ПО Giada 1.6](https://habr.com/ru/news/1085328/?utm_campaign=1085328&utm_source=habrahabr&utm_medium=rss)
-- [Зона.рф лидирует по темпам идентификации администраторов через «Госуслуги»](https://habr.com/ru/companies/runity/news/1085384/?utm_campaign=1085384&utm_source=habrahabr&utm_medium=rss)
-- [Meta* анонсировала первый трансатлантический интернет‑кабель с пропускной способностью 1 Пбит/с](https://habr.com/ru/news/1085378/?utm_campaign=1085378&utm_source=habrahabr&utm_medium=rss)
-- [Raspberry Pi на уровне прошивки заблокировала возможность апгрейда оперативной памяти Raspberry Pi 5](https://habr.com/ru/news/1085340/?utm_campaign=1085340&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Sublime Text 4213: поддержка Python 3.14, обновленная подсветка C# и кастомные иконки файлов](https://habr.com/ru/companies/selectel/news/1085202/?utm_campaign=1085202&utm_source=habrahabr&utm_medium=rss)
+- [1С под нагрузкой: как вырасти от запуска тестов до экспертных решений](https://habr.com/ru/companies/infostart/news/1085554/?utm_campaign=1085554&utm_source=habrahabr&utm_medium=rss)
+- [К2Тех назвал три тренда, которые меняют подход компаний к ИТ-инфраструктуре](https://habr.com/ru/companies/k2tech/news/1085550/?utm_campaign=1085550&utm_source=habrahabr&utm_medium=rss)
+- [Telegram продлил срок действия права на товарный знак в РФ на десять лет](https://habr.com/ru/news/1085532/?utm_campaign=1085532&utm_source=habrahabr&utm_medium=rss)
+- [Приложение Adobe Premiere вышло на Android, но предъявляет высокие требования к объёму оперативной памяти](https://habr.com/ru/news/1085540/?utm_campaign=1085540&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
