@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В ФБР начали расследование инцидента после заявления хакеров о взломе HR-системы ведомства и краже данных агентов](https://habr.com/ru/news/1085944/?utm_campaign=1085944&utm_source=habrahabr&utm_medium=rss)
-- [Мы встроили определитель номера Яндекса в системный интерфейс HUAWEI](https://habr.com/ru/companies/yandex/news/1085784/?utm_campaign=1085784&utm_source=habrahabr&utm_medium=rss)
-- [DevSecOps: как встроить безопасность в разработку и не поссориться с командой — бесплатное занятие](https://habr.com/ru/companies/netologyru/news/1085930/?utm_campaign=1085930&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск GPU-Z 2.71.0](https://habr.com/ru/news/1085618/?utm_campaign=1085618&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект moon — Луна в терминале такого вида, какой она выглядит сегодня ночью](https://habr.com/ru/news/1085840/?utm_campaign=1085840&utm_source=habrahabr&utm_medium=rss)
+- [От создателей WeChat вышел новый генератор — Hy Image 3.5](https://habr.com/ru/companies/selectel/news/1086128/?utm_campaign=1086128&utm_source=habrahabr&utm_medium=rss)
+- [Вредоносная кампания PolinRider заразила PHP-пакет для двухфакторной аутентификации](https://habr.com/ru/companies/codescoring/news/1086220/?utm_campaign=1086220&utm_source=habrahabr&utm_medium=rss)
+- [Агент открыл закрытые файлы государственного портала, а узнали об этом через два месяца](https://habr.com/ru/companies/selectel/news/1086132/?utm_campaign=1086132&utm_source=habrahabr&utm_medium=rss)
+- [Серия вебинаров «САПР Delta Design 4.2. Быстрый старт»](https://habr.com/ru/companies/eremexru/news/1086124/?utm_campaign=1086124&utm_source=habrahabr&utm_medium=rss)
+- [Теперь при создании кластера Managed Kubernetes появляется StorageClass с AZ‑независимым типом диска](https://habr.com/ru/companies/selectel/news/1086088/?utm_campaign=1086088&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
