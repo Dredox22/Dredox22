@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [DrivingBench проверили GPT-6 Astra, GPT-5.6 Sol, Grok 4.6 и Claude Fable 5.1 на возможность управлять авто](https://habr.com/ru/news/1086380/?utm_campaign=1086380&utm_source=habrahabr&utm_medium=rss)
+- [950 Claude‑агентов за 21 час нашли новую биологическую систему](https://habr.com/ru/news/1086300/?utm_campaign=1086300&utm_source=habrahabr&utm_medium=rss)
+- [Southern Water превращает действующие оптоволоконные телеком‑кабели в подземные сенсоры](https://habr.com/ru/news/1086270/?utm_campaign=1086270&utm_source=habrahabr&utm_medium=rss)
+- [Nubes и Servicepipe расширяют партнерство: клиентам облачного провайдера стала доступна продвинутая защита от ботов](https://habr.com/ru/companies/nubes/news/1086258/?utm_campaign=1086258&utm_source=habrahabr&utm_medium=rss)
 - [От создателей WeChat вышел новый генератор — Hy Image 3.5](https://habr.com/ru/companies/selectel/news/1086128/?utm_campaign=1086128&utm_source=habrahabr&utm_medium=rss)
-- [Вредоносная кампания PolinRider заразила PHP-пакет для двухфакторной аутентификации](https://habr.com/ru/companies/codescoring/news/1086220/?utm_campaign=1086220&utm_source=habrahabr&utm_medium=rss)
-- [Агент открыл закрытые файлы государственного портала, а узнали об этом через два месяца](https://habr.com/ru/companies/selectel/news/1086132/?utm_campaign=1086132&utm_source=habrahabr&utm_medium=rss)
-- [Серия вебинаров «САПР Delta Design 4.2. Быстрый старт»](https://habr.com/ru/companies/eremexru/news/1086124/?utm_campaign=1086124&utm_source=habrahabr&utm_medium=rss)
-- [Теперь при создании кластера Managed Kubernetes появляется StorageClass с AZ‑независимым типом диска](https://habr.com/ru/companies/selectel/news/1086088/?utm_campaign=1086088&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
