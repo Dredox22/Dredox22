@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Выпуск обновления открытого инструментария для загрузки прошивок Fwupd 2.1.8](https://habr.com/ru/news/1086172/?utm_campaign=1086172&utm_source=habrahabr&utm_medium=rss)
-- [Представлено обновление Wireshark 4.6.9](https://habr.com/ru/news/1085982/?utm_campaign=1085982&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление FreeRDP 3.32](https://habr.com/ru/news/1085822/?utm_campaign=1085822&utm_source=habrahabr&utm_medium=rss)
-- [DrivingBench проверили GPT-6 Astra, GPT-5.6 Sol, Grok 4.6 и Claude Fable 5.1 на возможность управлять авто](https://habr.com/ru/news/1086380/?utm_campaign=1086380&utm_source=habrahabr&utm_medium=rss)
-- [Гига Писарь теперь и на Windows](https://habr.com/ru/companies/gigapisar/news/1086374/?utm_campaign=1086374&utm_source=habrahabr&utm_medium=rss)
+- [Релиз OpenIDE: Claude Code, Codex, OpenCode и Cursor прямо в IDE](https://habr.com/ru/companies/haulmont/news/1086598/?utm_campaign=1086598&utm_source=habrahabr&utm_medium=rss)
+- [ПСБ занял первое место в рейтинге Markswebb интернет-банков для бизнеса](https://habr.com/ru/companies/psb/news/1086548/?utm_campaign=1086548&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft Excel начал поддерживать несколько значений в одной ячейке](https://habr.com/ru/news/1086632/?utm_campaign=1086632&utm_source=habrahabr&utm_medium=rss)
+- [Тим Кук удостоен высшей награды полупроводниковой отрасли — премии имени Роберта Нойса](https://habr.com/ru/news/1086588/?utm_campaign=1086588&utm_source=habrahabr&utm_medium=rss)
+- [Из‑за бага в Face ID новые iPhone 18 Pro зависают и самопроизвольно перезагружаются](https://habr.com/ru/news/1086540/?utm_campaign=1086540&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
