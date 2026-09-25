@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз OpenIDE: Claude Code, Codex, OpenCode и Cursor прямо в IDE](https://habr.com/ru/companies/haulmont/news/1086598/?utm_campaign=1086598&utm_source=habrahabr&utm_medium=rss)
-- [ПСБ занял первое место в рейтинге Markswebb интернет-банков для бизнеса](https://habr.com/ru/companies/psb/news/1086548/?utm_campaign=1086548&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft Excel начал поддерживать несколько значений в одной ячейке](https://habr.com/ru/news/1086632/?utm_campaign=1086632&utm_source=habrahabr&utm_medium=rss)
-- [Тим Кук удостоен высшей награды полупроводниковой отрасли — премии имени Роберта Нойса](https://habr.com/ru/news/1086588/?utm_campaign=1086588&utm_source=habrahabr&utm_medium=rss)
-- [Из‑за бага в Face ID новые iPhone 18 Pro зависают и самопроизвольно перезагружаются](https://habr.com/ru/news/1086540/?utm_campaign=1086540&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар «Как строить защиту облачной инфраструктуры: от логов до мониторинга»](https://habr.com/ru/companies/T1Holding/news/1086814/?utm_campaign=1086814&utm_source=habrahabr&utm_medium=rss)
+- [В JavaDoc предлагают добавить заметки, которые сложно пропустить](https://habr.com/ru/companies/spring_aio/news/1086776/?utm_campaign=1086776&utm_source=habrahabr&utm_medium=rss)
+- [GlowByte приняла участие в конференции Smart Data — 2026 в Китае](https://habr.com/ru/companies/glowbyte/news/1086624/?utm_campaign=1086624&utm_source=habrahabr&utm_medium=rss)
+- [Mac mini с M6 стабильно эмулирует Pentium II на 600 МГц; результат на 20% выше, чем у Mac mini с M4](https://habr.com/ru/news/1086744/?utm_campaign=1086744&utm_source=habrahabr&utm_medium=rss)
+- [GitHub Copilot получил локальную изолированную среду для выполнения действий](https://habr.com/ru/companies/otus/news/1086734/?utm_campaign=1086734&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
