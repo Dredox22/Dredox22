@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск обновления открытого инструментария для загрузки прошивок Fwupd 2.1.8](https://habr.com/ru/news/1086172/?utm_campaign=1086172&utm_source=habrahabr&utm_medium=rss)
+- [Представлено обновление Wireshark 4.6.9](https://habr.com/ru/news/1085982/?utm_campaign=1085982&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление FreeRDP 3.32](https://habr.com/ru/news/1085822/?utm_campaign=1085822&utm_source=habrahabr&utm_medium=rss)
 - [DrivingBench проверили GPT-6 Astra, GPT-5.6 Sol, Grok 4.6 и Claude Fable 5.1 на возможность управлять авто](https://habr.com/ru/news/1086380/?utm_campaign=1086380&utm_source=habrahabr&utm_medium=rss)
 - [Гига Писарь теперь и на Windows](https://habr.com/ru/companies/gigapisar/news/1086374/?utm_campaign=1086374&utm_source=habrahabr&utm_medium=rss)
-- [950 Claude‑агентов за 21 час нашли новую биологическую систему](https://habr.com/ru/news/1086300/?utm_campaign=1086300&utm_source=habrahabr&utm_medium=rss)
-- [Southern Water превращает действующие оптоволоконные телеком‑кабели в подземные сенсоры](https://habr.com/ru/news/1086270/?utm_campaign=1086270&utm_source=habrahabr&utm_medium=rss)
-- [Nubes и Servicepipe расширяют партнерство: клиентам облачного провайдера стала доступна продвинутая защита от ботов](https://habr.com/ru/companies/nubes/news/1086258/?utm_campaign=1086258&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
