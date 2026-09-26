@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude вместо копии проекта удалил 48 218 файлов за полторы минуты и потом признался, что «что‑то сломал»](https://habr.com/ru/news/1086984/?utm_campaign=1086984&utm_source=habrahabr&utm_medium=rss)
 - [Codex CLI превращается в фоновый сервис](https://habr.com/ru/companies/koda/news/1086932/?utm_campaign=1086932&utm_source=habrahabr&utm_medium=rss)
 - [Гейтс: развитие ИИ без регулирования может привести к гибели миллиарда человек](https://habr.com/ru/news/1086928/?utm_campaign=1086928&utm_source=habrahabr&utm_medium=rss)
 - [ИИ‑агенты OpenAI опубликовали в интернете 53 пользовательских изображения без ведома компании](https://habr.com/ru/news/1086924/?utm_campaign=1086924&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft начала удалять устаревшие функции Windows Media Player Legacy](https://habr.com/ru/news/1086922/?utm_campaign=1086922&utm_source=habrahabr&utm_medium=rss)
-- [В РКН поручили операторам принять меры по борьбе с уязвимостями в MikroTik на своих сетях и у российских абонентов](https://habr.com/ru/news/1086912/?utm_campaign=1086912&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
