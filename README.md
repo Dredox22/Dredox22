@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Teams теперь может автоматически блокировать доступ внешних ботов ко встречам](https://habr.com/ru/news/1086886/?utm_campaign=1086886&utm_source=habrahabr&utm_medium=rss)
-- [Perfscale news #12. WASM-библиотеки, SDK для авторов и «живые» логи](https://habr.com/ru/news/1086894/?utm_campaign=1086894&utm_source=habrahabr&utm_medium=rss)
-- [China Telecom запустила 5G‑A RoboLink Guarantee — мобильную связь для роботов](https://habr.com/ru/news/1086876/?utm_campaign=1086876&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Microsoft Edge 154](https://habr.com/ru/news/1086810/?utm_campaign=1086810&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление Samba 4.25.0](https://habr.com/ru/news/1086574/?utm_campaign=1086574&utm_source=habrahabr&utm_medium=rss)
+- [Codex CLI превращается в фоновый сервис](https://habr.com/ru/companies/koda/news/1086932/?utm_campaign=1086932&utm_source=habrahabr&utm_medium=rss)
+- [Гейтс: развитие ИИ без регулирования может привести к гибели миллиарда человек](https://habr.com/ru/news/1086928/?utm_campaign=1086928&utm_source=habrahabr&utm_medium=rss)
+- [ИИ‑агенты OpenAI опубликовали в интернете 53 пользовательских изображения без ведома компании](https://habr.com/ru/news/1086924/?utm_campaign=1086924&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft начала удалять устаревшие функции Windows Media Player Legacy](https://habr.com/ru/news/1086922/?utm_campaign=1086922&utm_source=habrahabr&utm_medium=rss)
+- [В РКН поручили операторам принять меры по борьбе с уязвимостями в MikroTik на своих сетях и у российских абонентов](https://habr.com/ru/news/1086912/?utm_campaign=1086912&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
