@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вебинар «Как строить защиту облачной инфраструктуры: от логов до мониторинга»](https://habr.com/ru/companies/T1Holding/news/1086814/?utm_campaign=1086814&utm_source=habrahabr&utm_medium=rss)
-- [В JavaDoc предлагают добавить заметки, которые сложно пропустить](https://habr.com/ru/companies/spring_aio/news/1086776/?utm_campaign=1086776&utm_source=habrahabr&utm_medium=rss)
-- [GlowByte приняла участие в конференции Smart Data — 2026 в Китае](https://habr.com/ru/companies/glowbyte/news/1086624/?utm_campaign=1086624&utm_source=habrahabr&utm_medium=rss)
-- [Mac mini с M6 стабильно эмулирует Pentium II на 600 МГц; результат на 20% выше, чем у Mac mini с M4](https://habr.com/ru/news/1086744/?utm_campaign=1086744&utm_source=habrahabr&utm_medium=rss)
-- [GitHub Copilot получил локальную изолированную среду для выполнения действий](https://habr.com/ru/companies/otus/news/1086734/?utm_campaign=1086734&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft Teams теперь может автоматически блокировать доступ внешних ботов ко встречам](https://habr.com/ru/news/1086886/?utm_campaign=1086886&utm_source=habrahabr&utm_medium=rss)
+- [Perfscale news #12. WASM-библиотеки, SDK для авторов и «живые» логи](https://habr.com/ru/news/1086894/?utm_campaign=1086894&utm_source=habrahabr&utm_medium=rss)
+- [China Telecom запустила 5G‑A RoboLink Guarantee — мобильную связь для роботов](https://habr.com/ru/news/1086876/?utm_campaign=1086876&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Microsoft Edge 154](https://habr.com/ru/news/1086810/?utm_campaign=1086810&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление Samba 4.25.0](https://habr.com/ru/news/1086574/?utm_campaign=1086574&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
