@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [NVIDIA выпустила открытую модель, которая определяет, кто и когда говорил](https://habr.com/ru/companies/koda/news/1087142/?utm_campaign=1087142&utm_source=habrahabr&utm_medium=rss)
 - [Julia 1: релиз модели в духе Jev с открытыми весами и запуском на CPU](https://habr.com/ru/news/1087104/?utm_campaign=1087104&utm_source=habrahabr&utm_medium=rss)
 - [В Outlook появится функция автоматической проверки орфографии перед отправкой писем](https://habr.com/ru/news/1087076/?utm_campaign=1087076&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft подготовила проект кодекса, который описывает правила поведения и механизмы контроля ИИ](https://habr.com/ru/news/1087074/?utm_campaign=1087074&utm_source=habrahabr&utm_medium=rss)
 - [Sony и Universal подали новый иск против ИИ‑генератора Suno](https://habr.com/ru/news/1087058/?utm_campaign=1087058&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого проекта Coreboot 26.09, представляющего альтернативы проприетарным прошивкам](https://habr.com/ru/news/1086952/?utm_campaign=1086952&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
