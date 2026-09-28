@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Операторы связи предупредили о возможной блокировке звонков без маркировки с 15 октября](https://habr.com/ru/news/1087478/?utm_campaign=1087478&utm_source=habrahabr&utm_medium=rss)
-- [PGMeetup.СПб 2026: бэкапы, кэш вместо Redis и вечный вопрос про 1С](https://habr.com/ru/companies/postgrespro/news/1081926/?utm_campaign=1081926&utm_source=habrahabr&utm_medium=rss)
-- [Глава Microsoft считает, что сокращения в Xbox — это «замечательно»](https://habr.com/ru/news/1087466/?utm_campaign=1087466&utm_source=habrahabr&utm_medium=rss)
-- [Токеон получил две награды Национальной «Премии ЦФА»](https://habr.com/ru/companies/psb/news/1086606/?utm_campaign=1086606&utm_source=habrahabr&utm_medium=rss)
-- [Fujifilm запустила продажи магнитных лент LTO-10 с емкостью 40TB](https://habr.com/ru/news/1087436/?utm_campaign=1087436&utm_source=habrahabr&utm_medium=rss)
+- [HomeBody управляет гуманоидом Unitree G1 через GPT-6 Astra](https://habr.com/ru/companies/selectel/news/1087722/?utm_campaign=1087722&utm_source=habrahabr&utm_medium=rss)
+- [Модель, которую «строил ИИ». Китайская NaiveAI открыла модель под лицензией MIT](https://habr.com/ru/companies/selectel/news/1087716/?utm_campaign=1087716&utm_source=habrahabr&utm_medium=rss)
+- [OpenClaw прошёл аудит безопасности: специалисты нашли и подтвердили 23 уязвимости](https://habr.com/ru/news/1087714/?utm_campaign=1087714&utm_source=habrahabr&utm_medium=rss)
+- [JetBrains выпустили Air Teams для работы с AI-агентами](https://habr.com/ru/news/1087690/?utm_campaign=1087690&utm_source=habrahabr&utm_medium=rss)
+- [ЦБ рекомендовал банкам возвращать доступ к картам и кошелькам в течение одного дня](https://habr.com/ru/news/1087670/?utm_campaign=1087670&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
