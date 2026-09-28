@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик выпустил Taiga‑S1 — компактную модель с 1,2 млн параметров для управления FreeCAD](https://habr.com/ru/news/1087800/?utm_campaign=1087800&utm_source=habrahabr&utm_medium=rss)
+- [Delta Intelligence представила Δ₀ — модель для человекоподобных роботов, которая управляет всем телом](https://habr.com/ru/news/1087798/?utm_campaign=1087798&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic выкатила Claude Sonnet 5.5: на 30% быстрее и дешевле. Что изменилось?](https://habr.com/ru/companies/gptunnel/news/1087786/?utm_campaign=1087786&utm_source=habrahabr&utm_medium=rss)
 - [HomeBody управляет гуманоидом Unitree G1 через GPT-6 Astra](https://habr.com/ru/companies/selectel/news/1087722/?utm_campaign=1087722&utm_source=habrahabr&utm_medium=rss)
 - [Модель, которую «строил ИИ». Китайская NaiveAI открыла модель под лицензией MIT](https://habr.com/ru/companies/selectel/news/1087716/?utm_campaign=1087716&utm_source=habrahabr&utm_medium=rss)
-- [OpenClaw прошёл аудит безопасности: специалисты нашли и подтвердили 23 уязвимости](https://habr.com/ru/news/1087714/?utm_campaign=1087714&utm_source=habrahabr&utm_medium=rss)
-- [JetBrains выпустили Air Teams для работы с AI-агентами](https://habr.com/ru/news/1087690/?utm_campaign=1087690&utm_source=habrahabr&utm_medium=rss)
-- [ЦБ рекомендовал банкам возвращать доступ к картам и кошелькам в течение одного дня](https://habr.com/ru/news/1087670/?utm_campaign=1087670&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
