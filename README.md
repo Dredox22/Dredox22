@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Обновление UniText v3](https://habr.com/ru/news/1087302/?utm_campaign=1087302&utm_source=habrahabr&utm_medium=rss)
-- [Пользователь задействовал ИИ для взлома Internet Download Manager](https://habr.com/ru/news/1087194/?utm_campaign=1087194&utm_source=habrahabr&utm_medium=rss)
-- [В РФ сервис обещает активировать 5G без джейлбрейка не у всех операторов связи и без гарантий, есть бесплатный способ](https://habr.com/ru/news/1087128/?utm_campaign=1087128&utm_source=habrahabr&utm_medium=rss)
-- [NVIDIA выпустила открытую модель, которая определяет, кто и когда говорил](https://habr.com/ru/companies/koda/news/1087142/?utm_campaign=1087142&utm_source=habrahabr&utm_medium=rss)
-- [Julia 1: релиз модели в духе Jev с открытыми весами и запуском на CPU](https://habr.com/ru/news/1087104/?utm_campaign=1087104&utm_source=habrahabr&utm_medium=rss)
+- [Операторы связи предупредили о возможной блокировке звонков без маркировки с 15 октября](https://habr.com/ru/news/1087478/?utm_campaign=1087478&utm_source=habrahabr&utm_medium=rss)
+- [PGMeetup.СПб 2026: бэкапы, кэш вместо Redis и вечный вопрос про 1С](https://habr.com/ru/companies/postgrespro/news/1081926/?utm_campaign=1081926&utm_source=habrahabr&utm_medium=rss)
+- [Глава Microsoft считает, что сокращения в Xbox — это «замечательно»](https://habr.com/ru/news/1087466/?utm_campaign=1087466&utm_source=habrahabr&utm_medium=rss)
+- [Токеон получил две награды Национальной «Премии ЦФА»](https://habr.com/ru/companies/psb/news/1086606/?utm_campaign=1086606&utm_source=habrahabr&utm_medium=rss)
+- [Fujifilm запустила продажи магнитных лент LTO-10 с емкостью 40TB](https://habr.com/ru/news/1087436/?utm_campaign=1087436&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
