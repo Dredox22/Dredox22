@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [State of Testing 2026: как обстоят дела с тестированием в России?](https://habr.com/ru/companies/haulmont/news/1088046/?utm_campaign=1088046&utm_source=habrahabr&utm_medium=rss)
-- [В браузер Opera для Android добавили ​​поддержку eSIM с бесплатным пакетом на 3 ГБ](https://habr.com/ru/news/1088044/?utm_campaign=1088044&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск qBittorrent 5.2.4](https://habr.com/ru/news/1088016/?utm_campaign=1088016&utm_source=habrahabr&utm_medium=rss)
-- [Госкомпании увеличили закупки стационарных телефонов](https://habr.com/ru/news/1088002/?utm_campaign=1088002&utm_source=habrahabr&utm_medium=rss)
-- [Пользователь Windows 10 сообщил о вызывающем Copilot и баги с «Проводником» обновлении](https://habr.com/ru/news/1087972/?utm_campaign=1087972&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск Mozilla Thunderbird 157.0](https://habr.com/ru/news/1087864/?utm_campaign=1087864&utm_source=habrahabr&utm_medium=rss)
+- [Вышел релиз Firefox 157 с новым дизайном Nova](https://habr.com/ru/news/1088252/?utm_campaign=1088252&utm_source=habrahabr&utm_medium=rss)
+- [Из‑за ошибки в Google Analytics для Firebase тысячи приложений для iOS несколько часов работали со сбоями](https://habr.com/ru/news/1088242/?utm_campaign=1088242&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI отказалась выпускать GPT-6.1 Astra. Модель слишком самостоятельная](https://habr.com/ru/news/1088236/?utm_campaign=1088236&utm_source=habrahabr&utm_medium=rss)
+- [Уязвимость OpenCode AI позволяет вредоносным веб-сайтам выполнять код на компьютерах разработчиков](https://habr.com/ru/companies/swordfish_security/news/1088234/?utm_campaign=1088234&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
