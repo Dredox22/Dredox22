@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Google Antigravity SDK появилась поддержка полностью локальных моделей](https://habr.com/ru/news/1087832/?utm_campaign=1087832&utm_source=habrahabr&utm_medium=rss)
+- [Сеть ресторанов «Додо Пицца» сообщила о кибератаке на свою IT‑систему и возможной утечке данных клиентов](https://habr.com/ru/news/1087830/?utm_campaign=1087830&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление WinDirStat 2.9.0 — открытой утилиты для Windows, которая помогает анализировать использование дисков](https://habr.com/ru/news/1087498/?utm_campaign=1087498&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления видеоредактора с открытым исходным кодом Shotcut 26.9](https://habr.com/ru/news/1087334/?utm_campaign=1087334&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил Taiga‑S1 — компактную модель с 1,2 млн параметров для управления FreeCAD](https://habr.com/ru/news/1087800/?utm_campaign=1087800&utm_source=habrahabr&utm_medium=rss)
-- [Delta Intelligence представила Δ₀ — модель для человекоподобных роботов, которая управляет всем телом](https://habr.com/ru/news/1087798/?utm_campaign=1087798&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic выкатила Claude Sonnet 5.5: на 30% быстрее и дешевле. Что изменилось?](https://habr.com/ru/companies/gptunnel/news/1087786/?utm_campaign=1087786&utm_source=habrahabr&utm_medium=rss)
-- [HomeBody управляет гуманоидом Unitree G1 через GPT-6 Astra](https://habr.com/ru/companies/selectel/news/1087722/?utm_campaign=1087722&utm_source=habrahabr&utm_medium=rss)
-- [Модель, которую «строил ИИ». Китайская NaiveAI открыла модель под лицензией MIT](https://habr.com/ru/companies/selectel/news/1087716/?utm_campaign=1087716&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
