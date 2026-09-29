@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Raspberry Pi выпустила адаптер для встраивания Compute Module 5 в дисплеи](https://habr.com/ru/news/1088298/?utm_campaign=1088298&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI представили GPT‑6.1 Sol с тарифами API в пять раз ниже, чем у Astra](https://habr.com/ru/news/1088286/?utm_campaign=1088286&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI представили Dots: персональных ИИ-агентов на базе GPT-6 Astra](https://habr.com/ru/news/1088282/?utm_campaign=1088282&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск Mozilla Thunderbird 157.0](https://habr.com/ru/news/1087864/?utm_campaign=1087864&utm_source=habrahabr&utm_medium=rss)
 - [Вышел релиз Firefox 157 с новым дизайном Nova](https://habr.com/ru/news/1088252/?utm_campaign=1088252&utm_source=habrahabr&utm_medium=rss)
-- [Из‑за ошибки в Google Analytics для Firebase тысячи приложений для iOS несколько часов работали со сбоями](https://habr.com/ru/news/1088242/?utm_campaign=1088242&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI отказалась выпускать GPT-6.1 Astra. Модель слишком самостоятельная](https://habr.com/ru/news/1088236/?utm_campaign=1088236&utm_source=habrahabr&utm_medium=rss)
-- [Уязвимость OpenCode AI позволяет вредоносным веб-сайтам выполнять код на компьютерах разработчиков](https://habr.com/ru/companies/swordfish_security/news/1088234/?utm_campaign=1088234&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
