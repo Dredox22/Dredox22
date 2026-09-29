@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В Google Antigravity SDK появилась поддержка полностью локальных моделей](https://habr.com/ru/news/1087832/?utm_campaign=1087832&utm_source=habrahabr&utm_medium=rss)
-- [Сеть ресторанов «Додо Пицца» сообщила о кибератаке на свою IT‑систему и возможной утечке данных клиентов](https://habr.com/ru/news/1087830/?utm_campaign=1087830&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление WinDirStat 2.9.0 — открытой утилиты для Windows, которая помогает анализировать использование дисков](https://habr.com/ru/news/1087498/?utm_campaign=1087498&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления видеоредактора с открытым исходным кодом Shotcut 26.9](https://habr.com/ru/news/1087334/?utm_campaign=1087334&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик выпустил Taiga‑S1 — компактную модель с 1,2 млн параметров для управления FreeCAD](https://habr.com/ru/news/1087800/?utm_campaign=1087800&utm_source=habrahabr&utm_medium=rss)
+- [State of Testing 2026: как обстоят дела с тестированием в России?](https://habr.com/ru/companies/haulmont/news/1088046/?utm_campaign=1088046&utm_source=habrahabr&utm_medium=rss)
+- [В браузер Opera для Android добавили ​​поддержку eSIM с бесплатным пакетом на 3 ГБ](https://habr.com/ru/news/1088044/?utm_campaign=1088044&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск qBittorrent 5.2.4](https://habr.com/ru/news/1088016/?utm_campaign=1088016&utm_source=habrahabr&utm_medium=rss)
+- [Госкомпании увеличили закупки стационарных телефонов](https://habr.com/ru/news/1088002/?utm_campaign=1088002&utm_source=habrahabr&utm_medium=rss)
+- [Пользователь Windows 10 сообщил о вызывающем Copilot и баги с «Проводником» обновлении](https://habr.com/ru/news/1087972/?utm_campaign=1087972&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
