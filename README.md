@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Raspberry Pi выпустила адаптер для встраивания Compute Module 5 в дисплеи](https://habr.com/ru/news/1088298/?utm_campaign=1088298&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI представили GPT‑6.1 Sol с тарифами API в пять раз ниже, чем у Astra](https://habr.com/ru/news/1088286/?utm_campaign=1088286&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI представили Dots: персональных ИИ-агентов на базе GPT-6 Astra](https://habr.com/ru/news/1088282/?utm_campaign=1088282&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск Mozilla Thunderbird 157.0](https://habr.com/ru/news/1087864/?utm_campaign=1087864&utm_source=habrahabr&utm_medium=rss)
-- [Вышел релиз Firefox 157 с новым дизайном Nova](https://habr.com/ru/news/1088252/?utm_campaign=1088252&utm_source=habrahabr&utm_medium=rss)
+- [Apple рассматривала план по увольнению около 5 тысяч сотрудников службы поддержки AppleCare для замены их нейросетями](https://habr.com/ru/news/1088384/?utm_campaign=1088384&utm_source=habrahabr&utm_medium=rss)
+- [NVIDIA перенесла контроль над ИИ-агентами в железо](https://habr.com/ru/companies/selectel/news/1088320/?utm_campaign=1088320&utm_source=habrahabr&utm_medium=rss)
+- [Claude Sonnet 5.5 догнала Opus 5.5 в агентных задачах, но с оговоркой](https://habr.com/ru/companies/selectel/news/1088318/?utm_campaign=1088318&utm_source=habrahabr&utm_medium=rss)
+- [Windows 11 26H2 доступна для скачивания всем пользователям](https://habr.com/ru/news/1088356/?utm_campaign=1088356&utm_source=habrahabr&utm_medium=rss)
+- [16-летний исследователь взломал базу данных Microsoft Titan и получил $5000 вознаграждения](https://habr.com/ru/news/1088346/?utm_campaign=1088346&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
