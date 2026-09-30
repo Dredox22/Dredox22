@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В OpenIDE обновили поддержку PHP: анализаторы, удалённая отладка и подсказки типов](https://habr.com/ru/companies/haulmont/news/1088684/?utm_campaign=1088684&utm_source=habrahabr&utm_medium=rss)
-- [Commodore 128 превратили в трекер для морских судов](https://habr.com/ru/news/1088646/?utm_campaign=1088646&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры представило третий пакет мер по борьбе с кибермошенничеством](https://habr.com/ru/news/1088634/?utm_campaign=1088634&utm_source=habrahabr&utm_medium=rss)
-- [Kiteworks попросил клиентов выключить серверы](https://habr.com/ru/companies/cloud4y/news/1088576/?utm_campaign=1088576&utm_source=habrahabr&utm_medium=rss)
-- [В Индии запущен сервис Apple Pay](https://habr.com/ru/news/1088560/?utm_campaign=1088560&utm_source=habrahabr&utm_medium=rss)
+- [В Ollama добавили поддержку локальных Jev‑подобных моделей](https://habr.com/ru/news/1088778/?utm_campaign=1088778&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление Ideogram 4.5; модель теперь точнее редактирует изображения](https://habr.com/ru/news/1088766/?utm_campaign=1088766&utm_source=habrahabr&utm_medium=rss)
+- [В Google Play появятся новые типы подписок и смешанные корзины](https://habr.com/ru/news/1088760/?utm_campaign=1088760&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи представили модель для анимации 3D‑моделей людей, животных и предметов по текстовому описанию](https://habr.com/ru/news/1088748/?utm_campaign=1088748&utm_source=habrahabr&utm_medium=rss)
+- [Reasoning-версию GigaChat 3.5 теперь можно подключить в Evolution Foundation Models](https://habr.com/ru/companies/cloud_ru/news/1088712/?utm_campaign=1088712&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
