@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple рассматривала план по увольнению около 5 тысяч сотрудников службы поддержки AppleCare для замены их нейросетями](https://habr.com/ru/news/1088384/?utm_campaign=1088384&utm_source=habrahabr&utm_medium=rss)
-- [NVIDIA перенесла контроль над ИИ-агентами в железо](https://habr.com/ru/companies/selectel/news/1088320/?utm_campaign=1088320&utm_source=habrahabr&utm_medium=rss)
-- [Claude Sonnet 5.5 догнала Opus 5.5 в агентных задачах, но с оговоркой](https://habr.com/ru/companies/selectel/news/1088318/?utm_campaign=1088318&utm_source=habrahabr&utm_medium=rss)
-- [Windows 11 26H2 доступна для скачивания всем пользователям](https://habr.com/ru/news/1088356/?utm_campaign=1088356&utm_source=habrahabr&utm_medium=rss)
-- [16-летний исследователь взломал базу данных Microsoft Titan и получил $5000 вознаграждения](https://habr.com/ru/news/1088346/?utm_campaign=1088346&utm_source=habrahabr&utm_medium=rss)
+- [В OpenIDE обновили поддержку PHP: анализаторы, удалённая отладка и подсказки типов](https://habr.com/ru/companies/haulmont/news/1088684/?utm_campaign=1088684&utm_source=habrahabr&utm_medium=rss)
+- [Commodore 128 превратили в трекер для морских судов](https://habr.com/ru/news/1088646/?utm_campaign=1088646&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры представило третий пакет мер по борьбе с кибермошенничеством](https://habr.com/ru/news/1088634/?utm_campaign=1088634&utm_source=habrahabr&utm_medium=rss)
+- [Kiteworks попросил клиентов выключить серверы](https://habr.com/ru/companies/cloud4y/news/1088576/?utm_campaign=1088576&utm_source=habrahabr&utm_medium=rss)
+- [В Индии запущен сервис Apple Pay](https://habr.com/ru/news/1088560/?utm_campaign=1088560&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
