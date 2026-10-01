@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft представила WSL 3.0 с поддержкой запуска Linux-контейнеров в Windows](https://habr.com/ru/news/1088392/?utm_campaign=1088392&utm_source=habrahabr&utm_medium=rss)
+- [Вышел FreeCAD 1.1.4](https://habr.com/ru/news/1088728/?utm_campaign=1088728&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления планетария с открытым кодом Stellarium 26.3](https://habr.com/ru/news/1088508/?utm_campaign=1088508&utm_source=habrahabr&utm_medium=rss)
 - [В Ollama добавили поддержку локальных Jev‑подобных моделей](https://habr.com/ru/news/1088778/?utm_campaign=1088778&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление Ideogram 4.5; модель теперь точнее редактирует изображения](https://habr.com/ru/news/1088766/?utm_campaign=1088766&utm_source=habrahabr&utm_medium=rss)
-- [В Google Play появятся новые типы подписок и смешанные корзины](https://habr.com/ru/news/1088760/?utm_campaign=1088760&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи представили модель для анимации 3D‑моделей людей, животных и предметов по текстовому описанию](https://habr.com/ru/news/1088748/?utm_campaign=1088748&utm_source=habrahabr&utm_medium=rss)
-- [Reasoning-версию GigaChat 3.5 теперь можно подключить в Evolution Foundation Models](https://habr.com/ru/companies/cloud_ru/news/1088712/?utm_campaign=1088712&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
