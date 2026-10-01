@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft представила WSL 3.0 с поддержкой запуска Linux-контейнеров в Windows](https://habr.com/ru/news/1088392/?utm_campaign=1088392&utm_source=habrahabr&utm_medium=rss)
-- [Вышел FreeCAD 1.1.4](https://habr.com/ru/news/1088728/?utm_campaign=1088728&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления планетария с открытым кодом Stellarium 26.3](https://habr.com/ru/news/1088508/?utm_campaign=1088508&utm_source=habrahabr&utm_medium=rss)
-- [В Ollama добавили поддержку локальных Jev‑подобных моделей](https://habr.com/ru/news/1088778/?utm_campaign=1088778&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление Ideogram 4.5; модель теперь точнее редактирует изображения](https://habr.com/ru/news/1088766/?utm_campaign=1088766&utm_source=habrahabr&utm_medium=rss)
+- [В OpenAI раскрыли новый тип атак на ИИ‑агентов](https://habr.com/ru/news/1089072/?utm_campaign=1089072&utm_source=habrahabr&utm_medium=rss)
+- [Как Instagram Direct перестроил UI под ИИ-агентов и сократил расход токенов на 33%](https://habr.com/ru/companies/otus/news/1089054/?utm_campaign=1089054&utm_source=habrahabr&utm_medium=rss)
+- [Более 50% линий связи в России могут потребовать замены](https://habr.com/ru/news/1089052/?utm_campaign=1089052&utm_source=habrahabr&utm_medium=rss)
+- [Emergence AI провела эксперимент с виртуальными городами для ИИ‑агентов](https://habr.com/ru/news/1089034/?utm_campaign=1089034&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft представила рекомендации по безопасности Windows 11 версии 26H2 для IT‑администраторов](https://habr.com/ru/news/1089002/?utm_campaign=1089002&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
