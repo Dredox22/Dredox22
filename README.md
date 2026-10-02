@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышел Qt 6.12](https://habr.com/ru/news/1089140/?utm_campaign=1089140&utm_source=habrahabr&utm_medium=rss)
-- [Gartner: расходы на использование LLM превысят среднюю зарплату разработчика к 2028 году](https://habr.com/ru/news/1089384/?utm_campaign=1089384&utm_source=habrahabr&utm_medium=rss)
-- [IFPI требует от ЕС включить инструмент yt‑dlp для скачивания с YouTube в список способствующих пиратству ресурсов](https://habr.com/ru/news/1089186/?utm_campaign=1089186&utm_source=habrahabr&utm_medium=rss)
-- [В OpenAI раскрыли новый тип атак на ИИ‑агентов](https://habr.com/ru/news/1089072/?utm_campaign=1089072&utm_source=habrahabr&utm_medium=rss)
-- [Как Instagram Direct перестроил UI под ИИ-агентов и сократил расход токенов на 33%](https://habr.com/ru/companies/otus/news/1089054/?utm_campaign=1089054&utm_source=habrahabr&utm_medium=rss)
+- [DeepSeek выпустили свой десктопный клиент](https://habr.com/ru/news/1089518/?utm_campaign=1089518&utm_source=habrahabr&utm_medium=rss)
+- [Регулятор США начал расследование рисков ИИ‑инструментов для потребителей и общественной безопасности](https://habr.com/ru/news/1089514/?utm_campaign=1089514&utm_source=habrahabr&utm_medium=rss)
+- [Гуманоидные роботы спасут производителей полупроводников от схлопывания пузыря ИИ](https://habr.com/ru/companies/selectel/news/1089174/?utm_campaign=1089174&utm_source=habrahabr&utm_medium=rss)
+- [Доходы от техсбора на гаджеты в 2027 году оценили в 11,7 млрд рублей](https://habr.com/ru/news/1089506/?utm_campaign=1089506&utm_source=habrahabr&utm_medium=rss)
+- [Gemini 4 Argon. Очередной победитель гонки нейросетей. А протестировать дадут?](https://habr.com/ru/companies/selectel/news/1089222/?utm_campaign=1089222&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
