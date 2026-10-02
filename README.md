@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел Qt 6.12](https://habr.com/ru/news/1089140/?utm_campaign=1089140&utm_source=habrahabr&utm_medium=rss)
 - [Gartner: расходы на использование LLM превысят среднюю зарплату разработчика к 2028 году](https://habr.com/ru/news/1089384/?utm_campaign=1089384&utm_source=habrahabr&utm_medium=rss)
 - [IFPI требует от ЕС включить инструмент yt‑dlp для скачивания с YouTube в список способствующих пиратству ресурсов](https://habr.com/ru/news/1089186/?utm_campaign=1089186&utm_source=habrahabr&utm_medium=rss)
 - [В OpenAI раскрыли новый тип атак на ИИ‑агентов](https://habr.com/ru/news/1089072/?utm_campaign=1089072&utm_source=habrahabr&utm_medium=rss)
 - [Как Instagram Direct перестроил UI под ИИ-агентов и сократил расход токенов на 33%](https://habr.com/ru/companies/otus/news/1089054/?utm_campaign=1089054&utm_source=habrahabr&utm_medium=rss)
-- [Более 50% линий связи в России могут потребовать замены](https://habr.com/ru/news/1089052/?utm_campaign=1089052&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
