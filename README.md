@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek выпустили свой десктопный клиент](https://habr.com/ru/news/1089518/?utm_campaign=1089518&utm_source=habrahabr&utm_medium=rss)
-- [Регулятор США начал расследование рисков ИИ‑инструментов для потребителей и общественной безопасности](https://habr.com/ru/news/1089514/?utm_campaign=1089514&utm_source=habrahabr&utm_medium=rss)
-- [Гуманоидные роботы спасут производителей полупроводников от схлопывания пузыря ИИ](https://habr.com/ru/companies/selectel/news/1089174/?utm_campaign=1089174&utm_source=habrahabr&utm_medium=rss)
-- [Доходы от техсбора на гаджеты в 2027 году оценили в 11,7 млрд рублей](https://habr.com/ru/news/1089506/?utm_campaign=1089506&utm_source=habrahabr&utm_medium=rss)
-- [Gemini 4 Argon. Очередной победитель гонки нейросетей. А протестировать дадут?](https://habr.com/ru/companies/selectel/news/1089222/?utm_campaign=1089222&utm_source=habrahabr&utm_medium=rss)
+- [Perfscale news #13. Выжигание WASM модулей, http3 и первый postmortem](https://habr.com/ru/news/1089710/?utm_campaign=1089710&utm_source=habrahabr&utm_medium=rss)
+- [Космический инференс возможен, Google посчитала для себя. Нужно 1 800 запусков Starship](https://habr.com/ru/companies/selectel/news/1089592/?utm_campaign=1089592&utm_source=habrahabr&utm_medium=rss)
+- [Unit 42 нашли уязвимость в IBM Turbonomic и избыточные права у 5% операторов Kubernetes](https://habr.com/ru/companies/selectel/news/1089056/?utm_campaign=1089056&utm_source=habrahabr&utm_medium=rss)
+- [Калифорния приняла законы, ограничивающие использование ИИ для увольнения сотрудников](https://habr.com/ru/news/1089594/?utm_campaign=1089594&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект Lipflow для записи голосовых сообщений по движению губ](https://habr.com/ru/news/1089568/?utm_campaign=1089568&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
