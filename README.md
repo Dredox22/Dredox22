@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В Mozilla Thunderbird начали разработку нативного приложения для iPhone и iPad](https://habr.com/ru/news/1089774/?utm_campaign=1089774&utm_source=habrahabr&utm_medium=rss)
-- [Perfscale news #13. Выжигание WASM модулей, http3 и первый postmortem](https://habr.com/ru/news/1089710/?utm_campaign=1089710&utm_source=habrahabr&utm_medium=rss)
-- [Космический инференс возможен, Google посчитала для себя. Нужно 1 800 запусков Starship](https://habr.com/ru/companies/selectel/news/1089592/?utm_campaign=1089592&utm_source=habrahabr&utm_medium=rss)
-- [Unit 42 нашли уязвимость в IBM Turbonomic и избыточные права у 5% операторов Kubernetes](https://habr.com/ru/companies/selectel/news/1089056/?utm_campaign=1089056&utm_source=habrahabr&utm_medium=rss)
-- [Калифорния приняла законы, ограничивающие использование ИИ для увольнения сотрудников](https://habr.com/ru/news/1089594/?utm_campaign=1089594&utm_source=habrahabr&utm_medium=rss)
+- [NVIDIA представила AI-компьютер за $4999](https://habr.com/ru/news/1089948/?utm_campaign=1089948&utm_source=habrahabr&utm_medium=rss)
+- [Tesla снижает объем RAM в чипах AI5 и AI6](https://habr.com/ru/companies/selectel/news/1089738/?utm_campaign=1089738&utm_source=habrahabr&utm_medium=rss)
+- [Выпущен порт файлового менеджера DOS Navigator на Free Pascal](https://habr.com/ru/news/1089942/?utm_campaign=1089942&utm_source=habrahabr&utm_medium=rss)
+- [В OpenIDE Pro появилась публичная бета поддержки C#](https://habr.com/ru/companies/haulmont/news/1089888/?utm_campaign=1089888&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft упростила доступ к директориям в Windows 11 с помощью спецсимвола](https://habr.com/ru/news/1089884/?utm_campaign=1089884&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
