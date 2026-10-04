@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Пользователь Reddit купил подержанный процессор, который оказался заблокирован в Valorant](https://habr.com/ru/news/1090094/?utm_campaign=1090094&utm_source=habrahabr&utm_medium=rss)
-- [Apple опубликовала подборку из фотографий со складного iPhone Duo](https://habr.com/ru/news/1090092/?utm_campaign=1090092&utm_source=habrahabr&utm_medium=rss)
-- [Официальный аккаунт Microsoft в X взломали с рекламой токена Clippy](https://habr.com/ru/news/1090086/?utm_campaign=1090086&utm_source=habrahabr&utm_medium=rss)
-- [Релиз PDFsam &lpar;PDF Split And Merge&rpar; 6.0.6](https://habr.com/ru/news/1090020/?utm_campaign=1090020&utm_source=habrahabr&utm_medium=rss)
-- [Открытый менеджер шрифтов Fontmatrix для Linux и Windows после 19 лет разработки дошёл до версии 1.0](https://habr.com/ru/news/1089954/?utm_campaign=1089954&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый минималистичный браузер Northstar, написанный полностью с нуля на языке C](https://habr.com/ru/news/1090182/?utm_campaign=1090182&utm_source=habrahabr&utm_medium=rss)
+- [Nintendo закрыла мобильную игру Mario Kart Tour](https://habr.com/ru/news/1090142/?utm_campaign=1090142&utm_source=habrahabr&utm_medium=rss)
+- [Из‑за сбоя сети AT&amp;amp;T в iPhone 18 Pro Max владельцам придётся заменить смартфоны](https://habr.com/ru/news/1090112/?utm_campaign=1090112&utm_source=habrahabr&utm_medium=rss)
+- [Обновления для Linux: NVIDIA исправляет сбои, а NTFS-3G закрывает уязвимости](https://habr.com/ru/companies/selectel/news/1090074/?utm_campaign=1090074&utm_source=habrahabr&utm_medium=rss)
+- [AT&amp;amp;T, T‑Mobile и Verizon объявили о создании совместного предприятия для улучшения покрытия в удалённых районах США](https://habr.com/ru/news/1090110/?utm_campaign=1090110&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
