@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Представлен Kerbal Space Program &lpar;KSP&rpar; в браузере](https://habr.com/ru/news/1090010/?utm_campaign=1090010&utm_source=habrahabr&utm_medium=rss)
-- [NVIDIA представила AI-компьютер за $4999](https://habr.com/ru/news/1089948/?utm_campaign=1089948&utm_source=habrahabr&utm_medium=rss)
-- [Tesla снижает объем RAM в чипах AI5 и AI6](https://habr.com/ru/companies/selectel/news/1089738/?utm_campaign=1089738&utm_source=habrahabr&utm_medium=rss)
-- [Выпущен порт файлового менеджера DOS Navigator на Free Pascal](https://habr.com/ru/news/1089942/?utm_campaign=1089942&utm_source=habrahabr&utm_medium=rss)
-- [В OpenIDE Pro появилась публичная бета поддержки C#](https://habr.com/ru/companies/haulmont/news/1089888/?utm_campaign=1089888&utm_source=habrahabr&utm_medium=rss)
+- [Пользователь Reddit купил подержанный процессор, который оказался заблокирован в Valorant](https://habr.com/ru/news/1090094/?utm_campaign=1090094&utm_source=habrahabr&utm_medium=rss)
+- [Apple опубликовала подборку из фотографий со складного iPhone Duo](https://habr.com/ru/news/1090092/?utm_campaign=1090092&utm_source=habrahabr&utm_medium=rss)
+- [Официальный аккаунт Microsoft в X взломали с рекламой токена Clippy](https://habr.com/ru/news/1090086/?utm_campaign=1090086&utm_source=habrahabr&utm_medium=rss)
+- [Релиз PDFsam &lpar;PDF Split And Merge&rpar; 6.0.6](https://habr.com/ru/news/1090020/?utm_campaign=1090020&utm_source=habrahabr&utm_medium=rss)
+- [Открытый менеджер шрифтов Fontmatrix для Linux и Windows после 19 лет разработки дошёл до версии 1.0](https://habr.com/ru/news/1089954/?utm_campaign=1089954&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
