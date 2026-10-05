@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Приложение Bitchat Джека Дорси исчезло из магазинов приложений в Индии по требованию властей](https://habr.com/ru/news/1090348/?utm_campaign=1090348&utm_source=habrahabr&utm_medium=rss)
-- [Инфостарт готовит новую систему вознаграждения авторов статей](https://habr.com/ru/companies/infostart/news/1090316/?utm_campaign=1090316&utm_source=habrahabr&utm_medium=rss)
-- [Галлюцинации недели: Gemini 4 Argon, OpenAI DevDay и Sonnet 5.5 с большим аппетитом к токенам](https://habr.com/ru/news/1090152/?utm_campaign=1090152&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик представил игру, в которой смартфоны отбирают заряд друг друга по USB‑C](https://habr.com/ru/news/1090302/?utm_campaign=1090302&utm_source=habrahabr&utm_medium=rss)
-- [Представлена мобильная платформа /e/OS 4.3](https://habr.com/ru/news/1090160/?utm_campaign=1090160&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic запустила Claude Frontier Academy и вложит $100 млн в обучение инженеров](https://habr.com/ru/news/1090640/?utm_campaign=1090640&utm_source=habrahabr&utm_medium=rss)
+- [В Дании произошла утечка данных 8,8 млн граждан](https://habr.com/ru/news/1090622/?utm_campaign=1090622&utm_source=habrahabr&utm_medium=rss)
+- [AGIMA передала свой сайт ИИ-агенту и строит продуктовую линейку вокруг ИИ](https://habr.com/ru/companies/agima/news/1090572/?utm_campaign=1090572&utm_source=habrahabr&utm_medium=rss)
+- [Жительницу Флориды арестовали за обсуждение с Claude планов «устроить стрельбу» в офисе шерифа](https://habr.com/ru/news/1090574/?utm_campaign=1090574&utm_source=habrahabr&utm_medium=rss)
+- [РКН начал блокировать packagist.org &lpar;?&rpar;](https://habr.com/ru/news/1090568/?utm_campaign=1090568&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
