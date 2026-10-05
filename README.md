@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Представлен открытый минималистичный браузер Northstar, написанный полностью с нуля на языке C](https://habr.com/ru/news/1090182/?utm_campaign=1090182&utm_source=habrahabr&utm_medium=rss)
-- [Nintendo закрыла мобильную игру Mario Kart Tour](https://habr.com/ru/news/1090142/?utm_campaign=1090142&utm_source=habrahabr&utm_medium=rss)
-- [Из‑за сбоя сети AT&amp;amp;T в iPhone 18 Pro Max владельцам придётся заменить смартфоны](https://habr.com/ru/news/1090112/?utm_campaign=1090112&utm_source=habrahabr&utm_medium=rss)
-- [Обновления для Linux: NVIDIA исправляет сбои, а NTFS-3G закрывает уязвимости](https://habr.com/ru/companies/selectel/news/1090074/?utm_campaign=1090074&utm_source=habrahabr&utm_medium=rss)
-- [AT&amp;amp;T, T‑Mobile и Verizon объявили о создании совместного предприятия для улучшения покрытия в удалённых районах США](https://habr.com/ru/news/1090110/?utm_campaign=1090110&utm_source=habrahabr&utm_medium=rss)
+- [Приложение Bitchat Джека Дорси исчезло из магазинов приложений в Индии по требованию властей](https://habr.com/ru/news/1090348/?utm_campaign=1090348&utm_source=habrahabr&utm_medium=rss)
+- [Инфостарт готовит новую систему вознаграждения авторов статей](https://habr.com/ru/companies/infostart/news/1090316/?utm_campaign=1090316&utm_source=habrahabr&utm_medium=rss)
+- [Галлюцинации недели: Gemini 4 Argon, OpenAI DevDay и Sonnet 5.5 с большим аппетитом к токенам](https://habr.com/ru/news/1090152/?utm_campaign=1090152&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик представил игру, в которой смартфоны отбирают заряд друг друга по USB‑C](https://habr.com/ru/news/1090302/?utm_campaign=1090302&utm_source=habrahabr&utm_medium=rss)
+- [Представлена мобильная платформа /e/OS 4.3](https://habr.com/ru/news/1090160/?utm_campaign=1090160&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
