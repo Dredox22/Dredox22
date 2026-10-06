@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple исправила баг AirLift в iOS 27.2 beta 3, что закрыло работу CarrierSIM для активации 5G и VoWiFi в РФ на iPhone](https://habr.com/ru/news/1090786/?utm_campaign=1090786&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление Phiola 2.11 — открытого портативного мультиплатформенного аудиоплеера с поддержкой скриптов](https://habr.com/ru/news/1090580/?utm_campaign=1090580&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск дистрибутива Parrot OS 7.4 для этичного хакинга с ядром Linux 7.1](https://habr.com/ru/news/1090088/?utm_campaign=1090088&utm_source=habrahabr&utm_medium=rss)
-- [Новости $mol и Giper Dev](https://habr.com/ru/news/1090740/?utm_campaign=1090740&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic запустила Claude Frontier Academy и вложит $100 млн в обучение инженеров](https://habr.com/ru/news/1090640/?utm_campaign=1090640&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft вскоре начнёт блокировать дополнительные типы вложений в новой версии Outlook для Windows и веб‑версии](https://habr.com/ru/news/1091066/?utm_campaign=1091066&utm_source=habrahabr&utm_medium=rss)
+- [Сэм Альтман: Миру стоит смириться с негативными последствиями ради преимуществ ИИ](https://habr.com/ru/news/1090992/?utm_campaign=1090992&utm_source=habrahabr&utm_medium=rss)
+- [Фиксированные операторы заявили о блокировках звонков бизнес‑абонентов со стороны крупных мобильных операторов](https://habr.com/ru/news/1091050/?utm_campaign=1091050&utm_source=habrahabr&utm_medium=rss)
+- [SemiAnalysis: подписки Claude дают в пять раз больше по API-расценкам, чем ChatGPT](https://habr.com/ru/news/1091032/?utm_campaign=1091032&utm_source=habrahabr&utm_medium=rss)
+- [Пользователям Microsoft Authenticator на Android придётся создавать резервные копии данных в Google One](https://habr.com/ru/news/1090960/?utm_campaign=1090960&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
