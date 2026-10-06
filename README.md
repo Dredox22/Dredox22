@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft вскоре начнёт блокировать дополнительные типы вложений в новой версии Outlook для Windows и веб‑версии](https://habr.com/ru/news/1091066/?utm_campaign=1091066&utm_source=habrahabr&utm_medium=rss)
-- [Сэм Альтман: Миру стоит смириться с негативными последствиями ради преимуществ ИИ](https://habr.com/ru/news/1090992/?utm_campaign=1090992&utm_source=habrahabr&utm_medium=rss)
-- [Фиксированные операторы заявили о блокировках звонков бизнес‑абонентов со стороны крупных мобильных операторов](https://habr.com/ru/news/1091050/?utm_campaign=1091050&utm_source=habrahabr&utm_medium=rss)
-- [SemiAnalysis: подписки Claude дают в пять раз больше по API-расценкам, чем ChatGPT](https://habr.com/ru/news/1091032/?utm_campaign=1091032&utm_source=habrahabr&utm_medium=rss)
-- [Пользователям Microsoft Authenticator на Android придётся создавать резервные копии данных в Google One](https://habr.com/ru/news/1090960/?utm_campaign=1090960&utm_source=habrahabr&utm_medium=rss)
+- [В ЕС введут штрафы до 15 млн евро за публикацию нейрослопа без маркировки](https://habr.com/ru/companies/selectel/news/1056852/?utm_campaign=1056852&utm_source=habrahabr&utm_medium=rss)
+- [Сравнили 461 тысячу AI‑ответов: упоминание бренда не коррелирует с цитированием источника](https://habr.com/ru/news/1091190/?utm_campaign=1091190&utm_source=habrahabr&utm_medium=rss)
+- [Что ждет российский рынок ПО в 2027 году: обсудим на GuardConf](https://habr.com/ru/companies/aktiv-company/news/1091160/?utm_campaign=1091160&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ‑событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1091170/?utm_campaign=1091170&utm_source=habrahabr&utm_medium=rss)
+- [Mistral представили Large 4 “Le Chonk” на 1 трлн параметров](https://habr.com/ru/news/1091148/?utm_campaign=1091148&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
