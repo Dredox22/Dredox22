@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple исправила баг AirLift в iOS 27.2 beta 3, что закрыло работу CarrierSIM для активации 5G и VoWiFi в РФ на iPhone](https://habr.com/ru/news/1090786/?utm_campaign=1090786&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление Phiola 2.11 — открытого портативного мультиплатформенного аудиоплеера с поддержкой скриптов](https://habr.com/ru/news/1090580/?utm_campaign=1090580&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск дистрибутива Parrot OS 7.4 для этичного хакинга с ядром Linux 7.1](https://habr.com/ru/news/1090088/?utm_campaign=1090088&utm_source=habrahabr&utm_medium=rss)
 - [Новости $mol и Giper Dev](https://habr.com/ru/news/1090740/?utm_campaign=1090740&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic запустила Claude Frontier Academy и вложит $100 млн в обучение инженеров](https://habr.com/ru/news/1090640/?utm_campaign=1090640&utm_source=habrahabr&utm_medium=rss)
-- [В Дании произошла утечка данных 8,8 млн граждан](https://habr.com/ru/news/1090622/?utm_campaign=1090622&utm_source=habrahabr&utm_medium=rss)
-- [AGIMA передала свой сайт ИИ-агенту и строит продуктовую линейку вокруг ИИ](https://habr.com/ru/companies/agima/news/1090572/?utm_campaign=1090572&utm_source=habrahabr&utm_medium=rss)
-- [Жительницу Флориды арестовали за обсуждение с Claude планов «устроить стрельбу» в офисе шерифа](https://habr.com/ru/news/1090574/?utm_campaign=1090574&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
