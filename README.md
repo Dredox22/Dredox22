@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple обновила логотип Apple Music](https://habr.com/ru/news/1091810/?utm_campaign=1091810&utm_source=habrahabr&utm_medium=rss)
+- [«Солар» представил новую версию «ЗАСТАВА 9» для организаций любого масштаба – от небольшого офиса до ЦОД](https://habr.com/ru/companies/solarsecurity/news/1091770/?utm_campaign=1091770&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic выпустили Claude Haiku 5.5: базовые тарифы снизились в десять раз](https://habr.com/ru/news/1091758/?utm_campaign=1091758&utm_source=habrahabr&utm_medium=rss)
 - [Пакуем чемоданы и летим в Питер](https://habr.com/ru/companies/rtlabs/news/1091652/?utm_campaign=1091652&utm_source=habrahabr&utm_medium=rss)
 - [Вебинар CodeScoring: представляем безопасное хранилище артефактов CodeScoring.Save](https://habr.com/ru/companies/codescoring/news/1091638/?utm_campaign=1091638&utm_source=habrahabr&utm_medium=rss)
-- [Google выпустила Nano Banana 2.1](https://habr.com/ru/companies/bothub/news/1091616/?utm_campaign=1091616&utm_source=habrahabr&utm_medium=rss)
-- [NVIDIA подняла цену медиаплеера SHIELD TV Pro из 2019 года сразу на 50%](https://habr.com/ru/companies/selectel/news/1091330/?utm_campaign=1091330&utm_source=habrahabr&utm_medium=rss)
-- [Swordfish Security обновила фреймворк оценки AI Security](https://habr.com/ru/companies/swordfish_security/news/1091578/?utm_campaign=1091578&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
