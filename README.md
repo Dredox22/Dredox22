@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В ЕС введут штрафы до 15 млн евро за публикацию нейрослопа без маркировки](https://habr.com/ru/companies/selectel/news/1056852/?utm_campaign=1056852&utm_source=habrahabr&utm_medium=rss)
-- [Сравнили 461 тысячу AI‑ответов: упоминание бренда не коррелирует с цитированием источника](https://habr.com/ru/news/1091190/?utm_campaign=1091190&utm_source=habrahabr&utm_medium=rss)
-- [Что ждет российский рынок ПО в 2027 году: обсудим на GuardConf](https://habr.com/ru/companies/aktiv-company/news/1091160/?utm_campaign=1091160&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ‑событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1091170/?utm_campaign=1091170&utm_source=habrahabr&utm_medium=rss)
-- [Mistral представили Large 4 “Le Chonk” на 1 трлн параметров](https://habr.com/ru/news/1091148/?utm_campaign=1091148&utm_source=habrahabr&utm_medium=rss)
+- [Raspberry Pi впервые за четыре года обновила Raspberry Pi Desktop](https://habr.com/ru/news/1091458/?utm_campaign=1091458&utm_source=habrahabr&utm_medium=rss)
+- [Неожиданный октябрьский RC3-релиз и другие новости Python](https://habr.com/ru/companies/selectel/news/1091228/?utm_campaign=1091228&utm_source=habrahabr&utm_medium=rss)
+- [ИИ Claude построил опасный маршрут на гору для подростка](https://habr.com/ru/news/1091424/?utm_campaign=1091424&utm_source=habrahabr&utm_medium=rss)
+- [GitHub сделал stacked pull requests общедоступными](https://habr.com/ru/companies/otus/news/1091370/?utm_campaign=1091370&utm_source=habrahabr&utm_medium=rss)
+- [«Сферум» запустил сервис с информацией об олимпиадах для школьников](https://habr.com/ru/news/1091428/?utm_campaign=1091428&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
