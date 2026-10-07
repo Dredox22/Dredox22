@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Raspberry Pi впервые за четыре года обновила Raspberry Pi Desktop](https://habr.com/ru/news/1091458/?utm_campaign=1091458&utm_source=habrahabr&utm_medium=rss)
-- [Неожиданный октябрьский RC3-релиз и другие новости Python](https://habr.com/ru/companies/selectel/news/1091228/?utm_campaign=1091228&utm_source=habrahabr&utm_medium=rss)
-- [ИИ Claude построил опасный маршрут на гору для подростка](https://habr.com/ru/news/1091424/?utm_campaign=1091424&utm_source=habrahabr&utm_medium=rss)
-- [GitHub сделал stacked pull requests общедоступными](https://habr.com/ru/companies/otus/news/1091370/?utm_campaign=1091370&utm_source=habrahabr&utm_medium=rss)
-- [«Сферум» запустил сервис с информацией об олимпиадах для школьников](https://habr.com/ru/news/1091428/?utm_campaign=1091428&utm_source=habrahabr&utm_medium=rss)
+- [Пакуем чемоданы и летим в Питер](https://habr.com/ru/companies/rtlabs/news/1091652/?utm_campaign=1091652&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар CodeScoring: представляем безопасное хранилище артефактов CodeScoring.Save](https://habr.com/ru/companies/codescoring/news/1091638/?utm_campaign=1091638&utm_source=habrahabr&utm_medium=rss)
+- [Google выпустила Nano Banana 2.1](https://habr.com/ru/companies/bothub/news/1091616/?utm_campaign=1091616&utm_source=habrahabr&utm_medium=rss)
+- [NVIDIA подняла цену медиаплеера SHIELD TV Pro из 2019 года сразу на 50%](https://habr.com/ru/companies/selectel/news/1091330/?utm_campaign=1091330&utm_source=habrahabr&utm_medium=rss)
+- [Swordfish Security обновила фреймворк оценки AI Security](https://habr.com/ru/companies/swordfish_security/news/1091578/?utm_campaign=1091578&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
