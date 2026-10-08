@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [ИИ-инструмент Positive Technologies помог найти опасную уязвимость в промышленной платформе FUXA](https://habr.com/ru/companies/pt/news/1091978/?utm_campaign=1091978&utm_source=habrahabr&utm_medium=rss)
-- [Selectel расширяет платформу для запуска и развития ИИ-проектов](https://habr.com/ru/companies/selectel/news/1091120/?utm_campaign=1091120&utm_source=habrahabr&utm_medium=rss)
-- [Есть что сказать про Go? Приходите на Go weekend](https://habr.com/ru/companies/lamoda/news/1091848/?utm_campaign=1091848&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic выделит подписчикам Max до $200 в месяц на Claude API](https://habr.com/ru/news/1091932/?utm_campaign=1091932&utm_source=habrahabr&utm_medium=rss)
-- [GitHub сделал локальную песочницу Copilot общедоступной](https://habr.com/ru/companies/otus/news/1091930/?utm_campaign=1091930&utm_source=habrahabr&utm_medium=rss)
+- [Halo: Combat Evolved с кампанией и мультиплеером запустили в браузере](https://habr.com/ru/news/1092164/?utm_campaign=1092164&utm_source=habrahabr&utm_medium=rss)
+- [ФБР отстранило подрядчика Accenture, допустившего утечку данных агентов](https://habr.com/ru/news/1092132/?utm_campaign=1092132&utm_source=habrahabr&utm_medium=rss)
+- [Куда свернуть разработчику: 10 бесплатных способов сменить стек и трек — от QA до данных, ИИ и продукта](https://habr.com/ru/companies/netologyru/news/1092102/?utm_campaign=1092102&utm_source=habrahabr&utm_medium=rss)
+- [Обновление поддержки PHP в OpenIDE](https://habr.com/ru/companies/haulmont/news/1092124/?utm_campaign=1092124&utm_source=habrahabr&utm_medium=rss)
+- [Google выпустила официальный SDK для серверных приложений на Swift](https://habr.com/ru/news/1092112/?utm_campaign=1092112&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
