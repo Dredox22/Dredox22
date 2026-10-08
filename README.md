@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [CrowdStrike по истории Claude Code вычислили хакера, который атаковал банки Южной Кореи](https://habr.com/ru/news/1092204/?utm_campaign=1092204&utm_source=habrahabr&utm_medium=rss)
+- [Google открыл новый канал быстрой передачи свежего UGC в Поиск](https://habr.com/ru/news/1092202/?utm_campaign=1092202&utm_source=habrahabr&utm_medium=rss)
+- [На камере Hasselblad X2D запустили Doom: для этого пришлось связать игровой движок со штатным интерфейсом](https://habr.com/ru/news/1092182/?utm_campaign=1092182&utm_source=habrahabr&utm_medium=rss)
+- [В Telegram для macOS тестируют интерактивные HTML‑сообщения в чатах](https://habr.com/ru/news/1092168/?utm_campaign=1092168&utm_source=habrahabr&utm_medium=rss)
 - [Halo: Combat Evolved с кампанией и мультиплеером запустили в браузере](https://habr.com/ru/news/1092164/?utm_campaign=1092164&utm_source=habrahabr&utm_medium=rss)
-- [ФБР отстранило подрядчика Accenture, допустившего утечку данных агентов](https://habr.com/ru/news/1092132/?utm_campaign=1092132&utm_source=habrahabr&utm_medium=rss)
-- [Куда свернуть разработчику: 10 бесплатных способов сменить стек и трек — от QA до данных, ИИ и продукта](https://habr.com/ru/companies/netologyru/news/1092102/?utm_campaign=1092102&utm_source=habrahabr&utm_medium=rss)
-- [Обновление поддержки PHP в OpenIDE](https://habr.com/ru/companies/haulmont/news/1092124/?utm_campaign=1092124&utm_source=habrahabr&utm_medium=rss)
-- [Google выпустила официальный SDK для серверных приложений на Swift](https://habr.com/ru/news/1092112/?utm_campaign=1092112&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
