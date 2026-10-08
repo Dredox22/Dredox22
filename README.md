@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз открытого инструментария MediaInfo 26.10 для просмотра технических данных видеороликов и аудиофайлов](https://habr.com/ru/news/1091340/?utm_campaign=1091340&utm_source=habrahabr&utm_medium=rss)
+- [Вышел 7-Zip 26.04](https://habr.com/ru/news/1091326/?utm_campaign=1091326&utm_source=habrahabr&utm_medium=rss)
 - [Apple обновила логотип Apple Music](https://habr.com/ru/news/1091810/?utm_campaign=1091810&utm_source=habrahabr&utm_medium=rss)
 - [«Солар» представил новую версию «ЗАСТАВА 9» для организаций любого масштаба – от небольшого офиса до ЦОД](https://habr.com/ru/companies/solarsecurity/news/1091770/?utm_campaign=1091770&utm_source=habrahabr&utm_medium=rss)
 - [Anthropic выпустили Claude Haiku 5.5: базовые тарифы снизились в десять раз](https://habr.com/ru/news/1091758/?utm_campaign=1091758&utm_source=habrahabr&utm_medium=rss)
-- [Пакуем чемоданы и летим в Питер](https://habr.com/ru/companies/rtlabs/news/1091652/?utm_campaign=1091652&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар CodeScoring: представляем безопасное хранилище артефактов CodeScoring.Save](https://habr.com/ru/companies/codescoring/news/1091638/?utm_campaign=1091638&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
