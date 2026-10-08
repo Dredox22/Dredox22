@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз открытого инструментария MediaInfo 26.10 для просмотра технических данных видеороликов и аудиофайлов](https://habr.com/ru/news/1091340/?utm_campaign=1091340&utm_source=habrahabr&utm_medium=rss)
-- [Вышел 7-Zip 26.04](https://habr.com/ru/news/1091326/?utm_campaign=1091326&utm_source=habrahabr&utm_medium=rss)
-- [Apple обновила логотип Apple Music](https://habr.com/ru/news/1091810/?utm_campaign=1091810&utm_source=habrahabr&utm_medium=rss)
-- [«Солар» представил новую версию «ЗАСТАВА 9» для организаций любого масштаба – от небольшого офиса до ЦОД](https://habr.com/ru/companies/solarsecurity/news/1091770/?utm_campaign=1091770&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic выпустили Claude Haiku 5.5: базовые тарифы снизились в десять раз](https://habr.com/ru/news/1091758/?utm_campaign=1091758&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-инструмент Positive Technologies помог найти опасную уязвимость в промышленной платформе FUXA](https://habr.com/ru/companies/pt/news/1091978/?utm_campaign=1091978&utm_source=habrahabr&utm_medium=rss)
+- [Selectel расширяет платформу для запуска и развития ИИ-проектов](https://habr.com/ru/companies/selectel/news/1091120/?utm_campaign=1091120&utm_source=habrahabr&utm_medium=rss)
+- [Есть что сказать про Go? Приходите на Go weekend](https://habr.com/ru/companies/lamoda/news/1091848/?utm_campaign=1091848&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic выделит подписчикам Max до $200 в месяц на Claude API](https://habr.com/ru/news/1091932/?utm_campaign=1091932&utm_source=habrahabr&utm_medium=rss)
+- [GitHub сделал локальную песочницу Copilot общедоступной](https://habr.com/ru/companies/otus/news/1091930/?utm_campaign=1091930&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
