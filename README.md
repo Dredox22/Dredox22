@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft представила первый выпуск открытого проекта Litebox — безопасной ОС в форме библиотеки &lpar;Library OS&rpar;](https://habr.com/ru/news/1092016/?utm_campaign=1092016&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление RapidRAW 1.6.5 — открытого редактора изображений RAW](https://habr.com/ru/news/1092150/?utm_campaign=1092150&utm_source=habrahabr&utm_medium=rss)
 - [CrowdStrike по истории Claude Code вычислили хакера, который атаковал банки Южной Кореи](https://habr.com/ru/news/1092204/?utm_campaign=1092204&utm_source=habrahabr&utm_medium=rss)
 - [Google открыл новый канал быстрой передачи свежего UGC в Поиск](https://habr.com/ru/news/1092202/?utm_campaign=1092202&utm_source=habrahabr&utm_medium=rss)
 - [На камере Hasselblad X2D запустили Doom: для этого пришлось связать игровой движок со штатным интерфейсом](https://habr.com/ru/news/1092182/?utm_campaign=1092182&utm_source=habrahabr&utm_medium=rss)
-- [В Telegram для macOS тестируют интерактивные HTML‑сообщения в чатах](https://habr.com/ru/news/1092168/?utm_campaign=1092168&utm_source=habrahabr&utm_medium=rss)
-- [Halo: Combat Evolved с кампанией и мультиплеером запустили в браузере](https://habr.com/ru/news/1092164/?utm_campaign=1092164&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
