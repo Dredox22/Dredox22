@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google завершил самый долгий спам-апдейт года через 13 дней и 16 часов](https://habr.com/ru/news/1092584/?utm_campaign=1092584&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Python 3.15](https://habr.com/ru/news/1092576/?utm_campaign=1092576&utm_source=habrahabr&utm_medium=rss)
 - [Sipeed представила 32-канальный логический анализатор SLogic32U3 за 130 долларов](https://habr.com/ru/news/1092530/?utm_campaign=1092530&utm_source=habrahabr&utm_medium=rss)
 - [Perfscale news #14. Фикс fix, api reference и поддержка webrtc](https://habr.com/ru/news/1091612/?utm_campaign=1091612&utm_source=habrahabr&utm_medium=rss)
 - [VK через суд потребовала отменить санкции Евросюза](https://habr.com/ru/news/1092470/?utm_campaign=1092470&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи недовольны действиями Microsoft: объём общего хранилища OneDrive в тарифах M365 сокращён с 6 до 2 ТБ](https://habr.com/ru/news/1092442/?utm_campaign=1092442&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
