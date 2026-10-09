@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft представила первый выпуск открытого проекта Litebox — безопасной ОС в форме библиотеки &lpar;Library OS&rpar;](https://habr.com/ru/news/1092016/?utm_campaign=1092016&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление RapidRAW 1.6.5 — открытого редактора изображений RAW](https://habr.com/ru/news/1092150/?utm_campaign=1092150&utm_source=habrahabr&utm_medium=rss)
-- [CrowdStrike по истории Claude Code вычислили хакера, который атаковал банки Южной Кореи](https://habr.com/ru/news/1092204/?utm_campaign=1092204&utm_source=habrahabr&utm_medium=rss)
-- [Google открыл новый канал быстрой передачи свежего UGC в Поиск](https://habr.com/ru/news/1092202/?utm_campaign=1092202&utm_source=habrahabr&utm_medium=rss)
-- [На камере Hasselblad X2D запустили Doom: для этого пришлось связать игровой движок со штатным интерфейсом](https://habr.com/ru/news/1092182/?utm_campaign=1092182&utm_source=habrahabr&utm_medium=rss)
+- [Деплоим виртуалки через Terraform и GitOps: live-демо](https://habr.com/ru/companies/flant/news/1086372/?utm_campaign=1086372&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры планирует ввести требование по минимальной скорости интернета в квартирах](https://habr.com/ru/news/1092392/?utm_campaign=1092392&utm_source=habrahabr&utm_medium=rss)
+- [Альфа‑Будущее Хакатон: стажировка, кейс в портфолио и призовой фонд 3 млн рублей](https://habr.com/ru/companies/alfa/news/1092378/?utm_campaign=1092378&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик выпустил экспериментальный драйвер Nvidia для macOS с поддержкой Metal](https://habr.com/ru/news/1092366/?utm_campaign=1092366&utm_source=habrahabr&utm_medium=rss)
+- [GitLab создаст управляемую фабрику по разработке ПО](https://habr.com/ru/news/1092336/?utm_campaign=1092336&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
