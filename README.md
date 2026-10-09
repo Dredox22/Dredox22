@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Деплоим виртуалки через Terraform и GitOps: live-демо](https://habr.com/ru/companies/flant/news/1086372/?utm_campaign=1086372&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры планирует ввести требование по минимальной скорости интернета в квартирах](https://habr.com/ru/news/1092392/?utm_campaign=1092392&utm_source=habrahabr&utm_medium=rss)
-- [Альфа‑Будущее Хакатон: стажировка, кейс в портфолио и призовой фонд 3 млн рублей](https://habr.com/ru/companies/alfa/news/1092378/?utm_campaign=1092378&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик выпустил экспериментальный драйвер Nvidia для macOS с поддержкой Metal](https://habr.com/ru/news/1092366/?utm_campaign=1092366&utm_source=habrahabr&utm_medium=rss)
-- [GitLab создаст управляемую фабрику по разработке ПО](https://habr.com/ru/news/1092336/?utm_campaign=1092336&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Python 3.15](https://habr.com/ru/news/1092576/?utm_campaign=1092576&utm_source=habrahabr&utm_medium=rss)
+- [Sipeed представила 32-канальный логический анализатор SLogic32U3 за 130 долларов](https://habr.com/ru/news/1092530/?utm_campaign=1092530&utm_source=habrahabr&utm_medium=rss)
+- [Perfscale news #14. Фикс fix, api reference и поддержка webrtc](https://habr.com/ru/news/1091612/?utm_campaign=1091612&utm_source=habrahabr&utm_medium=rss)
+- [VK через суд потребовала отменить санкции Евросюза](https://habr.com/ru/news/1092470/?utm_campaign=1092470&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи недовольны действиями Microsoft: объём общего хранилища OneDrive в тарифах M365 сокращён с 6 до 2 ТБ](https://habr.com/ru/news/1092442/?utm_campaign=1092442&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
