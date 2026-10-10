@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В Москве прошла конференция СисАдмин 2026: Linux, мониторинг, ИИ и немного Стива Возняка](https://habr.com/ru/news/1092618/?utm_campaign=1092618&utm_source=habrahabr&utm_medium=rss)
-- [Google завершил самый долгий спам-апдейт года через 13 дней и 16 часов](https://habr.com/ru/news/1092584/?utm_campaign=1092584&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Python 3.15](https://habr.com/ru/news/1092576/?utm_campaign=1092576&utm_source=habrahabr&utm_medium=rss)
-- [Sipeed представила 32-канальный логический анализатор SLogic32U3 за 130 долларов](https://habr.com/ru/news/1092530/?utm_campaign=1092530&utm_source=habrahabr&utm_medium=rss)
-- [Perfscale news #14. Фикс fix, api reference и поддержка webrtc](https://habr.com/ru/news/1091612/?utm_campaign=1091612&utm_source=habrahabr&utm_medium=rss)
+- [К пользователю пришла полиция после сборки камеры по образцу Flock](https://habr.com/ru/news/1092660/?utm_campaign=1092660&utm_source=habrahabr&utm_medium=rss)
+- [ИИ‑модель Anthropic отправила в полицию Филадельфии ложное сообщение об убийстве](https://habr.com/ru/news/1092650/?utm_campaign=1092650&utm_source=habrahabr&utm_medium=rss)
+- [Рэймонд Чен: не стоит использовать несколько антивирусов в Windows](https://habr.com/ru/news/1092642/?utm_campaign=1092642&utm_source=habrahabr&utm_medium=rss)
+- [Cloudflare приобрела Deno Land Inc, разработчика JavaScript-платформы Deno](https://habr.com/ru/news/1092638/?utm_campaign=1092638&utm_source=habrahabr&utm_medium=rss)
+- [ИИ, DevOps и пределы производительности 1С: заключительный день TECH EVENT 2026](https://habr.com/ru/companies/infostart/news/1090894/?utm_campaign=1090894&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
