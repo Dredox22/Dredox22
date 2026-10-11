@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Яндекс Пэй продолжает восстанавливать работу после повреждения дата-центра](https://habr.com/ru/news/1093020/?utm_campaign=1093020&utm_source=habrahabr&utm_medium=rss)
+- [«Тантор Лабс» предложила альтернативу публичным облакам: собственный DBaaS на Tantor XData с развёртыванием от трёх дней](https://habr.com/ru/companies/tantor/news/1093006/?utm_campaign=1093006&utm_source=habrahabr&utm_medium=rss)
 - [Good Bear 1.0.1 &lpar;Firefox 157&rpar;: обособленное хранилище паролей для российского контейнера](https://habr.com/ru/news/1092970/?utm_campaign=1092970&utm_source=habrahabr&utm_medium=rss)
 - [С помощью ИИ были созданы клоны всех программ Adobe, Microsoft Office и AutoCAD](https://habr.com/ru/news/1092950/?utm_campaign=1092950&utm_source=habrahabr&utm_medium=rss)
 - [Asana снизила стоимость браузерного ИИ-агента в 29 раз, исправив кэш истории](https://habr.com/ru/news/1092922/?utm_campaign=1092922&utm_source=habrahabr&utm_medium=rss)
-- [Odyssey открыла доступ к модели, которая генерирует интерактивные миры в реальном времени](https://habr.com/ru/companies/koda/news/1092870/?utm_campaign=1092870&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск открытой платформы для самостоятельного хранения и управления фото и видео Immich 3.3](https://habr.com/ru/news/1092668/?utm_campaign=1092668&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
