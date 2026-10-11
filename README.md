@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышел релиз stm32-gdbtest 0.4.1](https://habr.com/ru/news/1092732/?utm_campaign=1092732&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic запретила использовать Claude для создания ложных источников поисковой выдачи и ответов ИИ](https://habr.com/ru/news/1092716/?utm_campaign=1092716&utm_source=habrahabr&utm_medium=rss)
-- [JetBrains выпустила Mellum2.1 под лицензией Apache 2.0](https://habr.com/ru/companies/selectel/news/1092682/?utm_campaign=1092682&utm_source=habrahabr&utm_medium=rss)
-- [К пользователю пришла полиция после сборки камеры по образцу Flock](https://habr.com/ru/news/1092660/?utm_campaign=1092660&utm_source=habrahabr&utm_medium=rss)
-- [ИИ‑модель Anthropic отправила в полицию Филадельфии ложное сообщение об убийстве](https://habr.com/ru/news/1092650/?utm_campaign=1092650&utm_source=habrahabr&utm_medium=rss)
+- [Odyssey открыла доступ к модели, которая генерирует интерактивные миры в реальном времени](https://habr.com/ru/companies/koda/news/1092870/?utm_campaign=1092870&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск открытой платформы для самостоятельного хранения и управления фото и видео Immich 3.3](https://habr.com/ru/news/1092668/?utm_campaign=1092668&utm_source=habrahabr&utm_medium=rss)
+- [В OpenIDE Pro появилась публичная бета поддержки Jupyter Notebook](https://habr.com/ru/companies/haulmont/news/1092048/?utm_campaign=1092048&utm_source=habrahabr&utm_medium=rss)
+- [Демонстрационная БД Marketplace для РЕД Базы Данных](https://habr.com/ru/news/1092798/?utm_campaign=1092798&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Microsoft Edge 155](https://habr.com/ru/news/1092634/?utm_campaign=1092634&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
