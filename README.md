@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Разработчик выпустил утилиту для подключения Apple Watch к Android, Windows и Linux](https://habr.com/ru/news/1093070/?utm_campaign=1093070&utm_source=habrahabr&utm_medium=rss)
-- [Директор по стратегическому маркетингу «Яндекса»: в компании регулярно отрабатывали на учениях потерю одного дата‑центра](https://habr.com/ru/news/1093056/?utm_campaign=1093056&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Brython 3.15 &lpar;Browser Python&rpar;](https://habr.com/ru/news/1092978/?utm_campaign=1092978&utm_source=habrahabr&utm_medium=rss)
-- [Вышла СУБД SQLite 3.54](https://habr.com/ru/news/1092976/?utm_campaign=1092976&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс Пэй продолжает восстанавливать работу после повреждения дата-центра](https://habr.com/ru/news/1093020/?utm_campaign=1093020&utm_source=habrahabr&utm_medium=rss)
+- [Глава Nothing Карл Пей считает iPhone Duo за $2 тысячи «пустой тратой денег»](https://habr.com/ru/news/1093474/?utm_campaign=1093474&utm_source=habrahabr&utm_medium=rss)
+- [Минцифры обсуждает новые правила для виртуальных операторов](https://habr.com/ru/news/1093416/?utm_campaign=1093416&utm_source=habrahabr&utm_medium=rss)
+- [Команды ИИ-агентов оказывались в 5 раз дороже одиночных в тестах Vals AI. Стоит ли переплачивать?](https://habr.com/ru/news/1093458/?utm_campaign=1093458&utm_source=habrahabr&utm_medium=rss)
+- [Sony получила патент на систему, позволяющую зрителям влиять на игровой процесс стримеров](https://habr.com/ru/news/1093446/?utm_campaign=1093446&utm_source=habrahabr&utm_medium=rss)
+- [Как Национальный центр ураганов США сделал ставку на ИИ-прогноз Isaias](https://habr.com/ru/companies/selectel/news/1093380/?utm_campaign=1093380&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
