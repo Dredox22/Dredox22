@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Проект мессенджера «Молния» от китайской компании Passion и «Ред Софт» вышел в RuStore и оказался платным продуктом](https://habr.com/ru/news/1093522/?utm_campaign=1093522&utm_source=habrahabr&utm_medium=rss)
 - [Глава Nothing Карл Пей считает iPhone Duo за $2 тысячи «пустой тратой денег»](https://habr.com/ru/news/1093474/?utm_campaign=1093474&utm_source=habrahabr&utm_medium=rss)
 - [Минцифры обсуждает новые правила для виртуальных операторов](https://habr.com/ru/news/1093416/?utm_campaign=1093416&utm_source=habrahabr&utm_medium=rss)
 - [Команды ИИ-агентов оказывались в 5 раз дороже одиночных в тестах Vals AI. Стоит ли переплачивать?](https://habr.com/ru/news/1093458/?utm_campaign=1093458&utm_source=habrahabr&utm_medium=rss)
 - [Sony получила патент на систему, позволяющую зрителям влиять на игровой процесс стримеров](https://habr.com/ru/news/1093446/?utm_campaign=1093446&utm_source=habrahabr&utm_medium=rss)
-- [Как Национальный центр ураганов США сделал ставку на ИИ-прогноз Isaias](https://habr.com/ru/companies/selectel/news/1093380/?utm_campaign=1093380&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
