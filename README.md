@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Проект мессенджера «Молния» от китайской компании Passion и «Ред Софт» вышел в RuStore и оказался платным продуктом](https://habr.com/ru/news/1093522/?utm_campaign=1093522&utm_source=habrahabr&utm_medium=rss)
-- [Глава Nothing Карл Пей считает iPhone Duo за $2 тысячи «пустой тратой денег»](https://habr.com/ru/news/1093474/?utm_campaign=1093474&utm_source=habrahabr&utm_medium=rss)
-- [Минцифры обсуждает новые правила для виртуальных операторов](https://habr.com/ru/news/1093416/?utm_campaign=1093416&utm_source=habrahabr&utm_medium=rss)
-- [Команды ИИ-агентов оказывались в 5 раз дороже одиночных в тестах Vals AI. Стоит ли переплачивать?](https://habr.com/ru/news/1093458/?utm_campaign=1093458&utm_source=habrahabr&utm_medium=rss)
-- [Sony получила патент на систему, позволяющую зрителям влиять на игровой процесс стримеров](https://habr.com/ru/news/1093446/?utm_campaign=1093446&utm_source=habrahabr&utm_medium=rss)
+- [К2Тех запустил ИИ-агента внутри 1С](https://habr.com/ru/companies/k2tech/news/1093562/?utm_campaign=1093562&utm_source=habrahabr&utm_medium=rss)
+- [Галлюцинации недели: Mistral Large 4, Claude Haiku 5.5 и переход Deno в Cloudflare](https://habr.com/ru/news/1093328/?utm_campaign=1093328&utm_source=habrahabr&utm_medium=rss)
+- [Президент Microsoft: регулирование ИИ слабее, чем молока и стиральных машин](https://habr.com/ru/news/1093638/?utm_campaign=1093638&utm_source=habrahabr&utm_medium=rss)
+- [Торвальдс: ИИ — замечательный инструмент, если воспринимать его как инструмент](https://habr.com/ru/news/1093620/?utm_campaign=1093620&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia и Cisco представили оптический модуль для сетей ИИ‑фабрик](https://habr.com/ru/news/1093614/?utm_campaign=1093614&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
