@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [К2Тех запустил ИИ-агента внутри 1С](https://habr.com/ru/companies/k2tech/news/1093562/?utm_campaign=1093562&utm_source=habrahabr&utm_medium=rss)
-- [Галлюцинации недели: Mistral Large 4, Claude Haiku 5.5 и переход Deno в Cloudflare](https://habr.com/ru/news/1093328/?utm_campaign=1093328&utm_source=habrahabr&utm_medium=rss)
-- [Президент Microsoft: регулирование ИИ слабее, чем молока и стиральных машин](https://habr.com/ru/news/1093638/?utm_campaign=1093638&utm_source=habrahabr&utm_medium=rss)
-- [Торвальдс: ИИ — замечательный инструмент, если воспринимать его как инструмент](https://habr.com/ru/news/1093620/?utm_campaign=1093620&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia и Cisco представили оптический модуль для сетей ИИ‑фабрик](https://habr.com/ru/news/1093614/?utm_campaign=1093614&utm_source=habrahabr&utm_medium=rss)
+- [CodeScoring и ИСП РАН с соавторами завершают работу над стандартом композиционного анализа](https://habr.com/ru/companies/codescoring/news/1093974/?utm_campaign=1093974&utm_source=habrahabr&utm_medium=rss)
+- [Четвертый игрок на вершине. Что умеет Muse Wonder и сколько она стоит](https://habr.com/ru/companies/selectel/news/1093926/?utm_campaign=1093926&utm_source=habrahabr&utm_medium=rss)
+- [Митап по безопасной разработке: говорим о реальных угрозах](https://habr.com/ru/companies/infotecs_tech/news/1093806/?utm_campaign=1093806&utm_source=habrahabr&utm_medium=rss)
+- [Mozilla анонсировала браузер Firefox Enterprise](https://habr.com/ru/news/1093748/?utm_campaign=1093748&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Firefox 158.0](https://habr.com/ru/news/1093426/?utm_campaign=1093426&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
