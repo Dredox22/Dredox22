@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Gemini 4 Argon вышла из закрытого теста: пишет в 15 раз больше, чем Gemini 3](https://habr.com/ru/companies/gptunnel/news/1094038/?utm_campaign=1094038&utm_source=habrahabr&utm_medium=rss)
+- [Valve опубликовала CAD‑модели Steam Frame для создания аксессуаров](https://habr.com/ru/news/1094028/?utm_campaign=1094028&utm_source=habrahabr&utm_medium=rss)
 - [CodeScoring и ИСП РАН с соавторами завершают работу над стандартом композиционного анализа](https://habr.com/ru/companies/codescoring/news/1093974/?utm_campaign=1093974&utm_source=habrahabr&utm_medium=rss)
 - [Четвертый игрок на вершине. Что умеет Muse Wonder и сколько она стоит](https://habr.com/ru/companies/selectel/news/1093926/?utm_campaign=1093926&utm_source=habrahabr&utm_medium=rss)
 - [Митап по безопасной разработке: говорим о реальных угрозах](https://habr.com/ru/companies/infotecs_tech/news/1093806/?utm_campaign=1093806&utm_source=habrahabr&utm_medium=rss)
-- [Mozilla анонсировала браузер Firefox Enterprise](https://habr.com/ru/news/1093748/?utm_campaign=1093748&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Firefox 158.0](https://habr.com/ru/news/1093426/?utm_campaign=1093426&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
