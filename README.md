@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini 4 Argon вышла из закрытого теста: пишет в 15 раз больше, чем Gemini 3](https://habr.com/ru/companies/gptunnel/news/1094038/?utm_campaign=1094038&utm_source=habrahabr&utm_medium=rss)
-- [Valve опубликовала CAD‑модели Steam Frame для создания аксессуаров](https://habr.com/ru/news/1094028/?utm_campaign=1094028&utm_source=habrahabr&utm_medium=rss)
-- [CodeScoring и ИСП РАН с соавторами завершают работу над стандартом композиционного анализа](https://habr.com/ru/companies/codescoring/news/1093974/?utm_campaign=1093974&utm_source=habrahabr&utm_medium=rss)
-- [Четвертый игрок на вершине. Что умеет Muse Wonder и сколько она стоит](https://habr.com/ru/companies/selectel/news/1093926/?utm_campaign=1093926&utm_source=habrahabr&utm_medium=rss)
-- [Митап по безопасной разработке: говорим о реальных угрозах](https://habr.com/ru/companies/infotecs_tech/news/1093806/?utm_campaign=1093806&utm_source=habrahabr&utm_medium=rss)
+- [В офисе OpenAI обнаружили шпионское устройство в конференц‑зале](https://habr.com/ru/news/1094118/?utm_campaign=1094118&utm_source=habrahabr&utm_medium=rss)
+- [В Microsoft представили Xbox Labs в рамках тренда на создание ремиксов игр с помощью ИИ](https://habr.com/ru/news/1094108/?utm_campaign=1094108&utm_source=habrahabr&utm_medium=rss)
+- [Выход Linux Mint 27 «Adrien» на базе Ubuntu 26.04 LTS запланирован в конце 2026 года](https://habr.com/ru/news/1094006/?utm_campaign=1094006&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск открытого модульного шрифтового движка FreeType 2.15](https://habr.com/ru/news/1093706/?utm_campaign=1093706&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Mozilla Thunderbird 158.0](https://habr.com/ru/news/1093520/?utm_campaign=1093520&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
