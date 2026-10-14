@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [166 страниц доказательства и месяц споров: как OpenAI запутала математиков решением Навье–Стокса](https://habr.com/ru/news/1094452/?utm_campaign=1094452&utm_source=habrahabr&utm_medium=rss)
-- [Дайджест: 8 свежих CVE, которые уже активно используют злоумышленники](https://habr.com/ru/companies/garda/news/1094384/?utm_campaign=1094384&utm_source=habrahabr&utm_medium=rss)
-- [Certain Things представила Sprout — плату для старых iPod с поддержкой Bluetooth, Wi‑Fi и стриминговых сервисов](https://habr.com/ru/news/1094408/?utm_campaign=1094408&utm_source=habrahabr&utm_medium=rss)
-- [Почему Anthropic написала собственную замену Git и чему это учит остальных](https://habr.com/ru/companies/selectel/news/1094398/?utm_campaign=1094398&utm_source=habrahabr&utm_medium=rss)
-- [YouTube расширили доступ к функции ИИ‑поиска Ask YouTube](https://habr.com/ru/news/1094376/?utm_campaign=1094376&utm_source=habrahabr&utm_medium=rss)
+- [Сделал CEO AI: помощника для обсуждения задач и работы с ИИ-агентами](https://habr.com/ru/news/1094526/?utm_campaign=1094526&utm_source=habrahabr&utm_medium=rss)
+- [Игры для PS5 теперь можно запускать на Xbox: разработчик портировал эмулятор KytyPS5](https://habr.com/ru/news/1094522/?utm_campaign=1094522&utm_source=habrahabr&utm_medium=rss)
+- [RoboParty опубликовала исходники открытого человекоподобного робота RP1](https://habr.com/ru/news/1094508/?utm_campaign=1094508&utm_source=habrahabr&utm_medium=rss)
+- [На взломанной PlayStation 5 запустили Qwen с 27 млрд параметров и 2-битным квантованием](https://habr.com/ru/news/1094494/?utm_campaign=1094494&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-агенты OpenAI генерируют больше текста и кода, чем обычный ChatGPT](https://habr.com/ru/news/1094478/?utm_campaign=1094478&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
