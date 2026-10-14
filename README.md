@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В офисе OpenAI обнаружили шпионское устройство в конференц‑зале](https://habr.com/ru/news/1094118/?utm_campaign=1094118&utm_source=habrahabr&utm_medium=rss)
-- [В Microsoft представили Xbox Labs в рамках тренда на создание ремиксов игр с помощью ИИ](https://habr.com/ru/news/1094108/?utm_campaign=1094108&utm_source=habrahabr&utm_medium=rss)
-- [Выход Linux Mint 27 «Adrien» на базе Ubuntu 26.04 LTS запланирован в конце 2026 года](https://habr.com/ru/news/1094006/?utm_campaign=1094006&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск открытого модульного шрифтового движка FreeType 2.15](https://habr.com/ru/news/1093706/?utm_campaign=1093706&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Mozilla Thunderbird 158.0](https://habr.com/ru/news/1093520/?utm_campaign=1093520&utm_source=habrahabr&utm_medium=rss)
+- [Релиз KDE Plasma 6.8 в день тридцатилетия проекта](https://habr.com/ru/news/1094290/?utm_campaign=1094290&utm_source=habrahabr&utm_medium=rss)
+- [Positive Technologies: российские компании теряют до 1,5 млрд рублей из-за программ-вымогателей](https://habr.com/ru/companies/pt/news/1094282/?utm_campaign=1094282&utm_source=habrahabr&utm_medium=rss)
+- [Google открыла разработчикам доступ к Gemini 4 Argon через API и инструменты разработки](https://habr.com/ru/companies/otus/news/1094276/?utm_campaign=1094276&utm_source=habrahabr&utm_medium=rss)
+- [Банкам попросили дать дополнительное время для заключения договоров о маркировке звонков](https://habr.com/ru/news/1094272/?utm_campaign=1094272&utm_source=habrahabr&utm_medium=rss)
+- [RIP Ричард Levelord Грей &lpar;1957 — 2026&rpar;](https://habr.com/ru/companies/ddosguard/news/1094266/?utm_campaign=1094266&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
