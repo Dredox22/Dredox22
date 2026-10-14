@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз KDE Plasma 6.8 в день тридцатилетия проекта](https://habr.com/ru/news/1094290/?utm_campaign=1094290&utm_source=habrahabr&utm_medium=rss)
-- [Positive Technologies: российские компании теряют до 1,5 млрд рублей из-за программ-вымогателей](https://habr.com/ru/companies/pt/news/1094282/?utm_campaign=1094282&utm_source=habrahabr&utm_medium=rss)
-- [Google открыла разработчикам доступ к Gemini 4 Argon через API и инструменты разработки](https://habr.com/ru/companies/otus/news/1094276/?utm_campaign=1094276&utm_source=habrahabr&utm_medium=rss)
-- [Банкам попросили дать дополнительное время для заключения договоров о маркировке звонков](https://habr.com/ru/news/1094272/?utm_campaign=1094272&utm_source=habrahabr&utm_medium=rss)
-- [RIP Ричард Levelord Грей &lpar;1957 — 2026&rpar;](https://habr.com/ru/companies/ddosguard/news/1094266/?utm_campaign=1094266&utm_source=habrahabr&utm_medium=rss)
+- [166 страниц доказательства и месяц споров: как OpenAI запутала математиков решением Навье–Стокса](https://habr.com/ru/news/1094452/?utm_campaign=1094452&utm_source=habrahabr&utm_medium=rss)
+- [Дайджест: 8 свежих CVE, которые уже активно используют злоумышленники](https://habr.com/ru/companies/garda/news/1094384/?utm_campaign=1094384&utm_source=habrahabr&utm_medium=rss)
+- [Certain Things представила Sprout — плату для старых iPod с поддержкой Bluetooth, Wi‑Fi и стриминговых сервисов](https://habr.com/ru/news/1094408/?utm_campaign=1094408&utm_source=habrahabr&utm_medium=rss)
+- [Почему Anthropic написала собственную замену Git и чему это учит остальных](https://habr.com/ru/companies/selectel/news/1094398/?utm_campaign=1094398&utm_source=habrahabr&utm_medium=rss)
+- [YouTube расширили доступ к функции ИИ‑поиска Ask YouTube](https://habr.com/ru/news/1094376/?utm_campaign=1094376&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
