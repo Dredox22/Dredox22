@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [ИИ-агенты в разработке, PaaS-сервисы для работы с данными и автоматизация документации: анонсы на GoCloud Tech 2026](https://habr.com/ru/companies/cloud_ru/news/1094868/?utm_campaign=1094868&utm_source=habrahabr&utm_medium=rss)
+- [В Google Play нашли поддельный Google Chrome с более 100 000 загрузок](https://habr.com/ru/news/1094880/?utm_campaign=1094880&utm_source=habrahabr&utm_medium=rss)
+- [Bank of America нанял 1 тысячу сторонних специалистов для устранения уязвимостей в ПО, выявленных Mythos от Anthropic](https://habr.com/ru/news/1094852/?utm_campaign=1094852&utm_source=habrahabr&utm_medium=rss)
 - [Grok Voice 3.0 возглавила рейтинг Artificial Analysis. Голосовые агенты стали быстрее, точнее](https://habr.com/ru/companies/selectel/news/1094792/?utm_campaign=1094792&utm_source=habrahabr&utm_medium=rss)
 - [Google расширяет антискам‑защиту Андроида: Gemini проверит переписку и новые ссылки](https://habr.com/ru/news/1094820/?utm_campaign=1094820&utm_source=habrahabr&utm_medium=rss)
-- [К2 Кибербезопасность стала авторизованным сервисным партнером UserGate по техподдержке NGFW](https://habr.com/ru/companies/k2tech/news/1094802/?utm_campaign=1094802&utm_source=habrahabr&utm_medium=rss)
-- [Google начала продавать смартфоны в магазине приложений Play Store](https://habr.com/ru/news/1094800/?utm_campaign=1094800&utm_source=habrahabr&utm_medium=rss)
-- [Решили проблему обучения с подкреплением. Новая работа показывает цену reward hacking в пост‑тренинге](https://habr.com/ru/companies/selectel/news/1094790/?utm_campaign=1094790&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
