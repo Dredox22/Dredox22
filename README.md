@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Представлен открытый проект NetWatch для диагностики сетевой активности](https://habr.com/ru/news/1094358/?utm_campaign=1094358&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск BATorrent 4.9 — BitTorrent-клиента, созданного на C++, Qt 6 и libtorrent-rasterbar](https://habr.com/ru/news/1094242/?utm_campaign=1094242&utm_source=habrahabr&utm_medium=rss)
-- [Сделал CEO AI: помощника для обсуждения задач и работы с ИИ-агентами](https://habr.com/ru/news/1094526/?utm_campaign=1094526&utm_source=habrahabr&utm_medium=rss)
-- [Игры для PS5 теперь можно запускать на Xbox: разработчик портировал эмулятор KytyPS5](https://habr.com/ru/news/1094522/?utm_campaign=1094522&utm_source=habrahabr&utm_medium=rss)
-- [RoboParty опубликовала исходники открытого человекоподобного робота RP1](https://habr.com/ru/news/1094508/?utm_campaign=1094508&utm_source=habrahabr&utm_medium=rss)
+- [Вышел VS Code 1.142: интерактивные панели для ИИ-агентов, перенос чатов и улучшения Markdown](https://habr.com/ru/companies/otus/news/1094646/?utm_campaign=1094646&utm_source=habrahabr&utm_medium=rss)
+- [Бизнес попросил выделить 15 млрд рублей на разработку российских чипов для ИИ](https://habr.com/ru/news/1094628/?utm_campaign=1094628&utm_source=habrahabr&utm_medium=rss)
+- [Подборка хакатонов с дедлайном в октябре 2026](https://habr.com/ru/news/1094372/?utm_campaign=1094372&utm_source=habrahabr&utm_medium=rss)
+- [Операторы связи согласились отложить блокировку звонков банков без маркировки](https://habr.com/ru/news/1094614/?utm_campaign=1094614&utm_source=habrahabr&utm_medium=rss)
+- [Claude отправил Департаменту полиции Филадельфии ложную информацию о нераскрытом убийстве](https://habr.com/ru/news/1094612/?utm_campaign=1094612&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
