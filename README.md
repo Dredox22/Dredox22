@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлен открытый проект NetWatch для диагностики сетевой активности](https://habr.com/ru/news/1094358/?utm_campaign=1094358&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск BATorrent 4.9 — BitTorrent-клиента, созданного на C++, Qt 6 и libtorrent-rasterbar](https://habr.com/ru/news/1094242/?utm_campaign=1094242&utm_source=habrahabr&utm_medium=rss)
 - [Сделал CEO AI: помощника для обсуждения задач и работы с ИИ-агентами](https://habr.com/ru/news/1094526/?utm_campaign=1094526&utm_source=habrahabr&utm_medium=rss)
 - [Игры для PS5 теперь можно запускать на Xbox: разработчик портировал эмулятор KytyPS5](https://habr.com/ru/news/1094522/?utm_campaign=1094522&utm_source=habrahabr&utm_medium=rss)
 - [RoboParty опубликовала исходники открытого человекоподобного робота RP1](https://habr.com/ru/news/1094508/?utm_campaign=1094508&utm_source=habrahabr&utm_medium=rss)
-- [На взломанной PlayStation 5 запустили Qwen с 27 млрд параметров и 2-битным квантованием](https://habr.com/ru/news/1094494/?utm_campaign=1094494&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-агенты OpenAI генерируют больше текста и кода, чем обычный ChatGPT](https://habr.com/ru/news/1094478/?utm_campaign=1094478&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
