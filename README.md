@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышел VS Code 1.142: интерактивные панели для ИИ-агентов, перенос чатов и улучшения Markdown](https://habr.com/ru/companies/otus/news/1094646/?utm_campaign=1094646&utm_source=habrahabr&utm_medium=rss)
-- [Бизнес попросил выделить 15 млрд рублей на разработку российских чипов для ИИ](https://habr.com/ru/news/1094628/?utm_campaign=1094628&utm_source=habrahabr&utm_medium=rss)
-- [Подборка хакатонов с дедлайном в октябре 2026](https://habr.com/ru/news/1094372/?utm_campaign=1094372&utm_source=habrahabr&utm_medium=rss)
-- [Операторы связи согласились отложить блокировку звонков банков без маркировки](https://habr.com/ru/news/1094614/?utm_campaign=1094614&utm_source=habrahabr&utm_medium=rss)
-- [Claude отправил Департаменту полиции Филадельфии ложную информацию о нераскрытом убийстве](https://habr.com/ru/news/1094612/?utm_campaign=1094612&utm_source=habrahabr&utm_medium=rss)
+- [Grok Voice 3.0 возглавила рейтинг Artificial Analysis. Голосовые агенты стали быстрее, точнее](https://habr.com/ru/companies/selectel/news/1094792/?utm_campaign=1094792&utm_source=habrahabr&utm_medium=rss)
+- [Google расширяет антискам‑защиту Андроида: Gemini проверит переписку и новые ссылки](https://habr.com/ru/news/1094820/?utm_campaign=1094820&utm_source=habrahabr&utm_medium=rss)
+- [К2 Кибербезопасность стала авторизованным сервисным партнером UserGate по техподдержке NGFW](https://habr.com/ru/companies/k2tech/news/1094802/?utm_campaign=1094802&utm_source=habrahabr&utm_medium=rss)
+- [Google начала продавать смартфоны в магазине приложений Play Store](https://habr.com/ru/news/1094800/?utm_campaign=1094800&utm_source=habrahabr&utm_medium=rss)
+- [Решили проблему обучения с подкреплением. Новая работа показывает цену reward hacking в пост‑тренинге](https://habr.com/ru/companies/selectel/news/1094790/?utm_campaign=1094790&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
