@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [GLM 5.3 Flash и DeepSeek V4.1 Flash стали бесплатными в OpenCode](https://habr.com/ru/companies/haulmont/news/1095202/?utm_campaign=1095202&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление для GitHub Apps: что изменилось в управлении репозиториями](https://habr.com/ru/companies/selectel/news/1094962/?utm_campaign=1094962&utm_source=habrahabr&utm_medium=rss)
-- [Check Point прокомментировала информацию о возможном уходе из России](https://habr.com/ru/news/1095160/?utm_campaign=1095160&utm_source=habrahabr&utm_medium=rss)
-- [49% российских компаний хотя бы раз в месяц откладывают решения из‑за медленной аналитики](https://habr.com/ru/companies/postgrespro/news/1095134/?utm_campaign=1095134&utm_source=habrahabr&utm_medium=rss)
-- [У игровой студии «Леста» появился новый владелец](https://habr.com/ru/news/1095124/?utm_campaign=1095124&utm_source=habrahabr&utm_medium=rss)
+- [Неизменяемые операционные системы, ИИ и победители конкурса: итоги ХXII конференции разработчиков свободных программ](https://habr.com/ru/companies/basealtspo/news/1095414/?utm_campaign=1095414&utm_source=habrahabr&utm_medium=rss)
+- [Meta* выпустила SDK для разработки браузерных VR‑приложений](https://habr.com/ru/news/1095402/?utm_campaign=1095402&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый плеер CloudMus для «Яндекс Музыки» и YouTube Music для ПК на Linux и Windows](https://habr.com/ru/news/1095396/?utm_campaign=1095396&utm_source=habrahabr&utm_medium=rss)
+- [Perfscale news #15. Локальная документация, обновленный bench, и метрик сервер](https://habr.com/ru/news/1095374/?utm_campaign=1095374&utm_source=habrahabr&utm_medium=rss)
+- [PVS-Studio 8.01: OWASP Benchmark, поддержка JDK 25, Go 1.27 и многое другое](https://habr.com/ru/companies/pvs-studio/news/1095366/?utm_campaign=1095366&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
