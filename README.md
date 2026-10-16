@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Выпуск обновления открытого проекта Fastfetch 2.70 — утилиты для показа информации о системе](https://habr.com/ru/news/1094926/?utm_campaign=1094926&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый проект LumineCapture — инструмент для создания скриншотов в Linux, ориентированный на быстродействие](https://habr.com/ru/news/1094728/?utm_campaign=1094728&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск nginx 1.31.7](https://habr.com/ru/news/1094584/?utm_campaign=1094584&utm_source=habrahabr&utm_medium=rss)
-- [Один клик позволял обойти обязательный вход в учётную запись Microsoft при настройке Windows 11. Microsoft это отключила](https://habr.com/ru/news/1093676/?utm_campaign=1093676&utm_source=habrahabr&utm_medium=rss)
-- [Браузерный игровой движок LittleJS получил поддержку 3D‑рендера и редактор уровней](https://habr.com/ru/news/1094972/?utm_campaign=1094972&utm_source=habrahabr&utm_medium=rss)
+- [GLM 5.3 Flash и DeepSeek V4.1 Flash стали бесплатными в OpenCode](https://habr.com/ru/companies/haulmont/news/1095202/?utm_campaign=1095202&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление для GitHub Apps: что изменилось в управлении репозиториями](https://habr.com/ru/companies/selectel/news/1094962/?utm_campaign=1094962&utm_source=habrahabr&utm_medium=rss)
+- [Check Point прокомментировала информацию о возможном уходе из России](https://habr.com/ru/news/1095160/?utm_campaign=1095160&utm_source=habrahabr&utm_medium=rss)
+- [49% российских компаний хотя бы раз в месяц откладывают решения из‑за медленной аналитики](https://habr.com/ru/companies/postgrespro/news/1095134/?utm_campaign=1095134&utm_source=habrahabr&utm_medium=rss)
+- [У игровой студии «Леста» появился новый владелец](https://habr.com/ru/news/1095124/?utm_campaign=1095124&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
