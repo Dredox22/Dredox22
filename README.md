@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Один клик позволял обойти обязательный вход в учётную запись Microsoft при настройке Windows 11. Microsoft это отключила](https://habr.com/ru/news/1093676/?utm_campaign=1093676&utm_source=habrahabr&utm_medium=rss)
 - [Браузерный игровой движок LittleJS получил поддержку 3D‑рендера и редактор уровней](https://habr.com/ru/news/1094972/?utm_campaign=1094972&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-агенты в разработке, PaaS-сервисы для работы с данными и автоматизация документации: анонсы на GoCloud Tech 2026](https://habr.com/ru/companies/cloud_ru/news/1094868/?utm_campaign=1094868&utm_source=habrahabr&utm_medium=rss)
 - [В Google Play нашли поддельный Google Chrome с более 100 000 загрузок](https://habr.com/ru/news/1094880/?utm_campaign=1094880&utm_source=habrahabr&utm_medium=rss)
 - [Bank of America нанял 1 тысячу сторонних специалистов для устранения уязвимостей в ПО, выявленных Mythos от Anthropic](https://habr.com/ru/news/1094852/?utm_campaign=1094852&utm_source=habrahabr&utm_medium=rss)
-- [Grok Voice 3.0 возглавила рейтинг Artificial Analysis. Голосовые агенты стали быстрее, точнее](https://habr.com/ru/companies/selectel/news/1094792/?utm_campaign=1094792&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
