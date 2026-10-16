@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск обновления открытого проекта Fastfetch 2.70 — утилиты для показа информации о системе](https://habr.com/ru/news/1094926/?utm_campaign=1094926&utm_source=habrahabr&utm_medium=rss)
+- [Вышел открытый проект LumineCapture — инструмент для создания скриншотов в Linux, ориентированный на быстродействие](https://habr.com/ru/news/1094728/?utm_campaign=1094728&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск nginx 1.31.7](https://habr.com/ru/news/1094584/?utm_campaign=1094584&utm_source=habrahabr&utm_medium=rss)
 - [Один клик позволял обойти обязательный вход в учётную запись Microsoft при настройке Windows 11. Microsoft это отключила](https://habr.com/ru/news/1093676/?utm_campaign=1093676&utm_source=habrahabr&utm_medium=rss)
 - [Браузерный игровой движок LittleJS получил поддержку 3D‑рендера и редактор уровней](https://habr.com/ru/news/1094972/?utm_campaign=1094972&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-агенты в разработке, PaaS-сервисы для работы с данными и автоматизация документации: анонсы на GoCloud Tech 2026](https://habr.com/ru/companies/cloud_ru/news/1094868/?utm_campaign=1094868&utm_source=habrahabr&utm_medium=rss)
-- [В Google Play нашли поддельный Google Chrome с более 100 000 загрузок](https://habr.com/ru/news/1094880/?utm_campaign=1094880&utm_source=habrahabr&utm_medium=rss)
-- [Bank of America нанял 1 тысячу сторонних специалистов для устранения уязвимостей в ПО, выявленных Mythos от Anthropic](https://habr.com/ru/news/1094852/?utm_campaign=1094852&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
