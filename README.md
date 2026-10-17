@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude за полчаса разгадал загадку АНБ, которой больше 25 лет. Ответ был у криптографов под носом](https://habr.com/ru/news/1095620/?utm_campaign=1095620&utm_source=habrahabr&utm_medium=rss)
+- [Sony получила патент на технологию вывода на экран предсказанного изображения](https://habr.com/ru/news/1095616/?utm_campaign=1095616&utm_source=habrahabr&utm_medium=rss)
+- [TSMC рассматривает возможность работы с проектом Илона Маска в Техасе](https://habr.com/ru/companies/selectel/news/1095094/?utm_campaign=1095094&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры стали взламывать устройства D‑Link и Ubiquiti для перепродажи интернет‑трафика](https://habr.com/ru/news/1095608/?utm_campaign=1095608&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft предложит механизм обновления Edge без перезапуска браузера](https://habr.com/ru/news/1095598/?utm_campaign=1095598&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft представила обновлённое приложение «Фотографии» для Windows 11](https://habr.com/ru/news/1095588/?utm_campaign=1095588&utm_source=habrahabr&utm_medium=rss)
-- [В Google Play нашли поддельный WhatsApp** с более 500 тысячами загрузок](https://habr.com/ru/news/1095594/?utm_campaign=1095594&utm_source=habrahabr&utm_medium=rss)
-- [Сбой в Gboard привёл к залипанию клавиши Shift](https://habr.com/ru/news/1095584/?utm_campaign=1095584&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Ubuntu 26.10 Stonking Stingray — локальный ИИ, Rust в coreutils и улучшенная криптография](https://habr.com/ru/companies/selectel/news/1095550/?utm_campaign=1095550&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
