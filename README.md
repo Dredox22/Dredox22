@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Выпуск платформы совместной разработки Forgejo v17.0](https://habr.com/ru/news/1095210/?utm_campaign=1095210&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Memtest86+ v9.00](https://habr.com/ru/news/1095106/?utm_campaign=1095106&utm_source=habrahabr&utm_medium=rss)
-- [Неизменяемые операционные системы, ИИ и победители конкурса: итоги ХXII конференции разработчиков свободных программ](https://habr.com/ru/companies/basealtspo/news/1095414/?utm_campaign=1095414&utm_source=habrahabr&utm_medium=rss)
-- [Meta* выпустила SDK для разработки браузерных VR‑приложений](https://habr.com/ru/news/1095402/?utm_campaign=1095402&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый плеер CloudMus для «Яндекс Музыки» и YouTube Music для ПК на Linux и Windows](https://habr.com/ru/news/1095396/?utm_campaign=1095396&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft предложит механизм обновления Edge без перезапуска браузера](https://habr.com/ru/news/1095598/?utm_campaign=1095598&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft представила обновлённое приложение «Фотографии» для Windows 11](https://habr.com/ru/news/1095588/?utm_campaign=1095588&utm_source=habrahabr&utm_medium=rss)
+- [В Google Play нашли поддельный WhatsApp** с более 500 тысячами загрузок](https://habr.com/ru/news/1095594/?utm_campaign=1095594&utm_source=habrahabr&utm_medium=rss)
+- [Сбой в Gboard привёл к залипанию клавиши Shift](https://habr.com/ru/news/1095584/?utm_campaign=1095584&utm_source=habrahabr&utm_medium=rss)
+- [Вышла Ubuntu 26.10 Stonking Stingray — локальный ИИ, Rust в coreutils и улучшенная криптография](https://habr.com/ru/companies/selectel/news/1095550/?utm_campaign=1095550&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
