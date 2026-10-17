@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple в правилах App Store запретила разработчикам скрывать реальные возможности приложений на время модерации](https://habr.com/ru/news/1095676/?utm_campaign=1095676&utm_source=habrahabr&utm_medium=rss)
 - [Claude за полчаса разгадал загадку АНБ, которой больше 25 лет. Ответ был у криптографов под носом](https://habr.com/ru/news/1095620/?utm_campaign=1095620&utm_source=habrahabr&utm_medium=rss)
 - [Sony получила патент на технологию вывода на экран предсказанного изображения](https://habr.com/ru/news/1095616/?utm_campaign=1095616&utm_source=habrahabr&utm_medium=rss)
 - [TSMC рассматривает возможность работы с проектом Илона Маска в Техасе](https://habr.com/ru/companies/selectel/news/1095094/?utm_campaign=1095094&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры стали взламывать устройства D‑Link и Ubiquiti для перепродажи интернет‑трафика](https://habr.com/ru/news/1095608/?utm_campaign=1095608&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft предложит механизм обновления Edge без перезапуска браузера](https://habr.com/ru/news/1095598/?utm_campaign=1095598&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
