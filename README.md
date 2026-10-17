@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск платформы совместной разработки Forgejo v17.0](https://habr.com/ru/news/1095210/?utm_campaign=1095210&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Memtest86+ v9.00](https://habr.com/ru/news/1095106/?utm_campaign=1095106&utm_source=habrahabr&utm_medium=rss)
 - [Неизменяемые операционные системы, ИИ и победители конкурса: итоги ХXII конференции разработчиков свободных программ](https://habr.com/ru/companies/basealtspo/news/1095414/?utm_campaign=1095414&utm_source=habrahabr&utm_medium=rss)
 - [Meta* выпустила SDK для разработки браузерных VR‑приложений](https://habr.com/ru/news/1095402/?utm_campaign=1095402&utm_source=habrahabr&utm_medium=rss)
 - [Представлен открытый плеер CloudMus для «Яндекс Музыки» и YouTube Music для ПК на Linux и Windows](https://habr.com/ru/news/1095396/?utm_campaign=1095396&utm_source=habrahabr&utm_medium=rss)
-- [Perfscale news #15. Локальная документация, обновленный bench, и метрик сервер](https://habr.com/ru/news/1095374/?utm_campaign=1095374&utm_source=habrahabr&utm_medium=rss)
-- [PVS-Studio 8.01: OWASP Benchmark, поддержка JDK 25, Go 1.27 и многое другое](https://habr.com/ru/companies/pvs-studio/news/1095366/?utm_campaign=1095366&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
