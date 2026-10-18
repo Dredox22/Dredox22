@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышло обновление кроссплатформенного открытого многофункционального архиватора PeaZip 11.4](https://habr.com/ru/news/1095678/?utm_campaign=1095678&utm_source=habrahabr&utm_medium=rss)
+- [VK сообщила об атаке на дата-центр компании в Ленинградской области, сервисы «ВКонтакте» доступны в обычном режиме](https://habr.com/ru/news/1095754/?utm_campaign=1095754&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск открытого проекта OpenWin — альтернативы Ninite для Windows](https://habr.com/ru/news/1095656/?utm_campaign=1095656&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Wine 11.20](https://habr.com/ru/news/1095542/?utm_campaign=1095542&utm_source=habrahabr&utm_medium=rss)
 - [Apple в правилах App Store запретила разработчикам скрывать реальные возможности приложений на время модерации](https://habr.com/ru/news/1095676/?utm_campaign=1095676&utm_source=habrahabr&utm_medium=rss)
-- [Claude за полчаса разгадал загадку АНБ, которой больше 25 лет. Ответ был у криптографов под носом](https://habr.com/ru/news/1095620/?utm_campaign=1095620&utm_source=habrahabr&utm_medium=rss)
-- [Sony получила патент на технологию вывода на экран предсказанного изображения](https://habr.com/ru/news/1095616/?utm_campaign=1095616&utm_source=habrahabr&utm_medium=rss)
-- [TSMC рассматривает возможность работы с проектом Илона Маска в Техасе](https://habr.com/ru/companies/selectel/news/1095094/?utm_campaign=1095094&utm_source=habrahabr&utm_medium=rss)
-- [Хакеры стали взламывать устройства D‑Link и Ubiquiti для перепродажи интернет‑трафика](https://habr.com/ru/news/1095608/?utm_campaign=1095608&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
