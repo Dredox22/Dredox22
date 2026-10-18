@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitdefender обнаружила вредоносное ПО в прошивках китайских Android‑смартфонов на платформе MediaTek](https://habr.com/ru/news/1095912/?utm_campaign=1095912&utm_source=habrahabr&utm_medium=rss)
+- [MapQuest начал показывать, где установлены камеры Flock и другие ALPR‑системы](https://habr.com/ru/news/1095880/?utm_campaign=1095880&utm_source=habrahabr&utm_medium=rss)
 - [Утечка данных в Burger King Japan: скомпрометирована информация 11 млн клиентов](https://habr.com/ru/news/1095864/?utm_campaign=1095864&utm_source=habrahabr&utm_medium=rss)
 - [В Proton Pass появились папки и другие полезные нововведения](https://habr.com/ru/news/1095832/?utm_campaign=1095832&utm_source=habrahabr&utm_medium=rss)
 - [Жидкий металл не высыхает, а твердеет: результат двухлетнего исследования под микроскопом](https://habr.com/ru/companies/selectel/news/1095388/?utm_campaign=1095388&utm_source=habrahabr&utm_medium=rss)
-- [FirstVDS: злоумышленники получили доступ к части инфраструктуры через уязвимость в системе управления VMmanager](https://habr.com/ru/news/1095824/?utm_campaign=1095824&utm_source=habrahabr&utm_medium=rss)
-- [Perplexity представила Photon — поисковый движок для ИИ-агентов с задержкой от 160 мс](https://habr.com/ru/companies/bothub/news/1095810/?utm_campaign=1095810&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
