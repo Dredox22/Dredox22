@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Хакеры взломали 1 900 аккаунтов GitHub и атаковали 30 000 репозиториев](https://habr.com/ru/companies/selectel/news/1095718/?utm_campaign=1095718&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления OpenRGB 1.1 — открытого проекта для управления RGB‑подсветкой периферии](https://habr.com/ru/news/1095580/?utm_campaign=1095580&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление кроссплатформенного открытого многофункционального архиватора PeaZip 11.4](https://habr.com/ru/news/1095678/?utm_campaign=1095678&utm_source=habrahabr&utm_medium=rss)
-- [VK сообщила об атаке на дата-центр компании в Ленинградской области, сервисы «ВКонтакте» доступны в обычном режиме](https://habr.com/ru/news/1095754/?utm_campaign=1095754&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск открытого проекта OpenWin — альтернативы Ninite для Windows](https://habr.com/ru/news/1095656/?utm_campaign=1095656&utm_source=habrahabr&utm_medium=rss)
+- [Утечка данных в Burger King Japan: скомпрометирована информация 11 млн клиентов](https://habr.com/ru/news/1095864/?utm_campaign=1095864&utm_source=habrahabr&utm_medium=rss)
+- [В Proton Pass появились папки и другие полезные нововведения](https://habr.com/ru/news/1095832/?utm_campaign=1095832&utm_source=habrahabr&utm_medium=rss)
+- [Жидкий металл не высыхает, а твердеет: результат двухлетнего исследования под микроскопом](https://habr.com/ru/companies/selectel/news/1095388/?utm_campaign=1095388&utm_source=habrahabr&utm_medium=rss)
+- [FirstVDS: злоумышленники получили доступ к части инфраструктуры через уязвимость в системе управления VMmanager](https://habr.com/ru/news/1095824/?utm_campaign=1095824&utm_source=habrahabr&utm_medium=rss)
+- [Perplexity представила Photon — поисковый движок для ИИ-агентов с задержкой от 160 мс](https://habr.com/ru/companies/bothub/news/1095810/?utm_campaign=1095810&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
