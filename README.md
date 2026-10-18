@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Коммиттер PostgreSQL: LLM‑ревью нашло в версии 19 больше ошибок, чем успели исправить](https://habr.com/ru/news/1095950/?utm_campaign=1095950&utm_source=habrahabr&utm_medium=rss)
 - [Bitdefender обнаружила вредоносное ПО в прошивках китайских Android‑смартфонов на платформе MediaTek](https://habr.com/ru/news/1095912/?utm_campaign=1095912&utm_source=habrahabr&utm_medium=rss)
 - [MapQuest начал показывать, где установлены камеры Flock и другие ALPR‑системы](https://habr.com/ru/news/1095880/?utm_campaign=1095880&utm_source=habrahabr&utm_medium=rss)
 - [Утечка данных в Burger King Japan: скомпрометирована информация 11 млн клиентов](https://habr.com/ru/news/1095864/?utm_campaign=1095864&utm_source=habrahabr&utm_medium=rss)
 - [В Proton Pass появились папки и другие полезные нововведения](https://habr.com/ru/news/1095832/?utm_campaign=1095832&utm_source=habrahabr&utm_medium=rss)
-- [Жидкий металл не высыхает, а твердеет: результат двухлетнего исследования под микроскопом](https://habr.com/ru/companies/selectel/news/1095388/?utm_campaign=1095388&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
