@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Хакеры взломали 1 900 аккаунтов GitHub и атаковали 30 000 репозиториев](https://habr.com/ru/companies/selectel/news/1095718/?utm_campaign=1095718&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления OpenRGB 1.1 — открытого проекта для управления RGB‑подсветкой периферии](https://habr.com/ru/news/1095580/?utm_campaign=1095580&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление кроссплатформенного открытого многофункционального архиватора PeaZip 11.4](https://habr.com/ru/news/1095678/?utm_campaign=1095678&utm_source=habrahabr&utm_medium=rss)
 - [VK сообщила об атаке на дата-центр компании в Ленинградской области, сервисы «ВКонтакте» доступны в обычном режиме](https://habr.com/ru/news/1095754/?utm_campaign=1095754&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск открытого проекта OpenWin — альтернативы Ninite для Windows](https://habr.com/ru/news/1095656/?utm_campaign=1095656&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Wine 11.20](https://habr.com/ru/news/1095542/?utm_campaign=1095542&utm_source=habrahabr&utm_medium=rss)
-- [Apple в правилах App Store запретила разработчикам скрывать реальные возможности приложений на время модерации](https://habr.com/ru/news/1095676/?utm_campaign=1095676&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
