@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Linux 7.3](https://habr.com/ru/news/1096016/?utm_campaign=1096016&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft продлит срок поддержки сервера App‑V до 2029 года](https://habr.com/ru/news/1096012/?utm_campaign=1096012&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Cjam 2.7.5.0 — легковесного Freeware редактора MP3 для ПК на ОС Windows](https://habr.com/ru/news/1095902/?utm_campaign=1095902&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление Phiola 2.12 — открытого портативного мультиплатформенного аудиоплеера с поддержкой скриптов](https://habr.com/ru/news/1095892/?utm_campaign=1095892&utm_source=habrahabr&utm_medium=rss)
 - [Коммиттер PostgreSQL: LLM‑ревью нашло в версии 19 больше ошибок, чем успели исправить](https://habr.com/ru/news/1095950/?utm_campaign=1095950&utm_source=habrahabr&utm_medium=rss)
-- [Bitdefender обнаружила вредоносное ПО в прошивках китайских Android‑смартфонов на платформе MediaTek](https://habr.com/ru/news/1095912/?utm_campaign=1095912&utm_source=habrahabr&utm_medium=rss)
-- [MapQuest начал показывать, где установлены камеры Flock и другие ALPR‑системы](https://habr.com/ru/news/1095880/?utm_campaign=1095880&utm_source=habrahabr&utm_medium=rss)
-- [Утечка данных в Burger King Japan: скомпрометирована информация 11 млн клиентов](https://habr.com/ru/news/1095864/?utm_campaign=1095864&utm_source=habrahabr&utm_medium=rss)
-- [В Proton Pass появились папки и другие полезные нововведения](https://habr.com/ru/news/1095832/?utm_campaign=1095832&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
