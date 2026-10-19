@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз Linux 7.3](https://habr.com/ru/news/1096016/?utm_campaign=1096016&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft продлит срок поддержки сервера App‑V до 2029 года](https://habr.com/ru/news/1096012/?utm_campaign=1096012&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Cjam 2.7.5.0 — легковесного Freeware редактора MP3 для ПК на ОС Windows](https://habr.com/ru/news/1095902/?utm_campaign=1095902&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление Phiola 2.12 — открытого портативного мультиплатформенного аудиоплеера с поддержкой скриптов](https://habr.com/ru/news/1095892/?utm_campaign=1095892&utm_source=habrahabr&utm_medium=rss)
-- [Коммиттер PostgreSQL: LLM‑ревью нашло в версии 19 больше ошибок, чем успели исправить](https://habr.com/ru/news/1095950/?utm_campaign=1095950&utm_source=habrahabr&utm_medium=rss)
+- [От выгрузок к анализу: вебинар о работе с данными 1С и других систем](https://habr.com/ru/companies/infostart/news/1096246/?utm_campaign=1096246&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic направит 5% своих акций в свой Фонд общественного блага](https://habr.com/ru/news/1096242/?utm_campaign=1096242&utm_source=habrahabr&utm_medium=rss)
+- [Вебинар: Kube-scheduler изнутри: как Kubernetes выбирает ноду для пода](https://habr.com/ru/companies/astralinux/news/1096228/?utm_campaign=1096228&utm_source=habrahabr&utm_medium=rss)
+- [После запуска 5G средняя скорость мобильного интернета в России выросла почти на 20%](https://habr.com/ru/news/1096206/?utm_campaign=1096206&utm_source=habrahabr&utm_medium=rss)
+- [Глава Flock: микрофоны компании фиксируют «только выстрелы», но на сайте производителя представлена ​​иная информация](https://habr.com/ru/news/1096202/?utm_campaign=1096202&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
