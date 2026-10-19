@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [От выгрузок к анализу: вебинар о работе с данными 1С и других систем](https://habr.com/ru/companies/infostart/news/1096246/?utm_campaign=1096246&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic направит 5% своих акций в свой Фонд общественного блага](https://habr.com/ru/news/1096242/?utm_campaign=1096242&utm_source=habrahabr&utm_medium=rss)
-- [Вебинар: Kube-scheduler изнутри: как Kubernetes выбирает ноду для пода](https://habr.com/ru/companies/astralinux/news/1096228/?utm_campaign=1096228&utm_source=habrahabr&utm_medium=rss)
-- [После запуска 5G средняя скорость мобильного интернета в России выросла почти на 20%](https://habr.com/ru/news/1096206/?utm_campaign=1096206&utm_source=habrahabr&utm_medium=rss)
-- [Глава Flock: микрофоны компании фиксируют «только выстрелы», но на сайте производителя представлена ​​иная информация](https://habr.com/ru/news/1096202/?utm_campaign=1096202&utm_source=habrahabr&utm_medium=rss)
+- [Minecraft для Xbox One запустили на iOS через слой совместимости](https://habr.com/ru/news/1096416/?utm_campaign=1096416&utm_source=habrahabr&utm_medium=rss)
+- [В Windows 11 до сих пор присутствует диспетчер памяти из Windows 95](https://habr.com/ru/news/1096392/?utm_campaign=1096392&utm_source=habrahabr&utm_medium=rss)
+- [Стартап Apate борется с мошенниками при помощи ИИ‑агентов, которые общаются с ними под видом жертв](https://habr.com/ru/news/1096368/?utm_campaign=1096368&utm_source=habrahabr&utm_medium=rss)
+- [Сутки без человека: как мы в ГНИВЦ выстраиваем управляемую агентскую разработку](https://habr.com/ru/companies/gnivc/news/1096366/?utm_campaign=1096366&utm_source=habrahabr&utm_medium=rss)
+- [На Android‑смартфонах запустили iOS 16](https://habr.com/ru/news/1096362/?utm_campaign=1096362&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
