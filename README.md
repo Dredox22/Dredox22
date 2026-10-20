@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз инструмента для работы с MKV-файлами MKVToolNix 103.0](https://habr.com/ru/news/1096378/?utm_campaign=1096378&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск версии OpenWrt 25.12.6](https://habr.com/ru/news/1096244/?utm_campaign=1096244&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление Media Player Classic — Home Cinema 2.8.4](https://habr.com/ru/news/1096034/?utm_campaign=1096034&utm_source=habrahabr&utm_medium=rss)
-- [Minecraft для Xbox One запустили на iOS через слой совместимости](https://habr.com/ru/news/1096416/?utm_campaign=1096416&utm_source=habrahabr&utm_medium=rss)
-- [В Windows 11 до сих пор присутствует диспетчер памяти из Windows 95](https://habr.com/ru/news/1096392/?utm_campaign=1096392&utm_source=habrahabr&utm_medium=rss)
+- [GitHub может временно требовать авторизацию для клонирования публичных репозиториев по HTTPS](https://habr.com/ru/companies/otus/news/1096626/?utm_campaign=1096626&utm_source=habrahabr&utm_medium=rss)
+- [Google внедряет Pyrefly для более быстрой и точной проверки типов в Python](https://habr.com/ru/companies/selectel/news/1096616/?utm_campaign=1096616&utm_source=habrahabr&utm_medium=rss)
+- [Хакер взломал сайты John Deere, SharkNinja и Commins с помощью «армии» ИИ‑агентов](https://habr.com/ru/news/1096606/?utm_campaign=1096606&utm_source=habrahabr&utm_medium=rss)
+- [Департамент безопасности дорожного движения штата Флорида сообщил об утечке личных данных водителей](https://habr.com/ru/news/1096596/?utm_campaign=1096596&utm_source=habrahabr&utm_medium=rss)
+- [Производители телекомоборудования попросили упростить требования к системным платам](https://habr.com/ru/news/1096584/?utm_campaign=1096584&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
