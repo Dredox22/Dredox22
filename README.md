@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub может временно требовать авторизацию для клонирования публичных репозиториев по HTTPS](https://habr.com/ru/companies/otus/news/1096626/?utm_campaign=1096626&utm_source=habrahabr&utm_medium=rss)
-- [Google внедряет Pyrefly для более быстрой и точной проверки типов в Python](https://habr.com/ru/companies/selectel/news/1096616/?utm_campaign=1096616&utm_source=habrahabr&utm_medium=rss)
-- [Хакер взломал сайты John Deere, SharkNinja и Commins с помощью «армии» ИИ‑агентов](https://habr.com/ru/news/1096606/?utm_campaign=1096606&utm_source=habrahabr&utm_medium=rss)
-- [Департамент безопасности дорожного движения штата Флорида сообщил об утечке личных данных водителей](https://habr.com/ru/news/1096596/?utm_campaign=1096596&utm_source=habrahabr&utm_medium=rss)
-- [Производители телекомоборудования попросили упростить требования к системным платам](https://habr.com/ru/news/1096584/?utm_campaign=1096584&utm_source=habrahabr&utm_medium=rss)
+- [Inception выпустила Mercury 3, диффузионную LLM со скоростью 1 068 токенов в секунду](https://habr.com/ru/companies/koda/news/1096840/?utm_campaign=1096840&utm_source=habrahabr&utm_medium=rss)
+- [Meta Harness OpenIDE: комментарии, новые агенты и много исправлений](https://habr.com/ru/companies/haulmont/news/1094342/?utm_campaign=1094342&utm_source=habrahabr&utm_medium=rss)
+- [Зовем дата-сайентистов на Fast Track с 9 по 15 ноября](https://habr.com/ru/companies/avito/news/1096776/?utm_campaign=1096776&utm_source=habrahabr&utm_medium=rss)
+- [После установки октябрьских обновлений сервер Exchange может стать «нестабильным»](https://habr.com/ru/news/1096694/?utm_campaign=1096694&utm_source=habrahabr&utm_medium=rss)
+- [Рабочая группа правительственной подкомиссии по ИИ прорабатывает меры по упрощению ввоза вычислительной техники](https://habr.com/ru/news/1096704/?utm_campaign=1096704&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
