@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Inception выпустила Mercury 3, диффузионную LLM со скоростью 1 068 токенов в секунду](https://habr.com/ru/companies/koda/news/1096840/?utm_campaign=1096840&utm_source=habrahabr&utm_medium=rss)
-- [Meta Harness OpenIDE: комментарии, новые агенты и много исправлений](https://habr.com/ru/companies/haulmont/news/1094342/?utm_campaign=1094342&utm_source=habrahabr&utm_medium=rss)
-- [Зовем дата-сайентистов на Fast Track с 9 по 15 ноября](https://habr.com/ru/companies/avito/news/1096776/?utm_campaign=1096776&utm_source=habrahabr&utm_medium=rss)
-- [После установки октябрьских обновлений сервер Exchange может стать «нестабильным»](https://habr.com/ru/news/1096694/?utm_campaign=1096694&utm_source=habrahabr&utm_medium=rss)
-- [Рабочая группа правительственной подкомиссии по ИИ прорабатывает меры по упрощению ввоза вычислительной техники](https://habr.com/ru/news/1096704/?utm_campaign=1096704&utm_source=habrahabr&utm_medium=rss)
+- [Разработчик представил заглушку для SD‑слота MacBook, которая показывает статус работы AI‑агентов](https://habr.com/ru/news/1096932/?utm_campaign=1096932&utm_source=habrahabr&utm_medium=rss)
+- [«Яндекс»: продолжаем восстанавливать полную функциональность «Яндекс 360»](https://habr.com/ru/news/1096908/?utm_campaign=1096908&utm_source=habrahabr&utm_medium=rss)
+- [В США тимлид отправил резюме в собственную команду и получил отказ за 6 минут, так как HR переложили отбор на нейросеть](https://habr.com/ru/news/1096876/?utm_campaign=1096876&utm_source=habrahabr&utm_medium=rss)
+- [В Руцентре объединили усилия с «Лабораторией Касперского» для защиты доменной инфраструктуры](https://habr.com/ru/companies/runity/news/1096890/?utm_campaign=1096890&utm_source=habrahabr&utm_medium=rss)
+- [Inception выпустила Mercury 3, диффузионную LLM со скоростью 1 068 токенов в секунду](https://habr.com/ru/companies/koda/news/1096840/?utm_campaign=1096840&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
