@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз инструмента для работы с MKV-файлами MKVToolNix 103.0](https://habr.com/ru/news/1096378/?utm_campaign=1096378&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск версии OpenWrt 25.12.6](https://habr.com/ru/news/1096244/?utm_campaign=1096244&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление Media Player Classic — Home Cinema 2.8.4](https://habr.com/ru/news/1096034/?utm_campaign=1096034&utm_source=habrahabr&utm_medium=rss)
 - [Minecraft для Xbox One запустили на iOS через слой совместимости](https://habr.com/ru/news/1096416/?utm_campaign=1096416&utm_source=habrahabr&utm_medium=rss)
 - [В Windows 11 до сих пор присутствует диспетчер памяти из Windows 95](https://habr.com/ru/news/1096392/?utm_campaign=1096392&utm_source=habrahabr&utm_medium=rss)
-- [Стартап Apate борется с мошенниками при помощи ИИ‑агентов, которые общаются с ними под видом жертв](https://habr.com/ru/news/1096368/?utm_campaign=1096368&utm_source=habrahabr&utm_medium=rss)
-- [Сутки без человека: как мы в ГНИВЦ выстраиваем управляемую агентскую разработку](https://habr.com/ru/companies/gnivc/news/1096366/?utm_campaign=1096366&utm_source=habrahabr&utm_medium=rss)
-- [На Android‑смартфонах запустили iOS 16](https://habr.com/ru/news/1096362/?utm_campaign=1096362&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
