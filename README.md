@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI начала внедрять в ChatGPT функцию защищённых чатов](https://habr.com/ru/news/1097048/?utm_campaign=1097048&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого музыкального проигрывателя Audacious 4.6.2](https://habr.com/ru/news/1096782/?utm_campaign=1096782&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление RapidRAW 1.6.6 — открытого редактора изображений RAW](https://habr.com/ru/news/1096768/?utm_campaign=1096768&utm_source=habrahabr&utm_medium=rss)
-- [Критическая уязвимость в PHP](https://habr.com/ru/news/1097016/?utm_campaign=1097016&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик представил заглушку для SD‑слота MacBook, которая показывает статус работы AI‑агентов](https://habr.com/ru/news/1096932/?utm_campaign=1096932&utm_source=habrahabr&utm_medium=rss)
+- [Суд разрешил Denuvo направить запросы Discord, Reddit и Steam на раскрытие личности взломщика игр voices38](https://habr.com/ru/news/1097354/?utm_campaign=1097354&utm_source=habrahabr&utm_medium=rss)
+- [SPbLUG — 30 лет: одно из старейших IT-сообществ России отмечает юбилей](https://habr.com/ru/news/1097344/?utm_campaign=1097344&utm_source=habrahabr&utm_medium=rss)
+- [В OpenIDE появилась поддержка WSL: вышел плагин Remote Targets](https://habr.com/ru/companies/haulmont/news/1097340/?utm_campaign=1097340&utm_source=habrahabr&utm_medium=rss)
+- [Энтузиаст превратил комплект DDR5 SO-DIMM за 120 $ в настольную память ценой 1 000 $](https://habr.com/ru/companies/selectel/news/1097044/?utm_campaign=1097044&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic ищет редактора с зарплатой до $345 тысяч в год, который будет писать тексты для руководителей](https://habr.com/ru/news/1097326/?utm_campaign=1097326&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
