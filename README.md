@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic представили персонального AI-агента Claude Duet на базе Opus 5.5](https://habr.com/ru/news/1097546/?utm_campaign=1097546&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил утилиту для управления подвесом камеры DJI Osmo Pocket 3 из строки меню macOS](https://habr.com/ru/news/1097504/?utm_campaign=1097504&utm_source=habrahabr&utm_medium=rss)
 - [PHP взломали! Обороняемся](https://habr.com/ru/news/1097480/?utm_campaign=1097480&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft добавила в PowerToys функцию блокировки кнопки мыши](https://habr.com/ru/news/1097464/?utm_campaign=1097464&utm_source=habrahabr&utm_medium=rss)
 - [Критическое обновление PHP: инструкция для владельцев коробочного Битрикс24 и сайтов на «1С-Битрикс: Управление сайтом»](https://habr.com/ru/news/1097474/?utm_campaign=1097474&utm_source=habrahabr&utm_medium=rss)
-- [В связи с критическими уязвимостями в PHP часть сайтов в сети отключены для применения фиксов](https://habr.com/ru/news/1097444/?utm_campaign=1097444&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
