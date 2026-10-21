@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI начала внедрять в ChatGPT функцию защищённых чатов](https://habr.com/ru/news/1097048/?utm_campaign=1097048&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого музыкального проигрывателя Audacious 4.6.2](https://habr.com/ru/news/1096782/?utm_campaign=1096782&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление RapidRAW 1.6.6 — открытого редактора изображений RAW](https://habr.com/ru/news/1096768/?utm_campaign=1096768&utm_source=habrahabr&utm_medium=rss)
 - [Критическая уязвимость в PHP](https://habr.com/ru/news/1097016/?utm_campaign=1097016&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик представил заглушку для SD‑слота MacBook, которая показывает статус работы AI‑агентов](https://habr.com/ru/news/1096932/?utm_campaign=1096932&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс»: продолжаем восстанавливать полную функциональность «Яндекс 360»](https://habr.com/ru/news/1096908/?utm_campaign=1096908&utm_source=habrahabr&utm_medium=rss)
-- [В США тимлид отправил резюме в собственную команду и получил отказ за 6 минут, так как HR переложили отбор на нейросеть](https://habr.com/ru/news/1096876/?utm_campaign=1096876&utm_source=habrahabr&utm_medium=rss)
-- [В Руцентре объединили усилия с «Лабораторией Касперского» для защиты доменной инфраструктуры](https://habr.com/ru/companies/runity/news/1096890/?utm_campaign=1096890&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
