@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Что нового в MWS Cloud: калькуляторы стоимости, дефолтные квоты и ранний доступ к Serverless Queue](https://habr.com/ru/companies/mws/news/1097954/?utm_campaign=1097954&utm_source=habrahabr&utm_medium=rss)
-- [Проект комплексной автоматизации ПАО «КуйбышевАзот» на базе «1С: Корпорация» победил в конкурсе «1С: Проект года»](https://habr.com/ru/companies/k2tech/news/1097968/?utm_campaign=1097968&utm_source=habrahabr&utm_medium=rss)
-- [Чёрная QA-пятница: два дня откровенных историй и живого нетворкинга](https://habr.com/ru/companies/infotecs_tech/news/1097952/?utm_campaign=1097952&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-агенты помогли доказать гипотезу KLS: её не могли решить 31 год](https://habr.com/ru/companies/bothub/news/1097956/?utm_campaign=1097956&utm_source=habrahabr&utm_medium=rss)
-- [От индивидуальных назначений к управляемой модели доступа](https://habr.com/ru/companies/ussc/news/1097948/?utm_campaign=1097948&utm_source=habrahabr&utm_medium=rss)
+- [Фонд свободного ПО раскритиковал Raspberry Pi за блокировку самостоятельного апгрейда памяти](https://habr.com/ru/news/1098086/?utm_campaign=1098086&utm_source=habrahabr&utm_medium=rss)
+- [«Рег.ру» временно ограничивал загрузку файлов через панель управления из-за уязвимостей в PHP](https://habr.com/ru/news/1098048/?utm_campaign=1098048&utm_source=habrahabr&utm_medium=rss)
+- [Apple заблокировала iPhone Duo, активированные до старта продаж: под раздачу попали блогеры из России](https://habr.com/ru/news/1098028/?utm_campaign=1098028&utm_source=habrahabr&utm_medium=rss)
+- [Последние скидки на A&amp;amp;PM EVENT 2026: до 80% до конца октября](https://habr.com/ru/companies/infostart/news/1098002/?utm_campaign=1098002&utm_source=habrahabr&utm_medium=rss)
+- [Atari закроет магазин игр для Atari VCS в феврале 2027 года, но откроет платформу для любительских проектов](https://habr.com/ru/news/1097998/?utm_campaign=1097998&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
