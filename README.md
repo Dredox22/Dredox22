@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Тысячи абонентов сети Openreach в Южном Йоркшире остались без сети из‑за кражи кабеля](https://habr.com/ru/news/1097674/?utm_campaign=1097674&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI научила ИИ‑модели лучше справляться с устаревшими языками программирования](https://habr.com/ru/news/1097652/?utm_campaign=1097652&utm_source=habrahabr&utm_medium=rss)
-- [В Node.js исправили 10 уязвимостей — включая возможное RCE в Brotli](https://habr.com/ru/companies/otus/news/1097666/?utm_campaign=1097666&utm_source=habrahabr&utm_medium=rss)
-- [Glass Cannon Unplugged готовит настольную игру по вселенной Diablo](https://habr.com/ru/news/1097658/?utm_campaign=1097658&utm_source=habrahabr&utm_medium=rss)
-- [Представлен Netcraze Giga NC-1013 без гигабитных портов](https://habr.com/ru/news/1097656/?utm_campaign=1097656&utm_source=habrahabr&utm_medium=rss)
+- [Что нового в MWS Cloud: калькуляторы стоимости, дефолтные квоты и ранний доступ к Serverless Queue](https://habr.com/ru/companies/mws/news/1097954/?utm_campaign=1097954&utm_source=habrahabr&utm_medium=rss)
+- [Проект комплексной автоматизации ПАО «КуйбышевАзот» на базе «1С: Корпорация» победил в конкурсе «1С: Проект года»](https://habr.com/ru/companies/k2tech/news/1097968/?utm_campaign=1097968&utm_source=habrahabr&utm_medium=rss)
+- [Чёрная QA-пятница: два дня откровенных историй и живого нетворкинга](https://habr.com/ru/companies/infotecs_tech/news/1097952/?utm_campaign=1097952&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-агенты помогли доказать гипотезу KLS: её не могли решить 31 год](https://habr.com/ru/companies/bothub/news/1097956/?utm_campaign=1097956&utm_source=habrahabr&utm_medium=rss)
+- [От индивидуальных назначений к управляемой модели доступа](https://habr.com/ru/companies/ussc/news/1097948/?utm_campaign=1097948&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
