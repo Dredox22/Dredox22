@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic представили персонального AI-агента Claude Duet на базе Opus 5.5](https://habr.com/ru/news/1097546/?utm_campaign=1097546&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик выпустил утилиту для управления подвесом камеры DJI Osmo Pocket 3 из строки меню macOS](https://habr.com/ru/news/1097504/?utm_campaign=1097504&utm_source=habrahabr&utm_medium=rss)
-- [PHP взломали! Обороняемся](https://habr.com/ru/news/1097480/?utm_campaign=1097480&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft добавила в PowerToys функцию блокировки кнопки мыши](https://habr.com/ru/news/1097464/?utm_campaign=1097464&utm_source=habrahabr&utm_medium=rss)
-- [Критическое обновление PHP: инструкция для владельцев коробочного Битрикс24 и сайтов на «1С-Битрикс: Управление сайтом»](https://habr.com/ru/news/1097474/?utm_campaign=1097474&utm_source=habrahabr&utm_medium=rss)
+- [Тысячи абонентов сети Openreach в Южном Йоркшире остались без сети из‑за кражи кабеля](https://habr.com/ru/news/1097674/?utm_campaign=1097674&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI научила ИИ‑модели лучше справляться с устаревшими языками программирования](https://habr.com/ru/news/1097652/?utm_campaign=1097652&utm_source=habrahabr&utm_medium=rss)
+- [В Node.js исправили 10 уязвимостей — включая возможное RCE в Brotli](https://habr.com/ru/companies/otus/news/1097666/?utm_campaign=1097666&utm_source=habrahabr&utm_medium=rss)
+- [Glass Cannon Unplugged готовит настольную игру по вселенной Diablo](https://habr.com/ru/news/1097658/?utm_campaign=1097658&utm_source=habrahabr&utm_medium=rss)
+- [Представлен Netcraze Giga NC-1013 без гигабитных портов](https://habr.com/ru/news/1097656/?utm_campaign=1097656&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
