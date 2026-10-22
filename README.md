@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [НКЦКИ при ФСБ потребовал срочно обновить PHP. Тем, кто не успевает, предложено отключить сайты](https://habr.com/ru/news/1098146/?utm_campaign=1098146&utm_source=habrahabr&utm_medium=rss)
+- [eMudhra добровольно уйдет с глобального рынка SSL/TLS-сертификатов](https://habr.com/ru/news/1098142/?utm_campaign=1098142&utm_source=habrahabr&utm_medium=rss)
+- [Браузер Arc закроют в декабре. Его заменит Dia с искусственным интеллектом](https://habr.com/ru/news/1098140/?utm_campaign=1098140&utm_source=habrahabr&utm_medium=rss)
+- [Китайский математик составил список из 1000 задач, способных бросить вызов ИИ](https://habr.com/ru/news/1098104/?utm_campaign=1098104&utm_source=habrahabr&utm_medium=rss)
 - [Фонд свободного ПО раскритиковал Raspberry Pi за блокировку самостоятельного апгрейда памяти](https://habr.com/ru/news/1098086/?utm_campaign=1098086&utm_source=habrahabr&utm_medium=rss)
-- [«Рег.ру» временно ограничивал загрузку файлов через панель управления из-за уязвимостей в PHP](https://habr.com/ru/news/1098048/?utm_campaign=1098048&utm_source=habrahabr&utm_medium=rss)
-- [Apple заблокировала iPhone Duo, активированные до старта продаж: под раздачу попали блогеры из России](https://habr.com/ru/news/1098028/?utm_campaign=1098028&utm_source=habrahabr&utm_medium=rss)
-- [Последние скидки на A&amp;amp;PM EVENT 2026: до 80% до конца октября](https://habr.com/ru/companies/infostart/news/1098002/?utm_campaign=1098002&utm_source=habrahabr&utm_medium=rss)
-- [Atari закроет магазин игр для Atari VCS в феврале 2027 года, но откроет платформу для любительских проектов](https://habr.com/ru/news/1097998/?utm_campaign=1097998&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
