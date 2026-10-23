@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [1Password представил функцию авторизации для ИИ‑агентов](https://habr.com/ru/news/1098194/?utm_campaign=1098194&utm_source=habrahabr&utm_medium=rss)
-- [РКН планирует в 2026 году запустить систему обнаружения сетевых вторжений в пилотном режиме](https://habr.com/ru/news/1098198/?utm_campaign=1098198&utm_source=habrahabr&utm_medium=rss)
-- [Windows 11 использует сочетание Ctrl+Alt+Del вопреки критике Билла Гейтса](https://habr.com/ru/news/1098182/?utm_campaign=1098182&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи нашли в GitLab 12-летнюю уязвимость с максимальным рангом угрозы](https://habr.com/ru/news/1098176/?utm_campaign=1098176&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: нейросеть Qwen пишет менее безопасный код для компаний из США и Гонконга, чем для китайских заказчиков](https://habr.com/ru/news/1098172/?utm_campaign=1098172&utm_source=habrahabr&utm_medium=rss)
+- [GitHub объявила о переносе 99,99999% репозиториев в Azure](https://habr.com/ru/news/1098468/?utm_campaign=1098468&utm_source=habrahabr&utm_medium=rss)
+- [Sony прекратила продажи отдельного UHD Blu‑ray‑плеера UBP‑X700K](https://habr.com/ru/news/1098470/?utm_campaign=1098470&utm_source=habrahabr&utm_medium=rss)
+- [Британский муниципальный совет обвинил Microsoft в «шантаже» из‑за повышения цен на 15%](https://habr.com/ru/news/1098460/?utm_campaign=1098460&utm_source=habrahabr&utm_medium=rss)
+- [Облако недоступно: что делать ИТ-службе в первые часы](https://habr.com/ru/companies/simpleone/news/1098454/?utm_campaign=1098454&utm_source=habrahabr&utm_medium=rss)
+- [YouTube будет замораживать доступ к каналам при подозрении на взлом](https://habr.com/ru/news/1098448/?utm_campaign=1098448&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
