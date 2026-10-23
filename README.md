@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub объявила о переносе 99,99999% репозиториев в Azure](https://habr.com/ru/news/1098468/?utm_campaign=1098468&utm_source=habrahabr&utm_medium=rss)
-- [Sony прекратила продажи отдельного UHD Blu‑ray‑плеера UBP‑X700K](https://habr.com/ru/news/1098470/?utm_campaign=1098470&utm_source=habrahabr&utm_medium=rss)
-- [Британский муниципальный совет обвинил Microsoft в «шантаже» из‑за повышения цен на 15%](https://habr.com/ru/news/1098460/?utm_campaign=1098460&utm_source=habrahabr&utm_medium=rss)
-- [Облако недоступно: что делать ИТ-службе в первые часы](https://habr.com/ru/companies/simpleone/news/1098454/?utm_campaign=1098454&utm_source=habrahabr&utm_medium=rss)
-- [YouTube будет замораживать доступ к каналам при подозрении на взлом](https://habr.com/ru/news/1098448/?utm_campaign=1098448&utm_source=habrahabr&utm_medium=rss)
+- [Moonshot выпустили Kimi K3.1 Pro: лучше GPT-6 Astra и почти догнала Opus 5.5](https://habr.com/ru/news/1098732/?utm_campaign=1098732&utm_source=habrahabr&utm_medium=rss)
+- [На учебники по ИИ и информационной безопасности планируют выделять по 500 млн рублей в год](https://habr.com/ru/news/1098718/?utm_campaign=1098718&utm_source=habrahabr&utm_medium=rss)
+- [WhatsApp** тестирует отложенные сообщения в iOS](https://habr.com/ru/news/1098706/?utm_campaign=1098706&utm_source=habrahabr&utm_medium=rss)
+- [Банки США закрывают доступ ИИ‑агентам, которые стали слишком самостоятельными](https://habr.com/ru/news/1098690/?utm_campaign=1098690&utm_source=habrahabr&utm_medium=rss)
+- [Z.ai раздаёт по 500 млн токенов GLM-5.3 и GLM-5.3-Flash в ZCode к Дню программиста](https://habr.com/ru/news/1098648/?utm_campaign=1098648&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
