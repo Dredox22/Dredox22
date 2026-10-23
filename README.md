@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [НКЦКИ при ФСБ потребовал срочно обновить PHP. Тем, кто не успевает, предложено отключить сайты](https://habr.com/ru/news/1098146/?utm_campaign=1098146&utm_source=habrahabr&utm_medium=rss)
-- [eMudhra добровольно уйдет с глобального рынка SSL/TLS-сертификатов](https://habr.com/ru/news/1098142/?utm_campaign=1098142&utm_source=habrahabr&utm_medium=rss)
-- [Браузер Arc закроют в декабре. Его заменит Dia с искусственным интеллектом](https://habr.com/ru/news/1098140/?utm_campaign=1098140&utm_source=habrahabr&utm_medium=rss)
-- [Китайский математик составил список из 1000 задач, способных бросить вызов ИИ](https://habr.com/ru/news/1098104/?utm_campaign=1098104&utm_source=habrahabr&utm_medium=rss)
-- [Фонд свободного ПО раскритиковал Raspberry Pi за блокировку самостоятельного апгрейда памяти](https://habr.com/ru/news/1098086/?utm_campaign=1098086&utm_source=habrahabr&utm_medium=rss)
+- [1Password представил функцию авторизации для ИИ‑агентов](https://habr.com/ru/news/1098194/?utm_campaign=1098194&utm_source=habrahabr&utm_medium=rss)
+- [РКН планирует в 2026 году запустить систему обнаружения сетевых вторжений в пилотном режиме](https://habr.com/ru/news/1098198/?utm_campaign=1098198&utm_source=habrahabr&utm_medium=rss)
+- [Windows 11 использует сочетание Ctrl+Alt+Del вопреки критике Билла Гейтса](https://habr.com/ru/news/1098182/?utm_campaign=1098182&utm_source=habrahabr&utm_medium=rss)
+- [Исследователи нашли в GitLab 12-летнюю уязвимость с максимальным рангом угрозы](https://habr.com/ru/news/1098176/?utm_campaign=1098176&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: нейросеть Qwen пишет менее безопасный код для компаний из США и Гонконга, чем для китайских заказчиков](https://habr.com/ru/news/1098172/?utm_campaign=1098172&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
