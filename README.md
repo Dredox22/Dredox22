@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Perfscale news #16. SDK Report API, оптимизации под задачи и опциональные pro модули](https://habr.com/ru/news/1098742/?utm_campaign=1098742&utm_source=habrahabr&utm_medium=rss)
 - [Moonshot выпустили Kimi K3.1 Pro: лучше GPT-6 Astra и почти догнала Opus 5.5](https://habr.com/ru/news/1098732/?utm_campaign=1098732&utm_source=habrahabr&utm_medium=rss)
 - [На учебники по ИИ и информационной безопасности планируют выделять по 500 млн рублей в год](https://habr.com/ru/news/1098718/?utm_campaign=1098718&utm_source=habrahabr&utm_medium=rss)
 - [WhatsApp** тестирует отложенные сообщения в iOS](https://habr.com/ru/news/1098706/?utm_campaign=1098706&utm_source=habrahabr&utm_medium=rss)
 - [Банки США закрывают доступ ИИ‑агентам, которые стали слишком самостоятельными](https://habr.com/ru/news/1098690/?utm_campaign=1098690&utm_source=habrahabr&utm_medium=rss)
-- [Z.ai раздаёт по 500 млн токенов GLM-5.3 и GLM-5.3-Flash в ZCode к Дню программиста](https://habr.com/ru/news/1098648/?utm_campaign=1098648&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
