@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В PHP предупредили об уязвимости CVE-2026-115560 — RCE на редком сочетании нестандартных настроек на сервере](https://habr.com/ru/news/1098822/?utm_campaign=1098822&utm_source=habrahabr&utm_medium=rss)
+- [FirstVDS: серверы клиентов работают, но всё, что связано с управлением, может проворачиваться медленнее чем обычно](https://habr.com/ru/news/1098814/?utm_campaign=1098814&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления открытого инструментария для загрузки прошивок Fwupd 2.1.9](https://habr.com/ru/news/1098708/?utm_campaign=1098708&utm_source=habrahabr&utm_medium=rss)
+- [Релиз текстового редактора GNU nano 9.3](https://habr.com/ru/news/1098230/?utm_campaign=1098230&utm_source=habrahabr&utm_medium=rss)
 - [Perfscale news #16. SDK Report API, оптимизации под задачи и опциональные pro модули](https://habr.com/ru/news/1098742/?utm_campaign=1098742&utm_source=habrahabr&utm_medium=rss)
-- [Moonshot выпустили Kimi K3.1 Pro: лучше GPT-6 Astra и почти догнала Opus 5.5](https://habr.com/ru/news/1098732/?utm_campaign=1098732&utm_source=habrahabr&utm_medium=rss)
-- [На учебники по ИИ и информационной безопасности планируют выделять по 500 млн рублей в год](https://habr.com/ru/news/1098718/?utm_campaign=1098718&utm_source=habrahabr&utm_medium=rss)
-- [WhatsApp** тестирует отложенные сообщения в iOS](https://habr.com/ru/news/1098706/?utm_campaign=1098706&utm_source=habrahabr&utm_medium=rss)
-- [Банки США закрывают доступ ИИ‑агентам, которые стали слишком самостоятельными](https://habr.com/ru/news/1098690/?utm_campaign=1098690&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
