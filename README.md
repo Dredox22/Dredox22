@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск Rayburst 4.1.0 — открытого мультиплатформенного менеджера загрузок](https://habr.com/ru/news/1098328/?utm_campaign=1098328&utm_source=habrahabr&utm_medium=rss)
 - [Несколько уязвимостей в ядре Linux по ошибке опубликовали в открытом списке рассылки разработчиков](https://habr.com/ru/news/1098880/?utm_campaign=1098880&utm_source=habrahabr&utm_medium=rss)
 - [Жителя Сиднея задержали за обсуждение с Claude стрельбы в детском саду](https://habr.com/ru/news/1098870/?utm_campaign=1098870&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск обновления дистрибутива для одноплатных ПК DietPi 10.8](https://habr.com/ru/news/1098216/?utm_campaign=1098216&utm_source=habrahabr&utm_medium=rss)
 - [Банки США блокируют ИИ‑агентов. Но есть нюанс](https://habr.com/ru/news/1098872/?utm_campaign=1098872&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI не будет обучать ИИ‑модели на данных из «живого» интернета](https://habr.com/ru/news/1098862/?utm_campaign=1098862&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
