@@ -89,7 +89,7 @@
 - [Несколько уязвимостей в ядре Linux по ошибке опубликовали в открытом списке рассылки разработчиков](https://habr.com/ru/news/1098880/?utm_campaign=1098880&utm_source=habrahabr&utm_medium=rss)
 - [Жителя Сиднея задержали за обсуждение с Claude стрельбы в детском саду](https://habr.com/ru/news/1098870/?utm_campaign=1098870&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск обновления дистрибутива для одноплатных ПК DietPi 10.8](https://habr.com/ru/news/1098216/?utm_campaign=1098216&utm_source=habrahabr&utm_medium=rss)
-- [Банки США блокируют ИИ‑агентов. Но есть нюанс](https://habr.com/ru/news/1098872/?utm_campaign=1098872&utm_source=habrahabr&utm_medium=rss)
+- [Банки США начали блокировать ИИ-агентов, которым клиенты передают пароли](https://habr.com/ru/news/1098872/?utm_campaign=1098872&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
