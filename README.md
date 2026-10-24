@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В PHP предупредили об уязвимости CVE-2026-115560 — RCE на редком сочетании нестандартных настроек на сервере](https://habr.com/ru/news/1098822/?utm_campaign=1098822&utm_source=habrahabr&utm_medium=rss)
-- [FirstVDS: серверы клиентов работают, но всё, что связано с управлением, может проворачиваться медленнее чем обычно](https://habr.com/ru/news/1098814/?utm_campaign=1098814&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления открытого инструментария для загрузки прошивок Fwupd 2.1.9](https://habr.com/ru/news/1098708/?utm_campaign=1098708&utm_source=habrahabr&utm_medium=rss)
-- [Релиз текстового редактора GNU nano 9.3](https://habr.com/ru/news/1098230/?utm_campaign=1098230&utm_source=habrahabr&utm_medium=rss)
-- [Perfscale news #16. SDK Report API, оптимизации под задачи и опциональные pro модули](https://habr.com/ru/news/1098742/?utm_campaign=1098742&utm_source=habrahabr&utm_medium=rss)
+- [Несколько уязвимостей в ядре Linux по ошибке опубликовали в открытом списке рассылки разработчиков](https://habr.com/ru/news/1098880/?utm_campaign=1098880&utm_source=habrahabr&utm_medium=rss)
+- [Жителя Сиднея задержали за обсуждение с Claude стрельбы в детском саду](https://habr.com/ru/news/1098870/?utm_campaign=1098870&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления дистрибутива для одноплатных ПК DietPi 10.8](https://habr.com/ru/news/1098216/?utm_campaign=1098216&utm_source=habrahabr&utm_medium=rss)
+- [Банки США блокируют ИИ‑агентов. Но есть нюанс](https://habr.com/ru/news/1098872/?utm_campaign=1098872&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI не будет обучать ИИ‑модели на данных из «живого» интернета](https://habr.com/ru/news/1098862/?utm_campaign=1098862&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
