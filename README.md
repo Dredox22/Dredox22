@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышел открытый анлокер, который снимает ограничение матричных вычислений на GPU видеокарт Nvidia серий RTX30xx и RTX40xx](https://habr.com/ru/news/1099000/?utm_campaign=1099000&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Factorio 2.1](https://habr.com/ru/news/1099070/?utm_campaign=1099070&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск LibreSSL 4.4.0](https://habr.com/ru/news/1098928/?utm_campaign=1098928&utm_source=habrahabr&utm_medium=rss)
 - [Sony запатентовала технологию обработки аудио для будущих консолей](https://habr.com/ru/news/1099040/?utm_campaign=1099040&utm_source=habrahabr&utm_medium=rss)
 - [Дания отказалась от планов по замене Microsoft Office из‑за технических проблем](https://habr.com/ru/news/1099042/?utm_campaign=1099042&utm_source=habrahabr&utm_medium=rss)
-- [Python перезапустил вики‑ресурсы на GitHub Pages](https://habr.com/ru/news/1099034/?utm_campaign=1099034&utm_source=habrahabr&utm_medium=rss)
-- [Вышла открытая криптографическая библиотека OpenSSL 4.1.0 с начальной поддержкой архитектуры «Эльбрус» &lpar;e2k&rpar;](https://habr.com/ru/news/1098926/?utm_campaign=1098926&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления открытого проекта для создания и хранения в электронной библиотеке книг разного формата Calibre 9.17](https://habr.com/ru/news/1098696/?utm_campaign=1098696&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
