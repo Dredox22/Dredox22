@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск обновления открытого проекта для создания и хранения в электронной библиотеке книг разного формата Calibre 9.17](https://habr.com/ru/news/1098696/?utm_campaign=1098696&utm_source=habrahabr&utm_medium=rss)
+- [Релиз системы потокового видеовещания OBS Studio 33.0](https://habr.com/ru/news/1098878/?utm_campaign=1098878&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск Rayburst 4.1.0 — открытого мультиплатформенного менеджера загрузок](https://habr.com/ru/news/1098328/?utm_campaign=1098328&utm_source=habrahabr&utm_medium=rss)
 - [Несколько уязвимостей в ядре Linux по ошибке опубликовали в открытом списке рассылки разработчиков](https://habr.com/ru/news/1098880/?utm_campaign=1098880&utm_source=habrahabr&utm_medium=rss)
 - [Жителя Сиднея задержали за обсуждение с Claude стрельбы в детском саду](https://habr.com/ru/news/1098870/?utm_campaign=1098870&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления дистрибутива для одноплатных ПК DietPi 10.8](https://habr.com/ru/news/1098216/?utm_campaign=1098216&utm_source=habrahabr&utm_medium=rss)
-- [Банки США начали блокировать ИИ-агентов, которым клиенты передают пароли](https://habr.com/ru/news/1098872/?utm_campaign=1098872&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
