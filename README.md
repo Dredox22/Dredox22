@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В Steam вышла игра Jono — платформер, в котором все игроки мира управляют одним персонажем по очереди](https://habr.com/ru/news/1099282/?utm_campaign=1099282&utm_source=habrahabr&utm_medium=rss)
 - [Вышел открытый анлокер, который снимает ограничение матричных вычислений на GPU видеокарт Nvidia серий RTX30xx и RTX40xx](https://habr.com/ru/news/1099000/?utm_campaign=1099000&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Factorio 2.1](https://habr.com/ru/news/1099070/?utm_campaign=1099070&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск LibreSSL 4.4.0](https://habr.com/ru/news/1098928/?utm_campaign=1098928&utm_source=habrahabr&utm_medium=rss)
 - [Sony запатентовала технологию обработки аудио для будущих консолей](https://habr.com/ru/news/1099040/?utm_campaign=1099040&utm_source=habrahabr&utm_medium=rss)
-- [Дания отказалась от планов по замене Microsoft Office из‑за технических проблем](https://habr.com/ru/news/1099042/?utm_campaign=1099042&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
