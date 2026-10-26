@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В Steam вышла игра Jono — платформер, в котором все игроки мира управляют одним персонажем по очереди](https://habr.com/ru/news/1099282/?utm_campaign=1099282&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый анлокер, который снимает ограничение матричных вычислений на GPU видеокарт Nvidia серий RTX30xx и RTX40xx](https://habr.com/ru/news/1099000/?utm_campaign=1099000&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Factorio 2.1](https://habr.com/ru/news/1099070/?utm_campaign=1099070&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск LibreSSL 4.4.0](https://habr.com/ru/news/1098928/?utm_campaign=1098928&utm_source=habrahabr&utm_medium=rss)
-- [Sony запатентовала технологию обработки аудио для будущих консолей](https://habr.com/ru/news/1099040/?utm_campaign=1099040&utm_source=habrahabr&utm_medium=rss)
+- [ИИ‑агентов удалось скомпрометировать через файл AGENTS.md в папке «Загрузки»](https://habr.com/ru/news/1099412/?utm_campaign=1099412&utm_source=habrahabr&utm_medium=rss)
+- [CodeScoring 2026.43.0: сравнение SBOM, раздельная настройка политик и игноров для SCA/OSA, поддержка Dart, Flutter, Lua](https://habr.com/ru/companies/codescoring/news/1099420/?utm_campaign=1099420&utm_source=habrahabr&utm_medium=rss)
+- [PGMeetup.ЕКБ 2026: оптимизация запросов, репликация и тестирование без лишнего железа](https://habr.com/ru/companies/postgrespro/news/1097904/?utm_campaign=1097904&utm_source=habrahabr&utm_medium=rss)
+- [Региональные операторы попросили увеличить переходный период реформы связи до трёх лет](https://habr.com/ru/news/1099414/?utm_campaign=1099414&utm_source=habrahabr&utm_medium=rss)
+- [Linux Foundation Research: 25% поступающих пул‑реквестов могут быть «ИИ‑мусором»](https://habr.com/ru/news/1099404/?utm_campaign=1099404&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
