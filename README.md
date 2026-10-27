@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Бесплатные воркшопы по миграции с VMware на open source-платформу Cozystack в Европе и США в октябре-декабре](https://habr.com/ru/companies/aenix/news/1099798/?utm_campaign=1099798&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI представила GPT-6.1 Terra: быстрее работает с интерфейсами, реже ошибается и дешевле в API](https://habr.com/ru/companies/otus/news/1099780/?utm_campaign=1099780&utm_source=habrahabr&utm_medium=rss)
 - [OWASP выпустил GenAI Red Teaming Manual v1.0](https://habr.com/ru/news/1099746/?utm_campaign=1099746&utm_source=habrahabr&utm_medium=rss)
 - [T-SQL Linter for Visual Studio release 2026-10](https://habr.com/ru/news/1099700/?utm_campaign=1099700&utm_source=habrahabr&utm_medium=rss)
 - [ТОП-5 ИБ‑событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1099682/?utm_campaign=1099682&utm_source=habrahabr&utm_medium=rss)
-- [«Финзачет» 2026: как изменилась цифровая платформа в этом сезоне](https://habr.com/ru/companies/dalee_group/news/1099672/?utm_campaign=1099672&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
