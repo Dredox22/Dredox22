@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Галлюцинации недели: Взломать можно было всех и сразу, от WordPress до Яндекс Станции](https://habr.com/ru/news/1099718/?utm_campaign=1099718&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый проект MangoDisk — инструмент для очистки диска и анализа хранилищ для ПК на Windows, macOS и Linux](https://habr.com/ru/news/1099608/?utm_campaign=1099608&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый мультиплатформенный эмулятор терминала Contour](https://habr.com/ru/news/1099474/?utm_campaign=1099474&utm_source=habrahabr&utm_medium=rss)
-- [Вышел дистрибутив для пентестеров Kali Linux 2026.3](https://habr.com/ru/news/1099502/?utm_campaign=1099502&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый мультиплатформенный менеджер загрузок Hydra Download Manager &lpar;HDM&rpar;](https://habr.com/ru/news/1099338/?utm_campaign=1099338&utm_source=habrahabr&utm_medium=rss)
+- [Sony выплатила $50 000 за критическую уязвимость в PS5, которую нашли с помощью ИИ](https://habr.com/ru/news/1100116/?utm_campaign=1100116&utm_source=habrahabr&utm_medium=rss)
+- [Apple начала помечать изображения, сгенерированные на iPhone, водяными знаками SynthID](https://habr.com/ru/news/1100104/?utm_campaign=1100104&utm_source=habrahabr&utm_medium=rss)
+- [ФАС начала применять новые полномочия по контролю доступа провайдеров в дома](https://habr.com/ru/news/1100062/?utm_campaign=1100062&utm_source=habrahabr&utm_medium=rss)
+- [Роскомнадзор предложил ввести обязательную идентификацию детей в соцсетях](https://habr.com/ru/news/1100048/?utm_campaign=1100048&utm_source=habrahabr&utm_medium=rss)
+- [«Лаборатория Касперского» помогла Интерполу задержать 1462 подозреваемых в киберпреступлениях в Африке](https://habr.com/ru/news/1100042/?utm_campaign=1100042&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
