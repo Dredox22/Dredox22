@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Бесплатные воркшопы по миграции с VMware на open source-платформу Cozystack в Европе и США в октябре-декабре](https://habr.com/ru/companies/aenix/news/1099798/?utm_campaign=1099798&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI представила GPT-6.1 Terra: быстрее работает с интерфейсами, реже ошибается и дешевле в API](https://habr.com/ru/companies/otus/news/1099780/?utm_campaign=1099780&utm_source=habrahabr&utm_medium=rss)
-- [OWASP выпустил GenAI Red Teaming Manual v1.0](https://habr.com/ru/news/1099746/?utm_campaign=1099746&utm_source=habrahabr&utm_medium=rss)
-- [T-SQL Linter for Visual Studio release 2026-10](https://habr.com/ru/news/1099700/?utm_campaign=1099700&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ‑событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1099682/?utm_campaign=1099682&utm_source=habrahabr&utm_medium=rss)
+- [Галлюцинации недели: Взломать можно было всех и сразу, от WordPress до Яндекс Станции](https://habr.com/ru/news/1099718/?utm_campaign=1099718&utm_source=habrahabr&utm_medium=rss)
+- [Вышел открытый проект MangoDisk — инструмент для очистки диска и анализа хранилищ для ПК на Windows, macOS и Linux](https://habr.com/ru/news/1099608/?utm_campaign=1099608&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый мультиплатформенный эмулятор терминала Contour](https://habr.com/ru/news/1099474/?utm_campaign=1099474&utm_source=habrahabr&utm_medium=rss)
+- [Вышел дистрибутив для пентестеров Kali Linux 2026.3](https://habr.com/ru/news/1099502/?utm_campaign=1099502&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый мультиплатформенный менеджер загрузок Hydra Download Manager &lpar;HDM&rpar;](https://habr.com/ru/news/1099338/?utm_campaign=1099338&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
