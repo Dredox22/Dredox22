@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Исследователь нашёл способ взломать Telegram через анимированные стикеры без участия пользователя](https://habr.com/ru/news/1100814/?utm_campaign=1100814&utm_source=habrahabr&utm_medium=rss)
+- [Apple представила MacBook Pro с сенсорным OLED‑экраном и динамическим островом вместо «чёлки»](https://habr.com/ru/news/1100810/?utm_campaign=1100810&utm_source=habrahabr&utm_medium=rss)
+- [Вышла Gemini 4 Carbon: поиск уязвимостей, кодинг и работа несколько дней подряд](https://habr.com/ru/companies/bothub/news/1100802/?utm_campaign=1100802&utm_source=habrahabr&utm_medium=rss)
 - [Вышла утилита SimSlim, которая снижает расход памяти симуляторов Xcode с 4 ГБ до 900 МБ](https://habr.com/ru/news/1100794/?utm_campaign=1100794&utm_source=habrahabr&utm_medium=rss)
 - [Хакеры взломали правительственные системы Молдовы и смогли похитить информацию трети населения страны](https://habr.com/ru/news/1100774/?utm_campaign=1100774&utm_source=habrahabr&utm_medium=rss)
-- [В приложении Microsoft Authenticator для Android появится поддержка passkeys](https://habr.com/ru/news/1100760/?utm_campaign=1100760&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI: две аварии с Azure Cosmos DB. Зато чтение Habitat ускорили в 12 раз](https://habr.com/ru/news/1100746/?utm_campaign=1100746&utm_source=habrahabr&utm_medium=rss)
-- [Представлен проект YAM &lpar;Y Application Manager&rpar; — неофициальный менеджер пакетов для «Яндекс Станций» через ADB-доступ](https://habr.com/ru/news/1100728/?utm_campaign=1100728&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
