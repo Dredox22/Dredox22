@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Роскомнадзор внёс Apple и Microsoft в реестр организаторов распространения информации](https://habr.com/ru/news/1100560/?utm_campaign=1100560&utm_source=habrahabr&utm_medium=rss)
-- [В PowerToys 0.102 для Windows 11 устранили два бага](https://habr.com/ru/news/1100540/?utm_campaign=1100540&utm_source=habrahabr&utm_medium=rss)
-- [Сатья Наделла изменил мнение о безопасности повышения мощности ИИ](https://habr.com/ru/news/1100536/?utm_campaign=1100536&utm_source=habrahabr&utm_medium=rss)
-- [Cloudflare и VoidZero представили tsrs — порт TypeScript на Rust, сгенерированный ИИ](https://habr.com/ru/companies/selectel/news/1100148/?utm_campaign=1100148&utm_source=habrahabr&utm_medium=rss)
-- [«Т‑Банк»: мошенники придумали схему обмана россиян с помощью команды *#62#](https://habr.com/ru/news/1100524/?utm_campaign=1100524&utm_source=habrahabr&utm_medium=rss)
+- [Вышла утилита SimSlim, которая снижает расход памяти симуляторов Xcode с 4 ГБ до 900 МБ](https://habr.com/ru/news/1100794/?utm_campaign=1100794&utm_source=habrahabr&utm_medium=rss)
+- [Хакеры взломали правительственные системы Молдовы и смогли похитить информацию трети населения страны](https://habr.com/ru/news/1100774/?utm_campaign=1100774&utm_source=habrahabr&utm_medium=rss)
+- [В приложении Microsoft Authenticator для Android появится поддержка passkeys](https://habr.com/ru/news/1100760/?utm_campaign=1100760&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI: две аварии с Azure Cosmos DB. Зато чтение Habitat ускорили в 12 раз](https://habr.com/ru/news/1100746/?utm_campaign=1100746&utm_source=habrahabr&utm_medium=rss)
+- [Представлен проект YAM &lpar;Y Application Manager&rpar; — неофициальный менеджер пакетов для «Яндекс Станций» через ADB-доступ](https://habr.com/ru/news/1100728/?utm_campaign=1100728&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
