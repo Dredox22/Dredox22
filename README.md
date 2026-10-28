@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Firefox 159.0](https://habr.com/ru/news/1099842/?utm_campaign=1099842&utm_source=habrahabr&utm_medium=rss)
 - [Google представила Genie 4: генерация мира со звуками и говорящими персонажами](https://habr.com/ru/companies/bothub/news/1100294/?utm_campaign=1100294&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик превратил уровни Doom в вычислитель для нейросетей](https://habr.com/ru/news/1100282/?utm_campaign=1100282&utm_source=habrahabr&utm_medium=rss)
 - [GPT-6.1 Terra от OpenAI: автоматизация быстрее и дешевле](https://habr.com/ru/companies/selectel/news/1100076/?utm_campaign=1100076&utm_source=habrahabr&utm_medium=rss)
 - [ИИ‑агенты против антиботов: что в этой битве делать человеку](https://habr.com/ru/companies/oxygendc/news/1100168/?utm_campaign=1100168&utm_source=habrahabr&utm_medium=rss)
-- [Sony выплатила $50 000 за критическую уязвимость в PS5, которую нашли с помощью ИИ](https://habr.com/ru/news/1100116/?utm_campaign=1100116&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
