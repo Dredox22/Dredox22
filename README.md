@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [AI‑поиск снизил выручку Google от поисковых сервисов, но компания будет исправлять ситуацию рекламой в ответах нейросети](https://habr.com/ru/news/1101426/?utm_campaign=1101426&utm_source=habrahabr&utm_medium=rss)
+- [В Android Studio появилась поддержка более 40 AI‑агентов, включая Claude и Codex](https://habr.com/ru/news/1101424/?utm_campaign=1101424&utm_source=habrahabr&utm_medium=rss)
+- [Xreal представила XR‑очки Aura с Android XR и Gemini](https://habr.com/ru/news/1101412/?utm_campaign=1101412&utm_source=habrahabr&utm_medium=rss)
+- [Тимлид Anthropic отказался от задач по программированию на собеседованиях](https://habr.com/ru/news/1101402/?utm_campaign=1101402&utm_source=habrahabr&utm_medium=rss)
 - [Максут Шадаев предложил ограничивать выдачу новых сим‑карт при блокировке аккаунта в «Максе»](https://habr.com/ru/news/1101364/?utm_campaign=1101364&utm_source=habrahabr&utm_medium=rss)
-- [Шадаев: Россия готова полностью раскрыть исходный код своих соцсетей и мессенджеров](https://habr.com/ru/news/1101326/?utm_campaign=1101326&utm_source=habrahabr&utm_medium=rss)
-- [Модель LFM3 на 1,7 млрд параметров обходит Qwen3.5 9B в агентных задачах и весит до 1 ГБ](https://habr.com/ru/companies/selectel/news/1101318/?utm_campaign=1101318&utm_source=habrahabr&utm_medium=rss)
-- [По пиву и по куберу: в Москве пройдет четвертый KuBeer Talks](https://habr.com/ru/companies/chislitellab/news/1101306/?utm_campaign=1101306&utm_source=habrahabr&utm_medium=rss)
-- [«Диасофт» назвал интеграционный слой главным инструментом контроля ИИ-агентов](https://habr.com/ru/companies/diasoft_company/news/1101296/?utm_campaign=1101296&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
