@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Канадец выдавал себя за сотрудников Google и криптокомпаний и получил доступ к чужому кошельку с 185 биткоинами](https://habr.com/ru/news/1101102/?utm_campaign=1101102&utm_source=habrahabr&utm_medium=rss)
-- [Google запустила сертификацию сторонних магазинов приложений для Android](https://habr.com/ru/news/1101002/?utm_campaign=1101002&utm_source=habrahabr&utm_medium=rss)
-- [СКИО «Синоникс» совместим с платформой VEGMAN G3 и СХД TATLIN.BACKUP](https://habr.com/ru/companies/best_pam/news/1101022/?utm_campaign=1101022&utm_source=habrahabr&utm_medium=rss)
-- [В Bank of America напомнили клиентам, что не стоит передавать учётные данные ИИ‑агентам](https://habr.com/ru/news/1101012/?utm_campaign=1101012&utm_source=habrahabr&utm_medium=rss)
-- [System76 анонсировала выход настольного ПК с Linux на базе AMD](https://habr.com/ru/news/1100992/?utm_campaign=1100992&utm_source=habrahabr&utm_medium=rss)
+- [Максут Шадаев предложил ограничивать выдачу новых сим‑карт при блокировке аккаунта в «Максе»](https://habr.com/ru/news/1101364/?utm_campaign=1101364&utm_source=habrahabr&utm_medium=rss)
+- [Шадаев: Россия готова полностью раскрыть исходный код своих соцсетей и мессенджеров](https://habr.com/ru/news/1101326/?utm_campaign=1101326&utm_source=habrahabr&utm_medium=rss)
+- [Модель LFM3 на 1,7 млрд параметров обходит Qwen3.5 9B в агентных задачах и весит до 1 ГБ](https://habr.com/ru/companies/selectel/news/1101318/?utm_campaign=1101318&utm_source=habrahabr&utm_medium=rss)
+- [По пиву и по куберу: в Москве пройдет четвертый KuBeer Talks](https://habr.com/ru/companies/chislitellab/news/1101306/?utm_campaign=1101306&utm_source=habrahabr&utm_medium=rss)
+- [«Диасофт» назвал интеграционный слой главным инструментом контроля ИИ-агентов](https://habr.com/ru/companies/diasoft_company/news/1101296/?utm_campaign=1101296&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
