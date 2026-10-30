@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Взлом Binance: с биржи вывели криптовалюту почти на $6 млрд](https://habr.com/ru/news/1101442/?utm_campaign=1101442&utm_source=habrahabr&utm_medium=rss)
-- [AI‑поиск снизил выручку Google от поисковых сервисов, но компания будет исправлять ситуацию рекламой в ответах нейросети](https://habr.com/ru/news/1101426/?utm_campaign=1101426&utm_source=habrahabr&utm_medium=rss)
-- [В Android Studio появилась поддержка более 40 AI‑агентов, включая Claude и Codex](https://habr.com/ru/news/1101424/?utm_campaign=1101424&utm_source=habrahabr&utm_medium=rss)
-- [Xreal представила XR‑очки Aura с Android XR и Gemini](https://habr.com/ru/news/1101412/?utm_campaign=1101412&utm_source=habrahabr&utm_medium=rss)
-- [Тимлид Anthropic отказался от задач по программированию на собеседованиях](https://habr.com/ru/news/1101402/?utm_campaign=1101402&utm_source=habrahabr&utm_medium=rss)
+- [Binance: хакер получил доступ к сервисному контейнеру через взломанный ноутбук DevOps‑инженера](https://habr.com/ru/news/1101518/?utm_campaign=1101518&utm_source=habrahabr&utm_medium=rss)
+- [В США расследовали деятельность китайского шпиона, связанного с Nvidia](https://habr.com/ru/news/1101534/?utm_campaign=1101534&utm_source=habrahabr&utm_medium=rss)
+- [Букмекера Polymarket взломали](https://habr.com/ru/news/1101512/?utm_campaign=1101512&utm_source=habrahabr&utm_medium=rss)
+- [Рэймонд Чен объяснил зависание панели задач при перегрузке системы в Windows 10 и 11](https://habr.com/ru/news/1101490/?utm_campaign=1101490&utm_source=habrahabr&utm_medium=rss)
+- [Microsoft устранила сбои в работе удалённого рабочего стола Windows 11](https://habr.com/ru/news/1101486/?utm_campaign=1101486&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
