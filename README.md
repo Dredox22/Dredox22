@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Взлом Binance: с биржи вывели криптовалюту почти на $6 млрд](https://habr.com/ru/news/1101442/?utm_campaign=1101442&utm_source=habrahabr&utm_medium=rss)
 - [AI‑поиск снизил выручку Google от поисковых сервисов, но компания будет исправлять ситуацию рекламой в ответах нейросети](https://habr.com/ru/news/1101426/?utm_campaign=1101426&utm_source=habrahabr&utm_medium=rss)
 - [В Android Studio появилась поддержка более 40 AI‑агентов, включая Claude и Codex](https://habr.com/ru/news/1101424/?utm_campaign=1101424&utm_source=habrahabr&utm_medium=rss)
 - [Xreal представила XR‑очки Aura с Android XR и Gemini](https://habr.com/ru/news/1101412/?utm_campaign=1101412&utm_source=habrahabr&utm_medium=rss)
 - [Тимлид Anthropic отказался от задач по программированию на собеседованиях](https://habr.com/ru/news/1101402/?utm_campaign=1101402&utm_source=habrahabr&utm_medium=rss)
-- [Максут Шадаев предложил ограничивать выдачу новых сим‑карт при блокировке аккаунта в «Максе»](https://habr.com/ru/news/1101364/?utm_campaign=1101364&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
