@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Perfscale news #17. Свои шаги на WASM &lpar;RFC 009&rpar;, Node.js-шаги, Faker и нагрузка с нескольких IP и типизированный инпут](https://habr.com/ru/news/1101848/?utm_campaign=1101848&utm_source=habrahabr&utm_medium=rss)
-- [К2 Кибербезопасность среди лидеров «Киберарены» GIS Days 2026](https://habr.com/ru/companies/k2tech/news/1101844/?utm_campaign=1101844&utm_source=habrahabr&utm_medium=rss)
-- [Claude Code получил новое правило «не создавать копии уже существующих игр — даже если изменить их название»](https://habr.com/ru/news/1101842/?utm_campaign=1101842&utm_source=habrahabr&utm_medium=rss)
-- [Вышло крупнейшее обновление DirectX для трассировки лучей с 2018 года](https://habr.com/ru/companies/selectel/news/1101798/?utm_campaign=1101798&utm_source=habrahabr&utm_medium=rss)
-- [CVE…432 — Go: Дистанционный root в Linux](https://habr.com/ru/news/1101826/?utm_campaign=1101826&utm_source=habrahabr&utm_medium=rss)
+- [Xiaomi выпустила открытую модель OCR-0 для распознавания документов](https://habr.com/ru/news/1101892/?utm_campaign=1101892&utm_source=habrahabr&utm_medium=rss)
+- [Российских студентов к 2028 году начнут выпускать из вузов вместе с ИИ‑двойниками, прогнозируют в ВШЭ](https://habr.com/ru/news/1101882/?utm_campaign=1101882&utm_source=habrahabr&utm_medium=rss)
+- [Дефицит производства печатных плат усиливается: влияние ИИ-бума](https://habr.com/ru/companies/selectel/news/1101818/?utm_campaign=1101818&utm_source=habrahabr&utm_medium=rss)
+- [Новая функция Cloud Rebuild даёт возможность переустановить Windows 11 без образов и USB‑накопителей](https://habr.com/ru/news/1101858/?utm_campaign=1101858&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск NoDPI4Android 2.0 — открытого инструмента для модификации трафика](https://habr.com/ru/news/1101854/?utm_campaign=1101854&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
