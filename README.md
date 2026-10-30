@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Binance: хакер получил доступ к сервисному контейнеру через взломанный ноутбук DevOps‑инженера](https://habr.com/ru/news/1101518/?utm_campaign=1101518&utm_source=habrahabr&utm_medium=rss)
-- [В США расследовали деятельность китайского шпиона, связанного с Nvidia](https://habr.com/ru/news/1101534/?utm_campaign=1101534&utm_source=habrahabr&utm_medium=rss)
-- [Букмекера Polymarket взломали](https://habr.com/ru/news/1101512/?utm_campaign=1101512&utm_source=habrahabr&utm_medium=rss)
-- [Рэймонд Чен объяснил зависание панели задач при перегрузке системы в Windows 10 и 11](https://habr.com/ru/news/1101490/?utm_campaign=1101490&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft устранила сбои в работе удалённого рабочего стола Windows 11](https://habr.com/ru/news/1101486/?utm_campaign=1101486&utm_source=habrahabr&utm_medium=rss)
+- [Perfscale news #17. Свои шаги на WASM &lpar;RFC 009&rpar;, Node.js-шаги, Faker и нагрузка с нескольких IP и типизированный инпут](https://habr.com/ru/news/1101848/?utm_campaign=1101848&utm_source=habrahabr&utm_medium=rss)
+- [К2 Кибербезопасность среди лидеров «Киберарены» GIS Days 2026](https://habr.com/ru/companies/k2tech/news/1101844/?utm_campaign=1101844&utm_source=habrahabr&utm_medium=rss)
+- [Claude Code получил новое правило «не создавать копии уже существующих игр — даже если изменить их название»](https://habr.com/ru/news/1101842/?utm_campaign=1101842&utm_source=habrahabr&utm_medium=rss)
+- [Вышло крупнейшее обновление DirectX для трассировки лучей с 2018 года](https://habr.com/ru/companies/selectel/news/1101798/?utm_campaign=1101798&utm_source=habrahabr&utm_medium=rss)
+- [CVE…432 — Go: Дистанционный root в Linux](https://habr.com/ru/news/1101826/?utm_campaign=1101826&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
