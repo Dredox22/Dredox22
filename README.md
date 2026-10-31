@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Шадаев допустил блокировку всех SIM‑карт владельца аккаунта в MAX, признанного мошенническим](https://habr.com/ru/news/1102074/?utm_campaign=1102074&utm_source=habrahabr&utm_medium=rss)
+- [Self-hosted модель «Le Chonk» вышла из превью. Как сравнялись с GLM и почему Альтман недоволен?](https://habr.com/ru/companies/selectel/news/1101750/?utm_campaign=1101750&utm_source=habrahabr&utm_medium=rss)
+- [Семь чат‑ботов не смогли отличить ИИ от человека в имитации теста Тьюринга](https://habr.com/ru/news/1101994/?utm_campaign=1101994&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft заявила об ограничении рисков атак на имена пользователей через доступ к ссылкам OneDrive или SharePoint](https://habr.com/ru/news/1101982/?utm_campaign=1101982&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Tor Browser 16.0](https://habr.com/ru/news/1101474/?utm_campaign=1101474&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления DaVinci Resolve 21.1.2](https://habr.com/ru/news/1101648/?utm_campaign=1101648&utm_source=habrahabr&utm_medium=rss)
-- [Xiaomi выпустила открытую модель OCR-0 для распознавания документов](https://habr.com/ru/news/1101892/?utm_campaign=1101892&utm_source=habrahabr&utm_medium=rss)
-- [Российских студентов к 2028 году начнут выпускать из вузов вместе с ИИ‑двойниками, прогнозируют в ВШЭ](https://habr.com/ru/news/1101882/?utm_campaign=1101882&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
