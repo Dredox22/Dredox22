@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft заявила об ограничении рисков атак на имена пользователей через доступ к ссылкам OneDrive или SharePoint](https://habr.com/ru/news/1101982/?utm_campaign=1101982&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Tor Browser 16.0](https://habr.com/ru/news/1101474/?utm_campaign=1101474&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления DaVinci Resolve 21.1.2](https://habr.com/ru/news/1101648/?utm_campaign=1101648&utm_source=habrahabr&utm_medium=rss)
 - [Xiaomi выпустила открытую модель OCR-0 для распознавания документов](https://habr.com/ru/news/1101892/?utm_campaign=1101892&utm_source=habrahabr&utm_medium=rss)
 - [Российских студентов к 2028 году начнут выпускать из вузов вместе с ИИ‑двойниками, прогнозируют в ВШЭ](https://habr.com/ru/news/1101882/?utm_campaign=1101882&utm_source=habrahabr&utm_medium=rss)
-- [Дефицит производства печатных плат усиливается: влияние ИИ-бума](https://habr.com/ru/companies/selectel/news/1101818/?utm_campaign=1101818&utm_source=habrahabr&utm_medium=rss)
-- [Новая функция Cloud Rebuild даёт возможность переустановить Windows 11 без образов и USB‑накопителей](https://habr.com/ru/news/1101858/?utm_campaign=1101858&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск NoDPI4Android 2.0 — открытого инструмента для модификации трафика](https://habr.com/ru/news/1101854/?utm_campaign=1101854&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
