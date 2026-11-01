@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Андрей Карпаты представил ИИ-проект HackerTube — клон YouTube только с видео с рекомендациями из Hacker News](https://habr.com/ru/news/1102292/?utm_campaign=1102292&utm_source=habrahabr&utm_medium=rss)
+- [Cozystack набрал необходимое количество голосов на голосовании по переходу в CNCF Incubation](https://habr.com/ru/companies/aenix/news/1102384/?utm_campaign=1102384&utm_source=habrahabr&utm_medium=rss)
+- [Андрей Карпаты представил ИИ‑проект HackerTube — клон витрины YouTube только с видео с рекомендациями из Hacker News](https://habr.com/ru/news/1102292/?utm_campaign=1102292&utm_source=habrahabr&utm_medium=rss)
 - [Спутник Google проекта космического ЦОД Suncatcher вышел на связь с ЦУП](https://habr.com/ru/news/1102244/?utm_campaign=1102244&utm_source=habrahabr&utm_medium=rss)
 - [ФБР обвинила хакеров из КНДР в хищении активов на сумму более $6 млрд с Binance](https://habr.com/ru/news/1102228/?utm_campaign=1102228&utm_source=habrahabr&utm_medium=rss)
 - [Обновление проекта KillerPDF 1.9.0 — редактора PDF с открытым исходным кодом для Windows 10/11](https://habr.com/ru/news/1101878/?utm_campaign=1101878&utm_source=habrahabr&utm_medium=rss)
-- [Вредоносное ПО стало использовать LLM для ранжирования жертв по степени их ценности](https://habr.com/ru/news/1102226/?utm_campaign=1102226&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
