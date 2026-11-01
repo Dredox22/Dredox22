@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Выпуск irc‑клиента mIRC 7.86](https://habr.com/ru/news/1102106/?utm_campaign=1102106&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого проекта CompressO 4.0.0 для сжатия видео на базе движка FFmpeg](https://habr.com/ru/news/1101870/?utm_campaign=1101870&utm_source=habrahabr&utm_medium=rss)
+- [Вышла версия композитного оконного менеджера Hyprland 0.57.0](https://habr.com/ru/news/1101860/?utm_campaign=1101860&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил приложение для управления MacBook постукиваниями по экрану](https://habr.com/ru/news/1102146/?utm_campaign=1102146&utm_source=habrahabr&utm_medium=rss)
 - [Шадаев допустил блокировку всех SIM‑карт владельца аккаунта в MAX, признанного мошенническим](https://habr.com/ru/news/1102074/?utm_campaign=1102074&utm_source=habrahabr&utm_medium=rss)
-- [Self-hosted модель «Le Chonk» вышла из превью. Как сравнялись с GLM и почему Альтман недоволен?](https://habr.com/ru/companies/selectel/news/1101750/?utm_campaign=1101750&utm_source=habrahabr&utm_medium=rss)
-- [Семь чат‑ботов не смогли отличить ИИ от человека в имитации теста Тьюринга](https://habr.com/ru/news/1101994/?utm_campaign=1101994&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft заявила об ограничении рисков атак на имена пользователей через доступ к ссылкам OneDrive или SharePoint](https://habr.com/ru/news/1101982/?utm_campaign=1101982&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
