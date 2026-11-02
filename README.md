@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Срок поддержки ядра Linux 7.2 истёк, всем рекомендуется перейти на ядро Linux 7.3 или Linux 6.18 LTS](https://habr.com/ru/news/1102448/?utm_campaign=1102448&utm_source=habrahabr&utm_medium=rss)
-- [Upd: глобальный сбой в работе хостинг-провайдера Beget — проблема носит комплексный характер](https://habr.com/ru/news/1102444/?utm_campaign=1102444&utm_source=habrahabr&utm_medium=rss)
-- [Релиз кроссплатформенного видеоредактора OpenShot 4.1.0](https://habr.com/ru/news/1102354/?utm_campaign=1102354&utm_source=habrahabr&utm_medium=rss)
-- [Вышел дистрибутив Linux Lite 8.2, основанный на ядре Linux 7.3, Ubuntu 26.04 LTS и среде рабочего стола Xfce](https://habr.com/ru/news/1102360/?utm_campaign=1102360&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск Wine 11.21](https://habr.com/ru/news/1102100/?utm_campaign=1102100&utm_source=habrahabr&utm_medium=rss)
+- [В европейских продуктовых магазинах из‑за кибератаки резко поднялась температура в морозильных камерах](https://habr.com/ru/news/1102824/?utm_campaign=1102824&utm_source=habrahabr&utm_medium=rss)
+- [Фотосток Getty Images подал заявление о банкротстве](https://habr.com/ru/news/1102808/?utm_campaign=1102808&utm_source=habrahabr&utm_medium=rss)
+- [ТОП-5 ИБ‑событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1102786/?utm_campaign=1102786&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI может переименовать свои дата‑центры в «кампусы для ИИ‑вычислений»](https://habr.com/ru/news/1102780/?utm_campaign=1102780&utm_source=habrahabr&utm_medium=rss)
+- [Сбой в работе хостинг-провайдера Beget назвали кибератакой и обстоятельством непреодолимой силы &lpar;форс-мажором&rpar;](https://habr.com/ru/news/1102774/?utm_campaign=1102774&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
