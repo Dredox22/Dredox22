@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В европейских продуктовых магазинах из‑за кибератаки резко поднялась температура в морозильных камерах](https://habr.com/ru/news/1102824/?utm_campaign=1102824&utm_source=habrahabr&utm_medium=rss)
-- [Фотосток Getty Images подал заявление о банкротстве](https://habr.com/ru/news/1102808/?utm_campaign=1102808&utm_source=habrahabr&utm_medium=rss)
-- [ТОП-5 ИБ‑событий недели по версии Jet CSIRT](https://habr.com/ru/companies/jetinfosystems/news/1102786/?utm_campaign=1102786&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI может переименовать свои дата‑центры в «кампусы для ИИ‑вычислений»](https://habr.com/ru/news/1102780/?utm_campaign=1102780&utm_source=habrahabr&utm_medium=rss)
-- [Сбой в работе хостинг-провайдера Beget назвали кибератакой и обстоятельством непреодолимой силы &lpar;форс-мажором&rpar;](https://habr.com/ru/news/1102774/?utm_campaign=1102774&utm_source=habrahabr&utm_medium=rss)
+- [SUSE объявила о сокращении примерно 190 из 1,9 тысячи штатных сотрудников](https://habr.com/ru/news/1103020/?utm_campaign=1103020&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-самолечение PostgreSQL доступно в Платформе Tantor 7.1](https://habr.com/ru/companies/tantor/news/1102486/?utm_campaign=1102486&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления HopToDesk 1.46.80 — безопасного открытого решения для удалённого рабочего стола](https://habr.com/ru/news/1102870/?utm_campaign=1102870&utm_source=habrahabr&utm_medium=rss)
+- [Сбой в работе хостинг-провайдера Beget: сколько по времени займёт восстановление пока непонятно](https://habr.com/ru/news/1102974/?utm_campaign=1102974&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления FreeRDP 3.33](https://habr.com/ru/news/1102860/?utm_campaign=1102860&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
