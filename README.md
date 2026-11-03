@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Власти США запретили гражданским ведомствам использовать программное обеспечение компании Acronis с января 2027 года](https://habr.com/ru/news/1103308/?utm_campaign=1103308&utm_source=habrahabr&utm_medium=rss)
+- [AI AppSec Night: встреча экспертов безопасной разработки](https://habr.com/ru/companies/alfa/news/1103306/?utm_campaign=1103306&utm_source=habrahabr&utm_medium=rss)
+- [Состоялся релиз Fedora Linux 45](https://habr.com/ru/news/1103296/?utm_campaign=1103296&utm_source=habrahabr&utm_medium=rss)
 - [Работает только на 12%? GDPx, новый агентный бенчмарк SemiAnalysis](https://habr.com/ru/companies/selectel/news/1103282/?utm_campaign=1103282&utm_source=habrahabr&utm_medium=rss)
 - [Когда отдельных расчётов недостаточно: моделирование электронных устройств](https://habr.com/ru/companies/T1Holding/news/1103268/?utm_campaign=1103268&utm_source=habrahabr&utm_medium=rss)
-- [Коалиция компаний в сфере кибербезопасности ликвидировала ботнет из 1,3 млн ТВ‑приставок и других устройств на Android](https://habr.com/ru/news/1103240/?utm_campaign=1103240&utm_source=habrahabr&utm_medium=rss)
-- [В 42 GitHub-репозитория внедрили код для скрытой публикации вредоносных npm-пакетов](https://habr.com/ru/companies/codescoring/news/1103232/?utm_campaign=1103232&utm_source=habrahabr&utm_medium=rss)
-- [GPT-6 Astra вручную исправила Qwen и причем тут MIT](https://habr.com/ru/companies/selectel/news/1103198/?utm_campaign=1103198&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
