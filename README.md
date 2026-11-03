@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [SUSE объявила о сокращении примерно 190 из 1,9 тысячи штатных сотрудников](https://habr.com/ru/news/1103020/?utm_campaign=1103020&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-самолечение PostgreSQL доступно в Платформе Tantor 7.1](https://habr.com/ru/companies/tantor/news/1102486/?utm_campaign=1102486&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления HopToDesk 1.46.80 — безопасного открытого решения для удалённого рабочего стола](https://habr.com/ru/news/1102870/?utm_campaign=1102870&utm_source=habrahabr&utm_medium=rss)
-- [Сбой в работе хостинг-провайдера Beget: сколько по времени займёт восстановление пока непонятно](https://habr.com/ru/news/1102974/?utm_campaign=1102974&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления FreeRDP 3.33](https://habr.com/ru/news/1102860/?utm_campaign=1102860&utm_source=habrahabr&utm_medium=rss)
+- [Работает только на 12%? GDPx, новый агентный бенчмарк SemiAnalysis](https://habr.com/ru/companies/selectel/news/1103282/?utm_campaign=1103282&utm_source=habrahabr&utm_medium=rss)
+- [Когда отдельных расчётов недостаточно: моделирование электронных устройств](https://habr.com/ru/companies/T1Holding/news/1103268/?utm_campaign=1103268&utm_source=habrahabr&utm_medium=rss)
+- [Коалиция компаний в сфере кибербезопасности ликвидировала ботнет из 1,3 млн ТВ‑приставок и других устройств на Android](https://habr.com/ru/news/1103240/?utm_campaign=1103240&utm_source=habrahabr&utm_medium=rss)
+- [В 42 GitHub-репозитория внедрили код для скрытой публикации вредоносных npm-пакетов](https://habr.com/ru/companies/codescoring/news/1103232/?utm_campaign=1103232&utm_source=habrahabr&utm_medium=rss)
+- [GPT-6 Astra вручную исправила Qwen и причем тут MIT](https://habr.com/ru/companies/selectel/news/1103198/?utm_campaign=1103198&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
