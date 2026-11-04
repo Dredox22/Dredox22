@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [CrowdStrike запустила «аварийный выключатель» для нейтрализации ИИ‑агентов](https://habr.com/ru/news/1103426/?utm_campaign=1103426&utm_source=habrahabr&utm_medium=rss)
-- [Google позволит школам отключать свои ИИ‑инструменты, но ценой отказа от поиска](https://habr.com/ru/news/1103430/?utm_campaign=1103430&utm_source=habrahabr&utm_medium=rss)
-- [Apple разослала владельцам своих устройств в 99 странах предупреждения о возможных атаках с использованием шпионского ПО](https://habr.com/ru/news/1103420/?utm_campaign=1103420&utm_source=habrahabr&utm_medium=rss)
-- [Что делать, если у вас отвалился ЦОД, вашего провайдера взломали и даунтайм неизбежен](https://habr.com/ru/news/1103416/?utm_campaign=1103416&utm_source=habrahabr&utm_medium=rss)
-- [Google анонсировала набор инструментов Quick Share SDK для сторонних приложений](https://habr.com/ru/news/1103406/?utm_campaign=1103406&utm_source=habrahabr&utm_medium=rss)
+- [Beget: виртуальный хостинг запущен у 35% серверов, выделенные серверы частью доступны, домены работают, бэкапы в работе](https://habr.com/ru/news/1103590/?utm_campaign=1103590&utm_source=habrahabr&utm_medium=rss)
+- [Контрактное программирование и C++26 все :-&lpar;](https://habr.com/ru/news/1103576/?utm_campaign=1103576&utm_source=habrahabr&utm_medium=rss)
+- [Valve увеличила сроки одобрения игр для публикации в Steam до 12 рабочих дней](https://habr.com/ru/news/1103500/?utm_campaign=1103500&utm_source=habrahabr&utm_medium=rss)
+- [Sega сообщила о хакерской атаке на свои серверы](https://habr.com/ru/news/1103476/?utm_campaign=1103476&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI представила Pando — бэкенд на основе Git для разработки с ИИ](https://habr.com/ru/companies/selectel/news/1103348/?utm_campaign=1103348&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
