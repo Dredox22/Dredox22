@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Власти США запретили гражданским ведомствам использовать программное обеспечение компании Acronis с января 2027 года](https://habr.com/ru/news/1103308/?utm_campaign=1103308&utm_source=habrahabr&utm_medium=rss)
-- [AI AppSec Night: встреча экспертов безопасной разработки](https://habr.com/ru/companies/alfa/news/1103306/?utm_campaign=1103306&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз Fedora Linux 45](https://habr.com/ru/news/1103296/?utm_campaign=1103296&utm_source=habrahabr&utm_medium=rss)
-- [Работает только на 12%? GDPx, новый агентный бенчмарк SemiAnalysis](https://habr.com/ru/companies/selectel/news/1103282/?utm_campaign=1103282&utm_source=habrahabr&utm_medium=rss)
-- [Когда отдельных расчётов недостаточно: моделирование электронных устройств](https://habr.com/ru/companies/T1Holding/news/1103268/?utm_campaign=1103268&utm_source=habrahabr&utm_medium=rss)
+- [CrowdStrike запустила «аварийный выключатель» для нейтрализации ИИ‑агентов](https://habr.com/ru/news/1103426/?utm_campaign=1103426&utm_source=habrahabr&utm_medium=rss)
+- [Google позволит школам отключать свои ИИ‑инструменты, но ценой отказа от поиска](https://habr.com/ru/news/1103430/?utm_campaign=1103430&utm_source=habrahabr&utm_medium=rss)
+- [Apple разослала владельцам своих устройств в 99 странах предупреждения о возможных атаках с использованием шпионского ПО](https://habr.com/ru/news/1103420/?utm_campaign=1103420&utm_source=habrahabr&utm_medium=rss)
+- [Что делать, если у вас отвалился ЦОД, вашего провайдера взломали и даунтайм неизбежен](https://habr.com/ru/news/1103416/?utm_campaign=1103416&utm_source=habrahabr&utm_medium=rss)
+- [Google анонсировала набор инструментов Quick Share SDK для сторонних приложений](https://habr.com/ru/news/1103406/?utm_campaign=1103406&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
