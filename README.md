@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз NWinfo 1.6.7 — открытого портативного инструмента для быстрого просмотра ключевых характеристик ПК на Windows](https://habr.com/ru/news/1103444/?utm_campaign=1103444&utm_source=habrahabr&utm_medium=rss)
-- [Вышел GIMP 3.2.8](https://habr.com/ru/news/1103314/?utm_campaign=1103314&utm_source=habrahabr&utm_medium=rss)
-- [Компания Canonical сообщила об исправлении уязвимости с максимальным рейтингом опасности в двух своих продуктах](https://habr.com/ru/companies/codescoring/news/1103608/?utm_campaign=1103608&utm_source=habrahabr&utm_medium=rss)
-- [Beget: виртуальный хостинг запущен у 35% серверов, выделенные серверы частью доступны, домены работают, бэкапы в работе](https://habr.com/ru/news/1103590/?utm_campaign=1103590&utm_source=habrahabr&utm_medium=rss)
-- [Контрактное программирование и C++26 все :-&lpar;](https://habr.com/ru/news/1103576/?utm_campaign=1103576&utm_source=habrahabr&utm_medium=rss)
+- [Apple будет проверять передаваемые по ссылкам файлы в iCloud](https://habr.com/ru/news/1103932/?utm_campaign=1103932&utm_source=habrahabr&utm_medium=rss)
+- [TDMS Фарватер 26.0: новая версия системы проектного документооборота](https://habr.com/ru/companies/nanosoft/news/1103938/?utm_campaign=1103938&utm_source=habrahabr&utm_medium=rss)
+- [Обновление C# в OpenIDE: управление NuGet-пакетами прямо из IDE](https://habr.com/ru/companies/haulmont/news/1103930/?utm_campaign=1103930&utm_source=habrahabr&utm_medium=rss)
+- [Художники из числа австралийских аборигенов пожаловались на бесконтрольное обучение ИИ на их работах](https://habr.com/ru/news/1103920/?utm_campaign=1103920&utm_source=habrahabr&utm_medium=rss)
+- [Решения UserGate обеспечивают безопасность мультиоблачной инфраструктуры компании «LADA Цифра»](https://habr.com/ru/companies/usergate/news/1103840/?utm_campaign=1103840&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
