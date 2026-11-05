@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple будет проверять передаваемые по ссылкам файлы в iCloud](https://habr.com/ru/news/1103932/?utm_campaign=1103932&utm_source=habrahabr&utm_medium=rss)
-- [TDMS Фарватер 26.0: новая версия системы проектного документооборота](https://habr.com/ru/companies/nanosoft/news/1103938/?utm_campaign=1103938&utm_source=habrahabr&utm_medium=rss)
-- [Обновление C# в OpenIDE: управление NuGet-пакетами прямо из IDE](https://habr.com/ru/companies/haulmont/news/1103930/?utm_campaign=1103930&utm_source=habrahabr&utm_medium=rss)
-- [Художники из числа австралийских аборигенов пожаловались на бесконтрольное обучение ИИ на их работах](https://habr.com/ru/news/1103920/?utm_campaign=1103920&utm_source=habrahabr&utm_medium=rss)
-- [Решения UserGate обеспечивают безопасность мультиоблачной инфраструктуры компании «LADA Цифра»](https://habr.com/ru/companies/usergate/news/1103840/?utm_campaign=1103840&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI показала GPT-6 Cyber](https://habr.com/ru/companies/bothub/news/1104174/?utm_campaign=1104174&utm_source=habrahabr&utm_medium=rss)
+- [Discord отказывается от Electron и переписывает клиенты на Rust](https://habr.com/ru/news/1104132/?utm_campaign=1104132&utm_source=habrahabr&utm_medium=rss)
+- [Qt Group представила Clate — визуальный редактор интерфейсов для встраиваемых устройств](https://habr.com/ru/news/1104070/?utm_campaign=1104070&utm_source=habrahabr&utm_medium=rss)
+- [0,30 $ за миллион токенов: как Revolut перевел 2 000 инженеров на self‑hosted GLM](https://habr.com/ru/companies/selectel/news/1104032/?utm_campaign=1104032&utm_source=habrahabr&utm_medium=rss)
+- [Axion 1.0 — новый открытый агент на 35B с тремя миллиардами активных параметров](https://habr.com/ru/companies/selectel/news/1103984/?utm_campaign=1103984&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
