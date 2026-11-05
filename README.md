@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Релиз NWinfo 1.6.7 — открытого портативного инструмента для быстрого просмотра ключевых характеристик ПК на Windows](https://habr.com/ru/news/1103444/?utm_campaign=1103444&utm_source=habrahabr&utm_medium=rss)
+- [Вышел GIMP 3.2.8](https://habr.com/ru/news/1103314/?utm_campaign=1103314&utm_source=habrahabr&utm_medium=rss)
 - [Компания Canonical сообщила об исправлении уязвимости с максимальным рейтингом опасности в двух своих продуктах](https://habr.com/ru/companies/codescoring/news/1103608/?utm_campaign=1103608&utm_source=habrahabr&utm_medium=rss)
 - [Beget: виртуальный хостинг запущен у 35% серверов, выделенные серверы частью доступны, домены работают, бэкапы в работе](https://habr.com/ru/news/1103590/?utm_campaign=1103590&utm_source=habrahabr&utm_medium=rss)
 - [Контрактное программирование и C++26 все :-&lpar;](https://habr.com/ru/news/1103576/?utm_campaign=1103576&utm_source=habrahabr&utm_medium=rss)
-- [Valve увеличила сроки одобрения игр для публикации в Steam до 12 рабочих дней](https://habr.com/ru/news/1103500/?utm_campaign=1103500&utm_source=habrahabr&utm_medium=rss)
-- [Sega сообщила о хакерской атаке на свои серверы](https://habr.com/ru/news/1103476/?utm_campaign=1103476&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
