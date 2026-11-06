@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышел открытый проект gputaskman для Windows, Linux и macOS с показом процессов, использующих мощности GPU](https://habr.com/ru/news/1104286/?utm_campaign=1104286&utm_source=habrahabr&utm_medium=rss)
-- [Вышла версия Kitty Terminal 0.50](https://habr.com/ru/news/1103738/?utm_campaign=1103738&utm_source=habrahabr&utm_medium=rss)
-- [Max планируют подключить к госсистеме мониторинга операторов связи &lpar;ГИС КСИМ&rpar; для проверки актуальности номеров](https://habr.com/ru/news/1104244/?utm_campaign=1104244&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление диагностической утилиты CPU‑Z 3.02](https://habr.com/ru/news/1103702/?utm_campaign=1103702&utm_source=habrahabr&utm_medium=rss)
-- [Представлен дистрибутив Bazitte 45 на базе Fedora Linux 45 с рабочими столами KDE и GNOME для любителей компьютерных игр](https://habr.com/ru/news/1103732/?utm_campaign=1103732&utm_source=habrahabr&utm_medium=rss)
+- [Обновление FurMark 2.11 расширило базу графических чипов и улучшило мониторинг температур](https://habr.com/ru/companies/selectel/news/1104530/?utm_campaign=1104530&utm_source=habrahabr&utm_medium=rss)
+- [Ноябрьские курсы для аналитиков 1С: от понимания задачи до проверки результата](https://habr.com/ru/companies/infostart/news/1104674/?utm_campaign=1104674&utm_source=habrahabr&utm_medium=rss)
+- [Новая GPT-6 Cyber. Поиск уязвимостей и обеспечение безопасности](https://habr.com/ru/companies/selectel/news/1104590/?utm_campaign=1104590&utm_source=habrahabr&utm_medium=rss)
+- [Gemini Omni 1.2 Flash. Google впервые дает видеогенерации SLA и снижает цену до 0,07 $ за секунду](https://habr.com/ru/companies/selectel/news/1104558/?utm_campaign=1104558&utm_source=habrahabr&utm_medium=rss)
+- [Perfscale news #18. CLI Агенты, thresholds с остановкой и OTEL метрики](https://habr.com/ru/news/1104124/?utm_campaign=1104124&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
