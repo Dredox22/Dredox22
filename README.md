@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Бесплатный видеоредактор Edits от Instagram* стал доступен для macOS](https://habr.com/ru/news/1104214/?utm_campaign=1104214&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI показала GPT-6 Cyber](https://habr.com/ru/companies/bothub/news/1104174/?utm_campaign=1104174&utm_source=habrahabr&utm_medium=rss)
-- [Discord отказывается от Electron и переписывает клиенты на Rust](https://habr.com/ru/news/1104132/?utm_campaign=1104132&utm_source=habrahabr&utm_medium=rss)
-- [Qt Group представила Clate — визуальный редактор интерфейсов для встраиваемых устройств](https://habr.com/ru/news/1104070/?utm_campaign=1104070&utm_source=habrahabr&utm_medium=rss)
-- [0,30 $ за миллион токенов: как Revolut перевел 2 000 инженеров на self‑hosted GLM](https://habr.com/ru/companies/selectel/news/1104032/?utm_campaign=1104032&utm_source=habrahabr&utm_medium=rss)
+- [Вышел открытый проект gputaskman для Windows, Linux и macOS с показом процессов, использующих мощности GPU](https://habr.com/ru/news/1104286/?utm_campaign=1104286&utm_source=habrahabr&utm_medium=rss)
+- [Вышла версия Kitty Terminal 0.50](https://habr.com/ru/news/1103738/?utm_campaign=1103738&utm_source=habrahabr&utm_medium=rss)
+- [Max планируют подключить к госсистеме мониторинга операторов связи &lpar;ГИС КСИМ&rpar; для проверки актуальности номеров](https://habr.com/ru/news/1104244/?utm_campaign=1104244&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление диагностической утилиты CPU‑Z 3.02](https://habr.com/ru/news/1103702/?utm_campaign=1103702&utm_source=habrahabr&utm_medium=rss)
+- [Представлен дистрибутив Bazitte 45 на базе Fedora Linux 45 с рабочими столами KDE и GNOME для любителей компьютерных игр](https://habr.com/ru/news/1103732/?utm_campaign=1103732&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
