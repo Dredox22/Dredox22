@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Обновление FurMark 2.11 расширило базу графических чипов и улучшило мониторинг температур](https://habr.com/ru/companies/selectel/news/1104530/?utm_campaign=1104530&utm_source=habrahabr&utm_medium=rss)
-- [Ноябрьские курсы для аналитиков 1С: от понимания задачи до проверки результата](https://habr.com/ru/companies/infostart/news/1104674/?utm_campaign=1104674&utm_source=habrahabr&utm_medium=rss)
-- [Новая GPT-6 Cyber. Поиск уязвимостей и обеспечение безопасности](https://habr.com/ru/companies/selectel/news/1104590/?utm_campaign=1104590&utm_source=habrahabr&utm_medium=rss)
-- [Gemini Omni 1.2 Flash. Google впервые дает видеогенерации SLA и снижает цену до 0,07 $ за секунду](https://habr.com/ru/companies/selectel/news/1104558/?utm_campaign=1104558&utm_source=habrahabr&utm_medium=rss)
-- [Perfscale news #18. CLI Агенты, thresholds с остановкой и OTEL метрики](https://habr.com/ru/news/1104124/?utm_campaign=1104124&utm_source=habrahabr&utm_medium=rss)
+- [790 трлн токенов за октябрь: OpenRouter опубликовали новые данные об использовании LLM](https://habr.com/ru/news/1104804/?utm_campaign=1104804&utm_source=habrahabr&utm_medium=rss)
+- [Вышел Asterisk 24 LTS](https://habr.com/ru/news/1104792/?utm_campaign=1104792&utm_source=habrahabr&utm_medium=rss)
+- [Раскрыта уязвимость CVE-2026-97631, позволяющая выполнить произвольный код в прошивке UEFI серверных материнских плат](https://habr.com/ru/news/1104242/?utm_campaign=1104242&utm_source=habrahabr&utm_medium=rss)
+- [Релиз Microsoft Edge 157](https://habr.com/ru/news/1104438/?utm_campaign=1104438&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления открытого инструментария для конвертации видео, аудио и изображений Shutter Encoder 20.5](https://habr.com/ru/news/1103808/?utm_campaign=1103808&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
