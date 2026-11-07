@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Вышла новая версия ShareX. Юзерам она не понравилась](https://habr.com/ru/news/1104906/?utm_campaign=1104906&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск Sigil 2.8.5 — открытого мультиплатформенного редактора электронных книг в формате ePub](https://habr.com/ru/news/1104246/?utm_campaign=1104246&utm_source=habrahabr&utm_medium=rss)
+- [Проблему Microsoft с изменением часовых поясов в Канаде можно решить только вручную](https://habr.com/ru/news/1104850/?utm_campaign=1104850&utm_source=habrahabr&utm_medium=rss)
 - [790 трлн токенов за октябрь: OpenRouter опубликовали новые данные об использовании LLM](https://habr.com/ru/news/1104804/?utm_campaign=1104804&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Asterisk 24 LTS](https://habr.com/ru/news/1104792/?utm_campaign=1104792&utm_source=habrahabr&utm_medium=rss)
-- [Раскрыта уязвимость CVE-2026-97631, позволяющая выполнить произвольный код в прошивке UEFI серверных материнских плат](https://habr.com/ru/news/1104242/?utm_campaign=1104242&utm_source=habrahabr&utm_medium=rss)
-- [Релиз Microsoft Edge 157](https://habr.com/ru/news/1104438/?utm_campaign=1104438&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления открытого инструментария для конвертации видео, аудио и изображений Shutter Encoder 20.5](https://habr.com/ru/news/1103808/?utm_campaign=1103808&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
