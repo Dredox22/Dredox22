@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [В проекте DosZone попросили у сообщества помощи в сохранении коллекции игр проекта из кэша браузеров](https://habr.com/ru/news/1105136/?utm_campaign=1105136&utm_source=habrahabr&utm_medium=rss)
+- [Вышел открытый проект Ram Altman — скрипт, который отправляет главе OpenAI инфу, сколько памяти простаивает на ПК](https://habr.com/ru/news/1105096/?utm_campaign=1105096&utm_source=habrahabr&utm_medium=rss)
 - [Обновление мессенджера bog_gram и bog_music](https://habr.com/ru/news/1105080/?utm_campaign=1105080&utm_source=habrahabr&utm_medium=rss)
 - [В EA рассказали о сохранении игрового наследия, включая видеокассеты, киноплёнки и CD‑ROM](https://habr.com/ru/news/1105046/?utm_campaign=1105046&utm_source=habrahabr&utm_medium=rss)
 - [Telegram готовит экспериментальную сборку с ИИ-ассистентом](https://habr.com/ru/news/1105042/?utm_campaign=1105042&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление Media Player Classic — Home Cinema 2.8.5](https://habr.com/ru/news/1104942/?utm_campaign=1104942&utm_source=habrahabr&utm_medium=rss)
-- [В iOS нашли список фраз, которые встроенная клавиатура не подсказывает во время набора](https://habr.com/ru/news/1105024/?utm_campaign=1105024&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
