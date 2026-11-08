@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновление открытого проекта Subtitle Edit 5.4.0 для создания, редактирования, синхронизирования и перевода субтитров](https://habr.com/ru/news/1104928/?utm_campaign=1104928&utm_source=habrahabr&utm_medium=rss)
 - [Вышла новая версия ShareX. Юзерам она не понравилась](https://habr.com/ru/news/1104906/?utm_campaign=1104906&utm_source=habrahabr&utm_medium=rss)
 - [Выпуск Sigil 2.8.5 — открытого мультиплатформенного редактора электронных книг в формате ePub](https://habr.com/ru/news/1104246/?utm_campaign=1104246&utm_source=habrahabr&utm_medium=rss)
 - [Проблему Microsoft с изменением часовых поясов в Канаде можно решить только вручную](https://habr.com/ru/news/1104850/?utm_campaign=1104850&utm_source=habrahabr&utm_medium=rss)
 - [790 трлн токенов за октябрь: OpenRouter опубликовали новые данные об использовании LLM](https://habr.com/ru/news/1104804/?utm_campaign=1104804&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Asterisk 24 LTS](https://habr.com/ru/news/1104792/?utm_campaign=1104792&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
