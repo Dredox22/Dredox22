@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Хостинг‑провайдер ESTT: причина сбоя инфраструктуры — кибератака с использованием программы‑шифровальщика](https://habr.com/ru/news/1105374/?utm_campaign=1105374&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики анонсировали свободную ОС без использования ИИ](https://habr.com/ru/news/1105354/?utm_campaign=1105354&utm_source=habrahabr&utm_medium=rss)
-- [Рекламодатели стали чаще инвестировать в продвижение через СМС‑рассылки](https://habr.com/ru/news/1105362/?utm_campaign=1105362&utm_source=habrahabr&utm_medium=rss)
-- [TDMS Фарватер Web 26.1: дашборды проекта, отчеты и соблюдение требований информационной безопасности](https://habr.com/ru/companies/nanosoft/news/1104672/?utm_campaign=1104672&utm_source=habrahabr&utm_medium=rss)
-- [Старая ошибка в драйверах чипсета AMD для Windows проявилась в софте для видеокарт](https://habr.com/ru/news/1105338/?utm_campaign=1105338&utm_source=habrahabr&utm_medium=rss)
+- [AI-агент в проде для тех, кто вкатывается: инструменты, RAG, надёжность и проверки](https://habr.com/ru/articles/1105712/?utm_campaign=1105712&utm_source=habrahabr&utm_medium=rss)
+- [[Перевод] ИИ‑агенты оставили 1,4 млн файлов. Поможет ли лимит в пять агентов?](https://habr.com/ru/articles/1105710/?utm_campaign=1105710&utm_source=habrahabr&utm_medium=rss)
+- [Концепт приложения «Телефон» для Android](https://habr.com/ru/articles/1105688/?utm_campaign=1105688&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic выпустила Claude Fable 5.2: управление роботами и математика](https://habr.com/ru/companies/bothub/articles/1105698/?utm_campaign=1105698&utm_source=habrahabr&utm_medium=rss)
+- [Онлайн инфраструктура на Godot Engine](https://habr.com/ru/articles/1103302/?utm_campaign=1103302&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
