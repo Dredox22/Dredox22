@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [В проекте DosZone попросили у сообщества помощи в сохранении коллекции игр проекта из кэша браузеров](https://habr.com/ru/news/1105136/?utm_campaign=1105136&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый проект Ram Altman — скрипт, который отправляет главе OpenAI инфу, сколько памяти простаивает на ПК](https://habr.com/ru/news/1105096/?utm_campaign=1105096&utm_source=habrahabr&utm_medium=rss)
-- [Обновление мессенджера bog_gram и bog_music](https://habr.com/ru/news/1105080/?utm_campaign=1105080&utm_source=habrahabr&utm_medium=rss)
-- [В EA рассказали о сохранении игрового наследия, включая видеокассеты, киноплёнки и CD‑ROM](https://habr.com/ru/news/1105046/?utm_campaign=1105046&utm_source=habrahabr&utm_medium=rss)
-- [Telegram готовит экспериментальную сборку с ИИ-ассистентом](https://habr.com/ru/news/1105042/?utm_campaign=1105042&utm_source=habrahabr&utm_medium=rss)
+- [Хостинг‑провайдер ESTT: причина сбоя инфраструктуры — кибератака с использованием программы‑шифровальщика](https://habr.com/ru/news/1105374/?utm_campaign=1105374&utm_source=habrahabr&utm_medium=rss)
+- [Разработчики анонсировали свободную ОС без использования ИИ](https://habr.com/ru/news/1105354/?utm_campaign=1105354&utm_source=habrahabr&utm_medium=rss)
+- [Рекламодатели стали чаще инвестировать в продвижение через СМС‑рассылки](https://habr.com/ru/news/1105362/?utm_campaign=1105362&utm_source=habrahabr&utm_medium=rss)
+- [TDMS Фарватер Web 26.1: дашборды проекта, отчеты и соблюдение требований информационной безопасности](https://habr.com/ru/companies/nanosoft/news/1104672/?utm_campaign=1104672&utm_source=habrahabr&utm_medium=rss)
+- [Старая ошибка в драйверах чипсета AMD для Windows проявилась в софте для видеокарт](https://habr.com/ru/news/1105338/?utm_campaign=1105338&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
