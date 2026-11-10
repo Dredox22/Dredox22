@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-агент в проде для тех, кто вкатывается: инструменты, RAG, надёжность и проверки](https://habr.com/ru/articles/1105712/?utm_campaign=1105712&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] ИИ‑агенты оставили 1,4 млн файлов. Поможет ли лимит в пять агентов?](https://habr.com/ru/articles/1105710/?utm_campaign=1105710&utm_source=habrahabr&utm_medium=rss)
-- [Концепт приложения «Телефон» для Android](https://habr.com/ru/articles/1105688/?utm_campaign=1105688&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic выпустила Claude Fable 5.2: управление роботами и математика](https://habr.com/ru/companies/bothub/articles/1105698/?utm_campaign=1105698&utm_source=habrahabr&utm_medium=rss)
-- [Онлайн инфраструктура на Godot Engine](https://habr.com/ru/articles/1103302/?utm_campaign=1103302&utm_source=habrahabr&utm_medium=rss)
+- [Вышел открытый проект FreePartition для Windows для управления разделами диска, восстановления файлов и диагностики](https://habr.com/ru/articles/1105308/?utm_campaign=1105308&utm_source=habrahabr&utm_medium=rss)
+- [Вышел кроссплатформенный инструмент с открытым исходным кодом для создания скриншотов Flameshot 15.0](https://habr.com/ru/articles/1105278/?utm_campaign=1105278&utm_source=habrahabr&utm_medium=rss)
+- [Вышел открытый проект kmorph для быстрого восстановления после сбоя или обновления ядра Linux без перезагрузки](https://habr.com/ru/articles/1105272/?utm_campaign=1105272&utm_source=habrahabr&utm_medium=rss)
+- [Движки e‑repa.ru. Часть 3. qt: вопрос к члену предложения и краткий ответ](https://habr.com/ru/articles/1105732/?utm_campaign=1105732&utm_source=habrahabr&utm_medium=rss)
+- [Пет‑проект за 6 недель: 490 игроков, 398 рублей и что на самом деле показала аналитика](https://habr.com/ru/articles/1105724/?utm_campaign=1105724&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
