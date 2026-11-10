@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Настраиваем автоматическое реагирование в Wazuh](https://habr.com/ru/companies/otus/articles/1101342/?utm_campaign=1101342&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Что такое Greenfield-проекты и почему их сложно тестировать](https://habr.com/ru/articles/1106064/?utm_campaign=1106064&utm_source=habrahabr&utm_medium=rss)
-- [ALT Orchestra: альтернатива Talos](https://habr.com/ru/companies/open-aot/articles/1090988/?utm_campaign=1090988&utm_source=habrahabr&utm_medium=rss)
-- [Как я научил AI находить новые фичи у конкурентов раньше, чем о них напишут в новостях](https://habr.com/ru/companies/garage8/articles/1104316/?utm_campaign=1104316&utm_source=habrahabr&utm_medium=rss)
-- [В погоне за ИИ-эффективностью: ошибки и потери бизнеса, роль философской рефлексии](https://habr.com/ru/articles/1106078/?utm_campaign=1106078&utm_source=habrahabr&utm_medium=rss)
+- [Opsgenie закрывается в апреле 2027. Я сделал дежурства с эскалациями в Telegram для команд в РФ](https://habr.com/ru/articles/1106290/?utm_campaign=1106290&utm_source=habrahabr&utm_medium=rss)
+- [А как бы это выглядело на C? Спрашивайте чаще](https://habr.com/ru/articles/1106288/?utm_campaign=1106288&utm_source=habrahabr&utm_medium=rss)
+- [Построение карты проходимости на GPU по данным RGB-D камеры &amp;amp; лидара](https://habr.com/ru/articles/1106286/?utm_campaign=1106286&utm_source=habrahabr&utm_medium=rss)
+- [Добавляем перегрузки функций в JavaScript](https://habr.com/ru/articles/1104748/?utm_campaign=1104748&utm_source=habrahabr&utm_medium=rss)
+- [[Перевод] BeOS в браузере: чужая ОС нашла в эмуляторе Mac баги, которых Mac OS не замечала](https://habr.com/ru/articles/1106284/?utm_campaign=1106284&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
