@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Вышел открытый проект FreePartition для Windows для управления разделами диска, восстановления файлов и диагностики](https://habr.com/ru/articles/1105308/?utm_campaign=1105308&utm_source=habrahabr&utm_medium=rss)
-- [Вышел кроссплатформенный инструмент с открытым исходным кодом для создания скриншотов Flameshot 15.0](https://habr.com/ru/articles/1105278/?utm_campaign=1105278&utm_source=habrahabr&utm_medium=rss)
-- [Вышел открытый проект kmorph для быстрого восстановления после сбоя или обновления ядра Linux без перезагрузки](https://habr.com/ru/articles/1105272/?utm_campaign=1105272&utm_source=habrahabr&utm_medium=rss)
-- [Движки e‑repa.ru. Часть 3. qt: вопрос к члену предложения и краткий ответ](https://habr.com/ru/articles/1105732/?utm_campaign=1105732&utm_source=habrahabr&utm_medium=rss)
-- [Пет‑проект за 6 недель: 490 игроков, 398 рублей и что на самом деле показала аналитика](https://habr.com/ru/articles/1105724/?utm_campaign=1105724&utm_source=habrahabr&utm_medium=rss)
+- [Настраиваем автоматическое реагирование в Wazuh](https://habr.com/ru/companies/otus/articles/1101342/?utm_campaign=1101342&utm_source=habrahabr&utm_medium=rss)
+- [[Перевод] Что такое Greenfield-проекты и почему их сложно тестировать](https://habr.com/ru/articles/1106064/?utm_campaign=1106064&utm_source=habrahabr&utm_medium=rss)
+- [ALT Orchestra: альтернатива Talos](https://habr.com/ru/companies/open-aot/articles/1090988/?utm_campaign=1090988&utm_source=habrahabr&utm_medium=rss)
+- [Как я научил AI находить новые фичи у конкурентов раньше, чем о них напишут в новостях](https://habr.com/ru/companies/garage8/articles/1104316/?utm_campaign=1104316&utm_source=habrahabr&utm_medium=rss)
+- [В погоне за ИИ-эффективностью: ошибки и потери бизнеса, роль философской рефлексии](https://habr.com/ru/articles/1106078/?utm_campaign=1106078&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
