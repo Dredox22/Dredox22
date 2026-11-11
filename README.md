@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Как устроен драйвер NVIDIA для карт-франкенштейнов: обход NVI2, WDDM 3.2 и запуск без тестового режима](https://habr.com/ru/articles/1106750/?utm_campaign=1106750&utm_source=habrahabr&utm_medium=rss)
-- [Как разбирать HTML в 10–30 раз быстрее HtmlAgilityPack и AngleSharp: список вместо DOM](https://habr.com/ru/articles/1106746/?utm_campaign=1106746&utm_source=habrahabr&utm_medium=rss)
-- [SSH-ловушка на своём сервере: 24 тысячи сессий за пять дней и один очень упрямый бот](https://habr.com/ru/articles/1106744/?utm_campaign=1106744&utm_source=habrahabr&utm_medium=rss)
-- [Рейтинг Рунета: новые стандарты GEO и оценка результата](https://habr.com/ru/articles/1106742/?utm_campaign=1106742&utm_source=habrahabr&utm_medium=rss)
-- [Shopify отказалась от React Native в пользу Swift и Kotlin](https://habr.com/ru/articles/1106734/?utm_campaign=1106734&utm_source=habrahabr&utm_medium=rss)
+- [Как я сделал игру в браузере с 0 опыта в геймдеве](https://habr.com/ru/articles/1106870/?utm_campaign=1106870&utm_source=habrahabr&utm_medium=rss)
+- [Деплой на VPS по push без SSH-ключей в CI: архитектура cd, механика OIDC и границы применимости](https://habr.com/ru/articles/1106874/?utm_campaign=1106874&utm_source=habrahabr&utm_medium=rss)
+- [Где еще можно обманывать игрока](https://habr.com/ru/articles/1106312/?utm_campaign=1106312&utm_source=habrahabr&utm_medium=rss)
+- [Я написал свой воксельный редактор. А стоило ли?](https://habr.com/ru/articles/1106860/?utm_campaign=1106860&utm_source=habrahabr&utm_medium=rss)
+- [Пять способов ускорить локальный инференс MoE-модели: один я написал сам](https://habr.com/ru/articles/1106854/?utm_campaign=1106854&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
