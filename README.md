@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Opsgenie закрывается в апреле 2027. Я сделал дежурства с эскалациями в Telegram для команд в РФ](https://habr.com/ru/articles/1106290/?utm_campaign=1106290&utm_source=habrahabr&utm_medium=rss)
-- [А как бы это выглядело на C? Спрашивайте чаще](https://habr.com/ru/articles/1106288/?utm_campaign=1106288&utm_source=habrahabr&utm_medium=rss)
-- [Построение карты проходимости на GPU по данным RGB-D камеры &amp;amp; лидара](https://habr.com/ru/articles/1106286/?utm_campaign=1106286&utm_source=habrahabr&utm_medium=rss)
-- [Добавляем перегрузки функций в JavaScript](https://habr.com/ru/articles/1104748/?utm_campaign=1104748&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] BeOS в браузере: чужая ОС нашла в эмуляторе Mac баги, которых Mac OS не замечала](https://habr.com/ru/articles/1106284/?utm_campaign=1106284&utm_source=habrahabr&utm_medium=rss)
+- [Как Джон Макафи создал бизнес-модель кибербеза и научил мир серьезно относиться к вирусам](https://habr.com/ru/companies/ispsystem/articles/1106320/?utm_campaign=1106320&utm_source=habrahabr&utm_medium=rss)
+- [«Я не тяну на сеньора»: когда своим сомнениям стоит верить](https://habr.com/ru/articles/1106316/?utm_campaign=1106316&utm_source=habrahabr&utm_medium=rss)
+- [Как агент улучшил себя, не тронув ни одного веса: разбираем The Trinity](https://habr.com/ru/articles/1106306/?utm_campaign=1106306&utm_source=habrahabr&utm_medium=rss)
+- [Поймай меня, если с прокси](https://habr.com/ru/articles/1106198/?utm_campaign=1106198&utm_source=habrahabr&utm_medium=rss)
+- [Атаки на ИИ-агентов: разбираем проект таксономии NIST](https://habr.com/ru/articles/1106012/?utm_campaign=1106012&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
