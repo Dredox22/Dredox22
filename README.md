@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Как Джон Макафи создал бизнес-модель кибербеза и научил мир серьезно относиться к вирусам](https://habr.com/ru/companies/ispsystem/articles/1106320/?utm_campaign=1106320&utm_source=habrahabr&utm_medium=rss)
-- [«Я не тяну на сеньора»: когда своим сомнениям стоит верить](https://habr.com/ru/articles/1106316/?utm_campaign=1106316&utm_source=habrahabr&utm_medium=rss)
-- [Как агент улучшил себя, не тронув ни одного веса: разбираем The Trinity](https://habr.com/ru/articles/1106306/?utm_campaign=1106306&utm_source=habrahabr&utm_medium=rss)
-- [Поймай меня, если с прокси](https://habr.com/ru/articles/1106198/?utm_campaign=1106198&utm_source=habrahabr&utm_medium=rss)
-- [Атаки на ИИ-агентов: разбираем проект таксономии NIST](https://habr.com/ru/articles/1106012/?utm_campaign=1106012&utm_source=habrahabr&utm_medium=rss)
+- [Доверяй, но проверяй: подробный разбор отчета VirusTotal на примере Lagoscope](https://habr.com/ru/articles/1105622/?utm_campaign=1105622&utm_source=habrahabr&utm_medium=rss)
+- [Кодовое слово подкаст Инфостарта о 1С технологиях и людях](https://habr.com/ru/companies/infostart/articles/1106382/?utm_campaign=1106382&utm_source=habrahabr&utm_medium=rss)
+- [Литобзор без рутины: поиск через API Scopus, WoS и OpenAlex, отбор, PDF и список по ГОСТ](https://habr.com/ru/articles/1106380/?utm_campaign=1106380&utm_source=habrahabr&utm_medium=rss)
+- [Всероссийский математический диктант впервые пройдёт в международном формате](https://habr.com/ru/articles/1106376/?utm_campaign=1106376&utm_source=habrahabr&utm_medium=rss)
+- [Я не верю в чёрные полосы. Поэтому посчитал серии в ста бросках монеты](https://habr.com/ru/articles/1106374/?utm_campaign=1106374&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
