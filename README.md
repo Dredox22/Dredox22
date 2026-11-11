@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Доверяй, но проверяй: подробный разбор отчета VirusTotal на примере Lagoscope](https://habr.com/ru/articles/1105622/?utm_campaign=1105622&utm_source=habrahabr&utm_medium=rss)
-- [Кодовое слово подкаст Инфостарта о 1С технологиях и людях](https://habr.com/ru/companies/infostart/articles/1106382/?utm_campaign=1106382&utm_source=habrahabr&utm_medium=rss)
-- [Литобзор без рутины: поиск через API Scopus, WoS и OpenAlex, отбор, PDF и список по ГОСТ](https://habr.com/ru/articles/1106380/?utm_campaign=1106380&utm_source=habrahabr&utm_medium=rss)
-- [Всероссийский математический диктант впервые пройдёт в международном формате](https://habr.com/ru/articles/1106376/?utm_campaign=1106376&utm_source=habrahabr&utm_medium=rss)
-- [Я не верю в чёрные полосы. Поэтому посчитал серии в ста бросках монеты](https://habr.com/ru/articles/1106374/?utm_campaign=1106374&utm_source=habrahabr&utm_medium=rss)
+- [Как устроен драйвер NVIDIA для карт-франкенштейнов: обход NVI2, WDDM 3.2 и запуск без тестового режима](https://habr.com/ru/articles/1106750/?utm_campaign=1106750&utm_source=habrahabr&utm_medium=rss)
+- [Как разбирать HTML в 10–30 раз быстрее HtmlAgilityPack и AngleSharp: список вместо DOM](https://habr.com/ru/articles/1106746/?utm_campaign=1106746&utm_source=habrahabr&utm_medium=rss)
+- [SSH-ловушка на своём сервере: 24 тысячи сессий за пять дней и один очень упрямый бот](https://habr.com/ru/articles/1106744/?utm_campaign=1106744&utm_source=habrahabr&utm_medium=rss)
+- [Рейтинг Рунета: новые стандарты GEO и оценка результата](https://habr.com/ru/articles/1106742/?utm_campaign=1106742&utm_source=habrahabr&utm_medium=rss)
+- [Shopify отказалась от React Native в пользу Swift и Kotlin](https://habr.com/ru/articles/1106734/?utm_campaign=1106734&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
