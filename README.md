@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Запретный плод: под видом VPN для Discord и чита для Roblox геймерам предлагают установить троян WebRAT](https://habr.com/ru/companies/F6/articles/1107108/?utm_campaign=1107108&utm_source=habrahabr&utm_medium=rss)
-- [Судебная зарисовка во Франции и в России: комиксы и Кукрыниксы](https://habr.com/ru/companies/infowatch/articles/1105478/?utm_campaign=1105478&utm_source=habrahabr&utm_medium=rss)
-- [Почему ChatGPT вчера ссылался на сайт бренда, а сегодня нет, и как считать видимость в нейросетях](https://habr.com/ru/articles/1107102/?utm_campaign=1107102&utm_source=habrahabr&utm_medium=rss)
-- [Архитектура RAG 2.0: от простого векторного поиска к Agentic RAG](https://habr.com/ru/companies/selectel/articles/1106740/?utm_campaign=1106740&utm_source=habrahabr&utm_medium=rss)
-- [Как оценить зрелость безопасной разработки своими силами? Сравниваем четыре методологии](https://habr.com/ru/companies/bastion/articles/1063690/?utm_campaign=1063690&utm_source=habrahabr&utm_medium=rss)
+- [Я сделал продукт, который полюбили. Хотя мне говорили, что он никому не нужен](https://habr.com/ru/articles/1107254/?utm_campaign=1107254&utm_source=habrahabr&utm_medium=rss)
+- [Профили критических сбоев ИИ-агентов с функцией вызова с реальным эффектом: DeepSeek V4 Pro и Gemini 3.8 Flash](https://habr.com/ru/articles/1107288/?utm_campaign=1107288&utm_source=habrahabr&utm_medium=rss)
+- [Как работать с кодинг агентами &lpar;Claude Code, Codex, Gemini CLI, Antigravity CLI&rpar; через Telegram](https://habr.com/ru/articles/1107278/?utm_campaign=1107278&utm_source=habrahabr&utm_medium=rss)
+- [Skills + Code Mode MCP: как я научил ИИ‑агента пользоваться сотнями инструментов и не раздувать контекст](https://habr.com/ru/articles/1107276/?utm_campaign=1107276&utm_source=habrahabr&utm_medium=rss)
+- [Универсальный ридер кодов libscanner‑unir против zxing‑cpp, ZBar и OpenCV на 6900 снимках из открытых наборов](https://habr.com/ru/articles/1107274/?utm_campaign=1107274&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
