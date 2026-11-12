@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Перевод] Dart 3.14 — что нового в Dart?](https://habr.com/ru/articles/1106886/?utm_campaign=1106886&utm_source=habrahabr&utm_medium=rss)
+- [Релиз инструмента для профессиональной записи и обработки звука Ardour 9.10](https://habr.com/ru/articles/1106766/?utm_campaign=1106766&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление инструмента мониторинга HWiNFO 8.60](https://habr.com/ru/articles/1106366/?utm_campaign=1106366&utm_source=habrahabr&utm_medium=rss)
+- [Конец легенды… или как лучшие гаджеты уходят на покой от старости](https://habr.com/ru/articles/1106880/?utm_campaign=1106880&utm_source=habrahabr&utm_medium=rss)
 - [Как я сделал игру в браузере с 0 опыта в геймдеве](https://habr.com/ru/articles/1106870/?utm_campaign=1106870&utm_source=habrahabr&utm_medium=rss)
-- [Деплой на VPS по push без SSH-ключей в CI: архитектура cd, механика OIDC и границы применимости](https://habr.com/ru/articles/1106874/?utm_campaign=1106874&utm_source=habrahabr&utm_medium=rss)
-- [Где еще можно обманывать игрока](https://habr.com/ru/articles/1106312/?utm_campaign=1106312&utm_source=habrahabr&utm_medium=rss)
-- [Я написал свой воксельный редактор. А стоило ли?](https://habr.com/ru/articles/1106860/?utm_campaign=1106860&utm_source=habrahabr&utm_medium=rss)
-- [Пять способов ускорить локальный инференс MoE-модели: один я написал сам](https://habr.com/ru/articles/1106854/?utm_campaign=1106854&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
