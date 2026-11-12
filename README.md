@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Dart 3.14 — что нового в Dart?](https://habr.com/ru/articles/1106886/?utm_campaign=1106886&utm_source=habrahabr&utm_medium=rss)
-- [Релиз инструмента для профессиональной записи и обработки звука Ardour 9.10](https://habr.com/ru/articles/1106766/?utm_campaign=1106766&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление инструмента мониторинга HWiNFO 8.60](https://habr.com/ru/articles/1106366/?utm_campaign=1106366&utm_source=habrahabr&utm_medium=rss)
-- [Конец легенды… или как лучшие гаджеты уходят на покой от старости](https://habr.com/ru/articles/1106880/?utm_campaign=1106880&utm_source=habrahabr&utm_medium=rss)
-- [Как я сделал игру в браузере с 0 опыта в геймдеве](https://habr.com/ru/articles/1106870/?utm_campaign=1106870&utm_source=habrahabr&utm_medium=rss)
+- [Запретный плод: под видом VPN для Discord и чита для Roblox геймерам предлагают установить троян WebRAT](https://habr.com/ru/companies/F6/articles/1107108/?utm_campaign=1107108&utm_source=habrahabr&utm_medium=rss)
+- [Судебная зарисовка во Франции и в России: комиксы и Кукрыниксы](https://habr.com/ru/companies/infowatch/articles/1105478/?utm_campaign=1105478&utm_source=habrahabr&utm_medium=rss)
+- [Почему ChatGPT вчера ссылался на сайт бренда, а сегодня нет, и как считать видимость в нейросетях](https://habr.com/ru/articles/1107102/?utm_campaign=1107102&utm_source=habrahabr&utm_medium=rss)
+- [Архитектура RAG 2.0: от простого векторного поиска к Agentic RAG](https://habr.com/ru/companies/selectel/articles/1106740/?utm_campaign=1106740&utm_source=habrahabr&utm_medium=rss)
+- [Как оценить зрелость безопасной разработки своими силами? Сравниваем четыре методологии](https://habr.com/ru/companies/bastion/articles/1063690/?utm_campaign=1063690&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
