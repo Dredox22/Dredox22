@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Нефть и змеевики](https://habr.com/ru/articles/1107284/?utm_campaign=1107284&utm_source=habrahabr&utm_medium=rss)
-- [WINDOWS + MACBOOK: РАБОЧЕЕ МЕСТО, СЕРВЕР И ДВА VPN](https://habr.com/ru/articles/1107312/?utm_campaign=1107312&utm_source=habrahabr&utm_medium=rss)
-- [Путь к локальному LLM — модель которую я наконец-то реально использую каждый день](https://habr.com/ru/articles/1107310/?utm_campaign=1107310&utm_source=habrahabr&utm_medium=rss)
-- [По косточкам: что видео финиша расскажет о бегуне](https://habr.com/ru/articles/1107304/?utm_campaign=1107304&utm_source=habrahabr&utm_medium=rss)
-- [Я сделал продукт, который полюбили. Хотя мне говорили, что он никому не нужен](https://habr.com/ru/articles/1107254/?utm_campaign=1107254&utm_source=habrahabr&utm_medium=rss)
+- [SpaceXAI представила ИИ‑помощников для команд Grok Bot 1.0](https://habr.com/ru/articles/1107416/?utm_campaign=1107416&utm_source=habrahabr&utm_medium=rss)
+- [Как стартап пытается пустить микробизнес в интернет в обход разработчика](https://habr.com/ru/articles/1107362/?utm_campaign=1107362&utm_source=habrahabr&utm_medium=rss)
+- [Как среднему и крупному бизнесу выстроить мультимодельные AI-пайплайны через один ключ](https://habr.com/ru/articles/1107420/?utm_campaign=1107420&utm_source=habrahabr&utm_medium=rss)
+- [Установка Apache Superset в Docker &lpar;Windows + WSL2&rpar;: пошагово, с разбором типичных ошибок](https://habr.com/ru/articles/1107410/?utm_campaign=1107410&utm_source=habrahabr&utm_medium=rss)
+- [«Ъ»: ГК «Элемент» пересматривает эффективность дочерних структур](https://habr.com/ru/articles/1107404/?utm_campaign=1107404&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
