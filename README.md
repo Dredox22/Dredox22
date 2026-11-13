@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [SMD CODES для iOS: ищем компоненты по маркировке прямо с iPhone](https://habr.com/ru/articles/1107680/?utm_campaign=1107680&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] CLI против MCP: стоимость зависит от интерфейса доступа](https://habr.com/ru/companies/otus/articles/1104712/?utm_campaign=1104712&utm_source=habrahabr&utm_medium=rss)
-- [Как мой сайт считает ботов, не храня ни одного IP: чистый PHP без базы, строгая CSP и 160 тестов](https://habr.com/ru/articles/1107674/?utm_campaign=1107674&utm_source=habrahabr&utm_medium=rss)
-- [«Сбер» снова у отметки 300: что стоит за новой стратегией и верят ли в неё инвесторы](https://habr.com/ru/companies/finam_broker/articles/1107558/?utm_campaign=1107558&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Монолит, модульный монолит и микросервисы: практическое сравнение для .NET](https://habr.com/ru/articles/1107668/?utm_campaign=1107668&utm_source=habrahabr&utm_medium=rss)
+- [Vibe‑hacking Wi‑Fi камеры с помощью Claude](https://habr.com/ru/articles/1107726/?utm_campaign=1107726&utm_source=habrahabr&utm_medium=rss)
+- [3 базы данных в Docker за один вечер: PostgreSQL 18 + ClickHouse 26.8 + Qdrant 1.19](https://habr.com/ru/articles/1107724/?utm_campaign=1107724&utm_source=habrahabr&utm_medium=rss)
+- [Мы проверили 500 сайтов малого бизнеса Перми и Екатеринбурга: что ломают зарубежные сервисы](https://habr.com/ru/articles/1107718/?utm_campaign=1107718&utm_source=habrahabr&utm_medium=rss)
+- [Клодизмы. Часть 1. Классификация ошибок, которые языковая модель допускает в связном тексте](https://habr.com/ru/articles/1107710/?utm_campaign=1107710&utm_source=habrahabr&utm_medium=rss)
+- [Три месяца я задавал нейросетям одни и те же 61 вопрос: доля ответов со ссылкой на мои статьи выросла с 3 до 51%](https://habr.com/ru/articles/1107706/?utm_campaign=1107706&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
