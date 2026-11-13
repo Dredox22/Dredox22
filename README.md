@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Нефть и змеевики](https://habr.com/ru/articles/1107284/?utm_campaign=1107284&utm_source=habrahabr&utm_medium=rss)
+- [WINDOWS + MACBOOK: РАБОЧЕЕ МЕСТО, СЕРВЕР И ДВА VPN](https://habr.com/ru/articles/1107312/?utm_campaign=1107312&utm_source=habrahabr&utm_medium=rss)
+- [Путь к локальному LLM — модель которую я наконец-то реально использую каждый день](https://habr.com/ru/articles/1107310/?utm_campaign=1107310&utm_source=habrahabr&utm_medium=rss)
+- [По косточкам: что видео финиша расскажет о бегуне](https://habr.com/ru/articles/1107304/?utm_campaign=1107304&utm_source=habrahabr&utm_medium=rss)
 - [Я сделал продукт, который полюбили. Хотя мне говорили, что он никому не нужен](https://habr.com/ru/articles/1107254/?utm_campaign=1107254&utm_source=habrahabr&utm_medium=rss)
-- [Профили критических сбоев ИИ-агентов с функцией вызова с реальным эффектом: DeepSeek V4 Pro и Gemini 3.8 Flash](https://habr.com/ru/articles/1107288/?utm_campaign=1107288&utm_source=habrahabr&utm_medium=rss)
-- [Как работать с кодинг агентами &lpar;Claude Code, Codex, Gemini CLI, Antigravity CLI&rpar; через Telegram](https://habr.com/ru/articles/1107278/?utm_campaign=1107278&utm_source=habrahabr&utm_medium=rss)
-- [Skills + Code Mode MCP: как я научил ИИ‑агента пользоваться сотнями инструментов и не раздувать контекст](https://habr.com/ru/articles/1107276/?utm_campaign=1107276&utm_source=habrahabr&utm_medium=rss)
-- [Универсальный ридер кодов libscanner‑unir против zxing‑cpp, ZBar и OpenCV на 6900 снимках из открытых наборов](https://habr.com/ru/articles/1107274/?utm_campaign=1107274&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
