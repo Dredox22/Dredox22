@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [SpaceXAI представила ИИ‑помощников для команд Grok Bot 1.0](https://habr.com/ru/articles/1107416/?utm_campaign=1107416&utm_source=habrahabr&utm_medium=rss)
-- [Как стартап пытается пустить микробизнес в интернет в обход разработчика](https://habr.com/ru/articles/1107362/?utm_campaign=1107362&utm_source=habrahabr&utm_medium=rss)
-- [Как среднему и крупному бизнесу выстроить мультимодельные AI-пайплайны через один ключ](https://habr.com/ru/articles/1107420/?utm_campaign=1107420&utm_source=habrahabr&utm_medium=rss)
-- [Установка Apache Superset в Docker &lpar;Windows + WSL2&rpar;: пошагово, с разбором типичных ошибок](https://habr.com/ru/articles/1107410/?utm_campaign=1107410&utm_source=habrahabr&utm_medium=rss)
-- [«Ъ»: ГК «Элемент» пересматривает эффективность дочерних структур](https://habr.com/ru/articles/1107404/?utm_campaign=1107404&utm_source=habrahabr&utm_medium=rss)
+- [SMD CODES для iOS: ищем компоненты по маркировке прямо с iPhone](https://habr.com/ru/articles/1107680/?utm_campaign=1107680&utm_source=habrahabr&utm_medium=rss)
+- [[Перевод] CLI против MCP: стоимость зависит от интерфейса доступа](https://habr.com/ru/companies/otus/articles/1104712/?utm_campaign=1104712&utm_source=habrahabr&utm_medium=rss)
+- [Как мой сайт считает ботов, не храня ни одного IP: чистый PHP без базы, строгая CSP и 160 тестов](https://habr.com/ru/articles/1107674/?utm_campaign=1107674&utm_source=habrahabr&utm_medium=rss)
+- [«Сбер» снова у отметки 300: что стоит за новой стратегией и верят ли в неё инвесторы](https://habr.com/ru/companies/finam_broker/articles/1107558/?utm_campaign=1107558&utm_source=habrahabr&utm_medium=rss)
+- [[Перевод] Монолит, модульный монолит и микросервисы: практическое сравнение для .NET](https://habr.com/ru/articles/1107668/?utm_campaign=1107668&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
