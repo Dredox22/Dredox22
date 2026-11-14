@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] Как ускорить локальную LLM на 50% без покупки новой видеокарты](https://habr.com/ru/articles/1107848/?utm_campaign=1107848&utm_source=habrahabr&utm_medium=rss)
-- [Качество систем и программного продукта: то, что никому не нужно. Во всём виноват тестировщик](https://habr.com/ru/articles/1107844/?utm_campaign=1107844&utm_source=habrahabr&utm_medium=rss)
-- [Живое ТЗ и храповик: как заставить ИИ-агента не ломать то, что работает](https://habr.com/ru/articles/1107842/?utm_campaign=1107842&utm_source=habrahabr&utm_medium=rss)
-- [Как я написал библиотеку для игр на Rust, а затем — 3D‑движок для неё](https://habr.com/ru/articles/1107840/?utm_campaign=1107840&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI представила функцию ChatGPT Wallet для покупок с помощью ИИ](https://habr.com/ru/articles/1107830/?utm_campaign=1107830&utm_source=habrahabr&utm_medium=rss)
+- [АСУТП лиофилизационной установки](https://habr.com/ru/articles/1107730/?utm_campaign=1107730&utm_source=habrahabr&utm_medium=rss)
+- [Агентоцентричные бизнес-процессы. Да? Нет? Не знаю?](https://habr.com/ru/articles/1107910/?utm_campaign=1107910&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic профинансировала должность специалиста по безопасности из‑за роста уязвимостей в Python](https://habr.com/ru/articles/1107908/?utm_campaign=1107908&utm_source=habrahabr&utm_medium=rss)
+- [Достаточно «Искры» одной…](https://habr.com/ru/articles/1107906/?utm_campaign=1107906&utm_source=habrahabr&utm_medium=rss)
+- [Каскад AmneziaWG без скриптов с балансировкой и лимитами скорости](https://habr.com/ru/articles/1107904/?utm_campaign=1107904&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
