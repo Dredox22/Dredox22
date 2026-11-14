@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe‑hacking Wi‑Fi камеры с помощью Claude](https://habr.com/ru/articles/1107726/?utm_campaign=1107726&utm_source=habrahabr&utm_medium=rss)
-- [3 базы данных в Docker за один вечер: PostgreSQL 18 + ClickHouse 26.8 + Qdrant 1.19](https://habr.com/ru/articles/1107724/?utm_campaign=1107724&utm_source=habrahabr&utm_medium=rss)
-- [Мы проверили 500 сайтов малого бизнеса Перми и Екатеринбурга: что ломают зарубежные сервисы](https://habr.com/ru/articles/1107718/?utm_campaign=1107718&utm_source=habrahabr&utm_medium=rss)
-- [Клодизмы. Часть 1. Классификация ошибок, которые языковая модель допускает в связном тексте](https://habr.com/ru/articles/1107710/?utm_campaign=1107710&utm_source=habrahabr&utm_medium=rss)
-- [Три месяца я задавал нейросетям одни и те же 61 вопрос: доля ответов со ссылкой на мои статьи выросла с 3 до 51%](https://habr.com/ru/articles/1107706/?utm_campaign=1107706&utm_source=habrahabr&utm_medium=rss)
+- [Могут ли open‑source агенты заменить пентестера? Проверяем Strix и PentAGI на реальном проекте](https://habr.com/ru/articles/1107742/?utm_campaign=1107742&utm_source=habrahabr&utm_medium=rss)
+- [Федеральное управление гражданской авиации США &lpar;FAA&rpar; приостановило вылеты из аэропортов по всей стране из‑за сбоя связи](https://habr.com/ru/articles/1107740/?utm_campaign=1107740&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск открытой платформы для самостоятельного хранения и управления фото и видео Immich 3.4](https://habr.com/ru/articles/1107358/?utm_campaign=1107358&utm_source=habrahabr&utm_medium=rss)
+- [[Перевод] Исходники Borland C++ 2.0 восстановили из бинарника: BCC.EXE пересобирается байт в байт](https://habr.com/ru/articles/1107738/?utm_campaign=1107738&utm_source=habrahabr&utm_medium=rss)
+- [От чата до тёмной фабрики: шесть уровней ИИ в разработке и почему мы остановились на L4](https://habr.com/ru/articles/1106718/?utm_campaign=1106718&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
