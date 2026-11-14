@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [АСУТП лиофилизационной установки](https://habr.com/ru/articles/1107730/?utm_campaign=1107730&utm_source=habrahabr&utm_medium=rss)
-- [Агентоцентричные бизнес-процессы. Да? Нет? Не знаю?](https://habr.com/ru/articles/1107910/?utm_campaign=1107910&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic профинансировала должность специалиста по безопасности из‑за роста уязвимостей в Python](https://habr.com/ru/articles/1107908/?utm_campaign=1107908&utm_source=habrahabr&utm_medium=rss)
-- [Достаточно «Искры» одной…](https://habr.com/ru/articles/1107906/?utm_campaign=1107906&utm_source=habrahabr&utm_medium=rss)
-- [Каскад AmneziaWG без скриптов с балансировкой и лимитами скорости](https://habr.com/ru/articles/1107904/?utm_campaign=1107904&utm_source=habrahabr&utm_medium=rss)
+- [Почему с ИИ мы всё ещё пишем плохой софт](https://habr.com/ru/articles/1107946/?utm_campaign=1107946&utm_source=habrahabr&utm_medium=rss)
+- [Анализ Балтийского региона как системы с помощью предметно-ориентированных технологий](https://habr.com/ru/articles/1107942/?utm_campaign=1107942&utm_source=habrahabr&utm_medium=rss)
+- [[Перевод] Проблема торга](https://habr.com/ru/articles/1100308/?utm_campaign=1100308&utm_source=habrahabr&utm_medium=rss)
+- [Роман как сложная система: применяем стиль разработки ПО к написанию художественного произведения](https://habr.com/ru/articles/1107932/?utm_campaign=1107932&utm_source=habrahabr&utm_medium=rss)
+- [НАУЧИТЬ AI ПОНИМАТЬ СТРОИТЕЛЬНЫЙ ОБЪЕКТ](https://habr.com/ru/articles/1107928/?utm_campaign=1107928&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
