@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Могут ли open‑source агенты заменить пентестера? Проверяем Strix и PentAGI на реальном проекте](https://habr.com/ru/articles/1107742/?utm_campaign=1107742&utm_source=habrahabr&utm_medium=rss)
-- [Федеральное управление гражданской авиации США &lpar;FAA&rpar; приостановило вылеты из аэропортов по всей стране из‑за сбоя связи](https://habr.com/ru/articles/1107740/?utm_campaign=1107740&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск открытой платформы для самостоятельного хранения и управления фото и видео Immich 3.4](https://habr.com/ru/articles/1107358/?utm_campaign=1107358&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Исходники Borland C++ 2.0 восстановили из бинарника: BCC.EXE пересобирается байт в байт](https://habr.com/ru/articles/1107738/?utm_campaign=1107738&utm_source=habrahabr&utm_medium=rss)
-- [От чата до тёмной фабрики: шесть уровней ИИ в разработке и почему мы остановились на L4](https://habr.com/ru/articles/1106718/?utm_campaign=1106718&utm_source=habrahabr&utm_medium=rss)
+- [[Перевод] Как ускорить локальную LLM на 50% без покупки новой видеокарты](https://habr.com/ru/articles/1107848/?utm_campaign=1107848&utm_source=habrahabr&utm_medium=rss)
+- [Качество систем и программного продукта: то, что никому не нужно. Во всём виноват тестировщик](https://habr.com/ru/articles/1107844/?utm_campaign=1107844&utm_source=habrahabr&utm_medium=rss)
+- [Живое ТЗ и храповик: как заставить ИИ-агента не ломать то, что работает](https://habr.com/ru/articles/1107842/?utm_campaign=1107842&utm_source=habrahabr&utm_medium=rss)
+- [Как я написал библиотеку для игр на Rust, а затем — 3D‑движок для неё](https://habr.com/ru/articles/1107840/?utm_campaign=1107840&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI представила функцию ChatGPT Wallet для покупок с помощью ИИ](https://habr.com/ru/articles/1107830/?utm_campaign=1107830&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
