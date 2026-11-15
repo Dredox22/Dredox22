@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Массовая декомпиляция игр и ПО](https://habr.com/ru/companies/globalsign/articles/1108102/?utm_campaign=1108102&utm_source=habrahabr&utm_medium=rss)
-- [Пассворк сравнил себя с ОднимКлючом. Что пошло не так?](https://habr.com/ru/companies/abp2b/articles/1108100/?utm_campaign=1108100&utm_source=habrahabr&utm_medium=rss)
-- [Четыре символа мимо SSRF-фильтра: зона IPv6 и netip.Prefix.Contains в Go](https://habr.com/ru/articles/1108098/?utm_campaign=1108098&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Как выглядит новый офис Databricks в Амстердаме: фоторепортаж 2026](https://habr.com/ru/articles/1108094/?utm_campaign=1108094&utm_source=habrahabr&utm_medium=rss)
-- [Beget: восстановление инфраструктуры продолжается, DDoS-атаку не повлияла на этот процесс, уже работают 215 000 сайтов](https://habr.com/ru/articles/1108088/?utm_campaign=1108088&utm_source=habrahabr&utm_medium=rss)
+- [Тихая делегация: карта рисков агентного ИИ на реальных примерах](https://habr.com/ru/articles/1108122/?utm_campaign=1108122&utm_source=habrahabr&utm_medium=rss)
+- [Наблюдаем, как Windows XP разговаривает с железом: эмулятор x86 в одном HTML-файле](https://habr.com/ru/articles/1108150/?utm_campaign=1108150&utm_source=habrahabr&utm_medium=rss)
+- [Вселенные — ловушки, и нарушение антропного принципа](https://habr.com/ru/articles/1108114/?utm_campaign=1108114&utm_source=habrahabr&utm_medium=rss)
+- [Имитационное моделирование &lpar;DES&rpar;, часть 2: как очереди съедают прибыль](https://habr.com/ru/articles/1108104/?utm_campaign=1108104&utm_source=habrahabr&utm_medium=rss)
+- [Slyber SFU Server — WebRTC медиароутер для звонков, вебинаров и ИИ ботов](https://habr.com/ru/articles/1108112/?utm_campaign=1108112&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
