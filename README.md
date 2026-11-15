@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Сборка AOSP на MacBook, или Приключения Android-разработчика](https://habr.com/ru/articles/1107948/?utm_campaign=1107948&utm_source=habrahabr&utm_medium=rss)
-- [Почему с ИИ мы всё ещё пишем плохой софт](https://habr.com/ru/articles/1107946/?utm_campaign=1107946&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Проблема торга](https://habr.com/ru/articles/1100308/?utm_campaign=1100308&utm_source=habrahabr&utm_medium=rss)
-- [Роман как сложная система: применяем стиль разработки ПО к написанию художественного произведения](https://habr.com/ru/articles/1107932/?utm_campaign=1107932&utm_source=habrahabr&utm_medium=rss)
-- [Научить AI понимать строительный объект](https://habr.com/ru/articles/1107928/?utm_campaign=1107928&utm_source=habrahabr&utm_medium=rss)
+- [Геопространственный риск: что городские признаки добавляют к истории инцидентов](https://habr.com/ru/articles/1108000/?utm_campaign=1108000&utm_source=habrahabr&utm_medium=rss)
+- [Мультиплеер для интровертов: пишем голосового компаньона для Euro Truck Simulator 2](https://habr.com/ru/articles/1108004/?utm_campaign=1108004&utm_source=habrahabr&utm_medium=rss)
+- [Поддельный установщик GTA VI для ПК крадёт учётные данные Steam и информацию о криптовалютных кошельках](https://habr.com/ru/articles/1108002/?utm_campaign=1108002&utm_source=habrahabr&utm_medium=rss)
+- [Cloudflare открыла исходный код Kitesurf — браузерного движка для AI‑агентов](https://habr.com/ru/articles/1107996/?utm_campaign=1107996&utm_source=habrahabr&utm_medium=rss)
+- [LibreOffice получил рекордное количество пожертвований после сбоя Microsoft](https://habr.com/ru/articles/1107994/?utm_campaign=1107994&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
