@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Геопространственный риск: что городские признаки добавляют к истории инцидентов](https://habr.com/ru/articles/1108000/?utm_campaign=1108000&utm_source=habrahabr&utm_medium=rss)
-- [Мультиплеер для интровертов: пишем голосового компаньона для Euro Truck Simulator 2](https://habr.com/ru/articles/1108004/?utm_campaign=1108004&utm_source=habrahabr&utm_medium=rss)
-- [Поддельный установщик GTA VI для ПК крадёт учётные данные Steam и информацию о криптовалютных кошельках](https://habr.com/ru/articles/1108002/?utm_campaign=1108002&utm_source=habrahabr&utm_medium=rss)
-- [Cloudflare открыла исходный код Kitesurf — браузерного движка для AI‑агентов](https://habr.com/ru/articles/1107996/?utm_campaign=1107996&utm_source=habrahabr&utm_medium=rss)
-- [LibreOffice получил рекордное количество пожертвований после сбоя Microsoft](https://habr.com/ru/articles/1107994/?utm_campaign=1107994&utm_source=habrahabr&utm_medium=rss)
+- [Массовая декомпиляция игр и ПО](https://habr.com/ru/companies/globalsign/articles/1108102/?utm_campaign=1108102&utm_source=habrahabr&utm_medium=rss)
+- [Пассворк сравнил себя с ОднимКлючом. Что пошло не так?](https://habr.com/ru/companies/abp2b/articles/1108100/?utm_campaign=1108100&utm_source=habrahabr&utm_medium=rss)
+- [Четыре символа мимо SSRF-фильтра: зона IPv6 и netip.Prefix.Contains в Go](https://habr.com/ru/articles/1108098/?utm_campaign=1108098&utm_source=habrahabr&utm_medium=rss)
+- [[Перевод] Как выглядит новый офис Databricks в Амстердаме: фоторепортаж 2026](https://habr.com/ru/articles/1108094/?utm_campaign=1108094&utm_source=habrahabr&utm_medium=rss)
+- [Beget: восстановление инфраструктуры продолжается, DDoS-атаку не повлияла на этот процесс, уже работают 215 000 сайтов](https://habr.com/ru/articles/1108088/?utm_campaign=1108088&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
