@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
+- [Представлена утилита Roomy для поиска на ПК с Windows наиболее потребляемых ресурсы хранилища компонентов](https://habr.com/ru/articles/1108012/?utm_campaign=1108012&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление Phiola 2.15 — открытого портативного мультиплатформенного аудиоплеера с поддержкой скриптов](https://habr.com/ru/articles/1108006/?utm_campaign=1108006&utm_source=habrahabr&utm_medium=rss)
+- [Хватит жечь токены на поиск файлов: как QMD помогает кодинг-агентам экономить до 40%](https://habr.com/ru/articles/1108142/?utm_campaign=1108142&utm_source=habrahabr&utm_medium=rss)
 - [Тихая делегация: карта рисков агентного ИИ на реальных примерах](https://habr.com/ru/articles/1108122/?utm_campaign=1108122&utm_source=habrahabr&utm_medium=rss)
 - [Наблюдаем, как Windows XP разговаривает с железом: эмулятор x86 в одном HTML-файле](https://habr.com/ru/articles/1108150/?utm_campaign=1108150&utm_source=habrahabr&utm_medium=rss)
-- [Вселенные — ловушки, и нарушение антропного принципа](https://habr.com/ru/articles/1108114/?utm_campaign=1108114&utm_source=habrahabr&utm_medium=rss)
-- [Имитационное моделирование &lpar;DES&rpar;, часть 2: как очереди съедают прибыль](https://habr.com/ru/articles/1108104/?utm_campaign=1108104&utm_source=habrahabr&utm_medium=rss)
-- [Slyber SFU Server — WebRTC медиароутер для звонков, вебинаров и ИИ ботов](https://habr.com/ru/articles/1108112/?utm_campaign=1108112&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
