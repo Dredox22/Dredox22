@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Австралийский конкурс по разработке видеоигр в сфере STEM отменили из‑за ИИ](https://habr.com/ru/articles/1108346/?utm_campaign=1108346&utm_source=habrahabr&utm_medium=rss)
-- [Представлена TINY 2.1 — маленькая языковая модель, которая работает под DOS на Pentium/486DX и помещается на дискету](https://habr.com/ru/articles/1108358/?utm_campaign=1108358&utm_source=habrahabr&utm_medium=rss)
-- [Требования, экономика и ИИ: обзор INFOSTART A&amp;amp;PM EVENT 2026](https://habr.com/ru/companies/infostart/articles/1108354/?utm_campaign=1108354&utm_source=habrahabr&utm_medium=rss)
-- [К2Тех разработал мигратор корпоративной почты c Lotus Notes на RuPost](https://habr.com/ru/companies/k2tech/articles/1108352/?utm_campaign=1108352&utm_source=habrahabr&utm_medium=rss)
-- [Тепло, дыхание, спокойствие. 3 метрики умного кольца Сбер и о чём они говорят владельцу](https://habr.com/ru/companies/sberdevices/articles/1108344/?utm_campaign=1108344&utm_source=habrahabr&utm_medium=rss)
+- [[Перевод] 63 тысячи спам‑аккаунтов: как я за ночь защитил домашнюю инфраструктуру](https://habr.com/ru/companies/otus/articles/1103574/?utm_campaign=1103574&utm_source=habrahabr&utm_medium=rss)
+- [Гибридная постквантовая криптография в мессенджере: что именно гибридное и как это проверить самому](https://habr.com/ru/articles/1108588/?utm_campaign=1108588&utm_source=habrahabr&utm_medium=rss)
+- [Как я встроил шесть игр на память и логику в Obsidian](https://habr.com/ru/articles/1108282/?utm_campaign=1108282&utm_source=habrahabr&utm_medium=rss)
+- [Цифровые двойники &lpar;Digital Twin&rpar; в инженерных системах — Часть 1. Управление документацией](https://habr.com/ru/articles/1108160/?utm_campaign=1108160&utm_source=habrahabr&utm_medium=rss)
+- [Почему 94% ИИ‑ответов игнорируют сайты самих компаний](https://habr.com/ru/articles/1108582/?utm_campaign=1108582&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
