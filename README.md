@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Представлена утилита Roomy для поиска на ПК с Windows наиболее потребляемых ресурсы хранилища компонентов](https://habr.com/ru/articles/1108012/?utm_campaign=1108012&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление Phiola 2.15 — открытого портативного мультиплатформенного аудиоплеера с поддержкой скриптов](https://habr.com/ru/articles/1108006/?utm_campaign=1108006&utm_source=habrahabr&utm_medium=rss)
-- [Хватит жечь токены на поиск файлов: как QMD помогает кодинг-агентам экономить до 40%](https://habr.com/ru/articles/1108142/?utm_campaign=1108142&utm_source=habrahabr&utm_medium=rss)
-- [Тихая делегация: карта рисков агентного ИИ на реальных примерах](https://habr.com/ru/articles/1108122/?utm_campaign=1108122&utm_source=habrahabr&utm_medium=rss)
-- [Наблюдаем, как Windows XP разговаривает с железом: эмулятор x86 в одном HTML-файле](https://habr.com/ru/articles/1108150/?utm_campaign=1108150&utm_source=habrahabr&utm_medium=rss)
+- [Австралийский конкурс по разработке видеоигр в сфере STEM отменили из‑за ИИ](https://habr.com/ru/articles/1108346/?utm_campaign=1108346&utm_source=habrahabr&utm_medium=rss)
+- [Представлена TINY 2.1 — маленькая языковая модель, которая работает под DOS на Pentium/486DX и помещается на дискету](https://habr.com/ru/articles/1108358/?utm_campaign=1108358&utm_source=habrahabr&utm_medium=rss)
+- [Требования, экономика и ИИ: обзор INFOSTART A&amp;amp;PM EVENT 2026](https://habr.com/ru/companies/infostart/articles/1108354/?utm_campaign=1108354&utm_source=habrahabr&utm_medium=rss)
+- [К2Тех разработал мигратор корпоративной почты c Lotus Notes на RuPost](https://habr.com/ru/companies/k2tech/articles/1108352/?utm_campaign=1108352&utm_source=habrahabr&utm_medium=rss)
+- [Тепло, дыхание, спокойствие. 3 метрики умного кольца Сбер и о чём они говорят владельцу](https://habr.com/ru/companies/sberdevices/articles/1108344/?utm_campaign=1108344&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
