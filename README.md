@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] 63 тысячи спам‑аккаунтов: как я за ночь защитил домашнюю инфраструктуру](https://habr.com/ru/companies/otus/articles/1103574/?utm_campaign=1103574&utm_source=habrahabr&utm_medium=rss)
-- [Гибридная постквантовая криптография в мессенджере: что именно гибридное и как это проверить самому](https://habr.com/ru/articles/1108588/?utm_campaign=1108588&utm_source=habrahabr&utm_medium=rss)
-- [Как я встроил шесть игр на память и логику в Obsidian](https://habr.com/ru/articles/1108282/?utm_campaign=1108282&utm_source=habrahabr&utm_medium=rss)
-- [Цифровые двойники &lpar;Digital Twin&rpar; в инженерных системах — Часть 1. Управление документацией](https://habr.com/ru/articles/1108160/?utm_campaign=1108160&utm_source=habrahabr&utm_medium=rss)
-- [Почему 94% ИИ‑ответов игнорируют сайты самих компаний](https://habr.com/ru/articles/1108582/?utm_campaign=1108582&utm_source=habrahabr&utm_medium=rss)
+- [Представлено обновление эмулятора советских ретрокомпьютеров eCat 4.5.0](https://habr.com/ru/articles/1108332/?utm_campaign=1108332&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления открытого инструментария для загрузки прошивок Fwupd 2.1.10](https://habr.com/ru/articles/1108398/?utm_campaign=1108398&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого проекта PaintFE 1.5 — портативного редактора изображений для Windows и macOS](https://habr.com/ru/articles/1108214/?utm_campaign=1108214&utm_source=habrahabr&utm_medium=rss)
+- [Security Week 2647: использование ИИ-фреймворка ARTEX в реальных атаках](https://habr.com/ru/companies/kaspersky/articles/1108470/?utm_campaign=1108470&utm_source=habrahabr&utm_medium=rss)
+- [Сколько стоит узнать, что у бриттона сто хитов](https://habr.com/ru/articles/1108452/?utm_campaign=1108452&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
