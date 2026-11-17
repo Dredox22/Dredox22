@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Представлено обновление эмулятора советских ретрокомпьютеров eCat 4.5.0](https://habr.com/ru/articles/1108332/?utm_campaign=1108332&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск обновления открытого инструментария для загрузки прошивок Fwupd 2.1.10](https://habr.com/ru/articles/1108398/?utm_campaign=1108398&utm_source=habrahabr&utm_medium=rss)
-- [Релиз открытого проекта PaintFE 1.5 — портативного редактора изображений для Windows и macOS](https://habr.com/ru/articles/1108214/?utm_campaign=1108214&utm_source=habrahabr&utm_medium=rss)
-- [Security Week 2647: использование ИИ-фреймворка ARTEX в реальных атаках](https://habr.com/ru/companies/kaspersky/articles/1108470/?utm_campaign=1108470&utm_source=habrahabr&utm_medium=rss)
-- [Сколько стоит узнать, что у бриттона сто хитов](https://habr.com/ru/articles/1108452/?utm_campaign=1108452&utm_source=habrahabr&utm_medium=rss)
+- [От «добавьте проверку баланса» к требованиям: разбираем одну задачу](https://habr.com/ru/articles/1108882/?utm_campaign=1108882&utm_source=habrahabr&utm_medium=rss)
+- [Multi-GPU: когда стоит подключать несколько видеокарт и как использовать их эффективно](https://habr.com/ru/companies/runity/articles/1108878/?utm_campaign=1108878&utm_source=habrahabr&utm_medium=rss)
+- [Дорогая память и проблемы с экранами: как ИИ меняет цены на электронику](https://habr.com/ru/companies/ru_mts/articles/1108702/?utm_campaign=1108702&utm_source=habrahabr&utm_medium=rss)
+- [Быстрая Seedance 2.5 Flash против флагмана: дешевле на 35%, а что по качеству?](https://habr.com/ru/companies/syntx_ai/articles/1108586/?utm_campaign=1108586&utm_source=habrahabr&utm_medium=rss)
+- [Самое важное число: трекер пассивного дохода без сервера и подписок](https://habr.com/ru/articles/1108872/?utm_campaign=1108872&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
