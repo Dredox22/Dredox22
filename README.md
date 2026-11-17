@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [От «добавьте проверку баланса» к требованиям: разбираем одну задачу](https://habr.com/ru/articles/1108882/?utm_campaign=1108882&utm_source=habrahabr&utm_medium=rss)
-- [Multi-GPU: когда стоит подключать несколько видеокарт и как использовать их эффективно](https://habr.com/ru/companies/runity/articles/1108878/?utm_campaign=1108878&utm_source=habrahabr&utm_medium=rss)
-- [Дорогая память и проблемы с экранами: как ИИ меняет цены на электронику](https://habr.com/ru/companies/ru_mts/articles/1108702/?utm_campaign=1108702&utm_source=habrahabr&utm_medium=rss)
-- [Быстрая Seedance 2.5 Flash против флагмана: дешевле на 35%, а что по качеству?](https://habr.com/ru/companies/syntx_ai/articles/1108586/?utm_campaign=1108586&utm_source=habrahabr&utm_medium=rss)
-- [Самое важное число: трекер пассивного дохода без сервера и подписок](https://habr.com/ru/articles/1108872/?utm_campaign=1108872&utm_source=habrahabr&utm_medium=rss)
+- [KeenProxy 0.9.0: singbox-lx и все вытекающие последствия](https://habr.com/ru/articles/1109096/?utm_campaign=1109096&utm_source=habrahabr&utm_medium=rss)
+- [Тесты были зелёными, дыру нашёл человек: разбор уязвимости в нашем OpenID‑сервере](https://habr.com/ru/articles/1109088/?utm_campaign=1109088&utm_source=habrahabr&utm_medium=rss)
+- [OpenAI выпустила GPT-6.2: обгоняет Claude Opus 5.5 и стоит в разы дешевле. Но есть нюансы](https://habr.com/ru/articles/1109080/?utm_campaign=1109080&utm_source=habrahabr&utm_medium=rss)
+- [Nvidia представила кластер из четырёх DGX Spark с 512 ГБ для запуска AI‑моделей размером до 700 млрд параметров](https://habr.com/ru/articles/1109072/?utm_campaign=1109072&utm_source=habrahabr&utm_medium=rss)
+- [uv.lock не менялся, Dockerfile не менялся, а образ перестал собираться](https://habr.com/ru/companies/otus/articles/1096480/?utm_campaign=1096480&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
