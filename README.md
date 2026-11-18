@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [KeenProxy 0.9.0: singbox-lx и все вытекающие последствия](https://habr.com/ru/articles/1109096/?utm_campaign=1109096&utm_source=habrahabr&utm_medium=rss)
-- [Тесты были зелёными, дыру нашёл человек: разбор уязвимости в нашем OpenID‑сервере](https://habr.com/ru/articles/1109088/?utm_campaign=1109088&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI выпустила GPT-6.2: обгоняет Claude Opus 5.5 и стоит в разы дешевле. Но есть нюансы](https://habr.com/ru/articles/1109080/?utm_campaign=1109080&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia представила кластер из четырёх DGX Spark с 512 ГБ для запуска AI‑моделей размером до 700 млрд параметров](https://habr.com/ru/articles/1109072/?utm_campaign=1109072&utm_source=habrahabr&utm_medium=rss)
-- [uv.lock не менялся, Dockerfile не менялся, а образ перестал собираться](https://habr.com/ru/companies/otus/articles/1096480/?utm_campaign=1096480&utm_source=habrahabr&utm_medium=rss)
+- [Релиз AlmaLinux 10.3](https://habr.com/ru/articles/1108738/?utm_campaign=1108738&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск видеоредактора с открытым исходным кодом Shotcut 26.11](https://habr.com/ru/articles/1108664/?utm_campaign=1108664&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление RapidRAW 1.7.0 — открытого редактора изображений RAW](https://habr.com/ru/articles/1108660/?utm_campaign=1108660&utm_source=habrahabr&utm_medium=rss)
+- [Не Клодом единым — как после бана я переписал командный плагин на разные хосты моделей](https://habr.com/ru/articles/1109094/?utm_campaign=1109094&utm_source=habrahabr&utm_medium=rss)
+- [Astra 6.2, Qwen 4, Fable 5.2 и Opus 5.5: нейросети снова соревнуются, а теперь ещё и судят друг друга](https://habr.com/ru/articles/1109134/?utm_campaign=1109134&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
