@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз AlmaLinux 10.3](https://habr.com/ru/articles/1108738/?utm_campaign=1108738&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск видеоредактора с открытым исходным кодом Shotcut 26.11](https://habr.com/ru/articles/1108664/?utm_campaign=1108664&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление RapidRAW 1.7.0 — открытого редактора изображений RAW](https://habr.com/ru/articles/1108660/?utm_campaign=1108660&utm_source=habrahabr&utm_medium=rss)
-- [Не Клодом единым — как после бана я переписал командный плагин на разные хосты моделей](https://habr.com/ru/articles/1109094/?utm_campaign=1109094&utm_source=habrahabr&utm_medium=rss)
-- [Astra 6.2, Qwen 4, Fable 5.2 и Opus 5.5: нейросети снова соревнуются, а теперь ещё и судят друг друга](https://habr.com/ru/articles/1109134/?utm_campaign=1109134&utm_source=habrahabr&utm_medium=rss)
+- [Какой язык быстрее? Сравнил 8 языков на одной задаче: Python догнал Rust, а Go проиграл даже Java](https://habr.com/ru/articles/1109410/?utm_campaign=1109410&utm_source=habrahabr&utm_medium=rss)
+- [Интерактивная среда для программирования с нейросетями SolveIt перешла в открытый доступ](https://habr.com/ru/companies/selectel/articles/1109222/?utm_campaign=1109222&utm_source=habrahabr&utm_medium=rss)
+- [Не воспроизводится? Воспроизведём. Моки и AI в проверке интерфейсов](https://habr.com/ru/companies/ozontech/articles/1108928/?utm_campaign=1108928&utm_source=habrahabr&utm_medium=rss)
+- [Ваш BLE-скан на Android тихо умирает через 5 минут. И вы об этом не знаете](https://habr.com/ru/articles/1109408/?utm_campaign=1109408&utm_source=habrahabr&utm_medium=rss)
+- [Как управлять сложными 2D-анимациями в браузере: состояния, таймлайны и кадры](https://habr.com/ru/companies/runity/articles/1109404/?utm_campaign=1109404&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
