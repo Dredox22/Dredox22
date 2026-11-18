@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Какой язык быстрее? Сравнил 8 языков на одной задаче: Python догнал Rust, а Go проиграл даже Java](https://habr.com/ru/articles/1109410/?utm_campaign=1109410&utm_source=habrahabr&utm_medium=rss)
-- [Интерактивная среда для программирования с нейросетями SolveIt перешла в открытый доступ](https://habr.com/ru/companies/selectel/articles/1109222/?utm_campaign=1109222&utm_source=habrahabr&utm_medium=rss)
-- [Не воспроизводится? Воспроизведём. Моки и AI в проверке интерфейсов](https://habr.com/ru/companies/ozontech/articles/1108928/?utm_campaign=1108928&utm_source=habrahabr&utm_medium=rss)
-- [Ваш BLE-скан на Android тихо умирает через 5 минут. И вы об этом не знаете](https://habr.com/ru/articles/1109408/?utm_campaign=1109408&utm_source=habrahabr&utm_medium=rss)
-- [Как управлять сложными 2D-анимациями в браузере: состояния, таймлайны и кадры](https://habr.com/ru/companies/runity/articles/1109404/?utm_campaign=1109404&utm_source=habrahabr&utm_medium=rss)
+- [Сайт вашего бизнеса не работает из-за кибератаки: объясняю, как взыскать убытки с хостинг-провайдера](https://habr.com/ru/articles/1109380/?utm_campaign=1109380&utm_source=habrahabr&utm_medium=rss)
+- [Click SHOP API: подпись, Prepare и Complete, и ночная сверка, которая ловит «оплачено, а заказа нет»](https://habr.com/ru/articles/1109616/?utm_campaign=1109616&utm_source=habrahabr&utm_medium=rss)
+- [Payme Merchant API: песочница шлёт каждый запрос дважды, и это лучший тест вашей интеграции](https://habr.com/ru/articles/1109614/?utm_campaign=1109614&utm_source=habrahabr&utm_medium=rss)
+- [Как я с помощью Claude Fable 5.2 отправил своего 3D-персонажа кататься на лыжах под северным сиянием](https://habr.com/ru/articles/1109582/?utm_campaign=1109582&utm_source=habrahabr&utm_medium=rss)
+- [[Перевод] DataFusion — не только для аналитики: как ускорить точечные запросы почти в 8 раз](https://habr.com/ru/companies/otus/articles/1106132/?utm_campaign=1106132&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
