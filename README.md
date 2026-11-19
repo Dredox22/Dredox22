@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Сайт вашего бизнеса не работает из-за кибератаки: объясняю, как взыскать убытки с хостинг-провайдера](https://habr.com/ru/articles/1109380/?utm_campaign=1109380&utm_source=habrahabr&utm_medium=rss)
-- [Click SHOP API: подпись, Prepare и Complete, и ночная сверка, которая ловит «оплачено, а заказа нет»](https://habr.com/ru/articles/1109616/?utm_campaign=1109616&utm_source=habrahabr&utm_medium=rss)
-- [Payme Merchant API: песочница шлёт каждый запрос дважды, и это лучший тест вашей интеграции](https://habr.com/ru/articles/1109614/?utm_campaign=1109614&utm_source=habrahabr&utm_medium=rss)
-- [Как я с помощью Claude Fable 5.2 отправил своего 3D-персонажа кататься на лыжах под северным сиянием](https://habr.com/ru/articles/1109582/?utm_campaign=1109582&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] DataFusion — не только для аналитики: как ускорить точечные запросы почти в 8 раз](https://habr.com/ru/companies/otus/articles/1106132/?utm_campaign=1106132&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект Framecalm — это утилита для оптимизации Windows 10/11 под игры](https://habr.com/ru/articles/1109254/?utm_campaign=1109254&utm_source=habrahabr&utm_medium=rss)
+- [Карманный сэнсэй: как заставить мини-читалку на ESP32 учить вас японскому](https://habr.com/ru/articles/1109626/?utm_campaign=1109626&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск обновления открытого инструмента для сетевого мониторинга Sniffnet 1.6.0](https://habr.com/ru/articles/1109584/?utm_campaign=1109584&utm_source=habrahabr&utm_medium=rss)
+- [PHP снова готовит критические патчи для всех поддерживаемых версий спустя месяц после экстренного обновления](https://habr.com/ru/companies/codescoring/articles/1109648/?utm_campaign=1109648&utm_source=habrahabr&utm_medium=rss)
+- [Вышла версия Glow 26.15 — инструмента для системного анализа аппаратных и программных возможностей ПК на Windows 10/11](https://habr.com/ru/articles/1109568/?utm_campaign=1109568&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
