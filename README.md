@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Код пишет ИИ. Кто будет думать?](https://habr.com/ru/companies/reksoft/articles/1109784/?utm_campaign=1109784&utm_source=habrahabr&utm_medium=rss)
-- [Flipper One на Kickstarter за первые сутки собрал $11,7 млн](https://habr.com/ru/articles/1109844/?utm_campaign=1109844&utm_source=habrahabr&utm_medium=rss)
-- [Является ли eBPF лучшим выбором для решения задач контроля целостности](https://habr.com/ru/companies/infowatch/articles/1106710/?utm_campaign=1106710&utm_source=habrahabr&utm_medium=rss)
-- [Некоторые ноутбуки с Windows 11 переходят в спящий режим при закрытии крышки, несмотря на опцию «Действие не требуется»](https://habr.com/ru/articles/1109842/?utm_campaign=1109842&utm_source=habrahabr&utm_medium=rss)
-- [Исторический рекорд: Anthropic выходит на IPO с оценкой в $1,5 трлн](https://habr.com/ru/articles/1109832/?utm_campaign=1109832&utm_source=habrahabr&utm_medium=rss)
+- [Сколько людей нужно, чтобы написать бизнес-приложение: экосистема redb и короткий ответ](https://habr.com/ru/articles/1110076/?utm_campaign=1110076&utm_source=habrahabr&utm_medium=rss)
+- [Пайплайн «текст → голос» для эфира: как за день добавить игровые новости в рацию-компаньон](https://habr.com/ru/articles/1110068/?utm_campaign=1110068&utm_source=habrahabr&utm_medium=rss)
+- [Дружим OAuth и PDP](https://habr.com/ru/articles/1110058/?utm_campaign=1110058&utm_source=habrahabr&utm_medium=rss)
+- [Еще одна звонилка или как я создал Nimbo](https://habr.com/ru/articles/1110052/?utm_campaign=1110052&utm_source=habrahabr&utm_medium=rss)
+- [Цена ошибки: паддинг, чекпоинты на сетевом диске и сторож, который гасил здоровое обучение](https://habr.com/ru/articles/1110050/?utm_campaign=1110050&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
