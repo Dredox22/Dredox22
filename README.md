@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Сколько людей нужно, чтобы написать бизнес-приложение: экосистема redb и короткий ответ](https://habr.com/ru/articles/1110076/?utm_campaign=1110076&utm_source=habrahabr&utm_medium=rss)
-- [Пайплайн «текст → голос» для эфира: как за день добавить игровые новости в рацию-компаньон](https://habr.com/ru/articles/1110068/?utm_campaign=1110068&utm_source=habrahabr&utm_medium=rss)
-- [Дружим OAuth и PDP](https://habr.com/ru/articles/1110058/?utm_campaign=1110058&utm_source=habrahabr&utm_medium=rss)
-- [Еще одна звонилка или как я создал Nimbo](https://habr.com/ru/articles/1110052/?utm_campaign=1110052&utm_source=habrahabr&utm_medium=rss)
-- [Цена ошибки: паддинг, чекпоинты на сетевом диске и сторож, который гасил здоровое обучение](https://habr.com/ru/articles/1110050/?utm_campaign=1110050&utm_source=habrahabr&utm_medium=rss)
+- [Рой дронов держит строй без GPS: адаптивный консенсус и цена его точности](https://habr.com/ru/articles/1110098/?utm_campaign=1110098&utm_source=habrahabr&utm_medium=rss)
+- [Ещё 6 SQL‑тренажёров для самостоятельной практики. Что посоветовали на Хабре](https://habr.com/ru/articles/1110096/?utm_campaign=1110096&utm_source=habrahabr&utm_medium=rss)
+- [Я установил ulimit 65536, но ничего не работает](https://habr.com/ru/companies/otus/articles/1107306/?utm_campaign=1107306&utm_source=habrahabr&utm_medium=rss)
+- [Сколько людей нужно, чтобы написать бизнес‑приложение: экосистема redb и короткий ответ](https://habr.com/ru/articles/1110076/?utm_campaign=1110076&utm_source=habrahabr&utm_medium=rss)
+- [Пайплайн «текст → голос» для эфира: как за день добавить игровые новости в рацию‑компаньон](https://habr.com/ru/articles/1110068/?utm_campaign=1110068&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
