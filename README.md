@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Проектор по HDMI, пульт на iPhone и папка со скачанными сериалами: медиатека в видеоплеере для Mac](https://habr.com/ru/articles/1110254/?utm_campaign=1110254&utm_source=habrahabr&utm_medium=rss)
-- [PGConf.Russia 2027: открываем приём докладов](https://habr.com/ru/companies/postgrespro/articles/1109928/?utm_campaign=1109928&utm_source=habrahabr&utm_medium=rss)
-- [Яндекс Музыка ела 850 МБ памяти. Переписал клиент на Rust, стало 64](https://habr.com/ru/articles/1110246/?utm_campaign=1110246&utm_source=habrahabr&utm_medium=rss)
-- [Торговля через автоматы в реестре МСП: 18 442 действующие записи и 14 457 исключённых](https://habr.com/ru/articles/1110244/?utm_campaign=1110244&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Создание постоянно действующих агентов](https://habr.com/ru/companies/piter/articles/1110240/?utm_campaign=1110240&utm_source=habrahabr&utm_medium=rss)
+- [Два сторожа памяти на одном сервере: почему не earlyoom и что показал журнал за полтора месяца](https://habr.com/ru/articles/1110532/?utm_campaign=1110532&utm_source=habrahabr&utm_medium=rss)
+- [Консалтингу: как делать интеграционные проекты быстрее и сдавать их без боли](https://habr.com/ru/articles/1110528/?utm_campaign=1110528&utm_source=habrahabr&utm_medium=rss)
+- [411 комментариев в pull request и другие задачи, которые мы отдали ИИ](https://habr.com/ru/companies/yoomoney/articles/1110422/?utm_campaign=1110422&utm_source=habrahabr&utm_medium=rss)
+- [GPU на вечер: поды, VPS и цены на аренду RTX 5090 в России](https://habr.com/ru/companies/gpugo/articles/1110514/?utm_campaign=1110514&utm_source=habrahabr&utm_medium=rss)
+- [Нейросеть Claude нашла решения двух давних задач физики чёрных дыр](https://habr.com/ru/articles/1110482/?utm_campaign=1110482&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
