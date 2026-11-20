@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Рой дронов держит строй без GPS: адаптивный консенсус и цена его точности](https://habr.com/ru/articles/1110098/?utm_campaign=1110098&utm_source=habrahabr&utm_medium=rss)
-- [Ещё 6 SQL‑тренажёров для самостоятельной практики. Что посоветовали на Хабре](https://habr.com/ru/articles/1110096/?utm_campaign=1110096&utm_source=habrahabr&utm_medium=rss)
-- [Я установил ulimit 65536, но ничего не работает](https://habr.com/ru/companies/otus/articles/1107306/?utm_campaign=1107306&utm_source=habrahabr&utm_medium=rss)
-- [Сколько людей нужно, чтобы написать бизнес‑приложение: экосистема redb и короткий ответ](https://habr.com/ru/articles/1110076/?utm_campaign=1110076&utm_source=habrahabr&utm_medium=rss)
-- [Пайплайн «текст → голос» для эфира: как за день добавить игровые новости в рацию‑компаньон](https://habr.com/ru/articles/1110068/?utm_campaign=1110068&utm_source=habrahabr&utm_medium=rss)
+- [Проектор по HDMI, пульт на iPhone и папка со скачанными сериалами: медиатека в видеоплеере для Mac](https://habr.com/ru/articles/1110254/?utm_campaign=1110254&utm_source=habrahabr&utm_medium=rss)
+- [PGConf.Russia 2027: открываем приём докладов](https://habr.com/ru/companies/postgrespro/articles/1109928/?utm_campaign=1109928&utm_source=habrahabr&utm_medium=rss)
+- [Яндекс Музыка ела 850 МБ памяти. Переписал клиент на Rust, стало 64](https://habr.com/ru/articles/1110246/?utm_campaign=1110246&utm_source=habrahabr&utm_medium=rss)
+- [Торговля через автоматы в реестре МСП: 18 442 действующие записи и 14 457 исключённых](https://habr.com/ru/articles/1110244/?utm_campaign=1110244&utm_source=habrahabr&utm_medium=rss)
+- [[Перевод] Создание постоянно действующих агентов](https://habr.com/ru/companies/piter/articles/1110240/?utm_campaign=1110240&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
