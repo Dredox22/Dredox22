@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Причина мирового парада багов](https://habr.com/ru/articles/1110728/?utm_campaign=1110728&utm_source=habrahabr&utm_medium=rss)
-- [Представлен ClawDOS — ИИ‑агент для написания кода в среде DOS](https://habr.com/ru/articles/1110726/?utm_campaign=1110726&utm_source=habrahabr&utm_medium=rss)
-- [Kuber Conf 2026: Kubernetes, AI-SRE и State of Cloud Native Russia](https://habr.com/ru/companies/open-aot/articles/1110444/?utm_campaign=1110444&utm_source=habrahabr&utm_medium=rss)
-- [Представлен веб‑проект Twoyi — полноценный Android 13 в браузере без установки и эмуляторов](https://habr.com/ru/articles/1110724/?utm_campaign=1110724&utm_source=habrahabr&utm_medium=rss)
-- [Какие кнопки ваши UI-тесты ни разу не нажали: меряем покрытие UI-элементов в XCUITest. Часть 1](https://habr.com/ru/articles/1110722/?utm_campaign=1110722&utm_source=habrahabr&utm_medium=rss)
+- [СССР и микроэлектроника: анатомия отставания. Часть образовательная](https://habr.com/ru/articles/1110768/?utm_campaign=1110768&utm_source=habrahabr&utm_medium=rss)
+- [«Наши две флагманские языковые модели входят в число лучших в мире». Проверяем по открытому рейтингу](https://habr.com/ru/articles/1110766/?utm_campaign=1110766&utm_source=habrahabr&utm_medium=rss)
+- [Недостающий кусок Databricks Bundles: таблицы Unity Catalog как код](https://habr.com/ru/articles/1109206/?utm_campaign=1109206&utm_source=habrahabr&utm_medium=rss)
+- [ИИ-агенты, работающие в России](https://habr.com/ru/articles/1110764/?utm_campaign=1110764&utm_source=habrahabr&utm_medium=rss)
+- [Что происходит с профессией разработчика: мой опыт и данные индустрии](https://habr.com/ru/articles/1110762/?utm_campaign=1110762&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
