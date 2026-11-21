@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Два сторожа памяти на одном сервере: почему не earlyoom и что показал журнал за полтора месяца](https://habr.com/ru/articles/1110532/?utm_campaign=1110532&utm_source=habrahabr&utm_medium=rss)
-- [Консалтингу: как делать интеграционные проекты быстрее и сдавать их без боли](https://habr.com/ru/articles/1110528/?utm_campaign=1110528&utm_source=habrahabr&utm_medium=rss)
-- [411 комментариев в pull request и другие задачи, которые мы отдали ИИ](https://habr.com/ru/companies/yoomoney/articles/1110422/?utm_campaign=1110422&utm_source=habrahabr&utm_medium=rss)
-- [GPU на вечер: поды, VPS и цены на аренду RTX 5090 в России](https://habr.com/ru/companies/gpugo/articles/1110514/?utm_campaign=1110514&utm_source=habrahabr&utm_medium=rss)
-- [Нейросеть Claude нашла решения двух давних задач физики чёрных дыр](https://habr.com/ru/articles/1110482/?utm_campaign=1110482&utm_source=habrahabr&utm_medium=rss)
+- [Как я свой терминал делал с блэкджеком и двумя Fable](https://habr.com/ru/articles/1110564/?utm_campaign=1110564&utm_source=habrahabr&utm_medium=rss)
+- [Sound: может ли результат вайб-кодинга стать ЯП?](https://habr.com/ru/articles/1110562/?utm_campaign=1110562&utm_source=habrahabr&utm_medium=rss)
+- [Доказательство гипотезы Римана с помощью ИИ](https://habr.com/ru/articles/1110558/?utm_campaign=1110558&utm_source=habrahabr&utm_medium=rss)
+- [Куда инвестировать в AI: кто заработает на новой промышленной революции?](https://habr.com/ru/articles/1110552/?utm_campaign=1110552&utm_source=habrahabr&utm_medium=rss)
+- [Что дают графовые нейросети сверх истории событий: эксперименты на Лиме и Чикаго](https://habr.com/ru/articles/1110522/?utm_campaign=1110522&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
