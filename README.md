@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Ненастоящий деплой, или как подложить свинью разработчикам](https://habr.com/ru/articles/1110582/?utm_campaign=1110582&utm_source=habrahabr&utm_medium=rss)
-- [Как подключить динамический микрофон к радиолюбительскому трансиверу](https://habr.com/ru/articles/1104992/?utm_campaign=1104992&utm_source=habrahabr&utm_medium=rss)
-- [Когда ИИ ошибается убедительно: инженерия здравого смысла](https://habr.com/ru/articles/1110578/?utm_campaign=1110578&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск инструментария с комплектом аудиопрограмм в одном приложении KataLib 6.0.0.0 для Windows](https://habr.com/ru/articles/1110362/?utm_campaign=1110362&utm_source=habrahabr&utm_medium=rss)
-- [Выходные, автор и длинные слова: с чем связаны просмотры 46 тысяч статей Хабра](https://habr.com/ru/articles/1110102/?utm_campaign=1110102&utm_source=habrahabr&utm_medium=rss)
+- [Причина мирового парада багов](https://habr.com/ru/articles/1110728/?utm_campaign=1110728&utm_source=habrahabr&utm_medium=rss)
+- [Представлен ClawDOS — ИИ‑агент для написания кода в среде DOS](https://habr.com/ru/articles/1110726/?utm_campaign=1110726&utm_source=habrahabr&utm_medium=rss)
+- [Kuber Conf 2026: Kubernetes, AI-SRE и State of Cloud Native Russia](https://habr.com/ru/companies/open-aot/articles/1110444/?utm_campaign=1110444&utm_source=habrahabr&utm_medium=rss)
+- [Представлен веб‑проект Twoyi — полноценный Android 13 в браузере без установки и эмуляторов](https://habr.com/ru/articles/1110724/?utm_campaign=1110724&utm_source=habrahabr&utm_medium=rss)
+- [Какие кнопки ваши UI-тесты ни разу не нажали: меряем покрытие UI-элементов в XCUITest. Часть 1](https://habr.com/ru/articles/1110722/?utm_campaign=1110722&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
