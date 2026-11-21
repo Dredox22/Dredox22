@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Как я свой терминал делал с блэкджеком и двумя Fable](https://habr.com/ru/articles/1110564/?utm_campaign=1110564&utm_source=habrahabr&utm_medium=rss)
-- [Sound: может ли результат вайб-кодинга стать ЯП?](https://habr.com/ru/articles/1110562/?utm_campaign=1110562&utm_source=habrahabr&utm_medium=rss)
-- [Доказательство гипотезы Римана с помощью ИИ](https://habr.com/ru/articles/1110558/?utm_campaign=1110558&utm_source=habrahabr&utm_medium=rss)
-- [Куда инвестировать в AI: кто заработает на новой промышленной революции?](https://habr.com/ru/articles/1110552/?utm_campaign=1110552&utm_source=habrahabr&utm_medium=rss)
-- [Что дают графовые нейросети сверх истории событий: эксперименты на Лиме и Чикаго](https://habr.com/ru/articles/1110522/?utm_campaign=1110522&utm_source=habrahabr&utm_medium=rss)
+- [Ненастоящий деплой, или как подложить свинью разработчикам](https://habr.com/ru/articles/1110582/?utm_campaign=1110582&utm_source=habrahabr&utm_medium=rss)
+- [Как подключить динамический микрофон к радиолюбительскому трансиверу](https://habr.com/ru/articles/1104992/?utm_campaign=1104992&utm_source=habrahabr&utm_medium=rss)
+- [Когда ИИ ошибается убедительно: инженерия здравого смысла](https://habr.com/ru/articles/1110578/?utm_campaign=1110578&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск инструментария с комплектом аудиопрограмм в одном приложении KataLib 6.0.0.0 для Windows](https://habr.com/ru/articles/1110362/?utm_campaign=1110362&utm_source=habrahabr&utm_medium=rss)
+- [Выходные, автор и длинные слова: с чем связаны просмотры 46 тысяч статей Хабра](https://habr.com/ru/articles/1110102/?utm_campaign=1110102&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
