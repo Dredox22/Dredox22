@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Как Nvidia и Toshiba кинули всех: разыскивается O2 Xda Flame для хардкорного моддерского проекта](https://habr.com/ru/articles/1110788/?utm_campaign=1110788&utm_source=habrahabr&utm_medium=rss)
-- [Месяц разработки Geo Collector: офлайн-карты России и Армении, 94 настройки карты и первая версия для Android](https://habr.com/ru/articles/1110786/?utm_campaign=1110786&utm_source=habrahabr&utm_medium=rss)
-- [Обзор дисплея ILI9341](https://habr.com/ru/articles/1101948/?utm_campaign=1101948&utm_source=habrahabr&utm_medium=rss)
-- [Как научить AI-агента проверять Windows-приложение через настоящий GUI: архитектура Deskcheck](https://habr.com/ru/articles/1110776/?utm_campaign=1110776&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Передача незаглушаемого сигнала с помощью гравитации: полный перевод статьи в Science](https://habr.com/ru/articles/1110748/?utm_campaign=1110748&utm_source=habrahabr&utm_medium=rss)
+- [Общество анонимных тестировщиков](https://habr.com/ru/articles/1110290/?utm_campaign=1110290&utm_source=habrahabr&utm_medium=rss)
+- [Кнопка за 3 млн рублей: почему успешный релиз не доказывает ценность функции](https://habr.com/ru/articles/1110602/?utm_campaign=1110602&utm_source=habrahabr&utm_medium=rss)
+- [Lexometrica Ground Truth: 15 LLM на 30 кейсах по практике ВС РФ](https://habr.com/ru/articles/1110824/?utm_campaign=1110824&utm_source=habrahabr&utm_medium=rss)
+- [Сообщается о новом взломе систем ФБР: на этот раз под ударом оказалась общенациональная полицейская база данных](https://habr.com/ru/articles/1110820/?utm_campaign=1110820&utm_source=habrahabr&utm_medium=rss)
+- [[Перевод] Как я случайно стала миллионером](https://habr.com/ru/companies/ruvds/articles/1109284/?utm_campaign=1109284&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
