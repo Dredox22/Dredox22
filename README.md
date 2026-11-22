@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [База снова отвечает. Значит ли это, что она восстановилась?](https://habr.com/ru/articles/1105942/?utm_campaign=1105942&utm_source=habrahabr&utm_medium=rss)
-- [630 тем и ноль в топе: что я понял из SEO‑аудита](https://habr.com/ru/articles/1110912/?utm_campaign=1110912&utm_source=habrahabr&utm_medium=rss)
-- [Что делать, если кофемашина потратила 1 ТБ трафика](https://habr.com/ru/companies/globalsign/articles/1110906/?utm_campaign=1110906&utm_source=habrahabr&utm_medium=rss)
-- [Элемент «не» на одном транзисторе с дискретным входом 24В](https://habr.com/ru/articles/1110904/?utm_campaign=1110904&utm_source=habrahabr&utm_medium=rss)
-- [Создание мобильной игры с монетизацией через блокчейн TON](https://habr.com/ru/articles/1110864/?utm_campaign=1110864&utm_source=habrahabr&utm_medium=rss)
+- [«Ваш разговор стал слишком длинным»: как Google Antigravity неожиданно режет контекст и как Gemini это решил](https://habr.com/ru/articles/1111006/?utm_campaign=1111006&utm_source=habrahabr&utm_medium=rss)
+- [Агентская разработка в геймдеве на Unity, или Как я скормил агенту рекламу мобильной игры](https://habr.com/ru/articles/1110996/?utm_campaign=1110996&utm_source=habrahabr&utm_medium=rss)
+- [Гипотеза Римана. Часть вторая: как устроено опубликованное доказательство](https://habr.com/ru/articles/1110970/?utm_campaign=1110970&utm_source=habrahabr&utm_medium=rss)
+- [Гипотеза Римана. Часть первая: как мы её не доказали](https://habr.com/ru/articles/1110964/?utm_campaign=1110964&utm_source=habrahabr&utm_medium=rss)
+- [APT‑группировки: тайная война, которую не видно](https://habr.com/ru/articles/1110968/?utm_campaign=1110968&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
