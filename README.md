@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [СССР и микроэлектроника: анатомия отставания. Часть образовательная](https://habr.com/ru/articles/1110768/?utm_campaign=1110768&utm_source=habrahabr&utm_medium=rss)
-- [«Наши две флагманские языковые модели входят в число лучших в мире». Проверяем по открытому рейтингу](https://habr.com/ru/articles/1110766/?utm_campaign=1110766&utm_source=habrahabr&utm_medium=rss)
-- [Недостающий кусок Databricks Bundles: таблицы Unity Catalog как код](https://habr.com/ru/articles/1109206/?utm_campaign=1109206&utm_source=habrahabr&utm_medium=rss)
-- [ИИ-агенты, работающие в России](https://habr.com/ru/articles/1110764/?utm_campaign=1110764&utm_source=habrahabr&utm_medium=rss)
-- [Что происходит с профессией разработчика: мой опыт и данные индустрии](https://habr.com/ru/articles/1110762/?utm_campaign=1110762&utm_source=habrahabr&utm_medium=rss)
+- [Как Nvidia и Toshiba кинули всех: разыскивается O2 Xda Flame для хардкорного моддерского проекта](https://habr.com/ru/articles/1110788/?utm_campaign=1110788&utm_source=habrahabr&utm_medium=rss)
+- [Месяц разработки Geo Collector: офлайн-карты России и Армении, 94 настройки карты и первая версия для Android](https://habr.com/ru/articles/1110786/?utm_campaign=1110786&utm_source=habrahabr&utm_medium=rss)
+- [Обзор дисплея ILI9341](https://habr.com/ru/articles/1101948/?utm_campaign=1101948&utm_source=habrahabr&utm_medium=rss)
+- [Как научить AI-агента проверять Windows-приложение через настоящий GUI: архитектура Deskcheck](https://habr.com/ru/articles/1110776/?utm_campaign=1110776&utm_source=habrahabr&utm_medium=rss)
+- [[Перевод] Передача незаглушаемого сигнала с помощью гравитации: полный перевод статьи в Science](https://habr.com/ru/articles/1110748/?utm_campaign=1110748&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
