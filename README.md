@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Общество анонимных тестировщиков](https://habr.com/ru/articles/1110290/?utm_campaign=1110290&utm_source=habrahabr&utm_medium=rss)
-- [Кнопка за 3 млн рублей: почему успешный релиз не доказывает ценность функции](https://habr.com/ru/articles/1110602/?utm_campaign=1110602&utm_source=habrahabr&utm_medium=rss)
-- [Lexometrica Ground Truth: 15 LLM на 30 кейсах по практике ВС РФ](https://habr.com/ru/articles/1110824/?utm_campaign=1110824&utm_source=habrahabr&utm_medium=rss)
-- [Сообщается о новом взломе систем ФБР: на этот раз под ударом оказалась общенациональная полицейская база данных](https://habr.com/ru/articles/1110820/?utm_campaign=1110820&utm_source=habrahabr&utm_medium=rss)
-- [[Перевод] Как я случайно стала миллионером](https://habr.com/ru/companies/ruvds/articles/1109284/?utm_campaign=1109284&utm_source=habrahabr&utm_medium=rss)
+- [База снова отвечает. Значит ли это, что она восстановилась?](https://habr.com/ru/articles/1105942/?utm_campaign=1105942&utm_source=habrahabr&utm_medium=rss)
+- [630 тем и ноль в топе: что я понял из SEO‑аудита](https://habr.com/ru/articles/1110912/?utm_campaign=1110912&utm_source=habrahabr&utm_medium=rss)
+- [Что делать, если кофемашина потратила 1 ТБ трафика](https://habr.com/ru/companies/globalsign/articles/1110906/?utm_campaign=1110906&utm_source=habrahabr&utm_medium=rss)
+- [Элемент «не» на одном транзисторе с дискретным входом 24В](https://habr.com/ru/articles/1110904/?utm_campaign=1110904&utm_source=habrahabr&utm_medium=rss)
+- [Создание мобильной игры с монетизацией через блокчейн TON](https://habr.com/ru/articles/1110864/?utm_campaign=1110864&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
