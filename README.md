@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [«Ваш разговор стал слишком длинным»: как Google Antigravity неожиданно режет контекст и как Gemini это решил](https://habr.com/ru/articles/1111006/?utm_campaign=1111006&utm_source=habrahabr&utm_medium=rss)
-- [Агентская разработка в геймдеве на Unity, или Как я скормил агенту рекламу мобильной игры](https://habr.com/ru/articles/1110996/?utm_campaign=1110996&utm_source=habrahabr&utm_medium=rss)
-- [Гипотеза Римана. Часть вторая: как устроено опубликованное доказательство](https://habr.com/ru/articles/1110970/?utm_campaign=1110970&utm_source=habrahabr&utm_medium=rss)
-- [Гипотеза Римана. Часть первая: как мы её не доказали](https://habr.com/ru/articles/1110964/?utm_campaign=1110964&utm_source=habrahabr&utm_medium=rss)
-- [APT‑группировки: тайная война, которую не видно](https://habr.com/ru/articles/1110968/?utm_campaign=1110968&utm_source=habrahabr&utm_medium=rss)
+- [DeepSeek API из России: платить напрямую или через посредника? Сравнил 5 вариантов](https://habr.com/ru/articles/1111028/?utm_campaign=1111028&utm_source=habrahabr&utm_medium=rss)
+- [Проект nospeaker позволяет трекпад на MacBook издавать звуки с помощью встроенного вибропривода](https://habr.com/ru/articles/1111038/?utm_campaign=1111038&utm_source=habrahabr&utm_medium=rss)
+- [Технология NASA выявляет древние артефакты на Земле](https://habr.com/ru/companies/ruvds/articles/1109956/?utm_campaign=1109956&utm_source=habrahabr&utm_medium=rss)
+- [ИИ стал самым удобным объяснением сокращений в ИT](https://habr.com/ru/companies/diasoft_company/articles/1109930/?utm_campaign=1109930&utm_source=habrahabr&utm_medium=rss)
+- [Двухфакторная аутентификация в организации &lpar;MFA&rpar;: типичные ошибки внедрения](https://habr.com/ru/companies/orbsoft/articles/1111032/?utm_campaign=1111032&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
