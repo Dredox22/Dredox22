@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek API из России: платить напрямую или через посредника? Сравнил 5 вариантов](https://habr.com/ru/articles/1111028/?utm_campaign=1111028&utm_source=habrahabr&utm_medium=rss)
-- [Проект nospeaker позволяет трекпад на MacBook издавать звуки с помощью встроенного вибропривода](https://habr.com/ru/articles/1111038/?utm_campaign=1111038&utm_source=habrahabr&utm_medium=rss)
-- [Технология NASA выявляет древние артефакты на Земле](https://habr.com/ru/companies/ruvds/articles/1109956/?utm_campaign=1109956&utm_source=habrahabr&utm_medium=rss)
-- [ИИ стал самым удобным объяснением сокращений в ИT](https://habr.com/ru/companies/diasoft_company/articles/1109930/?utm_campaign=1109930&utm_source=habrahabr&utm_medium=rss)
-- [Двухфакторная аутентификация в организации &lpar;MFA&rpar;: типичные ошибки внедрения](https://habr.com/ru/companies/orbsoft/articles/1111032/?utm_campaign=1111032&utm_source=habrahabr&utm_medium=rss)
+- [13 субагентов против голого Codex: потратил 44 миллиона токенов, чтобы выяснить, стоит ли игра свеч](https://habr.com/ru/articles/1111482/?utm_campaign=1111482&utm_source=habrahabr&utm_medium=rss)
+- [Я сделал вечернее ток-шоу, где спорят пять нейросетей. Как устроен первый выпуск и что показала аналитика YouTube](https://habr.com/ru/articles/1111480/?utm_campaign=1111480&utm_source=habrahabr&utm_medium=rss)
+- [Obsidian для системного аналитика: требования, открытые вопросы и решения в одном хранилище](https://habr.com/ru/articles/1111478/?utm_campaign=1111478&utm_source=habrahabr&utm_medium=rss)
+- [Искусственный интеллект — это новый «цифровой» дрон](https://habr.com/ru/articles/1111466/?utm_campaign=1111466&utm_source=habrahabr&utm_medium=rss)
+- [ПЛК из микроконтроллера STM32G030 8/32](https://habr.com/ru/articles/1111460/?utm_campaign=1111460&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
