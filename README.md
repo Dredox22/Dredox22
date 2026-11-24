@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Заново освещаем русскую живопись в браузере](https://habr.com/ru/articles/1111552/?utm_campaign=1111552&utm_source=habrahabr&utm_medium=rss)
-- [Как отдавать письма клиентов во внешнюю LLM и не отдавать их персональные данные](https://habr.com/ru/articles/1111548/?utm_campaign=1111548&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск Rust Coreutils 0.13.0](https://habr.com/ru/articles/1111104/?utm_campaign=1111104&utm_source=habrahabr&utm_medium=rss)
-- [Те же галеры, вид сбоку — наем, KPI и выгорание в кибергруппировках](https://habr.com/ru/companies/ispsystem/articles/1111532/?utm_campaign=1111532&utm_source=habrahabr&utm_medium=rss)
-- [К чему нас приведёт полный контроль в руках ИИ?](https://habr.com/ru/articles/1111538/?utm_campaign=1111538&utm_source=habrahabr&utm_medium=rss)
+- [Atlantic озвучила три теории возвращения Дженсена Хуанга в Nvidia](https://habr.com/ru/articles/1111886/?utm_campaign=1111886&utm_source=habrahabr&utm_medium=rss)
+- [Можно ли создать прибыльный файлообменник с бюджетом $20 в месяц? Начинаю эксперимент](https://habr.com/ru/articles/1111880/?utm_campaign=1111880&utm_source=habrahabr&utm_medium=rss)
+- [Z.ai выпустила GLM-5.4, которая прогоняет одни и те же слои дважды. Что известно и почему пока нет бенчмарков](https://habr.com/ru/articles/1111878/?utm_campaign=1111878&utm_source=habrahabr&utm_medium=rss)
+- [Два дня, два доклада и много планов](https://habr.com/ru/companies/rtlabs/articles/1111866/?utm_campaign=1111866&utm_source=habrahabr&utm_medium=rss)
+- [Обновление системного Ruby не защищает GitLab и GitHub Enterprise Server от уязвимости Ruby2Shell](https://habr.com/ru/companies/codescoring/articles/1111870/?utm_campaign=1111870&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
