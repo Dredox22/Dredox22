@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Atlantic озвучила три теории возвращения Дженсена Хуанга в Nvidia](https://habr.com/ru/articles/1111886/?utm_campaign=1111886&utm_source=habrahabr&utm_medium=rss)
-- [Можно ли создать прибыльный файлообменник с бюджетом $20 в месяц? Начинаю эксперимент](https://habr.com/ru/articles/1111880/?utm_campaign=1111880&utm_source=habrahabr&utm_medium=rss)
-- [Z.ai выпустила GLM-5.4, которая прогоняет одни и те же слои дважды. Что известно и почему пока нет бенчмарков](https://habr.com/ru/articles/1111878/?utm_campaign=1111878&utm_source=habrahabr&utm_medium=rss)
-- [Два дня, два доклада и много планов](https://habr.com/ru/companies/rtlabs/articles/1111866/?utm_campaign=1111866&utm_source=habrahabr&utm_medium=rss)
-- [Обновление системного Ruby не защищает GitLab и GitHub Enterprise Server от уязвимости Ruby2Shell](https://habr.com/ru/companies/codescoring/articles/1111870/?utm_campaign=1111870&utm_source=habrahabr&utm_medium=rss)
+- [Прачечная AudiA6: они отмыли 10 333 BTC. Интервью с подельником специальный выпуск для habr &lpar;эксклюзив&rpar;](https://habr.com/ru/articles/1111988/?utm_campaign=1111988&utm_source=habrahabr&utm_medium=rss)
+- [Tesla P100](https://habr.com/ru/articles/1111984/?utm_campaign=1111984&utm_source=habrahabr&utm_medium=rss)
+- [Обычный пользователь macOS и его воображаемые друзья cp, mv, mkdir и diskutil](https://habr.com/ru/articles/1111978/?utm_campaign=1111978&utm_source=habrahabr&utm_medium=rss)
+- [Патентный ландшафт семантических слоев: Почему dbt, Looker и Cube не патентуют их, а Microsoft и IBM — да &lpar;2010-26&rpar;](https://habr.com/ru/articles/1111972/?utm_campaign=1111972&utm_source=habrahabr&utm_medium=rss)
+- [Приборная панель на мотоцикл BMW ч.1](https://habr.com/ru/articles/1111966/?utm_campaign=1111966&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
