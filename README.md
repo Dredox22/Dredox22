@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Бумажная безопасность против реальных атак: как совместить требования регуляторов &lpar;КИИ, ФСТЭК, оборотные штрафы&rpar;](https://habr.com/ru/articles/1111968/?utm_campaign=1111968&utm_source=habrahabr&utm_medium=rss)
-- [Гибкость без границ: Как мы отказались от «потолка» в вёрстке](https://habr.com/ru/companies/ispring/articles/1110448/?utm_campaign=1110448&utm_source=habrahabr&utm_medium=rss)
-- [Первый взгляд на PT Email Security от Positive Technologies](https://habr.com/ru/companies/innostage/articles/1112108/?utm_campaign=1112108&utm_source=habrahabr&utm_medium=rss)
-- [Релиз aish 0.4: безопасный shell и копирование вывода](https://habr.com/ru/companies/selectel/articles/1111396/?utm_campaign=1111396&utm_source=habrahabr&utm_medium=rss)
-- [Агент убил сам себя, кавычка сломала дашборд, а мы потеряли первую версию: как мы делали мигратор BI-отчетов Morphism AI](https://habr.com/ru/companies/glowbyte/articles/1112128/?utm_campaign=1112128&utm_source=habrahabr&utm_medium=rss)
+- [[Перевод] С 85 секунд до 400 мс: как мы ускорили запрос в ClickHouse более чем в 200 раз](https://habr.com/ru/companies/otus/articles/1110872/?utm_campaign=1110872&utm_source=habrahabr&utm_medium=rss)
+- [Запущен проект по коллективной расшифровке манускрипта Войнича при помощи ИИ‑агентов](https://habr.com/ru/articles/1112398/?utm_campaign=1112398&utm_source=habrahabr&utm_medium=rss)
+- [Kubernetes в двух панелях: Kubernetes Commander &lpar;kc&rpar;, разработанный с помощью ИИ](https://habr.com/ru/articles/1112392/?utm_campaign=1112392&utm_source=habrahabr&utm_medium=rss)
+- [Как использовать рейтинг брендов в ChatGPT для продвижения в Рунете и что проверять на своих запросах](https://habr.com/ru/articles/1112382/?utm_campaign=1112382&utm_source=habrahabr&utm_medium=rss)
+- [Где тестировщику начинается бэкенд: API, SQL и логи в 1 120 вакансиях QA](https://habr.com/ru/articles/1112380/?utm_campaign=1112380&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
