@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Прачечная AudiA6: они отмыли 10 333 BTC. Интервью с подельником специальный выпуск для habr &lpar;эксклюзив&rpar;](https://habr.com/ru/articles/1111988/?utm_campaign=1111988&utm_source=habrahabr&utm_medium=rss)
-- [Tesla P100](https://habr.com/ru/articles/1111984/?utm_campaign=1111984&utm_source=habrahabr&utm_medium=rss)
-- [Обычный пользователь macOS и его воображаемые друзья cp, mv, mkdir и diskutil](https://habr.com/ru/articles/1111978/?utm_campaign=1111978&utm_source=habrahabr&utm_medium=rss)
-- [Патентный ландшафт семантических слоев: Почему dbt, Looker и Cube не патентуют их, а Microsoft и IBM — да &lpar;2010-26&rpar;](https://habr.com/ru/articles/1111972/?utm_campaign=1111972&utm_source=habrahabr&utm_medium=rss)
-- [Приборная панель на мотоцикл BMW ч.1](https://habr.com/ru/articles/1111966/?utm_campaign=1111966&utm_source=habrahabr&utm_medium=rss)
+- [Бумажная безопасность против реальных атак: как совместить требования регуляторов &lpar;КИИ, ФСТЭК, оборотные штрафы&rpar;](https://habr.com/ru/articles/1111968/?utm_campaign=1111968&utm_source=habrahabr&utm_medium=rss)
+- [Гибкость без границ: Как мы отказались от «потолка» в вёрстке](https://habr.com/ru/companies/ispring/articles/1110448/?utm_campaign=1110448&utm_source=habrahabr&utm_medium=rss)
+- [Первый взгляд на PT Email Security от Positive Technologies](https://habr.com/ru/companies/innostage/articles/1112108/?utm_campaign=1112108&utm_source=habrahabr&utm_medium=rss)
+- [Релиз aish 0.4: безопасный shell и копирование вывода](https://habr.com/ru/companies/selectel/articles/1111396/?utm_campaign=1111396&utm_source=habrahabr&utm_medium=rss)
+- [Агент убил сам себя, кавычка сломала дашборд, а мы потеряли первую версию: как мы делали мигратор BI-отчетов Morphism AI](https://habr.com/ru/companies/glowbyte/articles/1112128/?utm_campaign=1112128&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
