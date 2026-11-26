@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [[Перевод] С 85 секунд до 400 мс: как мы ускорили запрос в ClickHouse более чем в 200 раз](https://habr.com/ru/companies/otus/articles/1110872/?utm_campaign=1110872&utm_source=habrahabr&utm_medium=rss)
-- [Запущен проект по коллективной расшифровке манускрипта Войнича при помощи ИИ‑агентов](https://habr.com/ru/articles/1112398/?utm_campaign=1112398&utm_source=habrahabr&utm_medium=rss)
-- [Kubernetes в двух панелях: Kubernetes Commander &lpar;kc&rpar;, разработанный с помощью ИИ](https://habr.com/ru/articles/1112392/?utm_campaign=1112392&utm_source=habrahabr&utm_medium=rss)
-- [Как использовать рейтинг брендов в ChatGPT для продвижения в Рунете и что проверять на своих запросах](https://habr.com/ru/articles/1112382/?utm_campaign=1112382&utm_source=habrahabr&utm_medium=rss)
-- [Где тестировщику начинается бэкенд: API, SQL и логи в 1 120 вакансиях QA](https://habr.com/ru/articles/1112380/?utm_campaign=1112380&utm_source=habrahabr&utm_medium=rss)
+- [Nightmare Spire: Как я разрабатываю текстовую MMORPG в Telegram](https://habr.com/ru/articles/1112490/?utm_campaign=1112490&utm_source=habrahabr&utm_medium=rss)
+- [Cisco и OpenAI представили Shirudo — платформу для обеспечения безопасности Linux на базе eBPF](https://habr.com/ru/articles/1112166/?utm_campaign=1112166&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление открытого проекта LocalSend 1.19 для обмена файлами на любых устройствах по локальной сети](https://habr.com/ru/articles/1112218/?utm_campaign=1112218&utm_source=habrahabr&utm_medium=rss)
+- [Бесплатный AI-агент из обычного браузерного чата: как я устал от счетов за токены и правок, ломающих проект](https://habr.com/ru/articles/1112488/?utm_campaign=1112488&utm_source=habrahabr&utm_medium=rss)
+- [По документам труба бесшовная: с чего начинать оценку безопасности старого трубопровода](https://habr.com/ru/articles/1112486/?utm_campaign=1112486&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
