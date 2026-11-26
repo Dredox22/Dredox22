@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Nightmare Spire: Как я разрабатываю текстовую MMORPG в Telegram](https://habr.com/ru/articles/1112490/?utm_campaign=1112490&utm_source=habrahabr&utm_medium=rss)
-- [Cisco и OpenAI представили Shirudo — платформу для обеспечения безопасности Linux на базе eBPF](https://habr.com/ru/articles/1112166/?utm_campaign=1112166&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление открытого проекта LocalSend 1.19 для обмена файлами на любых устройствах по локальной сети](https://habr.com/ru/articles/1112218/?utm_campaign=1112218&utm_source=habrahabr&utm_medium=rss)
-- [Бесплатный AI-агент из обычного браузерного чата: как я устал от счетов за токены и правок, ломающих проект](https://habr.com/ru/articles/1112488/?utm_campaign=1112488&utm_source=habrahabr&utm_medium=rss)
-- [По документам труба бесшовная: с чего начинать оценку безопасности старого трубопровода](https://habr.com/ru/articles/1112486/?utm_campaign=1112486&utm_source=habrahabr&utm_medium=rss)
+- [Так ли неуязвим Mac: встроенная защита и реальные угрозы](https://habr.com/ru/companies/ringo_mdm/articles/1112352/?utm_campaign=1112352&utm_source=habrahabr&utm_medium=rss)
+- [+40% к скорости Inkling 2 Mini на RTX PRO 6000](https://habr.com/ru/articles/1112682/?utm_campaign=1112682&utm_source=habrahabr&utm_medium=rss)
+- [Датчик уровня септика на ESP32 и 2 патента на него](https://habr.com/ru/articles/1110624/?utm_campaign=1110624&utm_source=habrahabr&utm_medium=rss)
+- [Anthropic забанила в Claude главу Epic Games Тима Суини](https://habr.com/ru/articles/1112660/?utm_campaign=1112660&utm_source=habrahabr&utm_medium=rss)
+- [Путь баланса и компромиссов в DCIM](https://habr.com/ru/companies/rwb/articles/1111362/?utm_campaign=1111362&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
