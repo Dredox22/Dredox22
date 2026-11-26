@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Так ли неуязвим Mac: встроенная защита и реальные угрозы](https://habr.com/ru/companies/ringo_mdm/articles/1112352/?utm_campaign=1112352&utm_source=habrahabr&utm_medium=rss)
-- [+40% к скорости Inkling 2 Mini на RTX PRO 6000](https://habr.com/ru/articles/1112682/?utm_campaign=1112682&utm_source=habrahabr&utm_medium=rss)
-- [Датчик уровня септика на ESP32 и 2 патента на него](https://habr.com/ru/articles/1110624/?utm_campaign=1110624&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic забанила в Claude главу Epic Games Тима Суини](https://habr.com/ru/articles/1112660/?utm_campaign=1112660&utm_source=habrahabr&utm_medium=rss)
-- [Путь баланса и компромиссов в DCIM](https://habr.com/ru/companies/rwb/articles/1111362/?utm_campaign=1111362&utm_source=habrahabr&utm_medium=rss)
+- [Как Galaxy S9+ с разбитым экраном стал LTE-роутером на Debian](https://habr.com/ru/articles/1112860/?utm_campaign=1112860&utm_source=habrahabr&utm_medium=rss)
+- [У меня 11 дашбордов для контроля моих 7К+ сессий в Claude](https://habr.com/ru/articles/1112848/?utm_campaign=1112848&utm_source=habrahabr&utm_medium=rss)
+- [«Зомби-UI»: почему крупные бренды начали выпускать интерфейсы, которые стыдно показывать](https://habr.com/ru/articles/1112820/?utm_campaign=1112820&utm_source=habrahabr&utm_medium=rss)
+- [Чек-лист лаовая в Китае в 2026: роуминг, eSIM, VPN, банкинг, повседневные сервисы](https://habr.com/ru/articles/1111464/?utm_campaign=1111464&utm_source=habrahabr&utm_medium=rss)
+- [Как найти источник долгого вызова в Java 25 с помощью JFR](https://habr.com/ru/companies/otus/articles/1101912/?utm_campaign=1101912&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
