@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Как Galaxy S9+ с разбитым экраном стал LTE-роутером на Debian](https://habr.com/ru/articles/1112860/?utm_campaign=1112860&utm_source=habrahabr&utm_medium=rss)
-- [У меня 11 дашбордов для контроля моих 7К+ сессий в Claude](https://habr.com/ru/articles/1112848/?utm_campaign=1112848&utm_source=habrahabr&utm_medium=rss)
-- [«Зомби-UI»: почему крупные бренды начали выпускать интерфейсы, которые стыдно показывать](https://habr.com/ru/articles/1112820/?utm_campaign=1112820&utm_source=habrahabr&utm_medium=rss)
-- [Чек-лист лаовая в Китае в 2026: роуминг, eSIM, VPN, банкинг, повседневные сервисы](https://habr.com/ru/articles/1111464/?utm_campaign=1111464&utm_source=habrahabr&utm_medium=rss)
-- [Как найти источник долгого вызова в Java 25 с помощью JFR](https://habr.com/ru/companies/otus/articles/1101912/?utm_campaign=1101912&utm_source=habrahabr&utm_medium=rss)
+- [Про варисторную защиту](https://habr.com/ru/articles/1112822/?utm_campaign=1112822&utm_source=habrahabr&utm_medium=rss)
+- [Невидимый U+2062, Account Frozen после предупреждения и бот под CoinW: разбираем Telegram-скам по result.json](https://habr.com/ru/articles/1112924/?utm_campaign=1112924&utm_source=habrahabr&utm_medium=rss)
+- [Представлен открытый проект RustPlay — бесплатный аналог AirParrot для трансляции экрана через AirPlay](https://habr.com/ru/articles/1112544/?utm_campaign=1112544&utm_source=habrahabr&utm_medium=rss)
+- [SELECT FOR UPDATE в PostgreSQL: режимы блокировок и подводные камни с примерами на Go](https://habr.com/ru/articles/1112922/?utm_campaign=1112922&utm_source=habrahabr&utm_medium=rss)
+- [Выпуск открытого проекта Segra 2.0.0 для записи игр на ПК с Windows](https://habr.com/ru/articles/1112526/?utm_campaign=1112526&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
