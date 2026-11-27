@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Журнал для bash‑скрипта: один файл вместо echo &gt;&gt; log — и почему это сложнее, чем кажется](https://habr.com/ru/articles/1113192/?utm_campaign=1113192&utm_source=habrahabr&utm_medium=rss)
-- [Подземные дата-центры: как устроены ЦОДы в бункерах и шахтах](https://habr.com/ru/companies/ruvds/articles/1112764/?utm_campaign=1112764&utm_source=habrahabr&utm_medium=rss)
-- [24 открытых Django-проекта против моего статического парсера: код, которого нет в туториалах](https://habr.com/ru/articles/1113182/?utm_campaign=1113182&utm_source=habrahabr&utm_medium=rss)
-- [Избавление от шума на MacBook m5 pro](https://habr.com/ru/articles/1113180/?utm_campaign=1113180&utm_source=habrahabr&utm_medium=rss)
-- [Из чего на самом деле складывается HWID в Windows 10/11: от MachineGuid и VSN до SMBIOS и TPM 2.0](https://habr.com/ru/articles/1113178/?utm_campaign=1113178&utm_source=habrahabr&utm_medium=rss)
+- [KeenProxy 0.11.0: как мы сломали обновления, починили память и добрались до RouterOS](https://habr.com/ru/articles/1113442/?utm_campaign=1113442&utm_source=habrahabr&utm_medium=rss)
+- [Ну почему ты никак не хочешь себя кодить?](https://habr.com/ru/articles/1113444/?utm_campaign=1113444&utm_source=habrahabr&utm_medium=rss)
+- [DoS ноды или настройки K8s которые вы могли пропустить](https://habr.com/ru/articles/1113438/?utm_campaign=1113438&utm_source=habrahabr&utm_medium=rss)
+- [Запускаем UNO R4 &lpar;Cortex M4&rpar; с моделью](https://habr.com/ru/articles/1113432/?utm_campaign=1113432&utm_source=habrahabr&utm_medium=rss)
+- [Вайбкодинг для дизайнеров: разрешить нельзя запретить](https://habr.com/ru/articles/1113430/?utm_campaign=1113430&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
