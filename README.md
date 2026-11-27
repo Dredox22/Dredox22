@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [Про варисторную защиту](https://habr.com/ru/articles/1112822/?utm_campaign=1112822&utm_source=habrahabr&utm_medium=rss)
-- [Невидимый U+2062, Account Frozen после предупреждения и бот под CoinW: разбираем Telegram-скам по result.json](https://habr.com/ru/articles/1112924/?utm_campaign=1112924&utm_source=habrahabr&utm_medium=rss)
-- [Представлен открытый проект RustPlay — бесплатный аналог AirParrot для трансляции экрана через AirPlay](https://habr.com/ru/articles/1112544/?utm_campaign=1112544&utm_source=habrahabr&utm_medium=rss)
-- [SELECT FOR UPDATE в PostgreSQL: режимы блокировок и подводные камни с примерами на Go](https://habr.com/ru/articles/1112922/?utm_campaign=1112922&utm_source=habrahabr&utm_medium=rss)
-- [Выпуск открытого проекта Segra 2.0.0 для записи игр на ПК с Windows](https://habr.com/ru/articles/1112526/?utm_campaign=1112526&utm_source=habrahabr&utm_medium=rss)
+- [Журнал для bash‑скрипта: один файл вместо echo &gt;&gt; log — и почему это сложнее, чем кажется](https://habr.com/ru/articles/1113192/?utm_campaign=1113192&utm_source=habrahabr&utm_medium=rss)
+- [Подземные дата-центры: как устроены ЦОДы в бункерах и шахтах](https://habr.com/ru/companies/ruvds/articles/1112764/?utm_campaign=1112764&utm_source=habrahabr&utm_medium=rss)
+- [24 открытых Django-проекта против моего статического парсера: код, которого нет в туториалах](https://habr.com/ru/articles/1113182/?utm_campaign=1113182&utm_source=habrahabr&utm_medium=rss)
+- [Избавление от шума на MacBook m5 pro](https://habr.com/ru/articles/1113180/?utm_campaign=1113180&utm_source=habrahabr&utm_medium=rss)
+- [Из чего на самом деле складывается HWID в Windows 10/11: от MachineGuid и VSN до SMBIOS и TPM 2.0](https://habr.com/ru/articles/1113178/?utm_campaign=1113178&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
