@@ -85,11 +85,11 @@
 <h4 align="center"> :newspaper: Habr news :</h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [KeenProxy 0.11.0: как мы сломали обновления, починили память и добрались до RouterOS](https://habr.com/ru/articles/1113442/?utm_campaign=1113442&utm_source=habrahabr&utm_medium=rss)
-- [Ну почему ты никак не хочешь себя кодить?](https://habr.com/ru/articles/1113444/?utm_campaign=1113444&utm_source=habrahabr&utm_medium=rss)
-- [DoS ноды или настройки K8s которые вы могли пропустить](https://habr.com/ru/articles/1113438/?utm_campaign=1113438&utm_source=habrahabr&utm_medium=rss)
-- [Запускаем UNO R4 &lpar;Cortex M4&rpar; с моделью](https://habr.com/ru/articles/1113432/?utm_campaign=1113432&utm_source=habrahabr&utm_medium=rss)
-- [Вайбкодинг для дизайнеров: разрешить нельзя запретить](https://habr.com/ru/articles/1113430/?utm_campaign=1113430&utm_source=habrahabr&utm_medium=rss)
+- [В команде Ubuntu анонсировали приложение Ubuntu Launcher с возможностью ИИ-ассистента](https://habr.com/ru/articles/1112986/?utm_campaign=1112986&utm_source=habrahabr&utm_medium=rss)
+- [CYS: маленький магазин на собственном движке](https://habr.com/ru/articles/1113462/?utm_campaign=1113462&utm_source=habrahabr&utm_medium=rss)
+- [Релиз открытого проекта CompressO 4.3.0 для сжатия видео на базе движка FFmpeg](https://habr.com/ru/articles/1113390/?utm_campaign=1113390&utm_source=habrahabr&utm_medium=rss)
+- [Mintland — анимированные обои для Linux Mint Cinnamon](https://habr.com/ru/articles/1113454/?utm_campaign=1113454&utm_source=habrahabr&utm_medium=rss)
+- [KeenProxy 0.11.0: как мы сломали обновления, починили память и добрались до RouterOS](https://habr.com/ru/articles/1113442/?utm_campaign=1113442&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
